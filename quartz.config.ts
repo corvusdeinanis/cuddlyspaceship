@@ -6,10 +6,7 @@ const generalConfiguration: GlobalConfiguration = {
   pageTitle: "🪴 Quartz 4.0",
   enableSPA: true,
   enablePopovers: true,
-  analytics: {
-    provider: "plausible",
-  },
-  baseUrl: "quartz.jzhao.xyz",
+  baseUrl: "https://corvusdeinanis.github.io/cuddlyspaceship",
   ignorePatterns: ["private", "templates"],
   theme: {
     typography: {
