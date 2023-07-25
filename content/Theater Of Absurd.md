@@ -27,3 +27,6 @@ Crisis and Cruelty of humanity
 Dissimilation of society
 Meaninglessness of the existence of humankind
 Isolation among people
+
+---
+[[absurdism]]

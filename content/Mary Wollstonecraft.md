@@ -19,7 +19,7 @@ Years:: (27 April 1759 - 10 September 1797)
 - Mother of [[Mary Shelley]], author of Frankenstein
 
 ## Works 
-Works:: *'The [[private/inbox/tab-inbox/Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thoughts on Education of Daughter'*
+Works:: *'The [[Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thoughts on Education of Daughter'*
 
 KnownFor:: being the first "feminist", advocation of women rights, pushing for women education
 

@@ -12,7 +12,7 @@ strong emotional bond between two people
 
 During child's development
 
-[[Freud]] - said only oral is important
+[[Sigmund Freud]] - said only oral is important
 
 [[private/inbox/unprocessed/Harlows Contact Comfort]] - experiment 
 

@@ -9,4 +9,4 @@ tags: ['psychology','lifespan']
 ## Identity Moratorium
 ## Identity Achievement
 
-based on [[Erik Erikson's Psychosocial Stages]] 
+based on [[Theories of Human Development#Erikson's **Psychosocial** Theory|Erikson's Psychosocial Theory]] 

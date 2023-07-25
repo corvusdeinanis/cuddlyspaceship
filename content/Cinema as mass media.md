@@ -29,6 +29,6 @@ Truffaut, Goddard
 
 ## Soviet Montage
 emphasis on editing 
-Kuleshov effect
+[[Kuleshov effect]]
 
 

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 title: "A Room of One's Own by Virginia Woolf"
-tags: ['english','essay','feminism']
+tags: ['english','essay','feminism','social']
 date: '2022-12-01'
 ---
 # A Room of Ones Own 

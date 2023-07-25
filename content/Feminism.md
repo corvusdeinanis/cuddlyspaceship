@@ -1,7 +1,7 @@
 ---
 title: "Feminism"
 date: 2023-07-06
-tags: ['social']
+tags: ['social','feminism','gender','queer']
 ---
 # Feminism
 
