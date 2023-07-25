@@ -2,7 +2,7 @@
 title: "Index"
 ---
 
-![astrodex](img/astrodex.png)
+![astrodex](images/astrodex.png)
 
   
 # Welcome to Astro's Garden! 🌱
