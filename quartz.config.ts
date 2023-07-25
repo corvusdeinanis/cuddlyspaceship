@@ -3,10 +3,10 @@ import * as Component from "./quartz/components"
 import * as Plugin from "./quartz/plugins"
 
 const generalConfiguration: GlobalConfiguration = {
-  pageTitle: "🪴 Quartz 4.0",
+  pageTitle: "astro's garden",
   enableSPA: true,
   enablePopovers: true,
-  baseUrl: "https://corvusdeinanis.github.io/cuddlyspaceship",
+  baseUrl: "https://cuddlyspaceship.netlify.app",
   ignorePatterns: ["private", "templates"],
   theme: {
     typography: {
@@ -26,7 +26,7 @@ const generalConfiguration: GlobalConfiguration = {
         highlight: "rgba(143, 159, 169, 0.15)",
       },
       darkMode: {
-        light: "#161618",
+        light: "#09090b",
         lightgray: "#393639",
         gray: "#646464",
         darkgray: "#d4d4d4",
@@ -44,9 +44,8 @@ const sharedPageComponents = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+      GitHub: "https://github.com/corvusdeinanis/cuddlyspaceship",
+      },
   }),
 }
 
@@ -86,7 +85,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Latex({ renderEngine: "katex" }),
+      //Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
