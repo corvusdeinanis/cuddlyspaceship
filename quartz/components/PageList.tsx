@@ -20,11 +20,20 @@ function byDateAndAlphabetical(f1: QuartzPluginData, f2: QuartzPluginData): numb
   return f1Title.localeCompare(f2Title)
 }
 
-export function PageList({ fileData, allFiles }: QuartzComponentProps) {
+type Props = {
+  limit?: number
+} & QuartzComponentProps
+
+export function PageList({ fileData, allFiles, limit }: Props) {
   const slug = canonicalizeServer(fileData.slug!)
+  let list = allFiles.sort(byDateAndAlphabetical)
+  if (limit) {
+    list = list.slice(0, limit)
+  }
+
   return (
     <ul class="section-ul">
-      {allFiles.sort(byDateAndAlphabetical).map((page) => {
+      {list.map((page) => {
         const title = page.frontmatter?.title
         const pageSlug = canonicalizeServer(page.slug!)
         const tags = page.frontmatter?.tags ?? []
@@ -48,7 +57,7 @@ export function PageList({ fileData, allFiles }: QuartzComponentProps) {
                 {tags.map((tag) => (
                   <li>
                     <a
-                      class="internal"
+                      class="internal tag-link"
                       href={resolveRelative(slug, `tags/${tag}` as CanonicalSlug)}
                     >
                       #{tag}
@@ -66,6 +75,10 @@ export function PageList({ fileData, allFiles }: QuartzComponentProps) {
 
 PageList.css = `
 .section h3 {
+  margin: 0;
+}
+
+.section > .tags {
   margin: 0;
 }
 `

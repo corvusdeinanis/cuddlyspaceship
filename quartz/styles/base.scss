@@ -1,6 +1,6 @@
+@use "./custom.scss";
 @use "./syntax.scss";
 @use "./callouts.scss";
-@use "./custom.scss";
 @use "./variables.scss" as *;
 
 html {
@@ -36,6 +36,8 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .math {
@@ -82,10 +84,6 @@ a {
     margin: 0 5vw;
   }
 
-  & p {
-    overflow-wrap: anywhere;
-  }
-
   & article {
     & > h1 {
       font-size: 2rem;
@@ -94,11 +92,17 @@ a {
     & li:has(> input[type="checkbox"]) {
       list-style-type: none;
       padding-left: 0;
-      margin-left: -1.4rem;
+    }
+
+    & li:has(> input[type="checkbox"]:checked) {
+      text-decoration: line-through;
+      text-decoration-color: var(--gray);
+      color: var(--gray);
     }
 
     & li > * {
-      margin: 0;
+      margin-top: 0;
+      margin-bottom: 0;
     }
   }
 
@@ -177,8 +181,35 @@ a {
 input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary);
-  border-color: var(--lightgray);
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
   background-color: var(--light);
+  position: relative;
+  margin-inline-end: 0.2rem;
+  margin-inline-start: -1.4rem;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+
+  &:checked {
+    border-color: var(--secondary);
+    background-color: var(--secondary);
+
+    &::after {
+      content: "";
+      top: -1px;
+      left: -1px;
+      position: absolute;
+      left: 4px;
+      top: 1px;
+      width: 4px;
+      height: 8px;
+      display: block;
+      border: solid 1px var(--light);
+      border-width: 0 2px 2px 0;
+      transform: rotate(45deg);
+    }
+  }
 }
 
 blockquote {
@@ -237,14 +268,12 @@ h1 {
 
 h2 {
   font-size: 1.4rem;
-  opacity: 0.95;
   margin-top: 2.4rem;
 }
 
 h3 {
   font-size: 1.12rem;
   margin-top: 2.12rem;
-  opacity: 0.9;
 }
 
 h4,
@@ -252,7 +281,6 @@ h5,
 h6 {
   font-size: 1rem;
   margin-top: 2rem;
-  opacity: 0.85;
 }
 
 div[data-rehype-pretty-code-fragment] {

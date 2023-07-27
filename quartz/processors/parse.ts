@@ -7,22 +7,24 @@ import { Root as HTMLRoot } from "hast"
 import { ProcessedContent } from "../plugins/vfile"
 import { PerfTimer } from "../perf"
 import { read } from "to-vfile"
-import { FilePath, QUARTZ, ServerSlug, slugifyFilePath } from "../path"
+import { FilePath, QUARTZ, slugifyFilePath } from "../path"
 import path from "path"
 import os from "os"
 import workerpool, { Promise as WorkerPromise } from "workerpool"
-import { QuartzTransformerPluginInstance } from "../plugins/types"
 import { QuartzLogger } from "../log"
 import { trace } from "../trace"
+import { BuildCtx } from "../ctx"
 
 export type QuartzProcessor = Processor<MDRoot, HTMLRoot, void>
-export function createProcessor(transformers: QuartzTransformerPluginInstance[]): QuartzProcessor {
+export function createProcessor(ctx: BuildCtx): QuartzProcessor {
+  const transformers = ctx.cfg.plugins.transformers
+
   // base Markdown -> MD AST
   let processor = unified().use(remarkParse)
 
   // MD AST -> MD AST transforms
   for (const plugin of transformers.filter((p) => p.markdownPlugins)) {
-    processor = processor.use(plugin.markdownPlugins!())
+    processor = processor.use(plugin.markdownPlugins!(ctx))
   }
 
   // MD AST -> HTML AST
@@ -30,7 +32,7 @@ export function createProcessor(transformers: QuartzTransformerPluginInstance[])
 
   // HTML AST -> HTML AST transforms
   for (const plugin of transformers.filter((p) => p.htmlPlugins)) {
-    processor = processor.use(plugin.htmlPlugins!())
+    processor = processor.use(plugin.htmlPlugins!(ctx))
   }
 
   return processor
@@ -72,13 +74,8 @@ async function transpileWorkerScript() {
   })
 }
 
-export function createFileParser(
-  transformers: QuartzTransformerPluginInstance[],
-  baseDir: string,
-  fps: FilePath[],
-  allSlugs: ServerSlug[],
-  verbose: boolean,
-) {
+export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
+  const { argv, cfg } = ctx
   return async (processor: QuartzProcessor) => {
     const res: ProcessedContent[] = []
     for (const fp of fps) {
@@ -89,25 +86,24 @@ export function createFileParser(
         file.value = file.value.toString().trim()
 
         // Text -> Text transforms
-        for (const plugin of transformers.filter((p) => p.textTransform)) {
-          file.value = plugin.textTransform!(file.value)
+        for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
+          file.value = plugin.textTransform!(ctx, file.value)
         }
 
         // base data properties that plugins may use
-        file.data.slug = slugifyFilePath(path.relative(baseDir, file.path) as FilePath)
-        file.data.allSlugs = allSlugs
+        file.data.slug = slugifyFilePath(path.relative(argv.directory, file.path) as FilePath)
         file.data.filePath = fp
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)
         res.push([newAst, file])
 
-        if (verbose) {
+        if (argv.verbose) {
           console.log(`[process] ${fp} -> ${file.data.slug}`)
         }
       } catch (err) {
         trace(`\nFailed to process \`${fp}\``, err as Error)
-        process.exit(1)
+        throw err
       }
     }
 
@@ -115,29 +111,25 @@ export function createFileParser(
   }
 }
 
-export async function parseMarkdown(
-  transformers: QuartzTransformerPluginInstance[],
-  baseDir: string,
-  fps: FilePath[],
-  verbose: boolean,
-): Promise<ProcessedContent[]> {
+export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<ProcessedContent[]> {
+  const { argv } = ctx
   const perf = new PerfTimer()
-  const log = new QuartzLogger(verbose)
+  const log = new QuartzLogger(argv.verbose)
 
   const CHUNK_SIZE = 128
   let concurrency = fps.length < CHUNK_SIZE ? 1 : os.availableParallelism()
 
-  // get all slugs ahead of time as each thread needs a copy
-  const allSlugs = fps.map((fp) =>
-    slugifyFilePath(path.relative(baseDir, path.resolve(fp)) as FilePath),
-  )
-
   let res: ProcessedContent[] = []
   log.start(`Parsing input files using ${concurrency} threads`)
   if (concurrency === 1) {
-    const processor = createProcessor(transformers)
-    const parse = createFileParser(transformers, baseDir, fps, allSlugs, verbose)
-    res = await parse(processor)
+    try {
+      const processor = createProcessor(ctx)
+      const parse = createFileParser(ctx, fps)
+      res = await parse(processor)
+    } catch (error) {
+      log.end()
+      throw error
+    }
   } else {
     await transpileWorkerScript()
     const pool = workerpool.pool("./quartz/bootstrap-worker.mjs", {
@@ -148,7 +140,7 @@ export async function parseMarkdown(
 
     const childPromises: WorkerPromise<ProcessedContent[]>[] = []
     for (const chunk of chunks(fps, CHUNK_SIZE)) {
-      childPromises.push(pool.exec("parseFiles", [baseDir, chunk, allSlugs, verbose]))
+      childPromises.push(pool.exec("parseFiles", [argv, chunk, ctx.allSlugs]))
     }
 
     const results: ProcessedContent[][] = await WorkerPromise.all(childPromises)
@@ -156,6 +148,6 @@ export async function parseMarkdown(
     await pool.terminate()
   }
 
-  log.success(`Parsed ${res.length} Markdown files in ${perf.timeSince()}`)
+  log.end(`Parsed ${res.length} Markdown files in ${perf.timeSince()}`)
   return res
 }

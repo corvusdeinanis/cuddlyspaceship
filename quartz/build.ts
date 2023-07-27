@@ -10,20 +10,19 @@ import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
 import cfg from "../quartz.config"
-import { FilePath } from "./path"
+import { FilePath, slugifyFilePath } from "./path"
 import chokidar from "chokidar"
 import { ProcessedContent } from "./plugins/vfile"
 import WebSocket, { WebSocketServer } from "ws"
+import { Argv, BuildCtx } from "./ctx"
 
-interface Argv {
-  directory: string
-  verbose: boolean
-  output: string
-  serve: boolean
-  port: number
-}
+async function buildQuartz(argv: Argv, version: string) {
+  const ctx: BuildCtx = {
+    argv,
+    cfg,
+    allSlugs: [],
+  }
 
-export default async function buildQuartz(argv: Argv, version: string) {
   console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
   const perf = new PerfTimer()
   const output = argv.output
@@ -38,12 +37,10 @@ export default async function buildQuartz(argv: Argv, version: string) {
     console.log(`  Emitters: ${pluginNames("emitters").join(", ")}`)
   }
 
-  // clean
   perf.addEvent("clean")
   await rimraf(output)
   console.log(`Cleaned output directory \`${output}\` in ${perf.timeSince("clean")}`)
 
-  // glob
   perf.addEvent("glob")
   const fps = await globby("**/*.md", {
     cwd: argv.directory,
@@ -55,81 +52,117 @@ export default async function buildQuartz(argv: Argv, version: string) {
   )
 
   const filePaths = fps.map((fp) => `${argv.directory}${path.sep}${fp}` as FilePath)
-  const parsedFiles = await parseMarkdown(
-    cfg.plugins.transformers,
-    argv.directory,
-    filePaths,
-    argv.verbose,
-  )
-  const filteredContent = filterContent(cfg.plugins.filters, parsedFiles, argv.verbose)
-  await emitContent(argv.directory, output, cfg, filteredContent, argv.serve, argv.verbose)
+  ctx.allSlugs = fps.map((fp) => slugifyFilePath(fp as FilePath))
+
+  const parsedFiles = await parseMarkdown(ctx, filePaths)
+  const filteredContent = filterContent(ctx, parsedFiles)
+  await emitContent(ctx, filteredContent)
   console.log(chalk.green(`Done processing ${fps.length} files in ${perf.timeSince()}`))
 
   if (argv.serve) {
-    const wss = new WebSocketServer({ port: 3001 })
-    const connections: WebSocket[] = []
-    wss.on("connection", (ws) => connections.push(ws))
+    await startServing(ctx, parsedFiles)
+  }
+}
 
-    const ignored = await isGitIgnored()
-    const contentMap = new Map<FilePath, ProcessedContent>()
-    for (const content of parsedFiles) {
-      const [_tree, vfile] = content
-      contentMap.set(vfile.data.filePath!, content)
-    }
+async function startServing(ctx: BuildCtx, initialContent: ProcessedContent[]) {
+  const { argv } = ctx
+  const wss = new WebSocketServer({ port: 3001 })
+  const connections: WebSocket[] = []
+  wss.on("connection", (ws) => connections.push(ws))
 
-    async function rebuild(fp: string, action: "add" | "change" | "unlink") {
-      perf.addEvent("rebuild")
-      if (!ignored(fp)) {
-        console.log(chalk.yellow(`Detected change in ${fp}, rebuilding...`))
-        const fullPath = `${argv.directory}${path.sep}${fp}` as FilePath
-        if (action === "add" || action === "change") {
-          const [parsedContent] = await parseMarkdown(
-            cfg.plugins.transformers,
-            argv.directory,
-            [fullPath],
-            argv.verbose,
-          )
-          contentMap.set(fullPath, parsedContent)
-        } else if (action === "unlink") {
-          contentMap.delete(fullPath)
-        }
+  const ignored = await isGitIgnored()
+  const contentMap = new Map<FilePath, ProcessedContent>()
+  for (const content of initialContent) {
+    const [_tree, vfile] = content
+    contentMap.set(vfile.data.filePath!, content)
+  }
 
-        await rimraf(output)
-        const parsedFiles = [...contentMap.values()]
-        const filteredContent = filterContent(cfg.plugins.filters, parsedFiles, argv.verbose)
-        await emitContent(argv.directory, output, cfg, filteredContent, argv.serve, argv.verbose)
-        console.log(chalk.green(`Done rebuilding in ${perf.timeSince("rebuild")}`))
-        connections.forEach((conn) => conn.send("rebuild"))
+  let timeoutId: ReturnType<typeof setTimeout> | null = null
+  let toRebuild: Set<FilePath> = new Set()
+  let toRemove: Set<FilePath> = new Set()
+  async function rebuild(fp: string, action: "add" | "change" | "delete") {
+    if (!ignored(fp)) {
+      const filePath = `${argv.directory}${path.sep}${fp}` as FilePath
+      if (action === "add" || action === "change") {
+        toRebuild.add(filePath)
+      } else if (action === "delete") {
+        toRemove.add(filePath)
       }
+
+      if (timeoutId) {
+        clearTimeout(timeoutId)
+      }
+
+      timeoutId = setTimeout(async () => {
+        const perf = new PerfTimer()
+        console.log(chalk.yellow("Detected change, rebuilding..."))
+        try {
+          const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
+
+          ctx.allSlugs = [...new Set([...contentMap.keys(), ...toRebuild])]
+            .filter((fp) => !toRemove.has(fp))
+            .map((fp) => slugifyFilePath(path.relative(argv.directory, fp) as FilePath))
+
+          const parsedContent = await parseMarkdown(ctx, filesToRebuild)
+          for (const content of parsedContent) {
+            const [_tree, vfile] = content
+            contentMap.set(vfile.data.filePath!, content)
+          }
+
+          for (const fp of toRemove) {
+            contentMap.delete(fp)
+          }
+
+          await rimraf(argv.output)
+          const parsedFiles = [...contentMap.values()]
+          const filteredContent = filterContent(ctx, parsedFiles)
+          await emitContent(ctx, filteredContent)
+          console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
+        } catch {
+          console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
+        }
+        connections.forEach((conn) => conn.send("rebuild"))
+        toRebuild.clear()
+        toRemove.clear()
+      }, 250)
     }
+  }
 
-    const watcher = chokidar.watch(".", {
-      persistent: true,
-      cwd: argv.directory,
-      ignoreInitial: true,
+  const watcher = chokidar.watch(".", {
+    persistent: true,
+    cwd: argv.directory,
+    ignoreInitial: true,
+  })
+
+  watcher
+    .on("add", (fp) => rebuild(fp, "add"))
+    .on("change", (fp) => rebuild(fp, "change"))
+    .on("unlink", (fp) => rebuild(fp, "delete"))
+
+  const server = http.createServer(async (req, res) => {
+    await serveHandler(req, res, {
+      public: argv.output,
+      directoryListing: false,
     })
+    const status = res.statusCode
+    const statusString =
+      status >= 200 && status < 300
+        ? chalk.green(`[${status}]`)
+        : status >= 300 && status < 400
+        ? chalk.yellow(`[${status}]`)
+        : chalk.red(`[${status}]`)
+    console.log(statusString + chalk.grey(` ${req.url}`))
+  })
+  server.listen(argv.port)
+  console.log(chalk.cyan(`Started a Quartz server listening at http://localhost:${argv.port}`))
+  console.log("hint: exit with ctrl+c")
+}
 
-    watcher
-      .on("add", (fp) => rebuild(fp, "add"))
-      .on("change", (fp) => rebuild(fp, "change"))
-      .on("unlink", (fp) => rebuild(fp, "unlink"))
-
-    const server = http.createServer(async (req, res) => {
-      await serveHandler(req, res, {
-        public: output,
-        directoryListing: false,
-      })
-      const status = res.statusCode
-      const statusString =
-        status >= 200 && status < 300
-          ? chalk.green(`[${status}]`)
-          : status >= 300 && status < 400
-          ? chalk.yellow(`[${status}]`)
-          : chalk.red(`[${status}]`)
-      console.log(statusString + chalk.grey(` ${req.url}`))
-    })
-    server.listen(argv.port)
-    console.log(chalk.cyan(`Started a Quartz server listening at http://localhost:${argv.port}`))
-    console.log("hint: exit with ctrl+c")
+export default async (argv: Argv, version: string) => {
+  try {
+    await buildQuartz(argv, version)
+  } catch {
+    console.log(chalk.red("\nExiting Quartz due to a fatal error"))
+    process.exit(1)
   }
 }

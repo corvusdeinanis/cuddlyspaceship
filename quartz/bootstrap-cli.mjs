@@ -11,6 +11,7 @@ import { intro, isCancel, outro, select, text } from "@clack/prompts"
 import { rimraf } from "rimraf"
 import prettyBytes from "pretty-bytes"
 import { spawnSync } from "child_process"
+import { transform } from "lightningcss"
 
 const UPSTREAM_NAME = "upstream"
 const QUARTZ_SOURCE_BRANCH = "v4-alpha"
@@ -78,6 +79,11 @@ const BuildArgv = {
     number: true,
     default: 8080,
     describe: "port to serve Quartz on",
+  },
+  bundleInfo: {
+    boolean: true,
+    default: false,
+    describe: "show detailed bundle information",
   },
 }
 
@@ -242,6 +248,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     )
     spawnSync("git", ["pull", UPSTREAM_NAME, QUARTZ_SOURCE_BRANCH], { stdio: "inherit" })
     await popContentFolder(contentFolder)
+    console.log("Ensuring dependencies are up to date")
+    spawnSync("npm", ["i"], { stdio: "inherit" })
     console.log(chalk.green("Done!"))
   })
   .command("sync", "Sync your Quartz to and from GitHub.", SyncArgv, async (argv) => {
@@ -284,6 +292,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
         outfile: path.join("quartz", cacheFile),
         bundle: true,
         keepNames: true,
+        minify: true,
         platform: "node",
         format: "esm",
         jsx: "automatic",
@@ -294,6 +303,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
         plugins: [
           sassPlugin({
             type: "css-text",
+            cssImports: true,
           }),
           {
             name: "inline-script-loader",
@@ -315,6 +325,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
                     sourcefile,
                   },
                   write: false,
+                  minify: true,
                   bundle: true,
                   platform: "browser",
                   format: "esm",
@@ -332,13 +343,10 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       .catch((err) => {
         console.error(`${chalk.red("Couldn't parse Quartz configuration:")} ${fp}`)
         console.log(`Reason: ${chalk.grey(err)}`)
-        console.log(
-          "hint: make sure all the required dependencies are installed (run `npm install`)",
-        )
         process.exit(1)
       })
 
-    if (argv.verbose) {
+    if (argv.bundleInfo) {
       const outputFileName = "quartz/.quartz-cache/transpiled-build.mjs"
       const meta = result.metafile.outputs[outputFileName]
       console.log(
@@ -346,6 +354,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
           meta.bytes,
         )})`,
       )
+      console.log(await esbuild.analyzeMetafile(result.metafile, { color: true }))
     }
 
     const { default: buildQuartz } = await import(cacheFile)

@@ -1,54 +1,36 @@
 ---
-title: "Index"
+title: Welcome to Quartz 4
 ---
 
-![astrodex](img/astrodex.png)
+Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought/) to the web.
 
-  
-# Welcome to Astro's Garden! 🌱
+## 🪴 Get Started
 
-A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing. ~~Also a place where I waste a lot of time, trying to make notes instead of studying or learning. jfdifsjd~~
+Quartz requires **at least [Node](https://nodejs.org/) v16** to function correctly. In your terminal of choice, enter the following commands line by line:
 
-This contains (or will contain) a lot of resources, my thoughts and opinion on a lot of things, some reflections, about philosophies, concepts that have really changed my life, and maybe even rants.
-  
-You'll find writings of all kinds here; Psychology, Epistemology, Politics, Tech, and everything under the sun. (You will also find a lot of broken links and dead-ends or stub articles. It's a work in progress, perpetually.)
+```shell
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+git checkout v4-alpha
+npm i
+npx quartz create
+```
 
->[!warning] Attention!
->Some things here might not apply to you, might be wrong, or straight up silly. I'd love to hear your opinions, though! And this is the Internet, so do use your due diligence, and do your research.
-  
-Leave a message if you feel like you disagree, I could do better, or something else. Feel free to correct me, I love learning ^~^)
+This will guide you through initializing your Quartz with content.
 
-### Why?
+When you're ready, you can edit `quartz.config.ts` to customize and configure Quartz more. Read the [[configuration]] page for more information on what each field in the configuration does.
 
-- Everything is linked; to find links between seemingly unrelated things - even if the links are meaningless and are a result of correlation and nothing more
+Then, when you're ready, see how to [[build]] and [[hosting|host]] Quartz.
 
-- A **personal wiki** for me. You know how you want to pull up a particular study, or a particular statistic, or something else to win an argument but good ole tip-of-the-tongue syndrome hits? No? Just me? Okay. . .
+## 🔧 Features
 
-- To preserve knowledge and archive things interesting to me
+- [[full-text search|Full-text search]], [[graph view]], [[backlinks]], [[Latex]], [[syntax highlighting]], [[popover previews]], and many more right out of the box
+- Simple JSX [[creating components|layouts and page components]]
+- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
+- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
 
-- To reflect and ponder, to welcome change instead of resist it. To revisit concepts and re-examine my views.
+For a comprehensive list of features, visit the [features page](/features). You can read more the _why_ behind these features on the [[philosophy]] page.
 
-- To make sure it's available to everyone
+### 🚧 Troubleshooting
 
-- [[zettelkasten\|Zettelkasten]] (heavily inspired, loosely implemented)
-
-- To find how many times I refer to a topic, concept or even a phrase!
-
-- To reflect on and remember what I've learnt
-
-- Archiving! I love archiving.
-
-
-
-### 🌱 Philosophy
-
-It is a garden for ideas. For thoughts. For knowledge. You're free to visit. You can smell the flowers, you can sit down on the benches and relax. You can even find seeds you can propagate. ♥
-
-The aim of this little corner of the Internet is to make my personal wiki accessible, transparent (everything here is on the github repository, I'll be transparent about my methods, etc), and free! [[Free as in freedom, not free beer.\|Free as in freedom, not free beer.]]
-
-
----
-
-[^codex]: A Codex vitae is a 'living document'. Coined by Robin Sloan. Popularized by Buster Benson. https://busterbenson.com/blog/2012/11-28-codex-vitae/
-
-[^digitalgarden]: A great writeup on Digital Gardens https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/.
+Having trouble with Quartz? Try searching for your issue using the search feature. If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).

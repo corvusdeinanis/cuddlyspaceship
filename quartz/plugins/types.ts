@@ -1,9 +1,9 @@
 import { PluggableList } from "unified"
 import { StaticResources } from "../resources"
 import { ProcessedContent } from "./vfile"
-import { GlobalConfiguration } from "../cfg"
 import { QuartzComponent } from "../components/types"
 import { FilePath, ServerSlug } from "../path"
+import { BuildCtx } from "../ctx"
 
 export interface PluginTypes {
   transformers: QuartzTransformerPluginInstance[]
@@ -17,10 +17,10 @@ export type QuartzTransformerPlugin<Options extends OptionType = undefined> = (
 ) => QuartzTransformerPluginInstance
 export type QuartzTransformerPluginInstance = {
   name: string
-  textTransform?: (src: string | Buffer) => string | Buffer
-  markdownPlugins?: () => PluggableList
-  htmlPlugins?: () => PluggableList
-  externalResources?: () => Partial<StaticResources>
+  textTransform?: (ctx: BuildCtx, src: string | Buffer) => string | Buffer
+  markdownPlugins?: (ctx: BuildCtx) => PluggableList
+  htmlPlugins?: (ctx: BuildCtx) => PluggableList
+  externalResources?: (ctx: BuildCtx) => Partial<StaticResources>
 }
 
 export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
@@ -28,7 +28,7 @@ export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
 ) => QuartzFilterPluginInstance
 export type QuartzFilterPluginInstance = {
   name: string
-  shouldPublish(content: ProcessedContent): boolean
+  shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean
 }
 
 export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (
@@ -37,13 +37,12 @@ export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (
 export type QuartzEmitterPluginInstance = {
   name: string
   emit(
-    contentDir: string,
-    cfg: GlobalConfiguration,
+    ctx: BuildCtx,
     content: ProcessedContent[],
     resources: StaticResources,
     emitCallback: EmitCallback,
   ): Promise<FilePath[]>
-  getQuartzComponents(): QuartzComponent[]
+  getQuartzComponents(ctx: BuildCtx): QuartzComponent[]
 }
 
 export interface EmitOptions {
