@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "astrodex",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cuddlyspaceshit.netlify.app",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
@@ -52,7 +52,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Latex({ renderEngine: "katex" }),
+      //Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
