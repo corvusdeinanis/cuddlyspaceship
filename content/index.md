@@ -2,7 +2,7 @@
 title: "Welcome to Astrodex"
 ---
 
-![astrodex](images/astrodex.png)
+![astrodex](images/astrodex-enhanced.jpg)
 
   
 # Welcome to Astro's Garden! 🌱
