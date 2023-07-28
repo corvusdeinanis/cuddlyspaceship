@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Welcome to Astrodex"
 ---
 
 ![astrodex](images/astrodex.png)
