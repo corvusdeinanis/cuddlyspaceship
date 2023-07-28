@@ -5,36 +5,55 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
-import { CanonicalSlug, FilePath, ServerSlug, joinSegments } from "../../path"
+import {
+  CanonicalSlug,
+  FilePath,
+  ServerSlug,
+  getAllSegmentPrefixes,
+  joinSegments,
+} from "../../path"
+import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
+import { TagContent } from "../../components"
 
-export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (opts) => {
-  if (!opts) {
-    throw new Error("TagPage must be initialized with options specifiying the components to use")
+export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
+  const opts: FullPageLayout = {
+    ...sharedPageComponents,
+    ...defaultListPageLayout,
+    pageBody: TagContent(),
+    ...userOpts,
   }
 
-  const { head: Head, header, beforeBody, pageBody: Content, left, right, footer: Footer } = opts
+  const { head: Head, header, beforeBody, pageBody, left, right, footer: Footer } = opts
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
   return {
     name: "TagPage",
     getQuartzComponents() {
-      return [Head, Header, Body, ...header, ...beforeBody, Content, ...left, ...right, Footer]
+      return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
     },
     async emit(ctx, content, resources, emit): Promise<FilePath[]> {
       const fps: FilePath[] = []
       const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
 
-      const tags: Set<string> = new Set(allFiles.flatMap((data) => data.frontmatter?.tags ?? []))
+      const tags: Set<string> = new Set(
+        allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
+      )
+      // add base tag
+      tags.add("")
+
       const tagDescriptions: Record<string, ProcessedContent> = Object.fromEntries(
-        [...tags].map((tag) => [
-          tag,
-          defaultProcessedContent({
-            slug: `tags/${tag}/index` as ServerSlug,
-            frontmatter: { title: `Tag: ${tag}`, tags: [] },
-          }),
-        ]),
+        [...tags].map((tag) => {
+          const title = tag === "" ? "Tag Index" : `Tag: #${tag}`
+          return [
+            tag,
+            defaultProcessedContent({
+              slug: joinSegments("tags", tag, "index") as ServerSlug,
+              frontmatter: { title, tags: [] },
+            }),
+          ]
+        }),
       )
 
       for (const [tree, file] of content) {
@@ -48,7 +67,7 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (opts) => {
       }
 
       for (const tag of tags) {
-        const slug = `tags/${tag}/index` as CanonicalSlug
+        const slug = joinSegments("tags", tag) as CanonicalSlug
         const externalResources = pageResources(slug, resources)
         const [tree, file] = tagDescriptions[tag]
         const componentData: QuartzComponentProps = {
