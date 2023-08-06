@@ -6,10 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "astrodex",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "",
-    },
-    baseUrl: "cuddlyspaceshit.netlify.app",
+    baseUrl: "cuddlyspaceship.netlify.app",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
@@ -66,7 +63,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
       }),
-      Plugin.Assets({ attachmentsFolder: "attachments" }),
+      Plugin.Assets(),
       Plugin.Static(),
     ],
   },
