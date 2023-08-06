@@ -8,6 +8,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     baseUrl: "cuddlyspaceship.netlify.app",
     ignorePatterns: ["private", "templates"],
+	analytics: {
+	},
     theme: {
       typography: {
         header: "Schibsted Grotesk",
