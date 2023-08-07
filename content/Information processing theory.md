@@ -8,3 +8,4 @@ tags: ['todo','psychology','lifespan']
    No structure or stages; continuous/gradual 
    monitoring, manipulating, strategizing information
 #todo 
+(?/)

@@ -41,3 +41,6 @@ It would be very nice to be gazillionaires, but you can also understand that par
 >
 Dan Bricklin  
 We're kids of the Sixties and what did you want to do? You wanted to make the world better, and you wanted to make your mark on the world and improve things, and we did it. So by the mark of what we would measure ourselves by, we're very successful.
+
+
+(!e)

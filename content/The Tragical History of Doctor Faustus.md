@@ -18,6 +18,7 @@ Dr Faustus -> Learned scholar, brilliant | Ambitious
     
 Pride,  power corrupts, tragic hero 
 
+(?/)
 
 ---
 see also: 

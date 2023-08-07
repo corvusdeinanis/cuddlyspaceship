@@ -9,3 +9,4 @@ status: 'needswork'
 - Wrote "[[Subjection Of Women]]" along with his wife Harriet Taylor Mill 
 - Advocated women suffrage and equal rights
 
+(?/)

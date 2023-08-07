@@ -1,3 +1,8 @@
+---
+title: "Waves of Feminism"
+date: 2023-08-08
+tags: ['feminism','social']
+---
 # Waves of Feminism
 
 
