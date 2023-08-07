@@ -7,6 +7,8 @@ html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
+  overflow-x: none;
+  width: 100vw;
 }
 
 body {
@@ -81,7 +83,9 @@ a {
 
 .page {
   @media all and (max-width: $fullPageWidth) {
-    margin: 0 5vw;
+    margin: 0 auto;
+    padding: 0 1rem;
+    max-width: $pageWidth;
   }
 
   & article {
@@ -162,9 +166,9 @@ a {
 
   & .center,
   & footer {
-    width: $pageWidth;
     margin-left: auto;
     margin-right: auto;
+    width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
@@ -372,16 +376,29 @@ p {
 }
 
 table {
-  margin: 1rem 0;
-  border: 1px solid var(--gray);
+  margin: 1rem;
   padding: 1.5rem;
   border-collapse: collapse;
+  & > * {
+    line-height: 2rem;
+  }
 }
 
-td,
 th {
+  text-align: left;
+  padding: 0.4rem 1rem;
+  border-bottom: 2px solid var(--gray);
+}
+
+td {
   padding: 0.2rem 1rem;
-  border: 1px solid var(--gray);
+}
+
+tr {
+  border-bottom: 1px solid var(--lightgray);
+  &:last-child {
+    border-bottom: none;
+  }
 }
 
 img {
@@ -415,7 +432,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  height: 400px;
+  height: 300px;
   overflow-y: scroll;
 
   // clearfix
