@@ -7,16 +7,18 @@ html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
-  overflow-x: none;
+  overflow-x: hidden;
   width: 100vw;
 }
 
-body {
+body,
+section {
   margin: 0;
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  color: var(--darkgray);
 }
 
 .text-highlight {
@@ -107,6 +109,10 @@ a {
     & li > * {
       margin-top: 0;
       margin-bottom: 0;
+    }
+
+    p > strong {
+      color: var(--dark);
     }
   }
 
@@ -265,24 +271,28 @@ h6 {
 // typography improvements
 h1 {
   font-size: 1.75rem;
-  margin-top: 2.75rem;
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
 }
 
 h2 {
   font-size: 1.4rem;
-  margin-top: 2.4rem;
+  margin-top: 1.9rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
   font-size: 1.12rem;
-  margin-top: 2.12rem;
+  margin-top: 1.62rem;
+  margin-bottom: 1rem;
 }
 
 h4,
 h5,
 h6 {
   font-size: 1rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 div[data-rehype-pretty-code-fragment] {
@@ -311,10 +321,10 @@ pre {
   border-radius: 5px;
   overflow-x: auto;
   border: 1px solid var(--lightgray);
+  position: relative;
 
   &:has(> code.mermaid) {
     border: none;
-    position: relative;
   }
 
   & > code {

@@ -6,6 +6,9 @@ Quartz effectively turns your Markdown files and other resources into a bundle o
 
 However, if you'd like to publish your site to the world, you need a way to host it online. This guide will detail how to deploy with either GitHub Pages or Cloudflare pages but any service that allows you to deploy static HTML should work as well (e.g. Netlify, Replit, etc.)
 
+> [!hint]
+> Some Quartz features (like [[RSS Feed]] and sitemap generation) require `baseUrl` to be configured properly in your [[configuration]] to work properly. Make sure you set this before deploying!
+
 ## Cloudflare Pages
 
 1. Log in to the [Cloudflare dashboard](https://dash.cloudflare.com/) and select your account.
@@ -21,7 +24,7 @@ However, if you'd like to publish your site to the world, you need a way to host
 
 Press "Save and deploy" and Cloudflare should have a deployed version of your site in about a minute. Then, every time you sync your Quartz changes to GitHub, your site should be updated.
 
-To add a custom domain, check our [Cloudflare's documentation](https://developers.cloudflare.com/pages/platform/custom-domains/).
+To add a custom domain, check out [Cloudflare's documentation](https://developers.cloudflare.com/pages/platform/custom-domains/).
 
 ## GitHub Pages
 
@@ -52,8 +55,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0    # Fetch all history for git info
-	  - uses: actions/setup-node@v3
+          fetch-depth: 0 # Fetch all history for git info
+      - uses: actions/setup-node@v3
         with:
           node-version: 18.14
       - name: Install Dependencies
