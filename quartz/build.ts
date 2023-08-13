@@ -1,19 +1,5 @@
 import sourceMapSupport from "source-map-support"
-sourceMapSupport.install({
-  retrieveSourceMap(source) {
-    // source map hack to get around query param
-    // import cache busting
-    if (source.includes(".quartz-cache")) {
-      let realSource = fileURLToPath(source.split("?", 2)[0] + ".map")
-      return {
-        map: fs.readFileSync(realSource, "utf8"),
-      }
-    } else {
-      return null
-    }
-  },
-})
-
+sourceMapSupport.install(options)
 import path from "path"
 import { PerfTimer } from "./perf"
 import { rimraf } from "rimraf"
@@ -29,8 +15,7 @@ import { ProcessedContent } from "./plugins/vfile"
 import { Argv, BuildCtx } from "./ctx"
 import { glob, toPosixPath } from "./glob"
 import { trace } from "./trace"
-import { fileURLToPath } from "url"
-import fs from "fs"
+import { options } from "./sourcemap"
 
 async function buildQuartz(argv: Argv, clientRefresh: () => void) {
   const ctx: BuildCtx = {
@@ -91,6 +76,7 @@ async function startServing(
     contentMap.set(vfile.data.filePath!, content)
   }
 
+  const initialSlugs = ctx.allSlugs
   let timeoutId: ReturnType<typeof setTimeout> | null = null
   let toRebuild: Set<FilePath> = new Set()
   let toRemove: Set<FilePath> = new Set()
@@ -102,20 +88,18 @@ async function startServing(
     }
 
     // dont bother rebuilding for non-content files, just track and refresh
+    fp = toPosixPath(fp)
+    const filePath = joinSegments(argv.directory, fp) as FilePath
     if (path.extname(fp) !== ".md") {
-      fp = toPosixPath(fp)
-      const filePath = joinSegments(argv.directory, fp) as FilePath
       if (action === "add" || action === "change") {
         trackedAssets.add(filePath)
       } else if (action === "delete") {
-        trackedAssets.add(filePath)
+        trackedAssets.delete(filePath)
       }
       clientRefresh()
       return
     }
 
-    fp = toPosixPath(fp)
-    const filePath = joinSegments(argv.directory, fp) as FilePath
     if (action === "add" || action === "change") {
       toRebuild.add(filePath)
     } else if (action === "delete") {
@@ -133,10 +117,11 @@ async function startServing(
       try {
         const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
 
-        ctx.allSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
+        const trackedSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
           .filter((fp) => !toRemove.has(fp))
           .map((fp) => slugifyFilePath(path.posix.relative(argv.directory, fp) as FilePath))
 
+        ctx.allSlugs = [...new Set([...initialSlugs, ...trackedSlugs])]
         const parsedContent = await parseMarkdown(ctx, filesToRebuild)
         for (const content of parsedContent) {
           const [_tree, vfile] = content
