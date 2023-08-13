@@ -50,10 +50,10 @@
     --bg: #dba64210;
   }
 
-  &[data-callout="warning"] {
-    --color: #db8942;
-    --border: #db894244;
-    --bg: #db894210;
+ &[data-callout="warning"] {
+  --color: #ff7804;
+  --border: #ff7600;
+  --bg: #ff76001c;
   }
 
   &[data-callout="failure"],
