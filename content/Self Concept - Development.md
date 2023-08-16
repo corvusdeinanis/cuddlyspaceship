@@ -4,6 +4,8 @@ title: "Self Concept Development"
 tags: ['psychology','lifespan']
 ---
 
+(!/)
+
 ### Self Concept Definition
 Attributes, characteristics, what makes us us. 
 physically, emotionally, socially, spiritually
@@ -12,6 +14,7 @@ how we perceive, think, and value ourselves
 
 ### Mirror Test 
         >add<
+(!tf)
 
 ### Characteristics of self concept
 multi-dimensional - 
@@ -35,10 +38,12 @@ it can change later but is harder
 
 
 ### Link between self esteem and self concept
-
+(!tf)
 
 
 ### Types of self 
+(!e)
+
 Academic
 	
 Artistic
@@ -47,9 +52,12 @@ Emotional
 Moral 
 
 ### Ideal self
+(!e)
+
 Who we want to be 
 
 ### Other
+(!e)
 Self Efficacy
 Self Regulation
 

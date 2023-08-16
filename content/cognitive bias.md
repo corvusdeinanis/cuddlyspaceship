@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "cognitive bias"
 date: 2023-05-13
 tags: ['psychology']

@@ -3,6 +3,7 @@ dg-publish: true
 title: "Thinking and Reasoning"
 tags: ['psychology','studynotes','needswork','old']
 ---
+(?) (!e)
 
 <u>Thinking</u> 
 - Meaning and definition  ✔
@@ -26,7 +27,9 @@ tags: ['psychology','studynotes','needswork','old']
 ## 1. Thinking 
 ### Meaning and Definition
 AKA Cognition (from Latin **Cognitio** - To know)
+
 Thinking is a mental process by which we manipulate ideas, words, and information and use this to solve problems, think critically, reason and make decisions. 
+
 It is the organizing, interpreting, understanding, and communication of information. 
 
 ---
@@ -58,7 +61,9 @@ Mental grouping of similar objects, people, events, etc.
 > are typical, highly representative examples of a concept that correspond to our mental image or best example of the concept. Eg - Crow is a prototype bird
 [[# Concept Formation]]
 
-### 3. Algorithms and heuristics  (???)
+### 3. Algorithms and heuristics  
+[[algorithms]]
+[[heuristics]]
 Methods of problem-solving. 
 
 ## What is Problem Solving?
@@ -96,7 +101,7 @@ a("Frame the Problem") --> b(Develop and Use Strategies) --> c(Evaluate solution
 ---
 
 ## Obstacles in Problem Solving
-<u> Fixation</u> - failing to look from new perspective; only using prior exp
+<u>Fixation</u> - failing to look from new perspective; only using prior exp
 - Functional Fixedness - type of fixation on usual functions of an object
 - Mental Set - sticking only to old methods, methods that were successful in the past
 <u>Confirmation Bias</u> 
@@ -104,6 +109,7 @@ a("Frame the Problem") --> b(Develop and Use Strategies) --> c(Evaluate solution
 ---
 
 ## Representation of Problems
+(!/)
 
 ---
 ## Solving a problem - 

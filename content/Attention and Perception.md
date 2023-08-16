@@ -165,6 +165,7 @@ style L fill:#ebccff;
 
 ## **Divided**
 ### 3. Kahneman's Model 
+[[Daniel Kahneman]]
 Attention is scarce. Some tasks require more, some less. 
 We can do multiple tasks at once as long as it is within the capacity of attention.
 mental "juggling" 
@@ -224,7 +225,7 @@ where people direct their attention.
 
 ## Summary of Models 
 ---
-|        Model       |         AKA        |                                       Principle                                      |        Main Component       | 
+|        Model       |         AKA        |                                       Principle                          |        Main Component       | 
 |:------------------:|:------------------:|:------------------------------------------------------------------------------------:|:---------------------------:|
 | Broadbent's Theory | Early Selection    | Based on physical properties, filtered out before identification, **bottleneck theory**                     | selective filter            |   
 | Treisman's Theory  | Attenuation Theory | Based on threshold, unattended stimuli is weakened but processes, **cocktail party**                     | attenuator, dictionary unit |   

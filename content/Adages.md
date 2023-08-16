@@ -1,7 +1,7 @@
 ---
 title: "Adages"
 date: 2023-05-13
-tags: ['adages','meta','tagpage','bucket']
+tags: ['adages','meta','tagpage','bucket','razors']
 dg-publish: true
 ---
 
@@ -17,3 +17,5 @@ dg-publish: true
 [[Campbells Law]]
 [[Barnum Effect]]
 
+[[occam's razor]]
+[[hanlon's razor]]
