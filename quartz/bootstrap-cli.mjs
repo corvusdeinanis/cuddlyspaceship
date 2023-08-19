@@ -19,7 +19,7 @@ import { randomUUID } from "crypto"
 
 const ORIGIN_NAME = "origin"
 const UPSTREAM_NAME = "upstream"
-const QUARTZ_SOURCE_BRANCH = "v4-alpha"
+const QUARTZ_SOURCE_BRANCH = "v4"
 const cwd = process.cwd()
 const cacheDir = path.join(cwd, ".quartz-cache")
 const cacheFile = "./.quartz-cache/transpiled-build.mjs"
@@ -74,6 +74,10 @@ const BuildArgv = {
     default: false,
     describe: "run a local server to live-preview your Quartz",
   },
+  baseDir: {
+    string: true,
+    describe: "base path to serve your local server on",
+  },
   port: {
     number: true,
     default: 8080,
@@ -108,6 +112,7 @@ function exitIfCancel(val) {
 }
 
 async function stashContentFolder(contentFolder) {
+  await fs.promises.rm(contentCacheFolder, { force: true, recursive: true })
   await fs.promises.cp(contentFolder, contentCacheFolder, {
     force: true,
     recursive: true,
@@ -146,7 +151,7 @@ yargs(hideBin(process.argv))
         message: `Choose how to initialize the content in \`${contentFolder}\``,
         options: [
           { value: "new", label: "Empty Quartz" },
-          { value: "copy", label: "Replace with an existing folder", hint: "overwrites `content`" },
+          { value: "copy", label: "Copy an existing folder", hint: "overwrites `content`" },
           {
             value: "symlink",
             label: "Symlink an existing folder",
@@ -159,12 +164,10 @@ yargs(hideBin(process.argv))
 
     async function rmContentFolder() {
       const contentStat = await fs.promises.lstat(contentFolder)
-      if (contentStat) {
-        if (contentStat.isSymbolicLink()) {
-          await fs.promises.unlink(contentFolder)
-        } else {
-          await rimraf(contentFolder)
-        }
+      if (contentStat.isSymbolicLink()) {
+        await fs.promises.unlink(contentFolder)
+      } else {
+        await rimraf(contentFolder)
       }
     }
 
@@ -189,7 +192,10 @@ yargs(hideBin(process.argv))
 
       await rmContentFolder()
       if (setupStrategy === "copy") {
-        await fs.promises.cp(originalFolder, contentFolder, { recursive: true })
+        await fs.promises.cp(originalFolder, contentFolder, {
+          recursive: true,
+          preserveTimestamps: true,
+        })
       } else if (setupStrategy === "symlink") {
         await fs.promises.symlink(originalFolder, contentFolder, "dir")
       }
@@ -264,17 +270,47 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     spawnSync("npm", ["i"], { stdio: "inherit" })
     console.log(chalk.green("Done!"))
   })
+  .command(
+    "restore",
+    "Try to restore your content folder from the cache",
+    CommonArgv,
+    async (argv) => {
+      const contentFolder = path.join(cwd, argv.directory)
+      await popContentFolder(contentFolder)
+    },
+  )
   .command("sync", "Sync your Quartz to and from GitHub.", SyncArgv, async (argv) => {
     const contentFolder = path.join(cwd, argv.directory)
     console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
     console.log("Backing up your content")
 
     if (argv.commit) {
+      const contentStat = await fs.promises.lstat(contentFolder)
+      if (contentStat.isSymbolicLink()) {
+        const linkTarg = await fs.promises.readlink(contentFolder)
+        console.log(chalk.yellow("Detected symlink, trying to dereference before committing"))
+
+        // stash symlink file
+        await stashContentFolder(contentFolder)
+
+        // follow symlink and copy content
+        await fs.promises.cp(linkTarg, contentFolder, {
+          recursive: true,
+          preserveTimestamps: true,
+        })
+      }
+
       const currentTimestamp = new Date().toLocaleString("en-US", {
         dateStyle: "medium",
         timeStyle: "short",
       })
-      spawnSync("git", ["commit", "-am", `Quartz sync: ${currentTimestamp}`], { stdio: "inherit" })
+      spawnSync("git", ["add", "."], { stdio: "inherit" })
+      spawnSync("git", ["commit", "-m", `Quartz sync: ${currentTimestamp}`], { stdio: "inherit" })
+
+      if (contentStat.isSymbolicLink()) {
+        // put symlink back
+        await popContentFolder(contentFolder)
+      }
     }
 
     await stashContentFolder(contentFolder)
@@ -351,6 +387,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       ],
     })
 
+    const timeoutIds = new Set()
     const build = async (clientRefresh) => {
       const result = await ctx.rebuild().catch((err) => {
         console.error(`${chalk.red("Couldn't parse Quartz configuration:")} ${fp}`)
@@ -376,6 +413,11 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       clientRefresh()
     }
 
+    const rebuild = (clientRefresh) => {
+      timeoutIds.forEach((id) => clearTimeout(id))
+      timeoutIds.add(setTimeout(() => build(clientRefresh), 250))
+    }
+
     if (argv.serve) {
       const wss = new WebSocketServer({ port: 3001 })
       const connections = []
@@ -384,18 +426,65 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
       await build(clientRefresh)
       const server = http.createServer(async (req, res) => {
-        await serveHandler(req, res, {
-          public: argv.output,
-          directoryListing: false,
-        })
-        const status = res.statusCode
-        const statusString =
-          status >= 200 && status < 300
-            ? chalk.green(`[${status}]`)
-            : status >= 300 && status < 400
-            ? chalk.yellow(`[${status}]`)
-            : chalk.red(`[${status}]`)
-        console.log(statusString + chalk.grey(` ${req.url}`))
+        const serve = async () => {
+          await serveHandler(req, res, {
+            public: argv.output,
+            directoryListing: false,
+          })
+          const status = res.statusCode
+          const statusString =
+            status >= 200 && status < 300 ? chalk.green(`[${status}]`) : chalk.red(`[${status}]`)
+          console.log(statusString + chalk.grey(` ${req.url}`))
+        }
+
+        const redirect = (newFp) => {
+          res.writeHead(302, {
+            Location: newFp,
+          })
+          console.log(chalk.yellow("[302]") + chalk.grey(` ${req.url} -> ${newFp}`))
+          res.end()
+        }
+
+        let fp = req.url?.split("?")[0] ?? "/"
+
+        // handle redirects
+        if (fp.endsWith("/")) {
+          // /trailing/
+          // does /trailing/index.html exist? if so, serve it
+          const indexFp = path.posix.join(fp, "index.html")
+          if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+            req.url = fp
+            return serve()
+          }
+
+          // does /trailing.html exist? if so, redirect to /trailing
+          let base = fp.slice(0, -1)
+          if (path.extname(base) === "") {
+            base += ".html"
+          }
+          if (fs.existsSync(path.posix.join(argv.output, base))) {
+            return redirect(fp.slice(0, -1))
+          }
+        } else {
+          // /regular
+          // does /regular.html exist? if so, serve it
+          let base = fp
+          if (path.extname(base) === "") {
+            base += ".html"
+          }
+          if (fs.existsSync(path.posix.join(argv.output, base))) {
+            req.url = fp
+            return serve()
+          }
+
+          // does /regular/index.html exist? if so, redirect to /regular/
+          let indexFp = path.posix.join(fp, "index.html")
+          if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+            return redirect(fp + "/")
+          }
+        }
+
+        return serve()
       })
       server.listen(argv.port)
       console.log(chalk.cyan(`Started a Quartz server listening at http://localhost:${argv.port}`))
@@ -406,7 +495,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
         })
         .on("all", async () => {
           console.log(chalk.yellow("Detected a source code change, doing a hard rebuild..."))
-          await build(clientRefresh)
+          rebuild(clientRefresh)
         })
     } else {
       await build(() => {})

@@ -1,4 +1,5 @@
 import { slug } from "github-slugger"
+// this file must be isomorphic so it can't use node libs (e.g. path)
 
 // Quartz Paths
 // Things in boxes are not actual types but rather sources which these types can be acquired from
@@ -70,8 +71,8 @@ export function isCanonicalSlug(s: string): s is CanonicalSlug {
 export type RelativeURL = SlugLike<"relative">
 export function isRelativeURL(s: string): s is RelativeURL {
   const validStart = /^\.{1,2}/.test(s)
-  const validEnding = !(s.endsWith("/") || s.endsWith("/index") || s === "index")
-  return validStart && validEnding && !_hasFileExtension(s)
+  const validEnding = !(s.endsWith("/index") || s === "index")
+  return validStart && validEnding && ![".md", ".html"].includes(_getFileExtension(s) ?? "")
 }
 
 /** A server side slug. This is what Quartz uses to emit files so uses index suffixes */
@@ -79,7 +80,7 @@ export type ServerSlug = SlugLike<"server">
 export function isServerSlug(s: string): s is ServerSlug {
   const validStart = !(s.startsWith(".") || s.startsWith("/"))
   const validEnding = !s.endsWith("/")
-  return validStart && validEnding && !_containsForbiddenCharacters(s) && !_hasFileExtension(s)
+  return validStart && validEnding && !_containsForbiddenCharacters(s)
 }
 
 /** The real file path to a file on disk */
@@ -113,9 +114,14 @@ export function canonicalizeServer(slug: ServerSlug): CanonicalSlug {
   return res
 }
 
-export function slugifyFilePath(fp: FilePath): ServerSlug {
+export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): ServerSlug {
   fp = _stripSlashes(fp) as FilePath
-  const withoutFileExt = fp.replace(new RegExp(_getFileExtension(fp) + "$"), "")
+  let ext = _getFileExtension(fp)
+  const withoutFileExt = fp.replace(new RegExp(ext + "$"), "")
+  if (excludeExt || [".md", ".html", undefined].includes(ext)) {
+    ext = ""
+  }
+
   let slug = withoutFileExt
     .split("/")
     .map((segment) => segment.replace(/\s/g, "-")) // slugify all segments
@@ -127,29 +133,31 @@ export function slugifyFilePath(fp: FilePath): ServerSlug {
     slug = slug.replace(/_index$/, "index")
   }
 
-  return slug as ServerSlug
+  return (slug + ext) as ServerSlug
 }
 
 export function transformInternalLink(link: string): RelativeURL {
   let [fplike, anchor] = splitAnchor(decodeURI(link))
+
+  const folderPath =
+    fplike.endsWith("index") ||
+    fplike.endsWith("index.md") ||
+    fplike.endsWith("index.html") ||
+    fplike.endsWith("/")
+
   let segments = fplike.split("/").filter((x) => x.length > 0)
   let prefix = segments.filter(_isRelativeSegment).join("/")
   let fp = segments.filter((seg) => !_isRelativeSegment(seg)).join("/")
 
-  // implicit markdown
-  if (!_hasFileExtension(fp)) {
-    fp += ".md"
-  }
-
-  fp = canonicalizeServer(slugifyFilePath(fp as FilePath))
-  fp = _trimSuffix(fp, "index")
-
-  let joined = joinSegments(_stripSlashes(prefix), _stripSlashes(fp))
-  const res = (_addRelativeToStart(joined) + anchor) as RelativeURL
+  // manually add ext here as we want to not strip 'index' if it has an extension
+  fp = canonicalizeServer(slugifyFilePath(fp as FilePath) as ServerSlug)
+  const joined = joinSegments(_stripSlashes(prefix), _stripSlashes(fp))
+  const trail = folderPath ? "/" : ""
+  const res = (_addRelativeToStart(joined) + trail + anchor) as RelativeURL
   return res
 }
 
-// resolve /a/b/c to ../../
+// resolve /a/b/c to ../../..
 export function pathToRoot(slug: CanonicalSlug): RelativeURL {
   let rootPath = slug
     .split("/")
@@ -211,8 +219,9 @@ export function transformLink(
   if (opts.strategy === "relative") {
     return _addRelativeToStart(targetSlug) as RelativeURL
   } else {
-    targetSlug = _stripSlashes(targetSlug.slice(".".length))
-    let [targetCanonical, targetAnchor] = splitAnchor(targetSlug)
+    const folderTail = targetSlug.endsWith("/") ? "/" : ""
+    const canonicalSlug = _stripSlashes(targetSlug.slice(".".length))
+    let [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug)
 
     if (opts.strategy === "shortest") {
       // if the file name is unique, then it's just the filename
@@ -230,7 +239,7 @@ export function transformLink(
     }
 
     // if it's not unique, then it's the absolute path from the vault root
-    return joinSegments(pathToRoot(src), targetSlug) as RelativeURL
+    return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
   }
 }
 
