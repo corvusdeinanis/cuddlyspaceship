@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "astrodex",
+    pageTitle: "📓astrodex",
     enableSPA: true,
     enablePopovers: true,
     baseUrl: "cuddlyspaceship.netlify.app",
