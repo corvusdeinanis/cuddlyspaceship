@@ -6,8 +6,10 @@ const config: QuartzConfig = {
     pageTitle: "📓astrodex",
     enableSPA: true,
     enablePopovers: true,
+
     baseUrl: "cuddlyspaceship.netlify.app",
     ignorePatterns: ["private", "templates"],
+	defaultDateType: "created",
 	analytics: {
 	},
     theme: {
