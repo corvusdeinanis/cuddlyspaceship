@@ -9,8 +9,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "four.quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates"],
+    baseUrl: "quartz.jzhao.xyz",
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",

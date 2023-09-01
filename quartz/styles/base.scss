@@ -27,6 +27,11 @@ section {
   border-radius: 5px;
 }
 
+::selection {
+  background: color-mix(in srgb, var(--tertiary) 75%, transparent);
+  color: var(--darkgray);
+}
+
 p,
 ul,
 text,
@@ -45,7 +50,6 @@ ul,
 }
 
 .math {
-  font-size: 1.1rem;
   &.math-display {
     text-align: center;
   }
@@ -321,7 +325,6 @@ pre {
   border-radius: 5px;
   overflow-x: auto;
   border: 1px solid var(--lightgray);
-  position: relative;
 
   &:has(> code.mermaid) {
     border: none;
@@ -444,7 +447,7 @@ video {
 ul.overflow,
 ol.overflow {
   height: 300px;
-  overflow-y: scroll;
+  overflow-y: auto;
 
   // clearfix
   content: "";

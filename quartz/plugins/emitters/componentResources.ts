@@ -1,4 +1,4 @@
-import { FilePath, ServerSlug } from "../../util/path"
+import { FilePath, FullSlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
 // @ts-ignore
@@ -103,8 +103,14 @@ function addGlobalPageResources(
   } else {
     componentResources.afterDOMLoaded.push(`
         window.spaNavigate = (url, _) => window.location.assign(url)
-        const event = new CustomEvent("nav", { detail: { slug: document.body.dataset.slug } })
+        const event = new CustomEvent("nav", { detail: { url: document.body.dataset.slug } })
         document.dispatchEvent(event)`)
+  }
+
+  let wsUrl = `ws://localhost:${ctx.argv.wsPort}`
+
+  if (ctx.argv.remoteDevHost) {
+    wsUrl = `wss://${ctx.argv.remoteDevHost}:${ctx.argv.wsPort}`
   }
 
   if (reloadScript) {
@@ -112,7 +118,7 @@ function addGlobalPageResources(
       loadTime: "afterDOMReady",
       contentType: "inline",
       script: `
-          const socket = new WebSocket('ws://localhost:3001')
+          const socket = new WebSocket('${wsUrl}')
           socket.addEventListener('message', () => document.location.reload())
         `,
     })
@@ -154,7 +160,7 @@ export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<
       const postscript = joinScripts(componentResources.afterDOMLoaded)
       const fps = await Promise.all([
         emit({
-          slug: "index" as ServerSlug,
+          slug: "index" as FullSlug,
           ext: ".css",
           content: transform({
             filename: "index.css",
@@ -171,12 +177,12 @@ export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<
           }).code.toString(),
         }),
         emit({
-          slug: "prescript" as ServerSlug,
+          slug: "prescript" as FullSlug,
           ext: ".js",
           content: prescript,
         }),
         emit({
-          slug: "postscript" as ServerSlug,
+          slug: "postscript" as FullSlug,
           ext: ".js",
           content: postscript,
         }),
