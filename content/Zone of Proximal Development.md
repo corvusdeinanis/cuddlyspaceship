@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Zone of Proximal Development"
 tags: ['psychology']
 ---

@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "FIRO B"
 tags: ['psychology','psychpracs']
 date: 2023-04-04
 ---
 
 
-## Intro 
+## Intro
 **William Schultz** 
 1950s 
 54 item questionnaire
@@ -31,7 +30,7 @@ is useful in understanding individual personality dimensions, in marital counsel
 helps individuals understand their behaviour and the behaviour of others.
 
 
-## Aim 
+## Aim
 To assess a person's characteristic behaviour towards others in the dimensions of Inclusion, Control, and Affection 
 ## Plan
 To adminster the FIRO B test and interpret subject's responses to determine interpersonal style
@@ -44,7 +43,7 @@ To adminster the FIRO B test and interpret subject's responses to determine inte
 - no time limit; usually takes about 15 minutes 
 - answer sheet collected, scored and interpreted accd to norms
   
-## Materials 
+## Materials
 FIRO B questionnaire 
 Answer sheet 
 Scoring Key
@@ -68,18 +67,18 @@ highest possible score for a dimension = 9
 4-6 Medium 
 7-9 High
 
-### inclusion
+### Inclusion
 low e - subject is uncomfortable
 high e - subject is comfortable; will move towards people 
 low w - subject is selective in association
 high w - subject has strong need to belong 
 
-### control 
+### Control
 low e - avoids decision-making
 high e - takes on leadership roles
 low w - does not want to be controlled 
 high w - accepts  being controlled 
-### affection 
+### Affection
 low e - cautious about intimate rel
 high e  - can be emotionally involved 
 low w - cautious and selective in forming intimate rel
@@ -108,7 +107,7 @@ calculate total score, total expressed and wanted, and overall total
 interpret 
 draw a table 
 
-## Discussion 
+## Discussion
 ### Theoretical Expectation
 instrument originated from the need to understandand predict how high-performance military teams would work together during World War II. 
 The first public usage of the test was in the late 1950s by William Shutz. The basic  

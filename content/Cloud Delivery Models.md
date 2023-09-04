@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Cloud Delivery Models"
 tags: ['cloudcomputing']
 ---
 
 (aka cloud service delivery model)
 
-# at a glance
+# At a Glance
 **specific, pre-packaged combination of IT resources offered by a cloud provider**
 
 **in terms of customizability and level of control/access granted, IaaS > PaaS > SaaS** 
@@ -14,9 +13,9 @@ mnemonic - <mark>I P S</mark>
 
 in terms of ready-to-use, SaaS > PaaS > IaaS
 
-# cloud service delivery models 
+# Cloud Service Delivery Models
 
-## IaaS - Infrastructure as a service
+## IaaS - Infrastructure as a Service
 > Resources, self-contained IT environment 
 > hardware, network, connectivity are all provided by cloud provider 
 > bare infrastructure
@@ -35,10 +34,10 @@ cloud provider - provides and manages IT resources like storage, processing, hos
 
 eg. ec2
 
-## PaaS - Platform as a service
->**ready made environment**
->support the entire device lifecycle
->provides a framework
+## PaaS - Platform as a Service
+> **ready made environment**
+> support the entire device lifecycle
+> provides a framework
 
 allows customers to build, test, deploy run, update and scale applications more quickly and cost-effectively than they could if they had to build out and manage their own on-premises platform
 
@@ -51,7 +50,7 @@ cloud provider - pre-configures infrastructure, middleware. monitors usage
 
 eg Heroku 
 
-## SaaS - Software as a service 
+## SaaS - Software as a Service
 software that is  a shared cloud service
 used to make a reusable cloud service widely available 
 **mostly for end users**
@@ -64,7 +63,7 @@ cloud provider - implements and manages cloud service
 
 eg. Gmail, Microsoft 365,
 
-# Pizza analogy 
+# Pizza Analogy
 - **on-premise** -> your own kitchen, your own ingredients, any type of pizza
 - **IaaS** -> (**kitchen** as a service) -> cloud provider manages kitchen, your own ingredients, any type of pizza
 - **PaaS** -> (**take and bake**) -> cloud provider manages kitchen and some ingredients, your own pizza but with limited ingredients 
@@ -73,9 +72,9 @@ eg. Gmail, Microsoft 365,
 **Ease of use vs Customizability**
 
 
->[!QUESTION]- Doubts
->netlify - saas, paas?
->cdn
+> [!QUESTION]- Doubts
+> netlify - saas, paas?
+> cdn
 
 
 

@@ -17,7 +17,7 @@ Left out Chaucer, Shakespeare
 
 
 
-## Critique of [[Dryden]] 
+## Critique of [[Dryden]]
 
 - heroic stanzas 
 - Wide Gallant 
@@ -39,7 +39,7 @@ said he enriched English language
 
 refined Eng, metre, more music than Virgil 
 
-## Critique of Pope 
+## Critique of Pope
 precocious child -> translated Ovid's Metamorpheses
 
 mock heroics

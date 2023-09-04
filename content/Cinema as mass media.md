@@ -21,7 +21,7 @@ ban on foreign movies
 
 Fritz Lang (Metropolis) and F.W. Murnau (Nosferatu)
 
-## French new wave
+## French New Wave
 rejection of traditional filmmaking conventions in favor of experimentation
 existential themes, absurdity
 

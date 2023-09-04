@@ -4,7 +4,7 @@ date: 2023-08-09
 tags: ['humanrights','social','society']
 ---
 
-## What are Human Rights? Why do we need them?
+## What Are Human Rights? Why Do We Need Them?
 
 Basic, inalienable rights
 from birth to death

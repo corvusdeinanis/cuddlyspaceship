@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Learning and Forgetting"
 tags: ['psychology','studynotes']
 ---
 
 
-# Learning  
+# Learning
 ## Definition
 relatively durable / lasting change in behaviour that is not the result of maturation, 
 acquiring of new knowledge, skills
@@ -16,13 +15,13 @@ brought about by <u>experience</u>
 2. State
 3. Preferred Learning Styles
 
-## Theories of Learning: 
-### (a)  Classical Conditioning  
+## Theories of Learning:
+### (a) Classical Conditioning
 - **Ivan Pavlov**, Russian Physiologist
 - Type of conditioning where a neutral (conditioned) stimulus replaces the natural (unconditioned) stimulus, i.e., the conditioned stimulus elicits the same response as the natural stimulus. unconditioned response -> conditioned response
 - Bell ringing experiment, saliva, measured
 
-#### Factors - 
+#### Factors -
 a. Extinction
 b. Spontaneous Recovery
 c. Stimulus Generalization
@@ -31,7 +30,7 @@ e. Higher Order Conditioning
 
 **Watson** -> Little Albert; toy, sound, induce fear
 
-### (b) Operant Conditioning  
+### (b) Operant Conditioning
 - BF Skinner
 - Increases chances of particular behaviour by **reinforcement**
 - voluntary
@@ -67,7 +66,7 @@ Cats
 any behavior that is followed by pleasant consequences = increase behaviour
 will stop when consequences stop 
 
-### (c) Insight learning 
+### (c) Insight Learning
 - A ha! moment
 - perceptual reorganization after few trials
 - sudden realization of solution
@@ -78,20 +77,20 @@ We observe and learn from others' experience not just ours
 
 
 
-# Memory  
+# Memory
 ## Definition
 Memory = encode, store and retrieve info 
 to organize and store information, ready for retrieval when needed
 
-## Memory process
+## Memory Process
 Encode -> Storage -> Retrieval
 
-## Memory Models: 
-### Atkinson and Shiffrin model, 
-###  Neural Network Models
+## Memory Models:
+### Atkinson and Shiffrin Model,
+### Neural Network Models
 
-## Types of Memory – 
-### Sensory, 
+## Types of Memory –
+### Sensory,
 ### STM /Working
 ### Long Term
 ```mermaid
@@ -102,7 +101,7 @@ b -->d(aka Procedural Memory. <br> Does not need conscious recollection)
 c -->e(aka Declarative Memory.<br> Needs conscious recollection. Biographic memory)-->e1(Episodic or autobiographical)
 e-->e2(Semantic or factual)
 ```
-## Rehearsal 
+## Rehearsal
 - Maintenance Rehearsal / Rote Learning
 - Elaborative Rehearsal -> Meaningful; remember for longer
 
@@ -111,25 +110,25 @@ e-->e2(Semantic or factual)
 - Chunking
 - Rehearsal
 
-# FORGETTING:  
+# FORGETTING:
 
 Defn - Forgetting is the loss or change in information that was previously stored in short-term or long-term memory. It can occur suddenly or it can occur gradually
 
-## Reasons for Forgetting /Theories of forgetting: 
-### Trace decay theory,
+## Reasons for Forgetting /Theories of Forgetting:
+### Trace Decay Theory,
 memory trace = neural pathway; strengthens with use, fades with disuse | Ebbinghaus Forgetting Curve
-### Encoding failure theory 
+### Encoding Failure Theory
 wasn't encoded properly, fault in first stage
-### Displacement theory
+### Displacement Theory
 loss in short term memory; when new info comes in old is lost
-### Retrieval-failure theory,  
+### Retrieval-failure Theory,
 tip of the tongue effect, memory is there but diff w recall due to lack of retrieval cues. 
-#### Retrieval cues - 
+#### Retrieval Cues -
 	  - state-dependent
 	  - context-dependent
 	  - semantic
 
-### Interference theory.
+### Interference Theory.
 1. **proactive** - new memories are prevented by old memories 
 	e.g. writing old year instead of current year 
 2. **retroactive** - old memories are altered by new ones

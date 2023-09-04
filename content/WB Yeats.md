@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "WB Yeats"
 tags: ['english','literature','poet','person']
 ---

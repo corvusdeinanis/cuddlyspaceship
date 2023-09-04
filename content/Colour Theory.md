@@ -2,7 +2,6 @@
 title: Colour Theory
 date: 2023-05-12
 tags: graphicdesign
-dg-publish: true
 ---
 
 # Colour Wheel
@@ -17,7 +16,7 @@ Orange, green, violet
 Primary + Secondary
 6
 
-## Complementary 
+## Complementary
 colours opposite
 
 ## Adjacent
@@ -28,7 +27,7 @@ colours opposite
 All colours have - Hue, Intensity, and Value
 Munsell System
 
-## Hue 
+## Hue
 Hue = name of colour
 Warm or cold
 Warmth of a colour is a property of hue
@@ -41,7 +40,7 @@ Warmth of a colour is a property of hue
 	  - there can be a "cool green" and a "warm green"
 	  - useful for colour schemes for harmony
 
-## Value 
+## Value
 Most important dimension
 Lightness or darkness 
 **Shade** - add black
@@ -51,21 +50,21 @@ Lightness or darkness
 aka saturation aka purity aka strength
 To lower intensity, add grey
 
-# Some rules 
+# Some Rules
 
-## 1. Every colour affects the other colour 
+## 1. Every Colour Affects the other Colour
 and how we perceive it. 
 Depending on the colour of other elements, the background, etc. something might appear too dark or too small
 
-## 2. Adding depth 
+## 2. Adding Depth
 Warmer colours seem to appear closer 
 Cooler colours appear farther
 Farther elements - cooler and less intense
 
-## 3. Colour under different light conditions
+## 3. Colour under Different light Conditions
 direction of light, direct/indirect light, shadows, the surface underneath/reflected light, everything plays a role
 
-## 4. Different lights create different colors
+## 4. Different Lights Create Different Colors
 Sunlight = warm
 Artificial light = cool 
 
@@ -75,13 +74,13 @@ shadows - usually cool
 
 ## 5. Emotional Effect of Colour
 
-## 6. Colours create different moods
+## 6. Colours Create Different Moods
 Bright, warm colours - happy and light
 low dark colours - gloomy
 
 value and intensity = low? gloomy mood, serious atmosphere
 
-## 7. Colour proportion !!!
+## 7. Colour Proportion !!!
 Don't use too many colours, too intensely 
 Stick to fewer hues 
 too many intense colours = compete for attention, appear in disarray, sore to look at
@@ -103,7 +102,7 @@ too many intense colours = compete for attention, appear in disarray, sore to lo
     
 -   **Square** – A variant of tetradic; you find four colors evenly spaced on the color wheel (i.e., 90° apart). Unlike tetradic, square schemes can work well if you use all four colors evenly.
 
-# RGB vs RYB vs CMYK
+# RGB Vs RYB Vs CMYK
 
 RGB - **Additive** colour scheme. Used for screens. EMITS light, so more you add colours, gets brighter. Add all colours, you get white
 

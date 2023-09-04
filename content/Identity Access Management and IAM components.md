@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Identity Access Management and Components of IAM"
 tags: ['cloudcomputing','computer','web']
 ---
@@ -10,13 +9,13 @@ to control access of individual and group access
 a combination of policies 
 identifying people and allocating resources
 
-# Components of IAM 
+# Components of IAM
 1. Users
 2. Roles
 3. Groups 
 4. Policies
 
-# Identity management vs access management 
+# Identity Management Vs Access Management
 
 # Services by IAM
 - Identity Management

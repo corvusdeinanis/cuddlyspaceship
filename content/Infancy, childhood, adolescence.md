@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Infancy, Childhood, and Adolescence"
 tags: ['psychology','lifespan']
 ---
 
-# Neonate 
+# Neonate
 
 **Neonate** -> Infant between 0 and 28 days/4 weeks
 learns feeding patterns
@@ -13,7 +12,7 @@ aka newborn
 ## Physical Development
 - Gross Motor
 - Fine Motor
-### Patterns of growth
+### Patterns of Growth
 - **Cephalocaudal** Pattern
   head to toe
 - **Proximodistal**
@@ -40,7 +39,7 @@ by 2nd year - 75% of adult brain weight
 night waking
 half the sleep = REM
 
-### SIDS aka Crib Death
+### SIDS Aka Crib Death
 Sudden Infant Death Syndrome
 - ways to prevent - 
 	- burp the baby
@@ -55,14 +54,14 @@ but parents might roadroll the baby
 1 - 6 months - Breast milk is important
 6 months - mashed food 
 
-### Malnutrition 
+### Malnutrition
 Marasmus - 
 
 Kwashiorkor - 
 
 ## Cry
 Crying is the most important mechanism newborns have to communicate their needs
-### three types of cries :
+### Three Types of Cries :
 1. Basic Crying 
 rhythmic pattern
 usually consists of a cry, a briefer silence, shorter whistle (higher pitch than main cry), then a brief rest before the next cry. 

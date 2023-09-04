@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Editing - Journalism"
 tags: ['journalism']
 ---
@@ -25,7 +24,7 @@ check for errors
 
 tailored for the reader; layman terms / specific, catering to the target audience 
 
-## Why? 
+## Why?
 Space constraints 
 typos, errors, syntax
 adhering to rule book or style book
@@ -43,7 +42,7 @@ image should tell its own story
 
 photo editors collaborate closely with photographers; and they include them / inform them of changes to make sure there's no ill feelings 
 
-### Computer applications 
+### Computer Applications
 
 
 
@@ -51,9 +50,9 @@ photo editors collaborate closely with photographers; and they include them / in
 how many editing cycles? 
 
 
-## Sub editing / Copy Editing
+## Sub Editing / Copy Editing
 editor makes changes to improve a story
-### 5Cs of copy editing :-
+### 5Cs Of Copy Editing :-
 
 1. Clear 
    give context;  must make sense to reader; clarity

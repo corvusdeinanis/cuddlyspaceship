@@ -47,7 +47,7 @@ When India attained **independence**, there were **six radio stations** in India
 
 Vividh Bharati Service was launched in 1957
 
-#### Tryst with destiny broadcast
+#### Tryst with Destiny Broadcast
 
 #### Congress Radio
 Usha Mehta
@@ -156,7 +156,7 @@ Educational Radio -Started in 2000 March, owned by IGNOU - **Gyan Vani**
 
 Gyan Vani station has a range of about 60 km and covers an entire city including the adjoining rural areas
 
-### Principles of writing for radio
+### Principles of Writing for Radio
 
 conversational
 brief and contain only one idea

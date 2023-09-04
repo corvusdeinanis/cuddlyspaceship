@@ -2,7 +2,6 @@
 title: "Clay Shirky"
 date: 2023-05-13
 tags: ['person','computer','internetculture','social','writer']
-dg-publish: true
 ---
 
 **Clay Shirky** (born 1964) is an American writer, consultant and teacher on the social and economic effects of Internet technologies and journalism. 

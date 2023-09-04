@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Allen Ginsberg"
 tags: ['writer','literature','english','queer']
 date: 2023-04-10
@@ -15,7 +14,7 @@ Known for raw - grotesque - unrefined - gritty poetry
 
 meant to be heard, not read 
 
-## His Style 
+## His Style
  [[anaphora]]
 free verse
 raw 

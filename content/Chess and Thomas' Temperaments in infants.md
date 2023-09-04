@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Chess and Thomas' Temperament in infants"
 tags: ['psychology']
 date: 2023-02-27

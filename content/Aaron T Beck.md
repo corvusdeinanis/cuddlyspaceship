@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Aaron T Beck"
 tags: ['psychology','person','psychologist']
 date: 2023-04-04

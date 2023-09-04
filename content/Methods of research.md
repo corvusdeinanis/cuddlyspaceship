@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Methods of Research"
 tags: ['research','researchmethodology']
 ---

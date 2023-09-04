@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Sub Editor"
 tags: ['journalism']
 date: '2022-12-13'
 ---
 
-### Qualities of a sub editor 
+### Qualities of a sub Editor
 1. Tactfulness (dealing w sensitive stuff, need to tact)
 2. Calm
 3. Creative in writing (esp w headlines)
@@ -14,7 +13,7 @@ date: '2022-12-13'
 6. Fearless
 7. Neutral (not [[bias]]ed)
 
-### Functions of a sub editor
+### Functions of a sub Editor
 
 
 ''

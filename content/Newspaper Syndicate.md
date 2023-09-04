@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Newspaper Syndicate"
 date: 2023-05-01
 tags: ['journalism','glossary']

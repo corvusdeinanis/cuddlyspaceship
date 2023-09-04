@@ -1,14 +1,12 @@
 ---
-dg-publish: true
 title: "Intro to Environmental Sci"
 tags: ['evs']
-
 ---
 
-### Pollution - 
+### Pollution -
 addition of undesirable materials into the environment as a result of human activities
 
-#### Types - 
+#### Types -
 1. Air
 2. Noise
 3. Water

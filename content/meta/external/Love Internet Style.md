@@ -12,9 +12,9 @@ tags: ['internet','internetculture','social','archive']
 
 ---
 
-## Transcript of video
+## Transcript of Video
 
->[!Example] Transcript
+> [!Example] Transcript
 This is the Ise shrine
 it's a Shinto shrine in Ise, Japan and the shrine has
 been there for 1300 years and seeing
@@ -51,7 +51,7 @@ charge of technology for a little web
 shop in Manhattan or a dozen of us
 working out of Seth(???) Goldstein's living
 room; it was very picturesque and like
-the dog that caught the... proverbial dog
+the dog that caught the… proverbial dog
 that caught the bus we landed AT&T as a
 client.
 We had some calendaring technology they wanted to use and 
@@ -73,7 +73,7 @@ thought they had us was on support.
 "Where can you possibly get commercial support 
 for Perl?" and we said "we don't have any" 
 "You don't have any support?!"
-we said "We... we didn't say that, we said we don't 
+we said "We… we didn't say that, we said we don't 
 have commercial support. We get our support from the
 Perl community"
 and from the looks on their faces you could tell 

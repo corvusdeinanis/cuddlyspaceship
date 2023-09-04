@@ -6,7 +6,7 @@ tags: ['draft','mediamanagement']
 
 [[Theories of Management]]
 
-# Modern Theories 
+# Modern Theories
 ## Systems Theory
 Systems approach looks at 
 

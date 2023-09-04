@@ -3,11 +3,11 @@ title: "Mary Ainsworth's Attachment Theory"
 date: 2023-07-17
 tags: ['psychology','lifespan']
 ---
-## Mary Ainsworth's Attachment Theory 
+## Mary Ainsworth's Attachment Theory
 emphasized the importance of early relationships
 built on John Bowlby's work [[Bowlby's Attachment Theory]]
 
-### Strange Situation assessment
+### Strange Situation Assessment
 a researcher observes a child's reactions when a mother briefly leaves her child alone in an unfamiliar room. The way the baby reacts in presence of a stranger can tell us about the attachment style 
 
 ### Attachment Styles

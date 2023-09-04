@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Psychology Sem IV Syllabus"
 tags: ['psychology','college','syllabus']
 ---
@@ -33,7 +32,7 @@ d) Ecological systems theory (Urie Bronfenbrenner)
 e) Attachment theory (John Bowlby and Mary Ainsworth) [[Theories of Human Development#Bowlby's Attachment Theory|Bowlby's]]
 
 ## MODULE III: PRENATAL AND PERINATAL DEVELOPMENT
-### 1. PRENATAL PERIOD:  
+### 1. PRENATAL PERIOD:
 a) Heredity- Twin studies &; Adoption studies [[Heredity]]
 
 b) Conception and growth of Zygote, Germ cells, Sex determination 
@@ -46,7 +45,7 @@ e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Perio
 
 f) Problems in the prenatal period and their effects on the fetus: Teratogens, Diseases, Drugs, Environmental hazards; Age of Viability 
 
-### 2. PERINATAL PERIOD: 
+### 2. PERINATAL PERIOD:
 a) Meaning and definition of Perinatal environment [[Perinatal Period]]
 
 b) Birthing process – Stages of birth [[Stages Of Birth]]
@@ -57,7 +56,7 @@ d) Birth complications – Anoxia, Breech birth, premature birth, Low birth weig
 
 e) Types of birth [[Types of Birth]]
 
-## MODULE IV: INFANCY, CHILDHOOD AND ADOLESCENCE 
+## MODULE IV: INFANCY, CHILDHOOD AND ADOLESCENCE
 a) Neonate – Meaning and definition [[Infancy, childhood, adolescence]]
 
 b) New-born reflexes – types, milestones, functions 
@@ -84,7 +83,7 @@ l) [[Language Development]]
 
 m) [[Puberty and Maturation]] – Adolescent growth spurt, Sexual maturation, Adolescent sexuality, Friendship &; Peer relations 
 
-## MODULE V: ADULTHOOD: YOUNG, MIDDLE AND OLD 
+## MODULE V: ADULTHOOD: YOUNG, MIDDLE AND OLD
 a) Emerging adulthood: Meaning and Characteristics [[Emerging Adulthood]]
 b) Physical Development 
 c) Cognitive Development

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Girish Karnad"
 date: 2023-04-26
 tags: ['literature','english','author']

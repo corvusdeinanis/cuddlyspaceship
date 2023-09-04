@@ -1,7 +1,6 @@
 ---
 title: "now"
 date: 2023-06-10
-dg-publish: true
 permalink: "/now"
 ---
 

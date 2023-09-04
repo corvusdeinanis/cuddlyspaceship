@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Press Release"
 tags: ['journalism']
 ---
@@ -35,7 +34,7 @@ used to establish an individual's or brand's credibility in a particular field
 idea is to establish a person or company as a go to source of info to be contacted by the media 
 general intro + third party verification of expertise
 
-## Using Press Releases Effectively 
+## Using Press Releases Effectively
 
 - engaging headline
 - accurate, well-written info
@@ -43,7 +42,7 @@ general intro + third party verification of expertise
 
 
 
-## How Press Releases work (process)
+## How Press Releases Work (process)
 Press releases help find interesting stories + all info needed
 Company starts a CSR initiative
 Company's marketing team creates press release about initiative and distribute it to relevant media outlets

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "The Moon and Sixpence"
 date: 2023-04-25
 tags: ['english','literature']
@@ -39,7 +38,7 @@ third part
 - Ata, and their children were shunned by the native community
 - Before dying, **he painted his greatest work on the walls of his house and then insisted his wife destroy it after his death** 
 
-# Characters 
+# Characters
 unnamed narrator
 Charles Strickland
 Amy Strickland
@@ -50,7 +49,7 @@ Blanch Strove
 Dr Coutras 
 Ata 
 
-# Similarities between Charles and Gauguin 
+# Similarities between Charles and Gauguin
 
 |Charles|Gauguin|
 |:---:|:---:|
@@ -65,11 +64,11 @@ Ata
 
 tldr; both massive jerks who thought art>everything else, screwed over others
 
-### Extra 
+### Extra
 
 **Paul Gauguin**
 
->"Teha'amana was much younger than [Gauguin] and their ability to enjoy anything like a marriage was extremely limited," said Ms Thomson. "They couldn't even speak the same language. It was not an equal relationship, and it wasn't a clear cut professional relationship ... He justified his children by saying that Tahiti always welcomed [the birth of] children. They were something to be celebrated.
+> "Teha'amana was much younger than [Gauguin] and their ability to enjoy anything like a marriage was extremely limited," said Ms Thomson. "They couldn't even speak the same language. It was not an equal relationship, and it wasn't a clear cut professional relationship … He justified his children by saying that Tahiti always welcomed [the birth of] children. They were something to be celebrated.
 > - Belinda Thomson, chief curator of Gauguin's work at Tate Modern in London
 
 Noa Noa, his semi-fictional travel memoirs and traditional island stories which he claimed to have gleaned from Teha'amana's ancient tribal lore, turned out to be copied from a textbook of Polynesian life.

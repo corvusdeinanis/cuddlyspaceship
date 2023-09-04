@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Print Media 1"
 tags: ['journalism']
 date: ['2022-12-01']
@@ -11,7 +10,7 @@ Copy Desk
 Assignment Desk 
 
 
-### Functions of news rooms
+### Functions of News Rooms
 **- Desktop publishing** 
   layout  
   themes during festivals
@@ -31,7 +30,7 @@ Assignment Desk
 
 ---
 
-### Gathering news 
+### Gathering News
 - Journalists have sources. Hence the "according to reliable sources"
 - many beats; crime, sports, entertainment, etc
 - expertise in their specific fields
@@ -39,7 +38,7 @@ Assignment Desk
 
 - submitted to newsrooms
 
-### Editing 
+### Editing
 - Proofread
 - presentation 
 - fixes and makes raw text better
@@ -65,7 +64,7 @@ team effort, lot of different professionals
 watchdog
 online services don't need gatekeepers usually
 
-### Structure / Elements of newspaper organization
+### Structure / Elements of Newspaper Organization
 Editorial
 IT department 
 Advertising 

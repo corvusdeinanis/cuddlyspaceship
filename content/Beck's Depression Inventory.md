@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Beck's Depression Inventory"
 date: 2023-04-04
 tags: ['college','psychology','psychpracs']
@@ -17,7 +16,7 @@ mood, pessimism, sense of failure, self-dissatisfaction, guilt, punishment, self
 
 one of the most widely used psychometric tests
 
-### Versions 
+### Versions
 **BDI** - original version 1961; four responses; last week
 
 **BDI - IA** 1970s revision  - for ease, a and b statements were removed, last two weeks
@@ -26,14 +25,14 @@ one of the most widely used psychometric tests
 validated against Hamilton Depression Rating, positive correlation 
 has high one week retest reliability and internal consistency
 
-## Aim 
+## Aim
 To detect and assess symptoms of depression in general population
 ## Plan
 To administer [[Beck's Depression Inventory]] and assess symptoms of examinee
 ## Procedure
 Seat the subject comfortably
 Ask them to follow the instructions given on the questionnaire 
-## Materials 
+## Materials
 Inventory 
 Scoring Key
 Writing material 
@@ -46,7 +45,7 @@ Writing material
 |17-29 | moderately depressed |
 | 30-63 | severely depressed |
 
-## Instructions 
+## Instructions
 "This questionnaire has a questions which have multiple statements. Read each statement correctly and select the one that describes you best and circle the number next to it. Be sure to read all the statements in each group before selecting an option"
 
 ## Precautions

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Telomere"
 tags: ['biology']
 ---

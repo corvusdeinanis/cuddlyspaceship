@@ -1,7 +1,6 @@
 ---
 title: "Empty Nest Syndrome"
 tags: ['psychology']
-dg-publish: true
 ---
 
 [[Midlife Crisis|<- midlife crisis]]
@@ -12,7 +11,7 @@ when children leave home, parents feel empty
 grief after children leave 
 both men and women are susceptible; but affects the primary caretaker more
 
-## Symptoms 
+## Symptoms
 - loss of purpose - due to the sudden lack of roles and responsibilities    
 - frustration over loss of control
 - emotional distress

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "News Agency"
 date: 2023-05-01
 tags: ['journalism','glossary']

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Newsroom and their functions"
 date: 2023-04-20
 tags: ['journalism']
@@ -33,7 +32,7 @@ a-->h(Circulation)
 
 Each department has its own function but they work in tandem. 
 
-# Functions of a Newsroom 
+# Functions of a Newsroom
 
 A place for all the professionals to come together and work. Work as a team. Everything has to go hand in hand, because everything has to fit neatly into the newspaper. The length of articles, the number of articles, the advertisments, everything. Also accomodates last minute changes
 
@@ -46,7 +45,7 @@ A place for all the professionals to come together and work. Work as a team. Eve
 - field reporters, spot covering, quick gather info that is newsworthy
 - submitted to newsrooms
 
-## **Selection of news**
+## **Selection Of news**
   - For example, on business page, if the newshouse has 50 articles, they can't publish all of it.  -> NSE and BSE (stocks) gets the most importance - So selection of news, **prioritizing**
   - **Gatekeepers** select news. Reporters get multiple news, gatekeepers select news articles based on their "newsworthiness"
   - Select or reject news 

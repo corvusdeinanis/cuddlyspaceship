@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Peg Word Mnemonic"
 date: 2023-04-21
 tags: ['mnemonic','memory']

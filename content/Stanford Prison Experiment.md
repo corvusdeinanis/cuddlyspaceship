@@ -4,8 +4,8 @@ date: 2023-07-11
 tags: ['']
 ---
 
->[!Caution] 
->**Status: Mostly Disproved**
+> [!Caution] 
+> **Status: Mostly Disproved**
 
 **Philip Zimbardo** 
 

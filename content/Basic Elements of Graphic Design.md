@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Basic Elements of Graphic Design"
 date: 2023-05-12
 tags: ['graphicdesign']
@@ -55,7 +54,7 @@ symmetrical business card
 **Asymmetrical designs** are different, but the weight is still evenly distributed. The composition is balanced because it calls attention to the right things (in this example, the person's name and company logo).
 asymmetrical business card
 
-## The rule of thirds
+## The Rule of Thirds
 
 This imagines your work area divided into a 3x3 grid. 
 The focal point of the image is placed on or near one of the grid lines, creating visual balance with the rest of the space.

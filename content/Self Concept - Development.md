@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Self Concept Development"
 tags: ['psychology','lifespan']
 ---
@@ -12,22 +11,22 @@ physically, emotionally, socially, spiritually
 overall idea we have about who we are
 how we perceive, think, and value ourselves
 
-### Mirror Test 
+### Mirror Test
         >add<
 (!tf)
 
-### Characteristics of self concept
+### Characteristics of Self Concept
 multi-dimensional - 
 learned, not inherent
 
-### What it includes:
+### What it Includes:
 How we see ourselves
 our roles (father,son,sister,etc)
 personality traits
 hobbies, passions
 
 
-### How it changes with time
+### How it Changes with time
 more malleable during childhood and early adulthood
 it can change later but is harder
 
@@ -37,11 +36,11 @@ it can change later but is harder
 4. 21 months - 36 months - concept of "I", concept of possession
 
 
-### Link between self esteem and self concept
+### Link between Self Esteem and Self Concept
 (!tf)
 
 
-### Types of self 
+### Types of Self
 (!e)
 
 Academic
@@ -51,7 +50,7 @@ Athletic
 Emotional 
 Moral 
 
-### Ideal self
+### Ideal Self
 (!e)
 
 Who we want to be 

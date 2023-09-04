@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "7 layers of OSI"
 tags: ['cloudcomputing','stub']
 ---
@@ -12,7 +11,7 @@ tags: ['cloudcomputing','stub']
 6. Presentation 
 7. Application
 
->example of calculator
+> example of calculator
 
 ```mermaid
 flowchart 

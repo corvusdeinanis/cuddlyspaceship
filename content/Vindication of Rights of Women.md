@@ -35,7 +35,7 @@ tags: ['literature','gender','feminism']
 
 ---
 
->[!note] **personal notes** - 
+> [!note] **personal notes** - 
 I think more radical texts are forgotten or erased. Liberalism always strikes. I'm sure there were more radical women back then, but people will listen only when their interests are in question. You always have to appeal to the majority; it is ALWAYS a compromise.
 You always have to pursue middle ground. 
 Example, Rosa Parks was not the first woman to protest the way she did, but she was MADE the first because the other woman was "too radical" 

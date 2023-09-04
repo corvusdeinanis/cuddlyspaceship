@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Ethical Considerations in Research"
 date: 2023-04-18 
 tags: ['research','researchmethodology']
@@ -8,7 +7,7 @@ tags: ['research','researchmethodology']
 Ethical considerations are principles that guide research 
 code of conduct
 
-## Why? 
+## Why?
 to protect **rights** of research participants
 enhance research **validity** 
 maintain academic **integrity**
@@ -17,7 +16,7 @@ maintain academic **integrity**
 reviews a research proposal and approves it only if it is ethical, and does not harm people 
 any modification requires resubmitting proposal with modifications 
 
-## Ethical Issues 
+## Ethical Issues
 
 1. Voluntary participation (not coerced, can leave at any point)
 

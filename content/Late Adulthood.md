@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Late Adulthood"
 date: 2023-04-21
 tags: ['lifespan','psychology','biology']
 ---
 
-## Physical Development 
+## Physical Development
 Brain shrinks; 5-10% loss in mass 
 Brain volume decreases (up to 15%)
 

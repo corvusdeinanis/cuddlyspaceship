@@ -1,3 +1,2 @@
 ---
-dg-publish: true
 ---

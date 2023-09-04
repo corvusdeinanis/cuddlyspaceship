@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "BF Skinner"
 tags: ['psychology']
 ---

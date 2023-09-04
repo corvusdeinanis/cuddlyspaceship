@@ -1,7 +1,8 @@
 ---
-dg-publish: true
-title: "Character of Dogs"
-tags: ['english','literature']
+title: Character of Dogs
+tags:
+  - english
+  - literature
 date: 2023-04-09
 ---
 

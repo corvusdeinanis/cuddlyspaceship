@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Types of Research"
 tags: ['research']
 ---
@@ -23,13 +22,13 @@ aim - find a solution for an immediate problem facing a society
 aim - mainly concerned with generalizations and w the formulation of a theory / gathering knowledge
 aka pure or basic research
 
-# Lifespan  
-## Longitudinal 
-## Cross Sectional 
+# Lifespan
+## Longitudinal
+## Cross Sectional
 
 # Clinical / Diagnostic
 
-# Lab setting (Experimental) and Field 
+# Lab Setting (Experimental) and Field
 
 ### Group of Subjects
 - between groups

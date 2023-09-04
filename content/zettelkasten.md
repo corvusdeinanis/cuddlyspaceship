@@ -1,7 +1,8 @@
 ---
-title: "Zettelkasten"
-tags: ['philosophy', 'tool']
-dg-publish: true
+title: Zettelkasten
+tags:
+  - philosophy
+  - tool
 ---
 
 ## Quick Facts

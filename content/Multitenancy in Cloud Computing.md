@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Multitenancy in Cloud Computing"
 tags: ['cloudcomputing']
 ---
 
-## What is it?
+## What is It?
 single software instance - multiple users sharing resources in cloud 
 different consumers (tenants) are isolated from other 
 
@@ -16,9 +15,9 @@ different consumers (tenants) are isolated from other
 - potential security risks 
 - if one consumer is taking up too much, might slow others down 
 
-## Multitenant vs Single Tenant Cloud 
+## Multitenant Vs Single Tenant Cloud
 
-## Benefits of Multitenant 
+## Benefits of Multitenant
 - can save money 
 	cheap to scale
 - flexible
@@ -28,6 +27,6 @@ different consumers (tenants) are isolated from other
 It's like an apartment; data is different 
 
 
-# Resource pooling 
+# Resource Pooling
 allows cloud providers to pool large-scale IT resources to serve multiple cloud consumers.
 Resource pooling is commonly achieved through multitenancy technology, and therefore encompassed by this multitenancy characteristics.

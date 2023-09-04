@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Stages of birth"
 tags: ['lifespan','biology']
 date: 2023-01-17
@@ -14,5 +13,5 @@ DILATE the cervix to an opening of ~10cm so baby can move from uterus to birth c
 ## Second Stage
 Baby's head starts to move through the cervix and the birth canal. Stops when the baby emerges
 
-## Third Stage  | After birth 
+## Third Stage | After Birth
 

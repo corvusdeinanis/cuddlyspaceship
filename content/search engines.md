@@ -2,13 +2,12 @@
 title: "search engines"
 date: 2023-06-15
 tags: ['internet','web']
-dg-publish: true
 ---
 
-## What are they?
+## What Are They?
 Search engines help us find content on the web. They have a vast database that is continuously updated. Depending on the key words, they return results that are relevant. Different search engines do this in different ways and rank the pages differently. 
 
-## Processes involved 
+## Processes Involved
 ### Crawling
 Search engines have bots called "spiders" or "web crawlers" that are continuously scanning the Internet for content. 
 ### Indexing

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Spoon Theory"
 tags: ['resource','psychology','mentalhealth'] 
 date: 2022-07-29

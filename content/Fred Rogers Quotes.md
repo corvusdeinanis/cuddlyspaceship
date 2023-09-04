@@ -37,7 +37,7 @@ Here are some of my favourite quotes by Mr Rogers.
 29.  “You've made this day a special day, by just your being you. There's no person in the whole world like you, and I like you just the way you are.”
 30.  “A high school student wrote to ask, "What was the greatest event in American history?" I can't say. However, I suspect that like so many "great" events, it was something very simple and very quiet with little or no fanfare (such as someone forgiving someone else for a deep hurt that eventually changed the course of history). The really important "great" things are never center stage of life's dramas; they're always "in the wings". That's why it's so essential for us to be mindful of the humble and the deep rather than the flashy and the superficial.”
 31.  “All our lives, we rework the things from our childhood, like feeling good about ourselves, managing our angry feelings, being able to say good-bye to people we love.”
-32. >>
+32. > >
     “Things Are Different: 
     You never know the story
     By the cover of the book.
@@ -61,7 +61,7 @@ Here are some of my favourite quotes by Mr Rogers.
 35.  “People have said “Don’t cry” to other people for years and years, and all it has ever meant is “I’m too uncomfortable when you show your feelings: don’t cry.” I’d rather have them say, “Go ahead and cry. I’m here to be with you.”
 36.  “For Rogers, the very act of asking questions, and trying to answer them honestly, was the key to growing and learning: "We can't always know what's behind a child's question. But if we let a child know we respect the question, we're letting that child know that we respect him or her. What a powerful way to say, "I care about you!”
 37.  “Mary Lou Kownacki: “There isn’t anyone you couldn’t love once you’ve heard their story.”
-38.  “To see people who will notice a need in the world and do something about it [...] Those are my heroes.”
+38.  “To see people who will notice a need in the world and do something about it […] Those are my heroes.”
 39.  “Dr. McFarland once invited a well-known sculptor from the faculty of Carnegie Institute of Technology (now Carnegie Mellon University) to come to our nursery school. Dr. McFarland said to him, 'I don't want you to teach sculpting. All I want you to do is to love clay in front of the children.'  And that's what he did. He came once a week for the whole term, sat with the four- and five-year-olds as they played, and he 'loved' his clay in front of them. The adults who have worked at the center for many years have said that not before or since have the children in that school used clay so imaginatively as when they had those visits from the sculptor who obviously delighted in his medium.”
 40.  Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people.
 

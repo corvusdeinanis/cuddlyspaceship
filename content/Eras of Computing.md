@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Eras of Computing"
 tags: ['cloudcomputing','cloudcomputing']
 date: 2023-04-16 
 ---
-# Eras of Computing 
+# Eras of Computing
 
 Tabulating Era -> Programmable Computers -> Cognitive Computer System Era 
 
@@ -19,7 +18,7 @@ examples - abacus, difference engine, tabulating machine
 computers could do complicated commands - established a language for them - machine code (binary) - could be expressed through physical hardware 
 More programming languages 
 
-## 3) Cognitive Era 
+## 3) Cognitive Era
 (2010 -> the transition began; still not there)
 
 Allows machines to execute instructions based on learning from large datasets instead of preprogrammed instructions

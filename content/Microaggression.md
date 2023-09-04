@@ -19,14 +19,14 @@ A **subtle** or indirect form of discrimination or prejudice that is often unint
 Psychologist Derald Wing Sue defines microaggressions as *"brief, everyday exchanges that send denigrating messages to certain individuals because of their group membership"*. The persons making the comments may be otherwise well-intentioned and unaware of the potential impact of their words.
 
 
-## Types of Microaggressions: 
+## Types of Microaggressions:
 
 According to Sue _et al_., ^[https://doi.org/10.1037%2F0003-066x.62.4.271] microaggressions seem to appear in four forms:
 
-### Microassault 
+### Microassault
 an explicit racial derogation; verbal/nonverbal; e.g. name-calling, avoidant behavior, purposeful discriminatory actions.
 
-### Microinsult 
+### Microinsult
 communications that convey rudeness and insensitivity and demean a person's racial heritage or identity; subtle snubs; unknown to the perpetrator; hidden insulting message to the recipient.
 
 ### Microinvalidation

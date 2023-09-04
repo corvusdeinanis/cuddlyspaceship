@@ -4,7 +4,7 @@ date: 2023-07-14
 tags: ['mediamanagement']
 ---
 
-# Why do we need media management?
+# Why Do We Need Media Management?
 
 Media management is a discipline connected to business administration. It involves managing, organizing, and marketing media enterprises. 
 

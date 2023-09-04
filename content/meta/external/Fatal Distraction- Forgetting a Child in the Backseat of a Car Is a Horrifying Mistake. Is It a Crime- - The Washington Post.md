@@ -19,7 +19,7 @@ tags: ['psychology','social','omnivore','external']
 
 
 ---
-## Article 
+## Article
 
 
 This is an archived version of the article for personal use and for posterity. Please 
@@ -49,11 +49,11 @@ A group of middle-schoolers filed into the room for a scheduled class trip to th
 
 The trial would last three days. Sitting through it, side by side in the rear of the courtroom, were two women who had traveled hours to get there. Unlike almost everyone else on the spectator benches, they were not relatives or co-workers or close friends of the accused.
 
-“. . . the lower portion of the body was red to red-purple. . .”
+“… the lower portion of the body was red to red-purple…”
 
 As the most excruciating of the evidence came out, from the medical examiner, the women in the back drew closer together, leaning in to each other.
 
-“ . . . a green discoloration of the abdomen . . . autolysis of the organs . . . what we call skin slippage . . . the core body temperature reaches 108 degrees when death ensues.”
+“ … a green discoloration of the abdomen … autolysis of the organs … what we call skin slippage … the core body temperature reaches 108 degrees when death ensues.”
 
 Mary -- the older, shorter one -- trembled. Lyn -- the younger, taller one with the long, strawberry-blond hair -- gathered her in, one arm around the shoulder, the other across their bodies, holding hands.
 
@@ -65,9 +65,9 @@ In 2013, 43 children died from vehicle-induced heat stroke. As summer temperatur
 
 \*\*\*
 
-“Death by hyperthermia” is the official designation. When it happens to young children, the facts are often the same: An otherwise loving and attentive parent one day gets busy, or distracted, or upset, or confused by a change in his or her daily routine, and just... forgets a child is in the car. It happens that way somewhere in the United States 15 to 25 times a year, parceled out through the spring, summer and early fall. The season is almost upon us.
+“Death by hyperthermia” is the official designation. When it happens to young children, the facts are often the same: An otherwise loving and attentive parent one day gets busy, or distracted, or upset, or confused by a change in his or her daily routine, and just… forgets a child is in the car. It happens that way somewhere in the United States 15 to 25 times a year, parceled out through the spring, summer and early fall. The season is almost upon us.
 
-Two decades ago, this was relatively rare. But in the early 1990s, car-safety experts declared that passenger-side front airbags could kill children, and they recommended that child seats be moved to the back of the car; then, for even more safety for the very young, that the baby seats be pivoted to face the rear. If few foresaw the tragic consequence of the lessened visibility of the child . . . well, who can blame them? What kind of person forgets a baby?
+Two decades ago, this was relatively rare. But in the early 1990s, car-safety experts declared that passenger-side front airbags could kill children, and they recommended that child seats be moved to the back of the car; then, for even more safety for the very young, that the baby seats be pivoted to face the rear. If few foresaw the tragic consequence of the lessened visibility of the child … well, who can blame them? What kind of person forgets a baby?
 
 The wealthy do, it turns out. And the poor, and the middle class. Parents of all ages and ethnicities do it. Mothers are just as likely to do it as fathers. It happens to the chronically absent-minded and to the fanatically organized, to the college-educated and to the marginally literate. In the last 10 years, it has happened to a dentist. A postal clerk. A social worker. A police officer. An accountant. A soldier. A paralegal. An electrician. A Protestant clergyman. A rabbinical student. A nurse. A construction worker. An assistant principal. It happened to a mental health counselor, a college professor and a pizza chef. It happened to a pediatrician. It happened to a rocket scientist.
 
@@ -161,7 +161,7 @@ By experimentally exposing rats to the presence of cats, and then recording elec
 
 Diamond stops.
 
-“There is a case in Virginia where this is exactly what happened, the whole set of stress factors. I was consulted on it a couple of years ago. It was a woman named, ah . . .”
+“There is a case in Virginia where this is exactly what happened, the whole set of stress factors. I was consulted on it a couple of years ago. It was a woman named, ah …”
 
 He puts down his fork, searches the ceiling, the wall, the floor, then shakes his head. He’s been stressing over his conference speech, he says, and his memory retrieval is shot. He can’t summon the name.
 
@@ -317,7 +317,7 @@ The answer to the problem, Fennell believes, lies in improved car safety feature
 
 What is the worst case she knows of?
 
-“I don’t really like to . . .” she says.
+“I don’t really like to …” she says.
 
 She looks away. She won’t hold eye contact for this.
 
@@ -353,7 +353,7 @@ Four years have passed, but he still won’t go near the Catholic church he’d 
 
 \*\*\*
 
-“This is a case of pure evil negligence of the worse kind . . . He deserves the death sentence.”
+“This is a case of pure evil negligence of the worse kind … He deserves the death sentence.”
 
 “I wonder if this was his way of telling his wife that he didn’t really want a kid.”
 
@@ -375,11 +375,11 @@ After Lyn Balfour’s acquittal, this comment appeared on the Charlottesville Ne
 
 Lyn Balfour’s Ruckersville home is fragrant with spice candles and the faintly sweet feel of kitsch. Braiden boings happily in a baby bouncer, the same one Bryce had, and crawls on a patchwork comforter that had been Bryce’s, too. As Balfour is text-messaging Jarrett in Iraq, she’s checking out Braiden’s diaper, multitasking as always.
 
-“People say I’m a strong woman,” Balfour says, “but I’m not. It’s just that when I grieve, I grieve alone . . .”
+“People say I’m a strong woman,” Balfour says, “but I’m not. It’s just that when I grieve, I grieve alone …”
 
 The pacifier pops out of Braiden’s mouth. Balfour rinses it, pops it back in.
 
-“ . . . because deep down I feel I don’t have the right to grieve in front of others.”
+“ … because deep down I feel I don’t have the right to grieve in front of others.”
 
 Balfour says she has carefully crafted the face she shows the world.
 
@@ -397,21 +397,21 @@ Balfour doesn’t like to think about Bryce’s final ordeal. A kindly doctor on
 
 “When I was 16 in high school,” she says, “I was date-raped. I had an abortion. I never told anyone, not my friends and not my mother. As the abortion was happening, I prayed to God and asked Him to take the baby back, and give him back to me when I could take care of him.”
 
-So . . .?
+So …?
 
-“So, I do wonder, sometimes . . .
+“So, I do wonder, sometimes …
 
 Balfour wipes a tear.
 
-“ . . . It’s there in the back of my mind, that what happened to me is punishment from God. I killed a child, and then I had one ripped away from me at the peak of my happiness.”
+“ … It’s there in the back of my mind, that what happened to me is punishment from God. I killed a child, and then I had one ripped away from me at the peak of my happiness.”
 
 On the floor, Braiden is entranced by an Elmo doll.
 
-“Sometimes,” Balfour says, “I wish I had died in childbirth with him . . .”
+“Sometimes,” Balfour says, “I wish I had died in childbirth with him …”
 
 She’s weeping now. For the moment, there’s no soldier left.
 
-“ . . . that way, Jarrett could have Braiden, and I could be with Bryce.”
+“ … that way, Jarrett could have Braiden, and I could be with Bryce.”
 
 \*\*\*
 
@@ -471,7 +471,7 @@ Andrew?
 
 Are you sure you’re okay?
 
-“I try to take my mind off it. When I start thinking about it, I get like . . .”
+“I try to take my mind off it. When I start thinking about it, I get like …”
 
 Like what?
 

@@ -26,11 +26,11 @@ John (Bettes -> Day and Foxe -> Thynn -> Dee -> White)
 Nicholas (Kratzer -> Hilliard)*
 
 
->[!mnemonic] 
->Pietro Has Nicked Giovanni’s Tight Belt in Daylight, 
->Tailing him is making us Thin.
->climbing a Hill, Trespassing (not a good Deed). 
->Frankly, Molly-knew where White hurried
+> [!mnemonic] 
+> Pietro Has Nicked Giovanni’s Tight Belt in Daylight, 
+> Tailing him is making us Thin.
+> climbing a Hill, Trespassing (not a good Deed). 
+> Frankly, Molly-knew where White hurried
 
 ## Renaissance in England
 Renaissance - we usually think of Italy but England had its own Renaissance too 
@@ -60,7 +60,7 @@ Renaissance - we usually think of Italy but England had its own Renaissance too
 
 9) **John Thynn** - random dude who married Mayor of London's daughter, became rich, was an asshole and a manager from hell - wanted a fancy house - sent a letter everyday to the workers - was impatient - 30 years of building - <u>Longleat </u> - Symettrical, intricate
 
-**Renaissance - age when poets wrote in codes, when artists filled paintings with mysterious symbols... ..and even buildings spoke in riddles**     
+**Renaissance - age when poets wrote in codes, when artists filled paintings with mysterious symbols… ..and even buildings spoke in riddles**     
 
 10) **Nicholas Hilliard** - goldsmith - made miniature paintings - very delicate and intricate - painted jewels - almost 3D like texture
  

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Theories of Aging"
 date: 2023-03-29
 tags: ['psychology','lifespan','biology']
@@ -17,10 +16,10 @@ B-->E(Endocrine)
 
 ```
 
-## Why would aging be programmed into our genes?
+## Why Would Aging Be Programmed into Our Genes?
 Factor of evolution; need to procreate
 
-## Genetic Preprogramming theory of aging 
+## Genetic Preprogramming Theory of Aging
 **[[Telomere]]** length reduces every time a cell divides
 Telomere length = good marker of biological age
 
@@ -28,11 +27,11 @@ Telomere length = good marker of biological age
 
 "*our longevity is primarily determined at the moment of conception and is largely reliant on our parents and their genes*" 
 
-## Wear and tear theory of aging / Deterioration Theory / Fundamental Limitation Theory 
+## Wear and Tear Theory of Aging / Deterioration Theory / Fundamental Limitation Theory
 aging is caused by **progressive damage** to cells and body systems
 with time and use, mechanical functions decline
 
-## Disengagement Theory of Aging 
+## Disengagement Theory of Aging
 
 ## Activity Theory of Aging
 

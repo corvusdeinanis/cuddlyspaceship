@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Schindler's List"
 tags: ['movies','english']
 ---
@@ -14,10 +13,10 @@ Story of [[Oskar Schindler]] - how he redeems himself - German patriot and Nazi 
 Profiteer of war - employs Jews - after witnessing horror of Holocaust 
 
 ## Characters
-### Oskar Schindler 
+### Oskar Schindler
 ### Amon Goethe
-### Izthak 
+### Izthak
 
-## Part where he breaksdown
+## Part where He Breaksdown
 
 

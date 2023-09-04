@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Normal Curve"
 date: 2023-05-10
 tags: ['research','statistics']

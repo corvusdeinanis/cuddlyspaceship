@@ -16,7 +16,7 @@ Mr Rogers was a TV show host. A kids' TV show host at that.
 
 "Pfft, why aren't you over a kids' TV show host, you're 21!" 
 
-Well... because he wasn't just any TV show host, he was this Presbyterian minister who didn't like what was displayed on kids television shows, so he went out to change that.
+Well… because he wasn't just any TV show host, he was this Presbyterian minister who didn't like what was displayed on kids television shows, so he went out to change that.
 
 "Umm. Isn't shitting on religious conservatives who are offended by innocuous things YOUR THING? Basically, your favourite hobby?"
 a) That isn't my favourite hobby, that's my second favourite one. 
@@ -34,7 +34,7 @@ Wow, so I can't believe I just spent the entire time JUST trying to introduce Mi
 
 But anyway, I _adore_ Mr Rogers. I've never been the kind of person to have a role model. (Don't put people on a pedestal, right?) I never really found anyone who was amazing enough to be role model material, you know? But Mr Rogers? Him I can confidently call my role model.
 
-Why did his work resonate so much with me? Because... Our beliefs were aligned! When I was around 15, I was struck by what I called an epiphany but now call common sense. I came to the (not so) startling conclusion that most "bad behaviour", as I termed it then, could be traced back to a bad childhood. I postulated that most crimes happen because of fucked up childhoods. Of course, it is more nuanced than that, but it really does hold true to a certain extent. Childhood shapes us. It's the most important part of our lives, but I feel like we don't give it enough importance. Kids will be kids. No! They'll grow up to be ill-functioning caffeine-addicted adults someday!
+Why did his work resonate so much with me? Because… Our beliefs were aligned! When I was around 15, I was struck by what I called an epiphany but now call common sense. I came to the (not so) startling conclusion that most "bad behaviour", as I termed it then, could be traced back to a bad childhood. I postulated that most crimes happen because of fucked up childhoods. Of course, it is more nuanced than that, but it really does hold true to a certain extent. Childhood shapes us. It's the most important part of our lives, but I feel like we don't give it enough importance. Kids will be kids. No! They'll grow up to be ill-functioning caffeine-addicted adults someday!
 
 Mr Rogers understood this. He understood the importance of love and empathy. Of kindness. Of self-acceptance. On his show, he made sure that everyone felt like they had a friend. He extended love.
 

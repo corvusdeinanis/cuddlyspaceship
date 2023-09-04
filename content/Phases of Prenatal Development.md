@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Phases of Prenatal Development"
 date: 2023-04-21
 tags: ['lifespan','biology']
@@ -12,7 +11,7 @@ sperm and egg cell form a **zygote**
 zygote multiplies and travels from fallopian tube to uterine wall
 zygote -> **blastocyst**
 
-### Blastocyst 
+### Blastocyst
 has three layers 
 1. **endoderm**
 inner layer
@@ -24,38 +23,38 @@ muscle and skeletal
 outer layer
 nervous system and skin
 
-##  
+##
 **implantation** takes place
 
-## Period of Embryo / Embryonic (3 weeks - 9 weeks)
+## Period of Embryo / Embryonic (3 Weeks - 9 weeks)
 after implantation
 cells now form an embryo 
 development of brain; structure of forebrain, midbrain, and hindbrain
 heart begins to develop and pulse
 arms and legs start to form 
 
-## Period of Fetus/ Fetal (9th week till birth)
+## Period of Fetus/ Fetal (9th Week till birth)
 sex determined around 9 weeks 
 fetus will be able to move limbs 
 nails, lashes, hair grow 
 most growth weight and length wise happens during this period
 
-## **life support systems**
+## **life Support systems**
 1. amnion
 2. umblical corc
 3. placenta
 
-### Amnion 
+### Amnion
 bag/sac like 
 contains amniotic fluid where embryo floats
 **homeostasis** -> temp, humidity
 **shockproof**
 
-### Umbilical cord
+### Umbilical Cord
 **2 arteries and 1 vein**
 connects placenta and baby
 
-### Placenta 
+### Placenta
 Support system for baby
 disc shaped 
 supplies necessary nutrients and other material needed 

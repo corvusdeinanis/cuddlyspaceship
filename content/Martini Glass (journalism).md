@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Martini Glass (journalism)"
 date: 2023-04-20
 tags: ['journalism']

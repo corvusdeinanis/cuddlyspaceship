@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Types of Averages"
 tags: ['statistics','research','researchmethodology']
 ---

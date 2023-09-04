@@ -366,7 +366,7 @@ Week	Date	External Supervisor Name	Task Handled	Learnings	External Supervisor Fe
 Signature of Student	Seal & Signature of Company Guide
 
 Remarks from the Company Guide:
-Intern .....................has been a keen student with great interest in understanding the day to day classes. Has been asking questions to clear the doubts, also takes initiative in participating in the activities held. Overall an amazing student.
+Intern …………………has been a keen student with great interest in understanding the day to day classes. Has been asking questions to clear the doubts, also takes initiative in participating in the activities held. Overall an amazing student.
 
 
 

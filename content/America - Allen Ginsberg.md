@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "America by Allen Ginsberg"
 tags: ['english','poem','literature']
 author: ['Allen Ginsberg']
@@ -14,7 +13,7 @@ hoped to get out not narrative or beauty but spontaneity, human expression, and 
 
 America is personified
 
->[!Poem]- America 
+> [!Poem]- America 
 > America I’ve given you all and now I’m nothing. America two dollars and twenty seven cents January 17, 1956.   
 > I can’t stand my own mind.
 > America when will we end the human war?

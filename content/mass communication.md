@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "mass communication"
 date: 2023-05-12
 tags: ['journalism','social','communication']

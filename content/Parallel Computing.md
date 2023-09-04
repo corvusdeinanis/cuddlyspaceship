@@ -1,17 +1,16 @@
 ---
-dg-publish: true
 ---
-# Parallel Computing 
+# Parallel Computing
 **many instructions** are carried out **simultaneously** 
 depending on the theory that large problems can often be divided into smaller ones, and then solved concurrently ("in parallel")
 
 it is the main model in computer architecture (multiple cores)
 
-## Why did it arise? 
+## Why Did it Arise?
 
 to understand Parallel Computing, we need to understand why it arose
 
-### Serial Computing / Sequential Computing 
+### Serial Computing / Sequential Computing
 one task(operation/instruction) at a time, in sequence 
 
 ```mermaid
@@ -26,7 +25,7 @@ d(task d)
 - due to hitting a **bottleneck** in terms of **frequency scaling** [^1]
 - higher frequency = more power draw, more heat generated 
 - so instead, we have been able to reduce space needed for components and  pack more computational power in. **More  number of compute models instead of higher frequency** 
-### Silly drawing I made to understand parallel computing better
+### Silly Drawing I Made to Understand Parallel Computing Better
 
 ![A silly comic illustrating how parallel computing came about. By comparing it to the management of a lemonade stand. 100% accurate](images/parallelcomputingcomic.svg)
 
@@ -34,7 +33,7 @@ d(task d)
 
 
 
-## Features 
+## Features
 one computer; many processors/cores 
 usually share storage
 - main model in computers, as multi-core processors (multiple processing units on the same chip)
@@ -54,7 +53,7 @@ usually share storage
 
 ![two cores sharing same memory through bus](images/parallelcomputing1.svg)
 
-## Elements of Parallel Computing 
+## Elements of Parallel Computing
 1. **Computational Problem**    
 	three types: 
 	numerical, logical reasoning, transaction processing 

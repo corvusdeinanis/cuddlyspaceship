@@ -1,14 +1,13 @@
 ---
-dg-publish: true
 title: "Attachment"
 tags: ['psychology']
 ---
 
-# definition 
+# Definition
 strong emotional bond between two people 
 
 
-# Factors affecting attachment - 
+# Factors Affecting Attachment -
 
 During child's development
 
@@ -29,5 +28,5 @@ During child's development
 
 ## Insecure Avoidant
 
-## Disordered Attachment 
+## Disordered Attachment
 

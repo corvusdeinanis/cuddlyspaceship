@@ -13,10 +13,10 @@ TimePeriod/Context:: Contemporary
 Years:: 
 Fields:: IT, web, tech 
 
-### Family 
+### Family
 son of Emmy Award-winning director Ralph Nelson and Academy Award-winning actress Celeste Holm
 
-## Works 
+## Works
 Works:: 
 
 KnownFor:: coining [[hypertext]] and [[hypermedia]], [[Project Xanadu]], coining "transclusion"

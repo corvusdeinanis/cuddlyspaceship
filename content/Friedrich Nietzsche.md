@@ -16,9 +16,9 @@ TimePeriod/Context::
 Years::  
 Fields:: 
 
-### Family 
+### Family
 
-## Works 
+## Works
 Works::  His works include Thus Spoke Zarathustra, Beyond Good and Evil, On the Genealogy of Morality, and The Antichrist.
 
 KnownFor:: eternal recurrence, the master-slave morality, the Apollonian and Dionysian impulses, and the genealogy of morals, morality, his proclamation of the death of God, Übermensch

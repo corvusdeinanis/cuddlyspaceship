@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "A Room of One's Own by Virginia Woolf"
 tags: ['english','essay','feminism','social']
 date: '2022-12-01'
 ---
-# A Room of Ones Own 
+# A Room of Ones Own
 by [[Virginia Woolf]]
 
 # About
@@ -18,16 +17,16 @@ Essay -> 6 chapters
 Tells us how women need to be free from interruptions, need financial and intellectual independence. How women have been historically excluded from things men easily have access to. 
 
 # Characters
-## Mary Beton 
+## Mary Beton
 Narrator
-## Mary Seton 
+## Mary Seton
 Mrs Beton's friend
-## Judith Shakespeare 
+## Judith Shakespeare
 Fictional sister of Shakespeare
 ## Mary Carmichael
 fictional writer whose book is found in the library; narrator finds many faults in the book 
 
-## Real people referenced 
+## Real People Referenced
 William Shakespeare
 **Jane Austen**, **George Eliot**, and the **Brontë sisters**
 **Lady Winchilsea**
@@ -35,13 +34,13 @@ Margaret Cavendish
 **Aphra Behn**
 
 
-# Summary 
+# Summary
 
 Intellectual freedom depends on material things
 Poetry depends upon intellectual freedom
 And woman always have been poor, not for 200 years but from the beginning of time. ***Women have not had a dog's chance of writing poetry. This is why I am laid so much focus on money and a room of one's own***. 
 
-### Chapter 1 - Oxbridge and interruptions
+### Chapter 1 - Oxbridge and Interruptions
 The narrator, a fictionalized version of Woolf: 
 visits **Oxbridge College**  
 Narrator had to present on "Women and Fiction"
@@ -57,18 +56,16 @@ Ate at cafeteria, food was amazeballs unlike the one at Fernham. Compares both.
 
 says **ideas** are not like how we think of them, the sudden glow of a light bulb, but **a result of "rational intercourse"––intellectual exchange––that takes place in settings such as the college. Where women are either not allowed or restricted**
 
-[^1]: a university security guard
-
 ---
 
-### Chapter 2:  London, library
+### Chapter 2: London, Library
 The narrator goes to London and visits the British Library. She finds many books written by men about women, but none by women themselves. 
 No books about their daily lives. 
 She wonders what women’s lives were like in history and **invents** the story of **Judith Shakespeare**, a talented sister of William Shakespeare who is oppressed by her family and society and dies by suicide. She shows how women’s genius has been wasted and silenced
 
 ---
 
-### Chapter 3: Examining past writers
+### Chapter 3: Examining past Writers
 The narrator examines the works of women writers in the nineteenth century, such as **Jane Austen**, **George Eliot**, and the **Brontë sisters**. She praises their achievements despite the difficulties they faced. She analyzes how their gender and social class influenced their style and perspective. She argues that women need to have a room of their own, both literally and figuratively, to write fiction 
 
 ---
@@ -85,7 +82,7 @@ She says that women need to be financially independent but even that doesn't hel
 
 ---
 
-### Chapter 5: Chloe liked Olivia
+### Chapter 5: Chloe Liked Olivia
 The narrator reviews a novel by a contemporary woman writer named Mary Carmichael. She criticizes her for not having the rythm of Jane Austen.  Of the author trying hard not to be typecast as "sentimental". 
 
 Mary Carmichael writes **"Chloe liked Olivia"** which is monumental - it takes away heteronormativity - says out loud what was only whispered -  huge social leap 
@@ -93,7 +90,7 @@ Mary Carmichael writes **"Chloe liked Olivia"** which is monumental - it takes a
 She argues that women need to express their sexuality and emotions to write fiction.
 
 ---
-### Chapter 6:  Androgynous 
+### Chapter 6: Androgynous
 Woolf concludes her argument by exploring the idea of an androgynous mind that can transcend the limitations of gender and create great works of literature. 
 
 **She is inspired by the sight of a man and a woman getting into a taxi together, which symbolizes the harmony and unity of the sexes.** 
@@ -122,7 +119,7 @@ Consequently she was never able to achieve in the way Austen  achieved
 
 --- 
 
-# Questions 
+# Questions
 
 1) According to Virginia Woolf, a woman requires a room of her own to write fiction because she needs to have money and freedom from domestic and social obligations. She argues that women have been historically oppressed and deprived of education, property, and artistic expression by a patriarchal society that values men’s work over women’s. She says that women need to have a space where they can think, create, and express themselves without interruption or interference from men or other women. She also says that women need to have a sense of their own history and tradition as writers, and to develop their own voice and style 
 
@@ -145,3 +142,4 @@ Consequently she was never able to achieve in the way Austen  achieved
 ---
 see also: [[Mary Wollstonecraft]]
 
+[^1]: a university security guard

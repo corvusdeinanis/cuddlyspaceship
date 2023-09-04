@@ -5,13 +5,12 @@ Type: 'Essay'
 Word Count: 1327
 tags: ['Review','Essay']
 date: 2022-06-27
-dg-publish: true
 ---
 
 
->_“But if,” I said, “you picture to yourself that you are pulling against some powerful and oppressive enemy, the struggle will become merely exciting and not exasperating. Imagine that you are tugging up a lifeboat out of the sea. Imagine that you are roping up a fellow-creature out of an Alpine crevass. Imagine even that you are a boy again and engaged in a tug-of-war between French and English.” Shortly after saying this I left him; but I have no doubt at all that my words bore the best possible fruit. I have no doubt that every day of his life he hangs on to the handle of that drawer with a flushed face and eyes bright with battle, uttering encouraging shouts to himself, and seeming to hear all round him the roar of an applauding ring._
+> _“But if,” I said, “you picture to yourself that you are pulling against some powerful and oppressive enemy, the struggle will become merely exciting and not exasperating. Imagine that you are tugging up a lifeboat out of the sea. Imagine that you are roping up a fellow-creature out of an Alpine crevass. Imagine even that you are a boy again and engaged in a tug-of-war between French and English.” Shortly after saying this I left him; but I have no doubt at all that my words bore the best possible fruit. I have no doubt that every day of his life he hangs on to the handle of that drawer with a flushed face and eyes bright with battle, uttering encouraging shouts to himself, and seeming to hear all round him the roar of an applauding ring._
 
->_So I do not think that it is altogether fanciful or incredible to suppose that even the floods in London may be accepted and enjoyed poetically. Nothing beyond inconvenience seems really to have been caused by them; and inconvenience, as I have said, is only one aspect, and that the most unimaginative and accidental aspect of a really romantic situation. An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered._
+> _So I do not think that it is altogether fanciful or incredible to suppose that even the floods in London may be accepted and enjoyed poetically. Nothing beyond inconvenience seems really to have been caused by them; and inconvenience, as I have said, is only one aspect, and that the most unimaginative and accidental aspect of a really romantic situation. An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered._
 
 Reeks of privilege, stupidity, with an air of moral superiority. Impractical, useless. 
 

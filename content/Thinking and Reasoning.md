@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Thinking and Reasoning"
 tags: ['psychology','studynotes','needswork','old']
 ---
@@ -24,7 +23,7 @@ tags: ['psychology','studynotes','needswork','old']
 - Meaning and definition Steps in decision making 🔁
 - Decision making styles: Directive, Analytical, Conceptual, and Behavioural ❓❓❓
 ---
-## 1. Thinking 
+## 1. Thinking
 ### Meaning and Definition
 AKA Cognition (from Latin **Cognitio** - To know)
 
@@ -34,7 +33,7 @@ It is the organizing, interpreting, understanding, and communication of informat
 
 ---
 
-## Building blocks of thinking 
+## Building Blocks of Thinking
 Thinking can be discussed about / studied in the form of Mental Images and Concepts. These are the building blocks of thinking.
 
 ```mermaid
@@ -44,24 +43,24 @@ a --> c("Concepts");
 a --> d("Algorithms and Heuristics");
 ```
 
-### 1. Mental Images - 
+### 1. Mental Images -
 representations of an object or event in the mind. not necessarily visual. Mental images have same properties as that of real objects. 
-><u>For example </u> : 
+> <u>For example </u> : 
 takes the mind longer to scan mental images of large objects than small ones just like the eye
 
-### 2. Concepts - 
+### 2. Concepts -
 Mental categorization of data based on experience. 
 Organize complex phenomena into cognitive categories that are easier to understand and remember. 
 Mental grouping of similar objects, people, events, etc. 
- ><u>For example</u> 
->We categorize birds together based on information we've learnt. If it has wings,
->lays eggs, has a beak, it most likely is a bird. 
+ > <u>For example</u> 
+> We categorize birds together based on information we've learnt. If it has wings,
+> lays eggs, has a beak, it most likely is a bird. 
 
 ### Prototypes
 > are typical, highly representative examples of a concept that correspond to our mental image or best example of the concept. Eg - Crow is a prototype bird
 [[# Concept Formation]]
 
-### 3. Algorithms and heuristics  
+### 3. Algorithms and Heuristics
 [[algorithms]]
 [[heuristics]]
 Methods of problem-solving. 
@@ -77,7 +76,7 @@ Methods of problem-solving.
 
 ---
 
-## Concept Formation 
+## Concept Formation
 <u>process</u> in which person learns to sort experiences and objects  into categories based on past experience. 
 
 Important because shapes the way we think about the world. Is the reason we know apple is a fruit. Concepts are important because - 
@@ -112,7 +111,7 @@ a("Frame the Problem") --> b(Develop and Use Strategies) --> c(Evaluate solution
 (!/)
 
 ---
-## Solving a problem - 
+## Solving a Problem -
 ```mermaid
 flowchart LR
 a --> b --> c
@@ -171,7 +170,7 @@ Ability to come up with novel and original ideas, to think out-of-the-box, diver
 
 ---
 
-## Reasoning 
+## Reasoning
 
 ability to assess things rationally by applying logic
 
@@ -198,7 +197,7 @@ Premises = basic info that allow people to draw conclusions
 go from general -> specific 
 
 ---
-## Types of thinking 
+## Types of Thinking
 
 **Concrete** - Literal thinking, taking it literally, 
 **Abstract** - Thinking in symbols and representations

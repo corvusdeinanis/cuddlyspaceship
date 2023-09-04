@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "How To Write a Research Proposal"
 tags: ['researchmethodology','research']
 date: 2023-03-21 
 ---
 
-# 1. Identification of problem
+# 1. Identification of Problem
 State as a question
 ![[Steps in Formulating Research Problem]]
 
@@ -13,14 +12,14 @@ State as a question
 (remember that your problem is most definitely NOT NOVEL)
 Look at existing literature published in a journal 
 
-# 3. **Objective of Study**
+# 3. **Objective Of Study**
 To find out factors affecting problem 
 gender, location, birth order, age, etc
 
 # 4. **Formulate [[Hypothesis]]**
 Null or alternate hypothesis 
 
-## Formulating a hypothesis 
+## Formulating a Hypothesis
 based on previous reviews and literature 
 
 ```mermaid
@@ -47,7 +46,7 @@ Who is the sample? Factor that into the research objective.
 For example - "Does stress affect wellbeing in IT employees"
 
 
-# 5. Research Design 
+# 5. Research Design
 ## Research Design
 Plan, procedure, and structure of how you solve the research problems 
 

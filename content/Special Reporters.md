@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Special Reporters"
 tags: ['journalism']
 ---

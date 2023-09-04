@@ -228,7 +228,7 @@ For all the chance you'll change your mind
 ```
 
 ---
-## My thoughts
+## My Thoughts
  
 _Storm_ is Tim Minchin through and through. It’s a lesson in skepticism and rationality while being an entertaining and quotable laugh fest that not only mocks alternative medicine but also poses real, valid questions. Storm is as educational as it is riveting. It captures the spirit of science. 
 

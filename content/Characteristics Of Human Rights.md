@@ -13,14 +13,14 @@ cannot be taken away*
 (can be temporarily restricted)
 ## Indivisible and Interdependent
 one set of rights cannot be enjoyed without the other
-## Equal and non-discriminatory
+## Equal and Non-discriminatory
 
 # Human Values
 basic inherent moral inclination towards kindness, honesty, loyalty, love, peace, sympathy
 
 can be abstract or concrete
 
-## Diginity 
+## Diginity
 belief that everyone holds a special value in society 
 just by the virtue of humanity
 [[Imannuel Kant]]

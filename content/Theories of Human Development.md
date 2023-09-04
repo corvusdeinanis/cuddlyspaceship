@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Theories of Human Development"
 date: '2022-12-05'
 tags: ['psychology','lifespan','study']
@@ -54,7 +53,7 @@ A---cognitive
 see also: [[Introduction to Life Span Development#Perspectives / Key issues in Lifespan Development|Key issues in Lifespan Development]]
 
 
-# Psychoanalytic Theories 
+# Psychoanalytic Theories
 focuses on the influence of unconscious
 symbolism
 early experiences with parents extensively shape development

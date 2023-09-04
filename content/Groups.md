@@ -4,10 +4,10 @@ date: 2023-07-06
 tags: ['sociology','psychology','social']
 ---
 
-# What are groups?
+# What Are Groups?
 
 
-# Types of groups 
+# Types of Groups
 ```mermaid
 flowchart 
 A-->B

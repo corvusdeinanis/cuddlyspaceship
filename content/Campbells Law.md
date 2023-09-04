@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Campbell's Law"
 date: 2023-05-12
 tags: ['adages','social']

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Pubery and Maturation"
 tags: ['psychology']
 ---
@@ -7,7 +6,7 @@ tags: ['psychology']
 - growth spurt, sexual maturation, adolescent sexuality, friendship and peer relations
 
 
-## Role of friendships in development
+## Role of Friendships in Development
 influence behaviour
 peer pressure
 

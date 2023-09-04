@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Dawn At Puri by Jayanta Mahapatra"
 tags: ['english','poem']
 author: ['Jayanta Mahapatra']
@@ -39,11 +38,9 @@ twisting uncertainly like light on the shifting sands*
 
 
 
-[^1]: Widows were asked to wear white and not dress up or keep their hair in order to keep them from drawing attention; they are grieving because the center of their lives (husbands) are now dead and they have nothing but death to await. They want to get through the doors of the temple and get purified and go to heaven
-
 ---
 
-## Analysis 
+## Analysis
 
 depicting the **disparity** present in the pious and religious land of Puri. The city is known for the famous Temple of Lord Jagannath. It is among the four Dhams or religious centres of India. The use of irony, contrast and comparison add effectiveness to the description. He
 describes the hollowness of the sacred rites and rituals. .
@@ -84,5 +81,4 @@ her last wish to be cremated here
 
 ---
 
-
-
+[^1]: Widows were asked to wear white and not dress up or keep their hair in order to keep them from drawing attention; they are grieving because the center of their lives (husbands) are now dead and they have nothing but death to await. They want to get through the doors of the temple and get purified and go to heaven

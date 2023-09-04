@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Editorial Structure of Newspaper"
 tags: ["journalism"]
 date: 2023-04-20
 ---
 
-# Structure of Newsrooms 
+# Structure of Newsrooms
 [[Newsrooms and their functions|Newsrooms]] can have various wings depending on the size of the newspaper. They can be divided into editing, reporting, and mechanical wing.
 
 ```mermaid
@@ -86,17 +85,17 @@ In absence of News Editor, play the role
 
 
 # Roles (News Bureau)
-## Bureau Chief 
+## Bureau Chief
 leads central bureau; 
 assigns duties;
 co-ordinates with news wing; 
 reports to news editor / chief sub-editor
 
-## Special Correspondents 
+## Special Correspondents
 (cover national and international news)
 senior-most, most experienced members
 
-## Chief Reporter 
+## Chief Reporter
 covers major events in the city or district 
 assigns duties to reporters and guides them
 plans special stories
@@ -119,7 +118,7 @@ supervise by bureau chief
 ## Chief Photographer
 ## Photographers
 
-# Other elements
+# Other Elements
  They may also have - 
 ```mermaid
 flowchart TD

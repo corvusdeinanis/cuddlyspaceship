@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Kagan's Behavioural Inhibition"
 tags: ['psychology','lifespan']    
 date: 2023-02-27

@@ -2,7 +2,6 @@
 title: "Dunning Krueger Effect"
 date: 2023-05-12
 tags: ['adages','bias']
-dg-publish: true
 ---
 
 The Dunning–Kruger effect is a theoretical **cognitive bias** which was described by **David Dunning** and **Justin Kruger** in a 1999 psychological study and paper. 

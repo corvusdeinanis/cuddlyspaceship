@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Pygmalion"
 tags: ['english','literature']
 ---
 
-# Pygmalion 
+# Pygmalion
 ## Play
 Written by [[George Bernard Shaw]]
 in **1912**
@@ -13,23 +12,23 @@ in **1912**
 
 ![[private/inbox/unprocessed/Victorian Era]]
 
-### Title is based on Greek mythology
+### Title is Based on Greek Mythology
 **Pygamlion** - a sculptor; makes an ivory statue representing ideal womanhood; falls in love w his own creation,
 names her **Galatea**; prays and gets the statue brought to life 
 
 ## Characters
 
-### Eliza Doolitle 
+### Eliza Doolitle
 Flower girl; commoner; "dirty, shabbily dressed, in need of dentist"
 has a cockney accent / southern accent 
 subject of a bet between Henry and Pickering 
 quick-witted
 strong, will stand up for herself
 based on Eliza Sheffield (?)
->[!NOTE]- Eliza Sheffield 	
->Eliza Sheffield - 
+> [!NOTE]- Eliza Sheffield 	
+> Eliza Sheffield - 
 
-### Professor Higgins - Henry Higgins 
+### Professor Higgins - Henry Higgins
 Linguist; studies phonetics and different dialects and ways of speaking
 Lacks empathy
 rude
@@ -40,7 +39,7 @@ _parallel between Pygmalion and Henry_
 **wants to "mould" Eliza into refined and sophisticated woman 
 from a 'rough' person**, makes a bet w Pickering 
 
-### Colonel Pickering 
+### Colonel Pickering
 friend of Henry's
 author of Spoken Sanskrit
 elderly gentleman; military background
@@ -63,11 +62,11 @@ used to wait every night to catch a glimpse of her
 courts w Eliza via letters
 runs away w Eliza 
 
-### Mrs Higgins 
+### Mrs Higgins
 upper class 
 
 
-### Alfred Doolitle  
+### Alfred Doolitle
 Eliza's father
 Dustman
 no morals, turns his daughter in for five pounds

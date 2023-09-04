@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Story Theatre"
 tags: ['english']
 ---

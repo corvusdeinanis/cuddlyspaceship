@@ -11,7 +11,7 @@ how media affects public opinion
 **1960**
 given by Maxwell McComb and Donald Shaw
 
-## priming
+## Priming
 selection of object
-## framing
+## Framing
 selection of attributes

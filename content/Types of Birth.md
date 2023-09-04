@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Types of Birth"
 tags: ['lifespan','biology']
 date: 2023-01-17
 ---
 
-## Natural 
+## Natural
 aims to decrease pain by decreasing fear through education about childbirth and breathing techniques are used
 	1. Natural Vaginal 
 	2. Induced 
@@ -15,7 +14,7 @@ aims to decrease pain by decreasing fear through education about childbirth and 
 educate how to handle pregnancy and breathing techniques
 special breathing technique during final stage of labor (dur pushing)
 
-## Caesarean 
+## Caesarean
 Surgical 
 incision made in abdomen
 can be due to complications
@@ -30,7 +29,7 @@ ass first. can't breathe
 - Vaccuum 
 - Forceps
 
-### Reasons for c-section
+### Reasons for C-section
 umblical cord prolapse
 breech
 placenta previa 
@@ -38,7 +37,7 @@ expecting multiple
 large baby
 uterine fibroid 
 
-## Factors affecting miscarriage
+## Factors Affecting Miscarriage
 - age
 - mutagens
 - toxins

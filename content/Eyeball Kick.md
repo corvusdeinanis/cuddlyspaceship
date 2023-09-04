@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Eyeball Kick"
 date: 2023-04-10
 tags: ['misc']

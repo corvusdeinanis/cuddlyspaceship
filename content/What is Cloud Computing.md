@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "What is Cloud Computing?"
 date: 2023-04-17
 tags: ['cloudcomputing']
 ---
 
-# What is Cloud Computing? 
+# What is Cloud Computing?
 - it is the **on-demand** delivery of IT resources over the Internet with **pay-as-you-go pricing**
 
 - on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user
@@ -15,7 +14,7 @@ tldr; do not need to buy, own, and maintain resources; scalable; pay only what y
 
 Look below for elaboration on why
 
-# Characteristics 
+# Characteristics
 
 on-demand 
 	can use whenever needed

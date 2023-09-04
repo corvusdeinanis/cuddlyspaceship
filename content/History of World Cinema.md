@@ -6,7 +6,7 @@ tags: ['fictioninfilm','film','movies']
 
 The Oxford History of World Cinema - Geoffrey Nowell Smith
 
-# introduction
+# Introduction
 began as a novelty in few big cities - New York, Paris, London, Berlin
 
 Great Picture Palaces (?e)
@@ -27,7 +27,7 @@ better contructed narratives, better effects, star system (?)
 Cinema other than Hollywood also existed because Hollywood could not  
 
 
-## Colour 
+## Colour
 First, it was hand coloured with delicate brushes
 it was arduous
 
@@ -56,7 +56,7 @@ After WWI, decisive steps were taken to synchronised sound film
 
 ---
 
-## Industry 
+## Industry
 
 **1890s - 1910s -> Pre-Hollywood**
 
@@ -66,7 +66,7 @@ After WWI, American hegeony of Cinema;
 Paris was the epicentre of the cinema industry. This shifted to Los Angeles 
 
 
-### Invention 
+### Invention
 No single source; no single time period 
 can go back to *Camera Obscura* in Italy, 16th Century
 Different people in different countries. For example - Lumiere Brothers, (?e)
@@ -82,7 +82,7 @@ Max Skladanowsky -> few months before Lumiere Brothers' demonstration
 and made France an established leader in cinema
 
 
-### Rise of Hollywood 
+### Rise of Hollywood
 around 1910, number of companies set up business in a small suburb of Hollywood to the west of LA
 (?/) (?tf) - Why Hollywood rose; post WWI,  
 

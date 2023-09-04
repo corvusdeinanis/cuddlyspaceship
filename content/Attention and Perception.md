@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Attention and Perception"
 tags: ['psychology','studynotes','needswork']
 ---
@@ -20,7 +19,7 @@ attention**
 
 ---
 # Attention
-## Meaning 
+## Meaning
 
 > [! QUESTION] What is Attention?
 > Attention is a **cognitive process** of selectively concentrating on a **discrete  aspect of information**, whether considered subjective or objective, while  **ignoring other perceivable information**
@@ -44,9 +43,9 @@ attention**
 | Meaningfulness of <br> material |  Movement  |
 
 
->[!mnemonic] 
->MMM, PIE AH? -> Internal 
->CRIMSoN NL -> External
+> [!mnemonic] 
+> MMM, PIE AH? -> Internal 
+> CRIMSoN NL -> External
 
 ### Internal Factors
 AKA Subjective factors. Depend from person to person. 
@@ -86,7 +85,7 @@ c) **Divided Attention**:
 d) **Alternating Attention**: 
 	Though this attention can be closely related to divided attention, but is different as in case of divided attention we split our attention between two tasks, while in case of alternating attention, **the entire attention is shifted from one task to another** or is done alternately.
 
-### 2. Based on Volition   
+### 2. Based on Volition
    a) **Voluntary** (aka volitional)
 	requires will and determination
 	**not** spontaneous
@@ -104,7 +103,7 @@ d) **Alternating Attention**:
 Auditory - ability to pay attention to auditory stimuli, related to temporal 
 Visual - visual stimuli, related to spatial 
 
-# <u>Models of Attention</u>
+# <u>Models Of Attention</u>
 ## **Selective**
 ### 1. Broadbent's Model of Selective Attention | Early Selection Theory
 ```mermaid 
@@ -164,7 +163,7 @@ style L fill:#ebccff;
 ``` 
 
 ## **Divided**
-### 3. Kahneman's Model 
+### 3. Kahneman's Model
 [[Daniel Kahneman]]
 Attention is scarce. Some tasks require more, some less. 
 We can do multiple tasks at once as long as it is within the capacity of attention.
@@ -213,17 +212,17 @@ person has a<u> hard time attending to two stimuli</u> at a
 time. We see interference when the brain is only able  
 to process a certain amount of information
 
-##### **Momentary intention**: 
+##### **Momentary intention**:
 A conscious decision to  
 allocate attention to certain aspects of the  
 environment.  
 
-##### Enduring disposition
+##### Enduring Disposition
 An automatic influence 
 where people direct their attention.
 
 
-## Summary of Models 
+## Summary of Models
 ---
 |        Model       |         AKA        |                                       Principle                          |        Main Component       | 
 |:------------------:|:------------------:|:------------------------------------------------------------------------------------:|:---------------------------:|
@@ -297,7 +296,7 @@ following prolonged exposure to stimuli.
 
 **bottom-up processing** Perception that consists of the progression of recognizing and processing information from individual components of a stimuli and moving to the perception of the whole.
 
-## Gestalt laws of Perceptual Organisation
+## Gestalt Laws of Perceptual Organisation
 Gestalt School 
 *'the whole is something else than the sum of its parts'*
 **Wertheimer, Koffka, Kohler**
@@ -307,7 +306,7 @@ Gestalt School
 
 
 
- >[!mnemonic]
+ > [!mnemonic]
  <mark>CCP and SS are authoritarian Figures</mark> - Principles of Gestalt
  
  
@@ -318,7 +317,7 @@ Similarity
 Symmetry
 Figure and Ground
 
-### llusion
+### Llusion
 a **misrepresentation** of a “real”  sensory stimulus
 an interpretation that contradicts objective “reality” as defined by general agreement
 universal unlike hallucinations

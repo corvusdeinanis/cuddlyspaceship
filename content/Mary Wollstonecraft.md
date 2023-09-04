@@ -14,11 +14,11 @@ TimePeriod/Context:: 18th Century; England,  [[Age of Enlightenment]], [[Georgia
 Years:: (27 April 1759 - 10 September 1797)
  
 
-### Family 
+### Family
 - Married [[William Godwin]], a forefather of [[Anarchy|anarchism]]
 - Mother of [[Mary Shelley]], author of Frankenstein
 
-## Works 
+## Works
 Works:: *'The [[Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thoughts on Education of Daughter'*
 
 KnownFor:: being the first "feminist", advocation of women rights, pushing for women education

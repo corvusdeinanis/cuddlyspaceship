@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Partition by W.H Auden"
 tags: ['english','politics','poem','colonialism']
 author: ['W.H. Auden']
@@ -8,10 +7,10 @@ author: ['W.H. Auden']
 by **W.H. Auden** 
 
 
-### **About the Author**
+### **About The Author**
 #todo
 
-### Summary and themes
+### Summary and Themes
 about the India - Pakistan partition in 1947
 angry about partition, directed towards Radcliffe
 
@@ -51,7 +50,7 @@ The case, as a good lawyer must. Return he would not,
 Afraid, as he told his Club, that he might get shot.
 
 ---
-#  
+#
 
 condemns colonialism, a system in which people from _outside_ of a given culture make decisions without any understanding
 

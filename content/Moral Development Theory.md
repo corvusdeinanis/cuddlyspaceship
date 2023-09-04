@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Moral Development Theory"
 tags: ['psychology','lifespan']
 ---
@@ -12,7 +11,7 @@ social and cultural norms
 LEARNT
 
 
-# 3 levels -
+# 3 Levels -
 
 ## Preconventional (5-9)
 **Stage 1**. Obedience and Punishment
@@ -26,7 +25,7 @@ LEARNT
 maintain or win affection and approval 
 **stage 4:law and order**
 
-## Post conventional (12 - 15)
+## Post Conventional (12 - 15)
 **stage 5: social contract and individual rights**
 **stage 6: universal ethical principle**
 

@@ -4,7 +4,7 @@ date: 2023-07-07
 tags: ['journalism','mediamanagement']
 ---
 
-## What is media management?
+## What is Media Management?
 
 Media management is a business adminsitration discipline that focuses on managing media enterprises.
 Media management involves strategic planning, administration, organization and marketing of media enterprises. 
@@ -20,7 +20,7 @@ Business administration
 Keep track of sales / views
 
 
-### In government
+### In Government
 media management helps the govt's PSAs reach the audience,
 bring awareness of other information to the public media
 
@@ -50,7 +50,7 @@ the peeps behind the stage
 4. objectivity; constructive criticism | esp wrt the govt 
 5. develop and implementing control mechanisms for media operations
  
-## Principles of media management
+## Principles of Media Management
 1. advertising plan -> partnership; can't blame others
 2. media management is money management
 3. involved with all media

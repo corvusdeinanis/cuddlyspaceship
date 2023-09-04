@@ -20,12 +20,12 @@ chapter 14 -
 - as a philosopher
 - function of poetry 
 
-### Poetry vs Poem
+### Poetry Vs Poem
 **Poetry = activity of poet's mind; wider concept 
 poem = verbal expression; smaller concept** 
 
 
-## Fancy 
+## Fancy
 the process by which the mind rearranges given materials according to associations and pre-established categories
 - more passive
 - not creative, merely mechanical
@@ -43,7 +43,7 @@ Can be of two types
 ### Secondary
 
 
-## Fancy vs Imagination
+## Fancy Vs Imagination
 Fancy =/= Imagination
 fancy is not creative
 it is inferior to imagination

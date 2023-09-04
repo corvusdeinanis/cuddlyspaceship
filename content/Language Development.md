@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Language Development"
 tags: ['psychology','lifespan']
 ---
 
-### something
+### Something
 ## Rules of Language
 1. Phonology
 2. Morphology
@@ -14,14 +13,14 @@ tags: ['psychology','lifespan']
 
 
 ### Child Directed Speech
-### Language Acquisition Device (LAD) - [[Noam Chomsky]] 
+### Language Acquisition Device (LAD) - [[Noam Chomsky]]
 
 ## Stages of Language Development
 ### Cooing
 ### Babbling
 ### One Word Speech
 ### Telegraphic Speech
-### Whole sentence
+### Whole Sentence
 
-### [[Broca's Area]] 
+### [[Broca's Area]]
 [[Wernicke's Area]]

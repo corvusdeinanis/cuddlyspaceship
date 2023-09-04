@@ -2,7 +2,6 @@
 title: Normal Distribution
 date: 2023-05-10
 tags: research
-dg-publish: true
 ---
 
 ~68% fall under the normal 

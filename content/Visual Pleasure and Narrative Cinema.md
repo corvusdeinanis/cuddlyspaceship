@@ -67,4 +67,5 @@ cinema poses questions of ways  (!e)
 cinema **normalizes**
 
 ---
+
 [^1]: see [[Microaggression]]

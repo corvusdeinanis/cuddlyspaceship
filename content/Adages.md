@@ -2,7 +2,6 @@
 title: "Adages"
 date: 2023-05-13
 tags: ['adages','meta','tagpage','bucket','razors']
-dg-publish: true
 ---
 
 'bucket' for laws, adages, aphorisms, principles, and effects 

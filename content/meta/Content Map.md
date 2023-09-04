@@ -12,14 +12,14 @@ I'm specifically interested in [[Bias|biases]], thinking patterns, mental illnes
 
 (add links) (?/)
 
-## Biology 
+## Biology
 A lot to do with [[Senescence]] or aging. Good measure of best practices for health. The intersection between biology and psychology. 
 [[Senescence]], [[negative senescence]], 
 
 ## Philosophy
 I'm all over the place when it comes to this. I'm a noob but not a total noob. This journey began a long time ago, but it's still at a nascent stage. I'm particularly interested in ethics and epistemology. A lot of this intersects with psychology and social topics.
 
-## Social 
+## Social
 From general human behaviour to concrete sociological ideas. Again, intersects a lot with Psychology and Philosophy. And with politics. I want to examine how all of these intersections influence each other and study this deeply. 
 Social programming, feminism, 
 

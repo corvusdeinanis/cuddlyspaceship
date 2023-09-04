@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Preludes"
 tags: ['english','poem']
 ---
@@ -64,7 +63,7 @@ The worlds revolve like ancient women
 Gathering fuel in vacant lots
 
  
-# 
+#
 
 4 uneven parts
 free verse

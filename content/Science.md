@@ -1,7 +1,6 @@
 ---
 title: "Science"
 date: 2023-07-11
-
 ---
 
 # What is a 'Science'?

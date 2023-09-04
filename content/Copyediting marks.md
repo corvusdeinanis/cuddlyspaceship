@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Copyediting marks"
 date: 2023-05-02
 tags: ['journalism']

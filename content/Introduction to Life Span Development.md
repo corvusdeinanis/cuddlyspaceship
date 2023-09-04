@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Life Span Development introduction"
 tags: ['psychology','lifespan','study']
 date: ['2022-11-30']
@@ -17,7 +16,7 @@ Development is the **pattern** of **progressive**, **orderly**
 and **predictable** changes that begin at conception
 and continue throughout life.
 
-# 3 dimensions 
+# 3 Dimensions
 - cognitive
 - biological
 - socio-emotional
@@ -38,7 +37,7 @@ Development is :
 -depends on historical conditions
 -depends on how individual responds and acts to context
 
-# Periods of development
+# Periods of Development
 1) Prenatal [[Phases of Prenatal Development]]
 2) Infancy [[Infancy, childhood, adolescence]]
 3) Early Childhood 
@@ -48,20 +47,20 @@ Development is :
 7) Middle Adulthood [[Middle Adulthood]]
 8) Late Adulthood [[Late Adulthood]]
 
-# Perspectives / Key issues in Lifespan Development
+# Perspectives / Key Issues in Lifespan Development
 
 ## [[Nature vs Nurture]]
 nature - basic growth tendencies are genetically programmed into humans - it is biological 
 nurture - effect of the environment; social environment and biological environment 
 
-## Continuity vs Discontinuity
+## Continuity Vs Discontinuity
 gradual, continuous process vs discrete groups or stages 
 gradual or abrupt?
 
-## Activity vs Passivity
+## Activity Vs Passivity
 (involvement in their own development)
 
-## Specificity vs Generality
+## Specificity Vs Generality
 (is it universal or is it dependent on culture, country, community)
 
 

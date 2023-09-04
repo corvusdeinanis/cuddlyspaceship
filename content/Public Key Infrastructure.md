@@ -1,9 +1,8 @@
 ---
-dg-publish: true
 title: "Public Key Infrastructure"
 tags: ['web','cloudcomputing']
 ---
-# How to trust a cloud? 
+# How to Trust a Cloud?
 
 Each and every security process, layer or software must implement and cover the CIA triad 
 [[Cloud - Basic Terms of security]]
@@ -12,7 +11,7 @@ Each and every security process, layer or software must implement and cover the 
 **I**ntegrity - content is not changed, not tampered; not altered 
 **A**vailabilty - systems available 
 
-## More parameters
+## More Parameters
 Authentication - confirm identity 
 Authorization - process of granting access
 Non-Repudiation - the intended endpoint has sent the message and cannot deny it later 
@@ -20,7 +19,7 @@ Non-Repudiation - the intended endpoint has sent the message and cannot deny it 
 ---
 To provide these, PKI is used
 
-# Public Key Infrastructure 
+# Public Key Infrastructure
 A framework consisting of security policies, communication protocols, procedures, etc
 
 uses a hybrid of [[Asymmetric vs Symmetric Key|symmetric and assymetric key]]
@@ -40,7 +39,7 @@ end
 ```
 
 
-## Components of PKI 
+## Components of PKI
 
 **CA** Certificate Authority
 	 entity issues certificates for requests received

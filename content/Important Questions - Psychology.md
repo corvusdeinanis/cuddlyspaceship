@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Important Questions - Psychology"
 tags: ['psychology','lifespan','study']
 ---

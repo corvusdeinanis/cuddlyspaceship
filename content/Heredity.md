@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Heredity"
 date: 2023-04-21
 tags: ['biology','lifespan']
@@ -52,7 +51,7 @@ each cell has 46 chromosomes except for sex cells
 
 ---
 
-## Genetic Disorders 
+## Genetic Disorders
 
 happen due to mutation which is a rapid change 
 
@@ -71,7 +70,7 @@ Sex linked
 
 ---
 
-### Testing for genetic disorders 
+### Testing for Genetic Disorders
 -   **Carrier testing:** This blood test shows whether you or your partner carry a mutation linked to genetic disorders. This is recommended for everyone considering pregnancy, even if there is no family history.
 -   **Prenatal screening:** This testing usually involves blood testing from a pregnant person that tells them how likely it is that a fetus could have a common chromosome condition.
 -   **Prenatal diagnostic testing:** You can find out whether the developing fetus faces a higher risk for certain genetic disorders. Prenatal testing uses a sample of fluid from your uterus - **amniocentesis**

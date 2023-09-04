@@ -4,14 +4,14 @@ date: 2023-07-07
 tags: ['social','political','people']
 ---
 
-# Equity 
+# Equity
 means giving people what they need to achieve fair outcomes.
 
-# Equality 
+# Equality
 means giving everyone the same resources and opportunities regardless of their differences.
 
 
-# 
+#
 
 - In terms of rights, equity is about ensuring that everyone has access to the same basic human rights, such as education, health care, and justice.
 - In terms of rights, equality is about treating everyone the same under the law, regardless of their identity, background, or circumstances.

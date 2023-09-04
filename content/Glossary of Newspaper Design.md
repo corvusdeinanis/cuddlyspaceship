@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Glossary of Newspaper Design"
 tags: ['journalism']
 ---
@@ -202,7 +201,7 @@ x-height
 
 ---
 
-## Copy-editing marks
+## Copy-editing Marks
 
 ^ - caret
 squiggle - 

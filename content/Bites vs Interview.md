@@ -1,13 +1,11 @@
 ---
-dg-publish: true
 title: "Bites vs Interview"
 tags: ['journalism']
-
 ---
 
 [[Sub Editor]]
 
-## Bites vs Interview
+## Bites Vs Interview
 
 > Bites - quick question or two
 > Interview - full fledged

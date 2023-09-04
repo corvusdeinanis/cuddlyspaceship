@@ -23,13 +23,13 @@ d-->d2(Systems)
 ```
 
 
-# Classical Theories 
+# Classical Theories
 
 ## Scientific Management
 
 (?) people -
 
-### emphasizes on 
+### Emphasizes on
 - Need for developing a **scientific way** of performing each job 
 - Training and preparing workers to perform that particular job
 - Establishing harmonious relations between management and workers so that job is performed in a desired way 
@@ -40,7 +40,7 @@ d-->d2(Systems)
 3. Supervise employees to make sure they follow the prescribed methods
 4. Continue to plan the work but use workers to actually get the work done
 
-### Two Managerial processes 
+### Two Managerial Processes
 emerged from Taylor's approach to management
 
 1) Piece Rate Incentive System
@@ -84,8 +84,8 @@ initiative
 
 ## Bureaucratic Management
 
-# Quantitative Theories 
-## Management Science 
+# Quantitative Theories
+## Management Science
 ## Operations Management
 ## Management Information System
 

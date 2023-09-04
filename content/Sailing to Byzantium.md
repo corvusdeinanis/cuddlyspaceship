@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Sailing to Byzantium by WB Yeats"
 tags: ['english','politics','poem']
 author: ['WB Yeats']
@@ -56,7 +55,7 @@ To lords and ladies of Byzantium
 Of what is past, or passing, or to come.
 
 ---
-# 
+#
 
 **Byzantium** - Existed in classical time
 Present day Istanbul
@@ -90,7 +89,7 @@ golden Byzantine mosaics
 
 ---
 
-# Themes 
+# Themes
 1. Old Age and Mortality; 
 	   leaving the tattered body behind
 2. Power of Art and Immortality through art

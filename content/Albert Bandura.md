@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Albert Bandura"
 tags: ['psychology','person']
 ---

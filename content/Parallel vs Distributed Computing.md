@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Parallel vs Distributed Computing"
 date: 2023-04-16
 tags: ['cloudcomputing']

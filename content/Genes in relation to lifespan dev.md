@@ -1,13 +1,12 @@
 ---
-dg-publish: true
 title: "Genes in relation to lifespan development"
 tags: ['biology', 'psychology', 'stub']
 ---
 
 
-### **Sex Linked vs Sex Limited Genes**
+### **Sex Linked Vs Sex Limited Genes**
 
-### **Chromosomal vs Gene Linked**
+### **Chromosomal Vs Gene Linked**
 
 - Down
 - Kleinfelter
@@ -19,7 +18,7 @@ tags: ['biology', 'psychology', 'stub']
 > Look into genes and sexes 
 > Intersex
  
-## Genetic Counselling 
+## Genetic Counselling
 
 Amniocentesis
 Chronic Villus Sampling

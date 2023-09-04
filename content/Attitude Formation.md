@@ -3,11 +3,11 @@ title: "Attitude Formation"
 date: 2023-08-08
 tags: ['psychology','social']
 ---
-## Factors affecting attitude formation
+## Factors Affecting Attitude Formation
 ### 1. Family & School Environment
 ### 2. Reference Groups
 ### 3. Personal Experiences
-### 4. Media 
+### 4. Media
 
 ## Attitude Formation
 ### Direct Exp

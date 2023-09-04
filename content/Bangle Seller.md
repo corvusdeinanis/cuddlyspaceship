@@ -8,7 +8,7 @@ status: 'bloom'
 
 a poem by **Sarojini Naidu**
 
-## Summary 
+## Summary
 “The Bangle Sellers” is **about a group of bangle sellers** going to the **temple fair** to sell their
 bangles. They describe the bangles vividly and urge the passers-by to buy their wares. The bangles also double as a way to explore womanhood and in particular, the transition of a girl into a woman. It talks about the way society treats women and reduces them to the roles of a daughter, a wife, or a mother.  A woman has no other role in society. 
 
@@ -58,7 +58,7 @@ purple and gold -> maturity, pride, royalty
 grey -> maturity and old age 
 **motherhood**
 
-### anti-patriarchy
+### Anti-patriarchy
 The patriarchal ideology lurks beneath the poem’s surface. The women are described as
 either happy ‘daughters’ or ‘wives.’ Every phase she passes is referred to by a man in her life,
 father, husband, sons. **The women in this poem are fit into boxes that limit their existence to being an object of patriarchy, a mere possession.** The poet writes how the society views women. 

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "algorithms"
 date: 2023-05-11
 tags: ['logic','psychology']

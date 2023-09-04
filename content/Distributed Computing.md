@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Distributed Computing"
 date: 2023-05-04
 tags: ['cloudcomputing']
 ---
 
-## Distributed Computing 
+## Distributed Computing
 
 > "A distributed system is a collection of independent computers that appears to its users as a single coherent system."
 
@@ -13,7 +12,7 @@ tags: ['cloudcomputing']
 
 a single task is divided **among multiple computers** that communicate with **each other over a network** 
 
-### Features 
+### Features
 several **autonomous** computational entities called **NODES**
 each with their own local memory (no shared memory)
 communicate via **message passing** 
@@ -22,7 +21,7 @@ scalable
 can have master/slave relationship
 can be peer-to-peer (p2p)
 
-### Elements of Distributed 
+### Elements of Distributed
 
 (a controller manages or directs the flow of data between two entities; example something that interfaces with the CPU and printer 
 handles the incoming and outgoing signals of the CPU)
@@ -54,7 +53,7 @@ maintains information, controls the management and dispatching of requests
 	allows multiple users to access same info simultaneously 
 	shared database helps synchronization
 
-### Advantages of Distributed  
+### Advantages of Distributed
 - larger storage and memory, faster compute, and higher bandwidth than a single machine
 - might be more cost efficient (compared to a single big powerful computer)
 - no single point of failure
@@ -62,7 +61,7 @@ maintains information, controls the management and dispatching of requests
 - SCALABLE 
 - **Decentralized**
 
-### Types 
+### Types
 1. Mainframe
    not a distributed computer (no idea why it is here then)
 2. Cluster 
@@ -73,7 +72,7 @@ maintains information, controls the management and dispatching of requests
    heterogenous
 
 
-### Applications 
+### Applications
 - email by ARPANET was the largest and most successful implementation of distributed computing 
 - Peer-2-Peer (such as Torrents, file sharing)
 ##

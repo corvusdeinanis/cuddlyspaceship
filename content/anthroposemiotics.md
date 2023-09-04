@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "anthroposemiotics"
 date: 2023-05-12
 tags: ['social','communication']

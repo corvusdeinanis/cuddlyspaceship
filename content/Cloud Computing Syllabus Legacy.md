@@ -2,12 +2,11 @@
 title: "Sem IV Cloud Computing Syllabus"
 date: 2023-05-04
 tags: ['cloudcomputing','syllabus','legacy','2023']
-dg-publish: true
 ---
 
 (this is a legacy file; included for posterity)
 
-# Module 1  
+# Module 1
 [[What is Cloud Computing]]
 Principles of Parallel and Distributed Computing [[Parallel vs Distributed Computing]]
 Eras of Computing, [[Eras of Computing]]
@@ -20,7 +19,7 @@ Cloud Computing at a Glance,
 Computing Platforms and Technologies. 
 [[cloud computing platforms]]
 
-# Module 2 
+# Module 2
 [[Cloud - Roles and Boundaries]]
 [[What is Cloud Computing#Characteristics|Characteristics of Cloud]]
 [[Cloud Delivery Models]]
@@ -28,7 +27,7 @@ Computing Platforms and Technologies.
 The Cloud Provider Perspective, 
 The Cloud Consumer Perspective, 
 
-# Module 3  [[Cloud Computing legacy index]]
+# Module 3 [[Cloud Computing legacy index]]
 Basic Terms and Concepts, [[Cloud - Basic Terms of security]]
 Threat Agents,  
 Cloud Security Threats, 
@@ -39,14 +38,14 @@ Additional Considerations,
 [[Public Key Infrastructure]]
 [[Identity Access Management and IAM components]]
 
-# Module 4  
+# Module 4
 Broadband Networks and Internet Architecture,  
 [[Web Technology]]
 [[Multitenancy in Cloud Computing]]
 Cloud Management Mechanisms: Remote Administration System,  Resource Management System [[Remote Administration System]]
 
 
-# Module 5  
+# Module 5
 Workload Distribution Architecture,  
 [[resource pooling]]
 [[Dynamic Scalability]]

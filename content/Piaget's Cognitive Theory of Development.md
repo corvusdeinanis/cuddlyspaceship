@@ -14,7 +14,7 @@ tags: ['psychology']
    We organize our experiences and observations
    We adapt to situations and new environmental demands
    
-## 4 stages
+## 4 Stages
 **1. **Sensorimotor Stage** (birth to 2)**
 	infants construct an understanding of   the world by coordinating sensory experiences with physical, motoric actions—hence the term sensorimotor 
 **2. Preoperational Stage (2 - 7)**

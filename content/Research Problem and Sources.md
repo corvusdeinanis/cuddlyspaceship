@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Research Problem and Sources"
 date: 2023-04-18
 tags: ['research','researchmethodology']
 ---
-# What is a research problem?
+# What is a Research Problem?
 
 A research problem is a question that the research hopes to answer 
 **specific issue or gap in existing knowledge**
@@ -12,12 +11,12 @@ A research problem is a question that the research hopes to answer
 posed in form of a question 
 (contrast with hypothesis which is a tentative statement, an assumption)
 
-# Why is research problem required? 
+# Why is Research Problem Required?
 - it acts as **introduction** to the reader 
 - provides framework 
 - contextualizes 
 
-# Characteristics 
+# Characteristics
 1. Must be important or necessary
 2. based on factual evidence (NOT HYPOTHETICAL)
 3. Must be relevant 
@@ -26,7 +25,7 @@ posed in form of a question
 ![[Steps in Formulating Research Problem]]
 
 
-# Sources of research problems 
+# Sources of Research Problems
 personal and practical experience
 critical appraisal of literature
 previous research

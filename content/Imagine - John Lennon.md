@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Imagine by John Lennon"
 tags: ['english','song','faith','poem','stub']
 author: ['John Lennon']
@@ -18,7 +17,7 @@ John Lennon asks us to imagine a world, a dream world where humanity is free of 
 "anti-religious, anti-nationalistic, anti-conventional, anti-capitalistic… but because it is sugar-coated, it is accepted."
 
 
->[!NOTE]- Poem
+> [!NOTE]- Poem
 Imagine there's no heaven
 It's easy if you try
 No hell below us

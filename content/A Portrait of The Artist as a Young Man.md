@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "A Portrait of The Artist as a Young Man"
 tags: ['english','movie']
 ---
 
 This is a movie based on the novel. A pale, boring 90 minute distillation of 299 pages. Something a 10 minute summary does a better job of.  
 
-## About 
+## About
 Author: James Joyce
 [[Stream of consciousness]] 
 [[Modernist]]
@@ -58,7 +57,7 @@ while waiting to hear back from the university, strolls on the beach and encount
 
 ---
 
-## Symbols 
+## Symbols
 1) Wading Girl 
    "as delicate as a crane"
    responsible for Stephen's determination to dedicate his life for art.
@@ -68,14 +67,14 @@ while waiting to hear back from the university, strolls on the beach and encount
    She symbolizes "feminine purity". Stephen imagines that as a reward for being religious , he'll  reunite with her in heaven. 
 
 
-## Themes 
+## Themes
 1. Religion, Nationalism, and Art 
 2. Innocence and Experience
 3. Coming of age 
 4. Literature and Life 
 5. Identity 
 
-## Greek Myth 
+## Greek Myth
 Reference to the Greek myth of **Daedalus and Icarus**.
 Stephen's name embodies the idea of flight
 Daedalus represents escape, Icarus represents danger of overestimating

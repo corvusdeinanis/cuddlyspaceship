@@ -3,12 +3,12 @@ title: "Ecological Theory"
 date: 2023-07-17
 tags: ['psychology','lifespan']
 ---
-# Ecological Theory 
+# Ecological Theory
 these place emphasis on the environmental factors
-## Bronfenbrenner’s ecological theory
+## Bronfenbrenner’s Ecological Theory
 Urie Bronfenbrenner proposed the ‘Ecological Systems Theory’ based on dynamic interactions that environments have on the child. 
 
-### 5 stages 
+### 5 Stages
 environment of the child is a nested arrangement of structures, each contained within the next 
 Microsystem 
 	immediate environment; parents, siblings, teachers, peers 

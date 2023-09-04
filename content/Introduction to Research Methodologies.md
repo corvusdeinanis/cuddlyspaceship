@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Introduction to Research Methodologies"
 tags: ['research','researchmethodology','philosophy']
 ---
 
-# What is Research? 
+# What is Research?
 
 is a process of **systematic** **inquiry** that aims to increase the knowledge of a topic or issue
 
@@ -23,7 +22,7 @@ Research consists of -
 	and at last, carefully testing the conclusions
 
 
-## Characteristics 
+## Characteristics
 - is scientific
 - can be applied to any branch of knowledge
 - rational
@@ -38,7 +37,7 @@ Research consists of -
 - Credible
 - Critical 
 
-## Objectives of Research 
+## Objectives of Research
 - discover answers using scientific procedures 
 - to gain **familiarity** with a phenomenon (exploratory/formulatory)
 - to **accurately represent** characteristics of an individual / group (descriptive)
@@ -47,7 +46,7 @@ Research consists of -
 
 answers, to understand, to represent, to diagnose, and to test hypotheses. 
 
-## Motivation for research 
+## Motivation for Research
 (this is bleh and is included only because it is part of the syllabus)
 1. Discover something new
 2. Portray actual characteristics of any phenomena
@@ -57,7 +56,7 @@ answers, to understand, to represent, to diagnose, and to test hypotheses.
 6. Desire to help society 
 7. Desire to gain respect
 
-## Types of Research 
+## Types of Research
 
 ```mermaid
 flowchart LR
@@ -85,16 +84,16 @@ W(open conversations, indepth interviews, <br>esp important in behavioural scien
 ```
 mnemonic: DAAFQQ (pronounced dafuq) 
 
->[!important] Mnemonic
->DAAFQQ (pronounced dafuq)
->
->Descriptive, Analytical, Applied, Fundamental, Quant, Qual
->
->Descriptive vs Analytical (just studying something or causal link finding)
->Applied vs Fundamental (solving a problem or acquiring new knowledge)
->Quantitative vs Qualitative (measuring numerical data vs non-numerical)
+> [!important] Mnemonic
+> DAAFQQ (pronounced dafuq)
+> 
+> Descriptive, Analytical, Applied, Fundamental, Quant, Qual
+> 
+> Descriptive vs Analytical (just studying something or causal link finding)
+> Applied vs Fundamental (solving a problem or acquiring new knowledge)
+> Quantitative vs Qualitative (measuring numerical data vs non-numerical)
 
-### Other types of research 
+### Other Types of Research
 
 - **one-time research** vs **longitudinal** (single time period vs several time periods)
 - **field** setting vs **laboratory** setting (control over variables)
@@ -122,16 +121,16 @@ e(correlational <br> investigate <br> corelation without <br> manipulating data)
 ```
 
 
-## Types of groups in experimental design
+## Types of Groups in Experimental Design
 
-### 1) **Between group difference**
+### 1) **Between Group difference**
    between two or more groups - for eg, groups based on gender; control and test group; etc 
    for example, when a [[t test]] is used
 
-### 2) **Within group** 
+### 2) **Within group**
    the differences between the members of the same group 
    
-### 3) **Repeated measures design** 
+### 3) **Repeated Measures design**
    fewer participants but all of them go through all the conditions
    they serve as their own control
    repeat the experiment 
@@ -141,7 +140,7 @@ e(correlational <br> investigate <br> corelation without <br> manipulating data)
 
 same as within group test apparently
 
-### 4) Blocking 
+### 4) Blocking
    In blocking method, people with a similarity are grouped together. For example, sex. Two blocks, one with male and one with female. From these blocks, the members are assigned control or  test randomly. This ensures **balanced** control and test groups. 
 
 ("Block what you can; randomize what you cannot.")
@@ -182,7 +181,7 @@ e(historical)
 
 ```
 
-# Research Methodology vs Research Methods
+# Research Methodology Vs Research Methods
 
 **Research methodology** is a way to systematically solve the research problem
 **all the methods used** by the researcher during the course of studying 

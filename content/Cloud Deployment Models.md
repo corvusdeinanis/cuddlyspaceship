@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Cloud Deployment Models"
 tags: ['cloudcomputing']
 ---
@@ -31,15 +30,15 @@ centralizing access and resources
 organizational and trust boundaries 
 admin can be outsourced or internal
 
-## Hybrid Cloud 
+## Hybrid Cloud
 two or more cloud deployment techniques
 
-#### other - 
+#### Other -
 Virtual Private Cloud
 Inter-Cloud
 
 ---
->[!QUESTION]- doubts
+> [!QUESTION]- doubts
 on premise in rel to these?
 would a beta access to a program be community cloud?
 extra / unrelated - 

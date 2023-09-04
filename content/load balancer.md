@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "load balancer"
 date: 2023-05-04
 tags: ['cloudcomputing','verify']

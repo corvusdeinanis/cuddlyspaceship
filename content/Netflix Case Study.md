@@ -9,7 +9,7 @@ tags: ['journalism','todo']
 
 (!e)
 
-## Challenges 
+## Challenges
 other streaming platforms
 international growth
 content fragmentation
@@ -30,12 +30,12 @@ increasing debt
 pricing plans
 dependence on the US market
 
-### Opportunities 
+### Opportunities
 International expansion
 mobile streaming
 advertising op  1`portunities
 
-### Threat 
+### Threat
 piracy
 environmental issues
 

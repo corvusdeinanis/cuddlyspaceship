@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "ptsd"
 date: 2023-05-29
 tags: ['psychology','psychiatry']
@@ -8,7 +7,7 @@ tags: ['psychology','psychiatry']
 PTSD (**posttraumatic stress disorder**) is a mental health problem that some people develop after experiencing or witnessing a life-threatening event, like combat, a natural disaster, a car accident, or sexual assault.
 
 
-## DSM V symptoms for PTSD - 
+## DSM V Symptoms for PTSD -
 divided into four: 
 1) Intrusion
 2) Avoidance
@@ -34,21 +33,21 @@ divided into four:
    loss of interest
    feeling detached
    
-### 4) Changes in arousal
+### 4) Changes in Arousal
    hyper arousal; being "on guard", hypervigilance
    heightened startle response
    irritability
    problems w sleep 
    concentration problems
 
-## Criteria 
+## Criteria
 ### Exposure
 to a traumatic event 
 can be direct or indirect 
-### 1 or more intrusion symptom
-### 1 or more avoidance symptom
-###  2 or more changes in negative feelings
-###  2 or more changes in arousal or reactivity
+### 1 Or More Intrusion Symptom
+### 1 Or More Avoidance Symptom
+### 2 Or More Changes in Negative Feelings
+### 2 Or More Changes in Arousal or Reactivity
 ###
 these must last longer than a month
 should bring considerable distress in various areas of life

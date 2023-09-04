@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Cloud Computing Unit 1"
 tags: ['cloudcomputing'] 
 ---

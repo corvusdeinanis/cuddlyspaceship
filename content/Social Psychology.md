@@ -17,7 +17,7 @@ Influence of other people on us and vice versa
 ## Social Environment
 ## Social Interaction
 
-### What does it study?
+### What Does it Study?
 prejudice
 group dynamics
 	see also [[groups#change in behaviour]]
@@ -30,7 +30,7 @@ peer pressure
 
 emerged after [[Existential]] and [[Humanistic]] [[../../../Schools of Psychology]]
 
-## concerned with
+## Concerned with
 1) cognitive processes
 how they are shaped
 why people do what they do

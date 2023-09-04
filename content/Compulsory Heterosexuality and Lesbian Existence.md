@@ -17,7 +17,7 @@ looks at heterosexuality as a **political institution**
 - hope that other lesbians felt the length and breadth of **women identification** and **women bonding**
 - Wanted to dismantle the political institution
 
->*we are the emotional and sexual property of men*
+> *we are the emotional and sexual property of men*
 
 **autonomy of women threatens the family, religion, and state** [^1]
 economic exploitation
@@ -52,7 +52,7 @@ One Love Poems in 1976
 
 - questions notion of men's dependency on 
 
-### three definitions of lesbian 
+### Three Definitions of Lesbian
  - lesbian identity as an act of resistance
 - lesbian identity is the sense of the self of a woman bonded primarily to women who are sexually, and emotionally 
 

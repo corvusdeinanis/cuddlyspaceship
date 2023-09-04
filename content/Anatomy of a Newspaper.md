@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Anatomy of a Newspaper"
 tags: ['journalism']
 date: '2022-12-05'

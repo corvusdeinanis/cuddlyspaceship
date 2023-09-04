@@ -1,12 +1,11 @@
 ---
 title: Hashing
 tags: cloudcomputing
-dg-publish: true
 ---
 
 **Key value pair**
 
-## Hashtable 
+## Hashtable
 indexable 
 has 3 functions - 
 	insert (key,value)
@@ -27,7 +26,7 @@ this is more secure in case of leaks
 
 ---
 
->[!QUESTION]
+> [!QUESTION]
 > Is hashing a type / application of cryptography?
 > How is it different from using a fixed cipher?
 > 

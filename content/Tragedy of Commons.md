@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Tragedy of Commons"
 date: 2023-04-14
 tags: ['politics', 'social']
@@ -11,7 +10,7 @@ For example, if many farmers let their animals graze on a common field, they may
 
 
 
-# Original Hypothetical Scenario 
+# Original Hypothetical Scenario
 by William Forster Lloyd in 1883 
 This was a scenario where cow herders shared a common plot of land where they were each permitted to let their cows to graze, as was typical in English villages. In his theory, overgrazing might happen if a herder brings more cattle to the common than he is allowed to. A herder could benefit more from having more animals while also sharing the costs associated with the commons' resulting damage. The common could be depleted or even destroyed to the detriment of all herders if they all made this individually rational economic choice.
 
@@ -21,11 +20,11 @@ This was a scenario where cow herders shared a common plot of land where they we
 
 # Aristotle
 Not exactly about the tragedy of commons but same underlying principle - 
->*"That which is common to the greatest number gets the least amount of care. Men pay most attention to what is their own: they care less for what is common."*
->- Artistotle
+> *"That which is common to the greatest number gets the least amount of care. Men pay most attention to what is their own: they care less for what is common."*
+> - Artistotle
 
 
-# Garrett Hardin 
+# Garrett Hardin
 American Ecologist
 Focused on population growth, resource usage and depletion, and role of welfare state in this. 
 

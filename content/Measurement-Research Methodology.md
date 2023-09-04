@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "RM IV"
 tags: ['research','researchmethodology']
 ---
@@ -24,7 +23,7 @@ the process of assigning numbers or labels to units of analysis in order to quan
 
 
 
-# Errors in measurement
+# Errors in Measurement
 - respondent
 - situation
 - instrument 

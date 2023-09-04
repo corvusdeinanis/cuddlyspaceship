@@ -13,7 +13,7 @@ low cost comparatively
 set up cost is low relatively
 people who cannot read can still access it 
 
-## Types of programs
+## Types of Programs
 -> News
 -> Music
 -> Talk shows and interviews

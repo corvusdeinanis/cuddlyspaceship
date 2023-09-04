@@ -1,11 +1,9 @@
 ---
-dg-publish: true
 title: "Editing a copy - Journalism"
 tags: ['journalism']
-
 ---
 
-### read every story thrice - 
+### Read Every Story Thrice -
 - familiarization
 - once while editing
 - to check your work
@@ -21,7 +19,7 @@ A-->C
 B(Opening)
 C(Body)
 ```
-### Opening aka *lead* aka introduction
+### Opening Aka *lead* Aka Introduction
 Most vital part of the story
 Lead should describe story in a very simple way; 
 concise - ~25 words; max - 40 words

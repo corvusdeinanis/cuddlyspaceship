@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Cloud Bursting Architecture"
 tags: ['cloudcomputing']
 date: 2023-03-21

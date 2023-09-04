@@ -14,7 +14,7 @@ A(behaviour)-->B(covert)-->D(not observable)
 A-->C(overt)-->E(observable)
 ```
 
-## Explanations of Behaviour 
+## Explanations of Behaviour
 
 1. Biological
 2. Physiological

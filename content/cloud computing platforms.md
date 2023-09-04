@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "cloud computing platforms"
 date: 2023-05-04
 tags: ['cloudcomputing']
 ---
 
-# AWS 
+# AWS
 EC2
 elastic compute cloud
 virtual machines hosted on aws

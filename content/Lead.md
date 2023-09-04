@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Lead"
 date: 2023-04-20
 tags: ['journalism','rework']

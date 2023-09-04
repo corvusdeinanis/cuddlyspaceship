@@ -1,10 +1,9 @@
 ---
-dg-publish: true
 title: "Basic Terms of Security - Cloud Comp"
 tags: ['cloudcomputing']
 ---
 
-# Information Security 
+# Information Security
 
 **Confidentiality** - only accessible to authorized parties
 restricting access
@@ -49,7 +48,7 @@ establishes a **set of security rules and regulations**
 define how the rules are enforced
 ### Security Controls
 steps and measures taken to prevent or respond to security threats / reduce avoid or risk 
-## 
+##
 
 **_Vulnerability x Threat_** _=_ **_Risk_**
 
@@ -68,18 +67,18 @@ risk - value of contents lost
 
 ![image](images/threat-securitypolicies-risk.svg)
 
-# Threat Agent 
+# Threat Agent
 threat agent is an entity that poses a threat because it is capable of carrying out an attack
 
 can be internal or external
 
-## anonymous attacker 
+## Anonymous Attacker
 non-trusted cloud service consumer without  
 permissions in the cloud
 
-## malicious service agent
-## trusted attacker
-## malicious insider 
+## Malicious Service Agent
+## Trusted Attacker
+## Malicious Insider
 - An anonymous attacker is a non-trusted threat agent that usually attempts attacks from outside of a cloud’s boundary.  
 - A malicious service agent intercepts network communication in an attempt to maliciously use or augment the data.  
 - A trusted attacker exists as an authorized cloud service consumer with  legitimate credentials that it uses to exploit access to cloud-based IT resources.  

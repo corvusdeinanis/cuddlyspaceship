@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Parenting Styles"
 tags: ['psychology']
 ---
@@ -8,8 +7,8 @@ tags: ['psychology']
 Parental Warmth = affection towards children
 Parental Control = promoting rules 
 
-## 4 styles -
-### authoritative 
+## 4 Styles -
+### Authoritative
 high warmth, high control
 use praise and rewards to reinforce good behaviour
 communicate well and openly
@@ -18,7 +17,7 @@ explain rules clearly
 
 children - good confidence, self control, co-operative, responsible
 
-### authoritarian 
+### Authoritarian
 **low warmth, high control**
 scares them, punishments 
 become good liars to avoid punishments
@@ -27,10 +26,10 @@ threats and shaming
 
 children - low self esteem, can be dependent on others, quick to anger
 
-### permissive
+### Permissive
 high warmth, low control
 
-### uninvolved
+### Uninvolved
 low warmth, low control
 
 **Very important factor for child's development**

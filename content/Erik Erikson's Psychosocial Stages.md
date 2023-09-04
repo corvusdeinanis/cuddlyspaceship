@@ -8,43 +8,43 @@ tags: ['psychology','lifespan']
 like Freud's theory, focuses on unconscious. But instead of sexual, focuses on social aspects 
 connection, attribution, love, care
 
-### Stages of Erikson's theory
-#### 1. Trust vs Mistrust
+### Stages of Erikson's Theory
+#### 1. Trust Vs Mistrust
 shapes worldview 
 age - 0-1 
 negative outlook or positive outlook wrt the world around them
 
-#### 2. Autonomy vs Shame
+#### 2. Autonomy Vs Shame
 1 year - 3 year
 sense of self, independence
 
-#### 3. Initiative vs Guilt
+#### 3. Initiative Vs Guilt
 age - 3-5 
 either takes initiative and makes friends, or feels guilty 
 
-#### 4. Industry vs Inferiority 
+#### 4. Industry Vs Inferiority
 mastering of knowledge, intellectual skills 
 negative outcome = sense of inferiority; incompetent; 
 unproductive
 
-#### 5. Identity vs Identity Confusion (or identity diffusion)
+#### 5. Identity Vs Identity Confusion (or Identity diffusion)
 10 - 20 / adolescence
 finding your self identity
 who they are, where they're going in life, their values etc
 	failure to answer these - they are confused, negatively affects
 	esteem
 	
-#### 6. Intimacy vs Isolation
+#### 6. Intimacy Vs Isolation
 Early adulthood, 20s - 30s
 Developing intimate relationships
 Forming healthy friendships
 failure - social isolation
 
-#### 7. Generativity vs Stagnation
+#### 7. Generativity Vs Stagnation
 40s - 50s, middle adulthood 
 Generativity = want to help younger generation
 Stagnation = having done nothing to help the younger gen
-#### 8. Integrity vs Despair
+#### 8. Integrity Vs Despair
 60+, late adulthood
 reflects on past; retrospective
 was life spent well? satisfaction

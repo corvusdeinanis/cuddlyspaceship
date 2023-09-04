@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Measurement and Types of Measurement and Important Questions"
 date: 2023-04-18
 tags: ['researchmethodology','statistics']
@@ -31,7 +30,7 @@ tags: ['researchmethodology','statistics']
 ## Mesokurtic
 
 
-## Platykurtic 
+## Platykurtic
 Normal is extended more than 68%
 More flat = Platykurtic 
 

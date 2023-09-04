@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Variable"
 date: 2023-05-07
 tags: ['researchmethodology']
@@ -8,7 +7,7 @@ tags: ['researchmethodology']
 A variable is a concept or perception that can be MEASURED. 
 It is something that can take on different values
 
-# types of variables
+# Types of Variables
 1. independent
 2. dependent
 3. confounding

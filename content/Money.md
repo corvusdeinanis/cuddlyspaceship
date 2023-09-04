@@ -15,12 +15,12 @@ The wants of two people HAVE to match up for a successful barter.
 
 
 ## Characteristics of Money
-### acceptability 
-### portability
-### durability
-### divisibility
-### uniformity
-### limited supply / scarcity 
+### Acceptability
+### Portability
+### Durability
+### Divisibility
+### Uniformity
+### Limited Supply / Scarcity
 
 ## Demand for Money
 

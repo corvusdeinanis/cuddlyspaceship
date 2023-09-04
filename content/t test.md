@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "t test"
 date: 2023-05-07
 tags: ['statistics','researchmethodology']

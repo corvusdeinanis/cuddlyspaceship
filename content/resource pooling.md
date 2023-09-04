@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "resource pooling"
 date: 2023-05-04
 tags: ['cloudcomputing','verify']

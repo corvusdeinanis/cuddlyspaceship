@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "News Values/Elements of News"
 aka: "Elements of News"
 date: 2023-04-20
@@ -14,7 +13,7 @@ tags: ['journalism']
 4. Emotion 
 
 
-## How to determine "newsworthiness"
+## How to Determine "newsworthiness"
 
 1. Impact
 2. Proximity

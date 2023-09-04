@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Research Methodology Glossary"
 date: 2023-05-07
 tags: ['researchmethodology']

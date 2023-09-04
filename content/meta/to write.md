@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 ---
 - [x] Bayes' theorem 
 Betteridge's law of headlines
@@ -65,7 +64,7 @@ Sturgeon's law
 Law of conservation of complexity
 - [x] Wiio's laws - humorous laws on how humans communicate
 
-### in brief
+### In Brief
 
 
 

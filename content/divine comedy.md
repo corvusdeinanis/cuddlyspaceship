@@ -40,7 +40,7 @@ ALLEGORY
 
 Charon, river, then circles of hell
  
-### 9 Circles of Hell 
+### 9 Circles of Hell
 1. Limbo, 
 2. Lust, -- Minos
 3. Gluttony, -- Cerebrus 
@@ -61,9 +61,9 @@ LH aka City of Dis -> HVFT -> intellectual sins
 
 
 LiL GAS HVF T 
->[!mnemonic] 
->LG AW HV FT 
->**Let's Go And Watch Hereditary, VVitch For Torture** 
+> [!mnemonic] 
+> LG AW HV FT 
+> **Let's Go And Watch Hereditary, VVitch For Torture** 
 
 
 1.**Limbo** - Limbo circle includes souls who are **not sinful**, **but did not accept Christ**, therefore they do not deserve enough to live in Heaven

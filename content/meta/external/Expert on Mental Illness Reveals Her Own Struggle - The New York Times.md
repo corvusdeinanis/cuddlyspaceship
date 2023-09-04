@@ -51,7 +51,7 @@ The seclusion room, a small cell with a bed, a chair and a tiny, barred window, 
 
 Image![&#8220;So many people have begged me to come forward, and I just thought &#8212; well, I have to do this. I owe it to them. I cannot die a coward,&#8221; said Marsha M. Linehan, a psychologist at the University of Washington.](https://static01.nyt.com/images/2011/06/23/us/23jpLIVES1/23jpLIVES1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
-Credit...Damon Winter/The New York Times
+Credit…Damon Winter/The New York Times
 
 Her childhood, in Tulsa, Okla., provided few clues. An excellent student from early on, a natural on the piano, she was the third of six children of an oilman and his wife, an outgoing woman who juggled child care with the Junior League and Tulsa social events.
 
@@ -67,10 +67,10 @@ A discharge summary, dated May 31, 1963, noted that “during 26 months of hospi
 
 A verse the troubled girl wrote at the time reads:
 
->They put me in a four-walled room
->But left me really out
->My soul was tossed somewhere askew
->My limbs were tossed here about
+> They put me in a four-walled room
+> But left me really out
+> My soul was tossed somewhere askew
+> My limbs were tossed here about
 
 Bang her head where she would, the tragedy remained: no one knew what was happening to her, and as a result medical care only made it worse. Any real treatment would have to be based not on some theory, she later concluded, but on facts: which precise emotion led to which thought led to the latest gruesome act. It would have to break that chain — and teach a new behavior.
 
@@ -92,7 +92,7 @@ Image
 
 ![The door to the room where as a teenager Dr. Linehan was put in seclusion. The room has since been turned into a small office.](https://static01.nyt.com/images/2011/06/23/us/23jpLIVES2/23jpLIVES2-jumbo.jpg?quality=75&auto=webp&disable=upscale)
 
-Credit...Damon Winter/The New York Times
+Credit…Damon Winter/The New York Times
 
 What had changed?
 

@@ -10,7 +10,7 @@ Holistic,
 
 ## Technology and Digital Health
 
-## Health Disparities and Health Equity 
+## Health Disparities and Health Equity
 
 ## Positive Psychology and Wellbeing
 

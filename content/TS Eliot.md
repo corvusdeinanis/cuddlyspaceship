@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "T.S. Eliot"
 tags: ['english','author', 'person']
 ---

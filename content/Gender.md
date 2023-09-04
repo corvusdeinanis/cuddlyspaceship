@@ -7,7 +7,7 @@ tags: ['social','gender','feminism']
 # Gender
 A term that refers to the social and cultural aspects of being a man, a woman, or another gender. Gender is different from sex, which is based on biological characteristics such as chromosomes, hormones, and genitals. Gender is influenced by factors such as norms, expectations, roles, expressions, and identities that vary across cultures and time periods. Gender is not fixed or binary; it can be fluid and diverse .
 
-## Gender is everpresent
+## Gender is Everpresent
 Gender permeates every facet of our lives. It influences our life even before birth. 
 
 ## Gender =/= Sex

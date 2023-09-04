@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "beat generation"
 date: 2023-04-26
 tags: ['literature','english']

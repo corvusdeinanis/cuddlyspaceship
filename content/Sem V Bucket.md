@@ -2,7 +2,6 @@
 title: Sem V Bucket
 date: 2023-07-03
 tags: ['college','legacy']
-dg-publish: true
 ---
 
 
@@ -26,13 +25,13 @@ Research Paper
 3. Fiction to films
 4. Indian Cinema 
 
-### 2) Environmental Humanities 
+### 2) Environmental Humanities
 intersection of environmental literature and humanities; works about the ecology, our environment
 
 
 # Journalism
 
-## Reporting and Editing - Visual Media 
+## Reporting and Editing - Visual Media
 
 ## DSE
 ### 1. Media Managemnt
@@ -76,7 +75,7 @@ mind mapping
 ad making 
 group presentation
 
-### 2. Industrial 
+### 2. Industrial
 	workplace/job/organizational/employee management/
 	motivation and emotions in workplace
 	leadership, group dynamics, group think, team

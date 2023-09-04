@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Sem IV English Syllabus"
 tags: ['english','college','syllabus']
 ---

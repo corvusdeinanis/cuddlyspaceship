@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Mark Twain"
 tags: ['writer','literature','english']
 date: 2023-04-10
 ---
 
-# Mark Twain 
+# Mark Twain
 
 ![Mark Twain Portrait|100](images/marktwain.png)
 
@@ -21,7 +20,7 @@ The Adventures of Tom Sawyer, Adventures of Huckleberry Finn, The Prince and The
 
 imperialist -> more radical as time went by and became anti-imperialist
 
->I am said to be a revolutionist in my sympathies, by birth, by breeding and by principle. I am always on the side of the revolutionists, because there never was a revolution unless there were some oppressive and intolerable conditions against which to revolute
+> I am said to be a revolutionist in my sympathies, by birth, by breeding and by principle. I am always on the side of the revolutionists, because there never was a revolution unless there were some oppressive and intolerable conditions against which to revolute
 
 “came in with the comet” and as he predicted "went out with the comet” (referring to Halley's Comet)
 

@@ -19,11 +19,11 @@ beliefs, thoughts, attitudes that someone holds about a group
 it is prejudice in action
 "behavioural component of prejudice"
 
-## Components 
+## Components
 ### Affective
 negative emotions
 uncomfortable
-### Cognitive 
+### Cognitive
 beliefs and thoughts about the group
 interpreting their behaviour 
 ### Behavioural

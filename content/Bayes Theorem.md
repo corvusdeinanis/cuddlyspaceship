@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Bayes' Theorem"
 date: 2023-05-12
 tags: ['statistics','theory']

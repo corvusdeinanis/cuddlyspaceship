@@ -1,17 +1,16 @@
 ---
-dg-publish: true
 title: "Encryption"
 tags: ['cloudcomputing']
 ---
 
-# What is encryption?
+# What is Encryption?
 Encoding data to ensure that no one but the recipient can access/read
 using mathematical algorithms
 protecting it from malicious people
 
 **converting plaintext -> ciphertext using mathematical algorithms**, protecting it from malicious users 
 
-### What is cloud encryption?
+### What is Cloud Encryption?
 **converting plaintext -> ciphertext using mathematical algorithms**  ***before*** data is transferred to cloud 
 
 ### Decryption
@@ -23,7 +22,7 @@ using same key
 - protects sensitive data 
 - ensures only authorized have access 
 
-## How does Encryption work? 
+## How Does Encryption Work?
 
 data -- algorithms + encryption 🔑 --> encrypted data 
 ```mermaid
@@ -33,18 +32,18 @@ A--decryption-->C
 ```
 
 
-## Cloud encryption types 
+## Cloud Encryption Types
 Data is in either of  two states in the cloud
 - transit - data in transit is when data is being moved to or from the cloud  
 - rest - data at rest is when it is just being stored 
 
-### Data encryption in transit 
+### Data Encryption in Transit
 HTTPS Protocol - provides security socket layer (SSL)
 
-### Data encryption at rest 
+### Data Encryption at Rest
 data encypted so even if someone accesses it, it is worthless jumble of gibberish 
 
-##### multi-factor authentication (MFA)
+##### Multi-factor Authentication (MFA)
 - something only you know
 - something only you have
 - something that is part of you (biometric)

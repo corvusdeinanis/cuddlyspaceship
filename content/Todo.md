@@ -126,6 +126,6 @@ Dennis Ritchie was a computer scientist and programmer who co-created the C prog
 - Johannes Gutenberg: He was a printer and an inventor who introduced movable type printing to Europe, which revolutionized communication and culture. He is best known for printing the Gutenberg Bible, one of the first mass-produced books.  
 - Dennis Ritchie: He was a computer scientist and a programmer who created C, one of the most influential programming languages in history. He also co-developed Unix, a powerful and versatile operating system that has inspired many other systems.
 
-### [[private/inbox/unprocessed/Utitlitarianism]], why majority is not always good, democracy, etc 
+### [[private/inbox/unprocessed/Utitlitarianism]], Why Majority is not Always Good, Democracy, Etc
 
 

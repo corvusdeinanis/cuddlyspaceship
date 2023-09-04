@@ -1,12 +1,11 @@
 ---
-dg-publish: true
 title: "Stream of Consciousness"
 tags: ['english']
 ---
 
 
-## important author - 
-#### [[Virginia Woolf]] - 
+## Important Author -
+#### [[Virginia Woolf]] -
 1. Mrs Dalloway
 2
 

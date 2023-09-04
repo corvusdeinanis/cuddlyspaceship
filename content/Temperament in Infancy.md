@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Temperament in Infancy"
 tags: ['psychology']
 date: 2023-02-27

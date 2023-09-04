@@ -3,7 +3,7 @@ title: "Empirical Rule Three Sigma"
 date: 2023-07-07
 tags: ['statistics']
 ---
-# 68–95–99.7 rule
+# 68–95–99.7 Rule
 
 
 is a shorthand used to remember the percentage of values that lie within an interval estimate in a [[Normal Distribution]]: 68%, 95%, and 99.7%

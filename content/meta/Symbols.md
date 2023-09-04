@@ -7,7 +7,7 @@ tags: ['misc','meta']
 (?) -> Clarify / Verify
 (?e) -> Elaborate
 (?/) -> Incomplete
-(?tf)... -> To fill 
+(?tf)… -> To fill 
 
 (!e) -> Needs editing 
 (!!e) -> Priority editing

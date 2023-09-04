@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 title: "Senescence"
 tags: ['biology']
 date: 2023-03-29
 ---
 
-# Senescence / Biological aging
+# Senescence / Biological Aging
 
 **gradual deterioration of functioning**
 
@@ -13,9 +12,9 @@ can refer to aging of either
 - cell 
 - whole organism
 
-## biological aging vs chronological aging 
+## Biological Aging Vs Chronological Aging
 
-## factors contributing towards aging 
+## Factors Contributing towards Aging
 - lifestyle
 	- stress
 	- diet 
@@ -28,7 +27,7 @@ can refer to aging of either
 - genes 
 	- telomere length
 	- disorders
-## see also
+## See also
 [[negative senescence]]
 [[biological immortality]]
 [[biohacking]],[[quantifiedself]]

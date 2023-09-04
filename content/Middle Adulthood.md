@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "Middle Adulthood"
 date: 2023-04-21
 tags: ['lifespan','psychology','biology']
@@ -30,7 +29,7 @@ Lungs and sleep
 	wakeful periods are more frequent and there is less of the deepest type of sleep 
 
 
-# Cognitive Development 
+# Cognitive Development
 INFORMATION PROCESSING:
 Reduced speed of information processing
 Memory decline

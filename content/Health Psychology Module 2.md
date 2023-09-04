@@ -25,7 +25,7 @@ linkStyle 0,1,2,3 stroke:purple
 ```
 
 
-## Psychological 
+## Psychological
 ## Emotional
 [[Emotional Intelligence]] 
 [[Resilience]]
@@ -34,6 +34,6 @@ linkStyle 0,1,2,3 stroke:purple
 mn                                                              ## Physical
 ## Mental / Psychological
 ## Social
-## Global 
-## Community 
+## Global
+## Community
 

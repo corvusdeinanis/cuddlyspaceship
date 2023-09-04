@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 title: "News Stories"
 tags: ['journalism']
 ---
@@ -21,7 +20,7 @@ Contains:
 **Follow up story** - because low attention span; adds information and helps keep a story in the public conscience
 **Emotions** - keep to minimum; factual
 
-## Hard News vs Soft News 
+## Hard News Vs Soft News
 
 Hard News - Short, FACTUAL, to the point
 Focuses on impact 
@@ -50,7 +49,7 @@ be clear what the story is all about
 decide whether hard or soft news
 grab attention
 
-### Tips 
+### Tips
 News stories should not be very long
 Engage the reader
 
