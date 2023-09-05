@@ -1,3 +1,5 @@
+---
+---
 ## Psychosexual Theory by Freud
 Freud, through analysis of his patients, began to believe that their problems were the result of early experiences in their life. According to him, our adult personality is determined  by the way we **resolve conflicts between sources of pleasure at each stage** and the  **demands of reality**.
 

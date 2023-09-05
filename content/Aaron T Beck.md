@@ -1,6 +1,9 @@
 ---
-title: "Aaron T Beck"
-tags: ['psychology','person','psychologist']
+title: Aaron T Beck
+tags:
+  - psychology
+  - person
+  - psychologist
 date: 2023-04-04
 ---
 

@@ -27,7 +27,7 @@ Some of Luhmann's comments on the method (emboldening by me) -
  
  (The zettelkasten is a) “combination of disorder and order, of clustering and unpredictable combinations emerging from ad hoc selection.”
 
->"Probably the **best method is to take notes – not excerpts, but condensed reformulated accounts of a text**. Rewriting what was already written almost automatically trains one to shift the attention towards frames, patterns and categories in the observations, or the conditions/assumptions, which enable certain, but not other descriptions.”*
+> "Probably the **best method is to take notes – not excerpts, but condensed reformulated accounts of a text**. Rewriting what was already written almost automatically trains one to shift the attention towards frames, patterns and categories in the observations, or the conditions/assumptions, which enable certain, but not other descriptions.”*
 >
 — Niklas Luhmann
 

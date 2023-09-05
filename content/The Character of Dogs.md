@@ -164,7 +164,7 @@ And that in the most snobbish manner; for the poor man's dog is not offended by 
 
 [^overall]: - I partially agree with Stevenson’s view of dogs. I think he is right that dogs have complex personalities and emotions, and that they are not mere instinctive machines. I also think he is right that dogs are influenced by human society and culture, and that they have adapted to human civilization and manners. However, I think he is too harsh and cynical in his judgment of dogs’ faults. I think he exaggerates the vanity, jealousy, and dishonesty of dogs, and overlooks their virtues. I think he fails to appreciate the diversity and individuality of dogs, and generalizes too much from his own experience. I think he is biased by his own human perspective, and does not try to understand dogs on their own terms. I think dogs are more than silent companions or spoiled children; they are intelligent and loyal partners who can enrich our lives with their love and joy.
 
-# Important Points 
+# Important Points
 -   Stevenson explores the similarities and differences between dogs and humans, especially in their moral and social qualities.
 -   He argues that dogs are influenced by their relationship with humans, who have made them into slaves and companions, but also by their own natural instincts and preferences.
 -   He describes various types of dogs, such as the small dog who is vain and deceitful, the large dog who is majestic and dignified, the snobbish dog who cares for respectability, and the disrespectable dog who lives as a poacher.
@@ -183,7 +183,7 @@ He is a little black Skye terrier who was once kidnapped and tortured by some bo
 Woggs 
 Woggs, who was very polite and chivalrous to female dogs. He says that Woggs was a gentleman who wore a feather and a ribbon on his collar, and he had a high sense of honour and respect for women. He says that Woggs would endure any abuse or injury from female dogs without fighting back or complaining. He gives an example of how Woggs was once attacked by a female dog who bit his ear and made him bleed. But when a human woman tried to whip the female dog for her bad behavior, Woggs defended her and attacked the woman instead. He says that this is the story of a **soul’s tragedy**, meaning that Woggs was a noble and loyal dog who suffered because of his love and devotion to female dogs
 
-# dogs he mentions 
+# Dogs He Mentions
 1) Woggs 
    Stevenson's blue skye terrier; even mentioned in *The Life of Robert Louis Stevenson by Sir Graham Balfour*
    canine wife-beater

@@ -1,6 +1,5 @@
 ---
 title: "Can You Say...Hero?"
-created: 2022-06-22
 tags: ['fave','inspiration','archive','external']
 source: https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/
 author: Tom Junod

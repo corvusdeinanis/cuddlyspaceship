@@ -1,5 +1,4 @@
 ---
-created: 2022-07-03
 tags: ['psychology','archive','fave']
 source: https://www.nytimes.com/2011/06/23/health/23lives.html
 author: Benedict Carey
