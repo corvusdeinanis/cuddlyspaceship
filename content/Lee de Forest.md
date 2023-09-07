@@ -13,4 +13,4 @@ Phonofilm or sound-on-film
 
 had over 300 patents
 
-sometimes called "father of radio" 
+sometimes called "father of radio" ([[Marconi]] is considered the father of radio)

@@ -5,10 +5,10 @@ tags: ['social','journalism']
 ---
 
 
-[[private/inbox/tab-inbox/Cinema|Cinema]] predates Radio predates Television
+[[Cinema as mass media|Cinema]] predates [[Radio]] predates [[Television]]
 
 1860s -> **James Clark Maxwell** predicted existence of electromagnetic waves
-1885 -> Heinrich Hertz demonstrated that a wire carrying current can be swung to produce electromagnetic waves
+1885 -> Heinrich [[Hertz]] demonstrated that a wire carrying current can be swung to produce electromagnetic waves
 1890s-> **[[Marconi]]** sent and received the first radio signals
 	1901 -> sent 'S' across the Atlantic Ocean! from England to Canada
 	1909 -> Nobel Prize given to Marconi
