@@ -12,7 +12,6 @@ import {
   SimpleSlug,
   _stripSlashes,
   joinSegments,
-  pathToRoot,
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
@@ -70,7 +69,7 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
 
       for (const folder of folders) {
         const slug = joinSegments(folder, "index") as FullSlug
-        const externalResources = pageResources(pathToRoot(slug), resources)
+        const externalResources = pageResources(slug, resources)
         const [tree, file] = folderDescriptions[folder]
         const componentData: QuartzComponentProps = {
           fileData: file.data,

@@ -52,7 +52,7 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
 
   let slug = withoutFileExt
     .split("/")
-    .map((segment) => segment.replace(/\s/g, "-").replace(/%/g, "-percent").replace(/\?/g, "-q")) // slugify all segments
+    .map((segment) => segment.replace(/\s/g, "-").replace(/%/g, "-percent")) // slugify all segments
     .join("/") // always use / as sep
     .replace(/\/$/, "") // remove trailing slash
 
@@ -123,10 +123,7 @@ export function slugTag(tag: string) {
 }
 
 export function joinSegments(...args: string[]): string {
-  return args
-    .filter((segment) => segment !== "")
-    .join("/")
-    .replace(/\/\/+/g, "/")
+  return args.filter((segment) => segment !== "").join("/")
 }
 
 export function getAllSegmentPrefixes(tags: string): string[] {

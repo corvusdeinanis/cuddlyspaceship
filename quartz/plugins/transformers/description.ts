@@ -1,7 +1,6 @@
 import { Root as HTMLRoot } from "hast"
 import { toString } from "hast-util-to-string"
 import { QuartzTransformerPlugin } from "../types"
-import { escapeHTML } from "../../util/escape"
 
 export interface Options {
   descriptionLength: number
@@ -9,6 +8,15 @@ export interface Options {
 
 const defaultOptions: Options = {
   descriptionLength: 150,
+}
+
+const escapeHTML = (unsafe: string) => {
+  return unsafe
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;")
 }
 
 export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {

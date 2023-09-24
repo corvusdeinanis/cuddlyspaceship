@@ -13,8 +13,6 @@ export interface D3Config {
   linkDistance: number
   fontSize: number
   opacityScale: number
-  removeTags: string[]
-  showTags: boolean
 }
 
 interface GraphOptions {
@@ -33,8 +31,6 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
-    removeTags: [],
   },
   globalGraph: {
     drag: true,
@@ -46,8 +42,6 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
-    removeTags: [],
   },
 }
 

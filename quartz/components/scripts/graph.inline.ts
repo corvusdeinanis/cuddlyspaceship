@@ -42,36 +42,17 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkDistance,
     fontSize,
     opacityScale,
-    removeTags,
-    showTags,
   } = JSON.parse(graph.dataset["cfg"]!)
 
   const data = await fetchData
 
   const links: LinkData[] = []
-  const tags: SimpleSlug[] = []
-
-  const validLinks = new Set(Object.keys(data).map((slug) => simplifySlug(slug as FullSlug)))
-
   for (const [src, details] of Object.entries<ContentDetails>(data)) {
     const source = simplifySlug(src as FullSlug)
     const outgoing = details.links ?? []
-
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      if (dest in data) {
         links.push({ source, target: dest })
-      }
-    }
-
-    if (showTags) {
-      const localTags = details.tags
-        .filter((tag) => !removeTags.includes(tag))
-        .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
-
-      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
-
-      for (const tag of localTags) {
-        links.push({ source, target: tag })
       }
     }
   }
@@ -94,18 +75,14 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     }
   } else {
     Object.keys(data).forEach((id) => neighbourhood.add(simplifySlug(id as FullSlug)))
-    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
   }
 
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
-    nodes: [...neighbourhood].map((url) => {
-      const text = url.startsWith("tags/") ? "#" + url.substring(5) : data[url]?.title ?? url
-      return {
-        id: url,
-        text: text,
-        tags: data[url]?.tags ?? [],
-      }
-    }),
+    nodes: [...neighbourhood].map((url) => ({
+      id: url,
+      text: data[url]?.title ?? url,
+      tags: data[url]?.tags ?? [],
+    })),
     links: links.filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target)),
   }
 
@@ -149,7 +126,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return "var(--secondary)"
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (visited.has(d.id)) {
       return "var(--tertiary)"
     } else {
       return "var(--gray)"
@@ -253,7 +230,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("dx", 0)
     .attr("dy", (d) => -nodeRadius(d) + "px")
     .attr("text-anchor", "middle")
-    .text((d) => d.text)
+    .text(
+      (d) =>
+        data[d.id]?.title ||
+        (d.id.charAt(0).toUpperCase() + d.id.slice(1, d.id.length - 1)).replace("-", " "),
+    )
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")
