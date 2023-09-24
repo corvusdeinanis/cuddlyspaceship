@@ -6,12 +6,10 @@ tags:
   - journalism
   - scientist
 ---
-Inventor of the Radio (has been disputed [^1] )
+Inventor of the Radio
 Won the Nobel Prize in Physics
 
 was a fascist Jew-hating dude 
 
----
 
-[1]: It has been found out that
 
