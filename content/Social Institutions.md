@@ -1,7 +1,13 @@
 ---
-title: "Social Institutions"
+title: Social Institutions
 date: 2023-08-11
-tags: ['legacy','socialpsych','society']
+tags:
+  - legacy
+  - socialpsych
+  - society
+  - old
+  - studynotes
+  - sociology
 ---
 
 |   |   |

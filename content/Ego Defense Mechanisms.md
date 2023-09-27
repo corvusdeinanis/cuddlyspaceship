@@ -1,7 +1,9 @@
 ---
-title: "Ego Defense Mechanisms"
+title: Ego Defense Mechanisms
 date: 2023-08-08
-tags: ['psychology']
+tags:
+  - psychology
+  - incomplete
 ---
 
 1. Rationalisation

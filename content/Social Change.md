@@ -1,7 +1,11 @@
 ---
-title: "Social Change"
+title: Social Change
 date: 2023-08-11
-tags: ['sociology','legacy']
+tags:
+  - sociology
+  - legacy
+  - studynotes
+  - incomplete
 ---
 
 |   |   |
