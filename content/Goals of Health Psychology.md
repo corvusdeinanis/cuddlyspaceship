@@ -9,9 +9,9 @@ tags: ['health','psychology','healthpsych']
 ### Promote Healthy Behaviour & Reduce Illnessess
 
 ### Manage Health Crisis
-	1. Someone chronically ill 
-	2. Are trained to administer mental health first aid
-	3. Can help the families of someone with a serious illness
+1. Someone chronically ill 
+2. Are trained to administer mental health first aid
+3. Can help the families of someone with a serious illness
 
 ### Promotes Overall Wellbeing;
 interrogates mental and physical health
