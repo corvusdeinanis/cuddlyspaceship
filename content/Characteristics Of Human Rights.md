@@ -20,7 +20,7 @@ basic inherent moral inclination towards kindness, honesty, loyalty, love, peace
 
 can be abstract or concrete
 
-## Diginity
+## Dignity
 belief that everyone holds a special value in society 
 just by the virtue of humanity
 [[Imannuel Kant]]
