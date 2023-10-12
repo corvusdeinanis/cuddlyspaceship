@@ -3,7 +3,7 @@ title: "Mary Wollstone Craft"
 date: 2023-07-10
 tags: ['person','feminism','literature']
 ---
-
+[[Mary Wollstonecraft]]
 English writer (18th century)
 Precursor to [[Feminism]]
 anti-monarchy

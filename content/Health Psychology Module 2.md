@@ -30,8 +30,7 @@ linkStyle 0,1,2,3 stroke:purple
 [[Emotional Intelligence]] 
 [[Resilience]]
 [[Self Concept - Development]]
-8i
-mn                                                              ## Physical
+## Physical
 ## Mental / Psychological
 ## Social
 ## Global

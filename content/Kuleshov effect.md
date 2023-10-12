@@ -4,7 +4,7 @@ date: 2023-07-13
 tags: ['cinema','movies']
 ---
 
-named after Lev Kuleshov, Russian director
+named after **Lev Kuleshov**, Russian director
 1910s
 
 important editing style; 
@@ -17,4 +17,4 @@ basically, context adds a lot of meaning
 
 used it to show power of editing
 
-this along with montage made up early soviet cinema
+this along with **montage** made up early soviet cinema

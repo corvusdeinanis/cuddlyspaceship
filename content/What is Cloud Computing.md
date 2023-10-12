@@ -6,7 +6,6 @@ tags: ['cloudcomputing']
 
 # What is Cloud Computing?
 - it is the **on-demand** delivery of IT resources over the Internet with **pay-as-you-go pricing**
-
 - on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user
 
 # Why?

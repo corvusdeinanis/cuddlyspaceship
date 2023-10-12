@@ -1,7 +1,11 @@
 ---
-title: "Computer Best Practices"
+title: Computer Best Practices
 date: 2023-06-29
-tags: ['computer','basics','internet']
+tags:
+  - computer
+  - basics
+  - internet
+  - seed
 ---
 
 # Best Practices 

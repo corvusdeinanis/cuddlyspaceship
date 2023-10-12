@@ -1,28 +1,24 @@
 ---
-title: "human rights"
-date: 2023-08-01
-tags: ['humanrights']
+title: "Human Rights Intro"
+date: 2023-08-09
+tags: ['humanrights','social','society']
 ---
 
-first class
-conservative teacher
+## Human Rights
+Basic, inalienable rights
+from birth to death
+**inherent**. **indivisible**, **interdependent**
 
-very messed up examples
+can only be restricted, cannot taken away 
 
-not sure what he was getting at.
-what he was asking. if he was agreeing or not
+basic rights and freedoms that belong to every person in the world, simply because they are human. They are based on the idea that all human beings have **inherent dignity and worth**, and that they should be **treated with respect and fairness**. Human rights are **universal**, meaning that they apply to everyone, everywhere, and at all times
 
+enable and promote peace, justice, and freedom 
 
-> [!CAUTION] Red Flag
-> Says that things were better in the past; that he would say what the fuck if someone told him about existence of LGBTQIA+ people. 
-
-
-> [!caution] Red Flag 2
-> said human rights problem is only a contemporary problem!!! When I said I disagree and gave evidence against his scrupulous claim, he said nope. You weren't there. You don't know either b`****`, how old are you? You think queer people did not exist in the past? You think identities and gender and things are shit my generation is hyper-fixated on? Really? 
-
-
-> [!caution] Red Flag 3
-> Fucked up example. REFERRING TO A STUDENT, LOOKING AT HER AND SAYING things like *"I don't know she had all the right things"* or something on those lines. Saying isn't my right important too? What if ten people looking at this felt good, does it mean it's good? 10 vs 1
-> then justified it saying "I'm just playing the devil's advocate" 
-
+## 5 principles of human rights
+Equality
+Fairness
+Respect
+Dignity 
+Autonomy 
 

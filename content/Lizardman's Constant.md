@@ -1,8 +1,11 @@
 ---
-title: "Lizardman's Constant"
+title: Lizardman's Constant
 date: 2023-07-13
-tags: ['misc', 'statistics', 'theory'
-]
+tags:
+  - misc
+  - statistics
+  - theory
+  - rework
 ---
 **4%.**
 
