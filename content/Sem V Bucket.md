@@ -50,7 +50,7 @@ Social Perception:
 	B) Attribution: Theories, Errors
 	C) Impression Management: Formation, Management
 ### Attitude, Stereotype, Prejudice &; Aggression 
-1. Attitude
+1. Attitude 
 	A) Formation
 	B) Influence of Attitude for Behaviour
 	C) Persuasion and Resistance to Persuasion
@@ -64,7 +64,7 @@ Social Perception:
 3. Aggression
 	A) Theories – Biological, Drive &amp; Modern Theories
 	B) Prevention &amp; Control of Aggression
-### Social Influence &; Prosocial Behaviour 
+### Social Influence & Prosocial Behaviour 
 **Social Influence:**
 	A) Conformity
 	B) Compliance
@@ -141,5 +141,5 @@ Writs, PIL, Human rights during emergencies; National Security Act, Armed Forces
 Powers Act, National Human Rights Commission, State Human Rights Commission, Other
 Commissions (Women, SC, ST, OBC, Minorities, displaced persons, disabled persons), Non-
 governmental organizations and Media
-### Module 4: Enforcement and Protection Mechanism of Human Rights in India -10 Hours
+### Module 4: Enforcement and Protection Mechanism of Human Rights in India
 Criminal courts- public prosecutor - defense counsel, Complaint and FIR, Investigation - Arrest- under trial prisoners, bail, search and seizure, Inquiry - and trial- (types of trial)

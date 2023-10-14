@@ -1,6 +1,9 @@
 ---
-title: "Exam Tips - Journalism"
-tags: ['journalism','college']
+title: Exam Tips - Journalism
+tags:
+  - journalism
+  - college
+  - todelete
 ---
 
 1) Current Affairs
