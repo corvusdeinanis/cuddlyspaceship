@@ -1,9 +1,12 @@
 ---
-title: "Normal Curve"
+title: Normal Curve
 date: 2023-05-10
-tags: ['research','statistics']
+tags:
+  - research
+  - statistics
+aka:
+  - Normal Probability Curve
 ---
-
 ![curves](images/320px-Normal_Distribution_PDF.jpg)
 
 (red curve is the normal curve)

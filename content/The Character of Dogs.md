@@ -3,6 +3,7 @@ title: Character of Dogs
 tags:
   - english
   - literature
+  - fulltext
 date: 2023-04-09
 ---
 

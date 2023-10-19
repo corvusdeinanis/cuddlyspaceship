@@ -50,7 +50,7 @@ Social Perception:
 	B) Attribution: Theories, Errors
 	C) Impression Management: Formation, Management
 ### Attitude, Stereotype, Prejudice &; Aggression 
-1. Attitude
+1. Attitude 
 	A) Formation
 	B) Influence of Attitude for Behaviour
 	C) Persuasion and Resistance to Persuasion
@@ -64,7 +64,7 @@ Social Perception:
 3. Aggression
 	A) Theories – Biological, Drive &amp; Modern Theories
 	B) Prevention &amp; Control of Aggression
-### Social Influence &; Prosocial Behaviour 
+### Social Influence & Prosocial Behaviour 
 **Social Influence:**
 	A) Conformity
 	B) Compliance
@@ -93,30 +93,30 @@ Social Perception:
 - community health, holistic; impact of disease and disorders; govt policies 
 ### Introduction to Health Psychology
 1. Defining Health, Illness, Well-being
-2. Role of health psychologist,[[Goals of Health Psychology]], and scope of Health psychology
-3. Current research trends in the field of health psychology, [[Emerging Trends in Health Psychology]]
+2. Role of health psychologist, Goals, and scope of Health psychology
+3. Current research trends in the field of health psychology,
 4. Ancient systems of health and health care: (i) Indian and (ii) Chinese.
-5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model) 
+5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model)
 6. Emergence of Health Psychology (Psychoanalytical view, psychosomatic view, and Behavioural medicine) and emerging trends in Health psychology.
-7. Health policies in India 
-### Physiology and Diseases [[Health Psychology Module 2]]
+7. Health policies in India
+### Physiology and Diseases
 1. Defining Psychological, physiological health, global health, and community health.
-2. Diseases (acute and chronic, organic, and psychogenic diseases): Chronic Diseases: Diabetes, [[Asthma]], Cancer, [[HIV]]/AIDS, Cardiovascular disease, Stroke,
-3. [[Pain]] and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).
+2. Diseases (acute and chronic, organic, and psychogenic diseases): Chronic Diseases: Diabetes, Asthma, Cancer, HIV/AIDS, Cardiovascular disease, Stroke,
+3. Pain and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
-### Health Behaviour 
-1. Health behaviour – Predicting health behaviour;
+### Health Behaviour
+1. Health behaviour – Predicting health behaviour; 
 2. Attribution theory, 
 3. healthy Locus of control, unrealistic optimism, 
 4. cognition models; health belief model, protection motivation model, Leventhal’s self-regulatory model of illness, Doctor patient communication in health believes.
-### Psychology and Health [[Health Psych Mod IV]]
-1. Well-being- Definition and Seligman model 
-2. Personality and health
-3. Stress and Health [[Stress and Withdrawal]]
-4. psychological factors that affect our health 
+### Psychology and Health
+1. Well-being- Definition and Seligman model
+2. Personality and health,
+3. Stress and Health,
+4. psychological factors that affect our health,
 5. Importance of psychological health
 6. Influencers of Health psychology (Age, gender, genetic, environmental, nutrition)
-### [[Promoting Healthy Living]] 
+### Promoting Healthy Living
 1. Predicting and explaining health behaviour,
 2. Methods of preventing Illness- (Primary, secondary, and tertiary prevention methods)
 3. Awareness campaigns in prevention of diseases in rural and urban areas of India.
@@ -141,5 +141,5 @@ Writs, PIL, Human rights during emergencies; National Security Act, Armed Forces
 Powers Act, National Human Rights Commission, State Human Rights Commission, Other
 Commissions (Women, SC, ST, OBC, Minorities, displaced persons, disabled persons), Non-
 governmental organizations and Media
-### Module 4: Enforcement and Protection Mechanism of Human Rights in India -10 Hours
+### Module 4: Enforcement and Protection Mechanism of Human Rights in India
 Criminal courts- public prosecutor - defense counsel, Complaint and FIR, Investigation - Arrest- under trial prisoners, bail, search and seizure, Inquiry - and trial- (types of trial)

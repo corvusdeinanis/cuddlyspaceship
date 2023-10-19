@@ -2,9 +2,10 @@
 title: "compliance"
 date: 2023-08-29
 tags: ['socialpsych','psychology']
+
 ---
 
-Comliance is a type of [[Social Influence]] when someone agrees to do something (changes their behaviour) at the direct request of others. 
+Compliance is a type of [[Social Influence]] when someone agrees to do something (changes their behaviour) at the direct request of others. 
 
 CAN involve agreeing due to **social pressure**, **social norms**, and **authority figures**
 
@@ -27,10 +28,5 @@ persuasion,
 **Reciprocity** - using reciprocity as leverage
 **Pique technique** - exploits curiousity
 **Principle of Scarcity** - when things are portrayed to be going extinct, we may buy them even if we don't require them
-
-
-
-
-
 
 [[Social Influence|<-]]

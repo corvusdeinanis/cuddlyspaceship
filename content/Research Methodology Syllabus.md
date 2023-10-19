@@ -67,7 +67,7 @@ stratified sampling;
 Non-probability sampling- convenience sampling, snowball sampling, voluntary sampling, purposive sampling.
 
 ## Module 4: Introduction to Statistics
-[[Measurement-Research Methodology]]
+[[Measurement - Research Methodology]]
 Relevance of Statistics in Research; Scales of Measurement. 
 
 Frequency Distributions: Constructing Frequency Distribution, Relative Frequency Distribution and Cumulative Frequency Distribution. 

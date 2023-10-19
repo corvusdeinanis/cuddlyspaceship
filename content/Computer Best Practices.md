@@ -5,7 +5,6 @@ tags:
   - computer
   - basics
   - internet
-  - seed
 ---
 
 # Best Practices 

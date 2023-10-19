@@ -1,7 +1,11 @@
 ---
-title: "RM IV"
-tags: ['research','researchmethodology']
+title: Measurement - Research Methodology
+tags:
+  - research
+  - researchmethodology
+  - needswork
 ---
+!!! Merge with [[Measurement and Types of Measurement]]
 
 **Statistics** - science - collecting, organizing, interpreting
 
@@ -21,8 +25,6 @@ the process of assigning numbers or labels to units of analysis in order to quan
 -   **Interval** measurement involves assigning numbers to units of analysis such that the intervals between them are equal and meaningful. It implies that there is a zero point, but not that it represents an absolute absence of the variable. For example, temperature
 -   **Ratio** measurement involves assigning numbers to units of analysis such that the intervals between them are equal and meaningful, and there is a true zero point that represents an absolute absence of the variable. For example, sales, income, costs, age, and height are ratio variables.
 
-
-
 # Errors in Measurement
 - respondent
 - situation
@@ -34,18 +36,15 @@ the process of assigning numbers or labels to units of analysis in order to quan
 
 and **Practicality**
 
-Finding Norms - 
+**Finding Norms -** 
 Plot graph
 Calculate Mean
 -1 sigma  +1 sigma -> 68% 
 -2 to +2 -> ~ 90% 
 
-Q) Importance of statistical in psychological research. 
-defn of stats
-defn of psychological research
 
 
-**Normal Probability Curve**
+**[[Normal Curve]]**
 how we generalize
 
 [[Zeigarnik Effect]] 
@@ -61,3 +60,5 @@ Youth Self Assesment Scale -
 	sigma - 10
 pathologization of normal behaviour 
 neurodivergency
+
+
