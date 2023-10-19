@@ -55,7 +55,7 @@ steps and measures taken to prevent or respond to security threats / reduce avoi
 
 
 ---
-see also : [[Hashing]] , salting, cryptography, 2fa, security by obscurity, pgp key, brute force, dictionary attack, privacy, DRM, social engineering, DDoS, SSL, [[Encryption]]
+see also : [[Hashing]] , salting, cryptography, 2fa, security by obscurity, pgp key, brute force, dictionary attack, privacy, DRM, social engineering, DDoS, SSL, [[Encryption - Cloud]]
 
 
 example (?? check)

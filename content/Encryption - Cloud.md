@@ -1,6 +1,7 @@
 ---
-title: "Encryption"
-tags: ['cloudcomputing']
+title: Encryption - Cloud
+tags:
+  - cloudcomputing
 ---
 
 # What is Encryption?

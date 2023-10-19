@@ -1,7 +1,11 @@
 ---
-title: "White Man's Burden"
+title: White Man's Burden
 date: 2023-08-23
-tags: ['colonialism','social','history']
+tags:
+  - colonialism
+  - social
+  - history
+  - needswork
 ---
 
 ## Term 
