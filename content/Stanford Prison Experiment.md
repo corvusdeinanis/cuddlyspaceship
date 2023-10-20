@@ -1,13 +1,18 @@
 ---
-title: "Stanford Prison Experiment"
+title: Stanford Prison Experiment
 date: 2023-07-11
-tags: ['']
+tags:
+  - socialpsych
+  - experiment
+  - psychology
+  - disproved
+  - todo
 ---
 
 > [!Caution] 
 > **Status: Mostly Disproved**
 
-**Philip Zimbardo** 
+**[[Philip Zimbardo]]** 
 
 70 participants 
 14 days 

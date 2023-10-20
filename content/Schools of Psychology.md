@@ -6,6 +6,6 @@ tags: ['psychology']
 
 Behaviourism
 Determinism
-
+Cognitive
 [[Existential]]
 [[Humanistic]]
