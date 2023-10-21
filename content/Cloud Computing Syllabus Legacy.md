@@ -32,7 +32,7 @@ Basic Terms and Concepts, [[Cloud - Basic Terms of security]]
 Threat Agents,  
 Cloud Security Threats, 
 Additional Considerations, 
-[[Encryption]]
+[[Encryption - Cloud]]
 [[Hashing]]
 [[Digital Signature]]
 [[Public Key Infrastructure]]
