@@ -1,7 +1,7 @@
 ---
 ---
 social cohesion
-gemeinschaft and gesellschafts
+gemeinschaft and gesselschaft
 
 in group and out group 
 
@@ -73,7 +73,7 @@ Elizabeth Loftus was an American psychologist who is a leading expert on human m
 Carol Dweck was an American psychologist who is known for her theory of mindset, which refers to the beliefs that people have about their own abilities and potential. She distinguished between two types of mindsets: fixed mindset and growth mindset. People with a fixed mindset believe that their intelligence and talents are fixed and cannot be changed, while people with a growth mindset believe that their intelligence and talents can be developed through effort and learning. She showed that mindset affects various aspects of human behavior, such as motivation, achievement, self-regulation, and resilience.
 
 
-[[Philip Zimbardo]] was an American psychologist who is famous for his Stanford prison experiment, which simulated a prison environment using college students as guards and prisoners. The experiment revealed how social roles, norms, and expectations can influence human behavior and morality. He also studied other topics such as shyness, time perspective, heroism, and evil. He developed the concept of the Lucifer effect, which explains how good people can turn evil under certain situational factors.
+Philip Zimbardo was an American psychologist who is famous for his Stanford prison experiment, which simulated a prison environment using college students as guards and prisoners. The experiment revealed how social roles, norms, and expectations can influence human behavior and morality. He also studied other topics such as shyness, time perspective, heroism, and evil. He developed the concept of the Lucifer effect, which explains how good people can turn evil under certain situational factors.
 
 ---
 
