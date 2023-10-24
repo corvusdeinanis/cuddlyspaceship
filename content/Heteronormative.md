@@ -6,7 +6,7 @@ tags: ['gender']
 
 View that heterosexuality is the "default" mode
 
-That everything other than cishet is unnatural 
+That everything other than cishet is unnatural or deviant
 
 assigns [[Privilege]] to heterosexual people 
 

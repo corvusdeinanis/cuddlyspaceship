@@ -3,6 +3,15 @@ title: "Mary Wollstonecraft"
 date: 2023-07-11
 tags: ['person','literature','feminism']
 ---
+political philosopher
+Precursor to [[Feminism]]
+anti-monarchy
+pro-republic 
+Advocated social equality of women, for women's rights and education
+
+Wrote [[A Vindication of Rights of Women]]
+
+
 
 ## Bio
 Name:: Mary Wollstonecraft
@@ -13,13 +22,12 @@ Fields:: [[Feminism]], [[Philosophy]], [[Literature]]
 TimePeriod/Context:: 18th Century; England,  [[Age of Enlightenment]], [[Georgian Era]]
 Years:: (27 April 1759 - 10 September 1797)
  
-
 ### Family
 - Married [[William Godwin]], a forefather of [[Anarchy|anarchism]]
 - Mother of [[Mary Shelley]], author of Frankenstein
 
 ## Works
-Works:: *'The [[Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thoughts on Education of Daughter'*
+Works:: *'The [[A Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thoughts on Education of Daughter'*
 
 KnownFor:: being the first "feminist", advocation of women rights, pushing for women education
 

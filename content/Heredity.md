@@ -61,7 +61,7 @@ happen due to mutation which is a rapid change
 2. XXY / Klinefelter
 3. XO / Turner
 4. Fragile X 
-5. XXY 
+5. XXY / Jacobs
 
 Sex linked
 > Hemophilia

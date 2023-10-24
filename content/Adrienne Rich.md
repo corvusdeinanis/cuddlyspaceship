@@ -9,9 +9,6 @@ Radical Feminist
 
 [[Compulsory Heterosexuality and Lesbian Existence]]
 
-Adrienne Rich was married to a man (Conrad) by releasing Twenty-
-One Love Poems in 1976 
-
+Adrienne Rich was married to a man (Conrad) 
 (1929-2012)
 
-(?/)

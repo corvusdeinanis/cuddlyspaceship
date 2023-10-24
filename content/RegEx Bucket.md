@@ -23,3 +23,10 @@ To add a word, such as `test`, at the **end** of each line:
 > 2. Type `test` in the `Replace with` textbox
 > 3. Place cursor in the first line of the file to ensure all lines are affected
 > 4. Click `Replace All` button
+
+## Remove all links from a Markdown file
+```
+/\[(.*?)\]\(.*?\)/g
+```
+substitute with `$1`
+
