@@ -14,7 +14,7 @@ community
 group and types
 
 ```mermaid
-
+flowchart
 A-->B
 ```
 
@@ -137,3 +137,9 @@ Dennis Ritchie was a computer scientist and programmer who co-created the C prog
 |[Albert Camus](app://obsidian.md/Albert%20Camus.md)
 |[Modernist](app://obsidian.md/Modernist.md)|
 |[negative senescence](app://obsidian.md/negative%20senescence.md)
+
+
+## Social Construction of Gender
+Kessler and McKenna's work was influenced by Harold Garfinkel in ethnomethodology (especially his analysis of Agnes in Studies in Ethnomethodology); [[Stanley Milgram]], their social psychology professor; and the sociologist Peter McHugh, McKenna's professor. Kessler and McKenna were the first to argue that the distinction between "gender" and "sex" is a socially constructed one and the latter (defined by biological markers) should not be privileged. 
+
+Their articulation of what later became known as the social construction of gender was part of the foundation for works of ultimately more well-known gender theorists, [[Judith Butler]] (1990), [Anne Fausto-Sterling] (1992), and Kate Bornstein (1994). Kessler and McKenna's concept of "gender attribution" predated William Zimmerman and Candace West's concept of doing gender and Butler's concept of gender performativity. 

@@ -15,7 +15,16 @@ influenced by [[Michel Foucault]]
 
  **gender is performative, meaning that it is maintained, created or perpetuated by iterative repetitions when speaking and interacting with each other**
 
+
 performative, not performance. that means we can't really change it as freely 
+
+>It's not an identity from which a pattern of action originates. Rather, it just is the pattern of action. If you wear gender-coded clothing, style your hair in a gender-coded way, etc., you're not expressing the manhood or womanhood that you hold deep down. You're simply acting out the expectations of a male or female.
+       -  [u/Sapjastic_Primble](https://www.reddit.com/user/Sapjastic_Primble/)
+
+It is neither wholly socially learnt, nor is it voluntary
+
+**interpellation** - the labelling or assigning of an identity 
+**hailing** - the way that a person is treated socially
 
 It explores how sex and gender are *constructed* and *regulated* by **power**, **knowledge**, and **discourse**. Some key points are:
 
