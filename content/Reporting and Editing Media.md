@@ -9,7 +9,7 @@ tags:
   - collection
 ---
 # Fifth Semester REM Syllabus
-### UNIT I: RADIO PROGRAMS   
+### UNIT I: RADIO PROGRAMS
 - Types of [[Radio]] Programs:
 	News
 	Interviews
@@ -50,7 +50,7 @@ Television
 	(fiction and nonfiction, soap operas, drama, reality, comedy, sitcom, music show, live events), 
 writing for TV- features, Scripts for show etc, News- Political, Economic, sports, scientific, Defence & Military
 
-### UNIT III: NEW MEDIA: THE INTERNET REVOLUTION                                  
+### UNIT III: NEW MEDIA: THE INTERNET REVOLUTION
 Social media and its relevance in an ‘information society’: Facebook, Whatsapp, Twitter, 
 New Media terminologies, 
 New media Technology, 
@@ -61,8 +61,8 @@ Networked Journalism, Alternative Journalism;
 Social Media in Context, 
 News gathering and writing (Content, Language and Tone)
 
-### UNIT IV: TECHNIQUES                                                                                        
+### UNIT IV: TECHNIQUES
 Video shooting, Photography, Story telling
 
-### UNIT V: EDITING 
+### UNIT V: EDITING
 Basics, Intermediate, Rough cut, First and Final edit

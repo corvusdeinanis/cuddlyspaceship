@@ -11,5 +11,5 @@ tags:
 
 This is a catch-all page for terms that don't have their own pages.
 
-## Types of cases
+## Types of Cases
 **kebab-case**, **snake_case**, camelCase, PascalCase, 

@@ -45,7 +45,7 @@ advantages
 
 disadvantages 
 
-### Employee Ownership 
+### Employee Ownership
 Employees own a major part of the share
 
 advantages
@@ -56,4 +56,4 @@ disadvantages
 owns or operates 
 (!e)
 
-### Horizontal 
+### Horizontal

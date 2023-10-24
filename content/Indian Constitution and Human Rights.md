@@ -22,18 +22,18 @@ took almost three years to draft the constitution holding eleven sessions over a
 [[BR Ambedkar]], father of Indian constitution and its chief architect
 ## Fundamental Rights
 **six** fundamental rights recognized in the Constitution of India
-### equality 
+### Equality
 - before law
 - from discrimination
 - equal opportunity
 - abolition of untouchability
 - abolition of titles
-### freedom
+### Freedom
 speech, expression, assembly, association, 
-### freedom of religion 
-### against exploitation
-### cultural and educational rights
-### right to constitutional remedies
+### Freedom of Religion
+### Against Exploitation
+### Cultural and Educational Rights
+### Right to Constitutional Remedies
 ## Fundamental Duties
 NOT legally enforceable
 
@@ -76,7 +76,7 @@ from the violation of their fundamental rights.
 ### Writs
 writs are formal orders or commands from a court to a lower court, 
 
-## Other 
+## Other
 [[NSA]]
 
 [[AFSPA]]

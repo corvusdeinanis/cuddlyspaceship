@@ -15,7 +15,7 @@ basic rights and freedoms that belong to every person in the world, simply becau
 
 enable and promote peace, justice, and freedom 
 
-## 5 principles of human rights
+## 5 Principles of Human Rights
 Equality
 Fairness
 Respect

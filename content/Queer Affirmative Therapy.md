@@ -7,7 +7,7 @@ tags: ['psychology','workshop','therapy','queer']
 ### Principles
 #### Affirmation
 #### Cultural Competence
-#### Empowerment 
+#### Empowerment
 
 ### Goals
 #### Reducing Stigma and Shame

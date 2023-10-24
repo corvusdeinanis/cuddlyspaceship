@@ -23,7 +23,7 @@ work that results in physical creation of content (assets)
 Inputs --Production Process->Outputs
 
 ##
-### Team workflow with pre and post production 
+### Team Workflow with pre and post Production
 
 
 ## Post-Production

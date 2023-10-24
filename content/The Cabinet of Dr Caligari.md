@@ -22,11 +22,11 @@ he is
 Friend of Francis, shares the same love interest, Jane
 asks Cesare "How long will I live?" 
 
-### Themes 
-#### Reality vs Perception
+### Themes
+#### Reality Vs Perception
 #### Authoritarianism
 #### Ideological Brainwashing
-#### Madness of Storytellers 
+#### Madness of Storytellers
 ???
 #### Sleep and Dreaming
 

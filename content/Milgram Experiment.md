@@ -21,7 +21,7 @@ Source: Conversation with Bing, 28/08/2023
 (4) Milgram Experiment: Overview, History, & Controversy - Verywell Mind. https://www.verywellmind.com/the-milgram-obedience-experiment-2795243.
 (5) Milgram (1963) Aim, procedure, results, conclusion Flashcards. https://quizlet.com/50958926/milgram-1963-aim-procedure-results-conclusion-flash-cards/.
 (6) Milgram's Test - Orthopaedic Manipulation. https://www.orthopaedicmanipulation.com/milgrams-test/.
-(7) Milgram experiment | Description, Psychology, Procedure, Findings .... https://www.britannica.com/science/Milgram-experiment.The **Milgram Experiment** was conducted by Stanley Milgram in 1963 to investigate how far people would go in obeying an instruction if it involved harming another person ⁴. The experiment was designed to test the extent to which people would obey authority figures, even when it involved causing harm to others.
+(7) Milgram experiment | Description, Psychology, Procedure, Findings …. https://www.britannica.com/science/Milgram-experiment.The **Milgram Experiment** was conducted by Stanley Milgram in 1963 to investigate how far people would go in obeying an instruction if it involved harming another person ⁴. The experiment was designed to test the extent to which people would obey authority figures, even when it involved causing harm to others.
 
 **Aim**: The aim of the experiment was to investigate whether people would obey orders from an authority figure even if it goes against their conscience ⁵.
 
@@ -40,4 +40,4 @@ Source: Conversation with Bing, 28/08/2023
 (4) Milgram Experiment: Overview, History, & Controversy - Verywell Mind. https://www.verywellmind.com/the-milgram-obedience-experiment-2795243.
 (5) Milgram (1963) Aim, procedure, results, conclusion Flashcards. https://quizlet.com/50958926/milgram-1963-aim-procedure-results-conclusion-flash-cards/.
 (6) Milgram's Test - Orthopaedic Manipulation. https://www.orthopaedicmanipulation.com/milgrams-test/.
-(7) Milgram experiment | Description, Psychology, Procedure, Findings .... https://www.britannica.com/science/Milgram-experiment.m 
+(7) Milgram experiment | Description, Psychology, Procedure, Findings …. https://www.britannica.com/science/Milgram-experiment.m 

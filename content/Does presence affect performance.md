@@ -16,7 +16,7 @@ found in groups where **additive tasks**; all members' work is seen cumulatively
 (the whole group contributes towards one thing or they share the same task)
 inequal distribution of effort 
 
-### ways to reduce:
+### Ways to Reduce:
 1. Delegate tasks, clearly defined roles, division of labour
 2. Present the task to the right person; based on their interests, their specializations, etc
 3. Accountability
@@ -24,10 +24,10 @@ inequal distribution of effort
 5. increase the importance of the task (by placing values)
 6. Increase group members involvement either by pressure or motivation; morale
 7. Set standards that they have to meet; helps them compare; criteria helps more than an abstraction, reference
-## Social Facilitiation 
+## Social Facilitiation
 when people are present, performance is increased. 
 
-### Drive theory of social facilitiation
+### Drive Theory of Social Facilitiation
 cockroach experiment
 dominant responses -> will be better
 recessive responses -> will be worse 

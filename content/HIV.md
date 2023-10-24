@@ -27,7 +27,7 @@ ART Antiretroviral Therapy
 
 WHO now defines Advanced HIV Disease (AHD) as all children with HIV younger 5 years of age 
 
-## WHO Reports 
+## WHO Reports
 ongoing health issue
 40.4 million lives affected
 

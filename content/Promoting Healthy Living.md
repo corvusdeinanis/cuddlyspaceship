@@ -6,23 +6,23 @@ tags: ['health','healthpsych']
 
 Predicting and explaining health behaviour is a complex task that involves understanding the **factors that influence** an individual's **choices** and **actions** in relation to their beliefs
 
-### Methods of Preventing 
+### Methods of Preventing
 ```mermaid
 flowchart
 A(Methods of Preventing)-->B(Primary)
 A-->C(Secondary)
 A-->D(Tertiary)
 ```
-#### Primary 
+#### Primary
 to prevent the onset of illness or injury and promote overall health and wellbeing 
 
-#### Secondary 
+#### Secondary
 focuses on **early detection** and intervention to halt or slow the progression
 
-#### Tertiary 
+#### Tertiary
 
 
-### Strategies Involved in these methods
+### Strategies Involved in These Methods
 Primary Prevention
 Health education
 
@@ -38,7 +38,7 @@ Chronic Disease Management
 Paliliative Care
 Support Group and Counselling
 
-## Awareness Campaigns 
+## Awareness Campaigns
 ### Rural Areas
 Community Health Workers
 Local Language

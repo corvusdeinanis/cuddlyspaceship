@@ -17,11 +17,11 @@ Social media
 2. privacy concerns
 3. influence on public opinion
 
-### impact on mental health
+### Impact on Mental Health
 
-### role in business and marketing
+### Role in Business and Marketing
 
-### Challenges of moderation 
+### Challenges of Moderation
 allowing and disallowing content
 
-### future of social media G
+### Future of Social Media G

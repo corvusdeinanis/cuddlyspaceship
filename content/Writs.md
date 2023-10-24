@@ -9,13 +9,13 @@ Orders issued by a higher court to lower court, public authority,
 or individual to perform a specific action or to stop a particular action that is in
 violation of a person's fundamental rights.
 
-#### Habeas Corpus 
+#### Habeas Corpus
 secure the release of a person who has
 been unlawfully detained or imprisoned.
 #### Mandamus
 compels a public official or body to perform a legal duty that they
 have failed to fulfil
-#### Prohibition 
+#### Prohibition
 prevents a lower court from exceeding its jurisdiction or acting
 beyond its authority.
 #### Certiorari

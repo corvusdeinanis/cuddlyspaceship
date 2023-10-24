@@ -15,7 +15,7 @@ tags:
 > it might not be reflective of my current views)
 >  
 
-# Painful Memories of Childhood and Adulthood - As portrayed in the movie Man Who Invented Christmas
+# Painful Memories of Childhood and Adulthood - As Portrayed in the Movie Man Who Invented Christmas
 
 ### About the Author - Charles Dickens
 

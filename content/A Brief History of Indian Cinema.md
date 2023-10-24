@@ -38,12 +38,12 @@ Pre-Raj India
 legendary heroes and figures from pre-Colonial Era
 
 
-### Devdas 
+### Devdas
 and its adaptations
 
 ### End of Studios
 
-### Golden Age of Indian Cinema 
+### Golden Age of Indian Cinema
 1950s 
 regarded finest period of Indian cinema
 Guru Dutt, Mehboob

@@ -5,7 +5,7 @@ tags: ['journalism','mediamanagement']
 status: incomplete
 ---
 
-## 
+##
 
 ## In Different Media
 ### Print Media
@@ -20,5 +20,5 @@ status: incomplete
 ## Budgeting and Finance
 
 
-## 
+##
 Q) Talent hunt shows / reality shows oiooioi- how they generate revenue for the channel 

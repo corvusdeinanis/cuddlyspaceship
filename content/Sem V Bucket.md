@@ -4,9 +4,6 @@ date: 2023-07-03
 tags:
   - college
   - meta
-aliases:
-  - sem 5 syllabus
-  - sem 5
 status: 🌱
 ---
 # Literature
@@ -34,12 +31,12 @@ crisis management, practical oriented
 ## Social Psychology
 #socialpsych 
 - social cognition, social influence, and interpersonal relations and group dynamics 
-### Introduction to Social Psychology 
+### Introduction to Social Psychology
 1. Nature and Scope of Social Psychology
 2. Historical Background of Social Psychology;
 3. Research Methods: Observation, Experimentation, Survey and Sociometry.
 4. Emerging Trends and Current Issues; Applications: 
-### Social Cognition and Social Perception 
+### Social Cognition and Social Perception
 Social Cognition:
 	A) Heuristics
 	B) Schemas
@@ -49,7 +46,7 @@ Social Perception:
 	A) Non-verbal Communication: Channels, Cues, Deception Recognition
 	B) Attribution: Theories, Errors
 	C) Impression Management: Formation, Management
-### Attitude, Stereotype, Prejudice &; Aggression 
+### Attitude, Stereotype, Prejudice &; Aggression
 1. Attitude
 	A) Formation
 	B) Influence of Attitude for Behaviour
@@ -64,7 +61,7 @@ Social Perception:
 3. Aggression
 	A) Theories – Biological, Drive &amp; Modern Theories
 	B) Prevention &amp; Control of Aggression
-### Social Influence &; Prosocial Behaviour 
+### Social Influence &; Prosocial Behaviour
 **Social Influence:**
 	A) Conformity
 	B) Compliance
@@ -76,7 +73,7 @@ Social Perception:
 	B) Factors Influencing Helping,
 	C) Bystander Effect
 	D) Crowding 
-### Group Dynamics 
+### Group Dynamics
 **1. Group**
 	A) Nature, Types and Function
 	B) Group Development Theories- Lewin’s Change Theory, Five Stage Model,
@@ -104,7 +101,7 @@ Social Perception:
 2. Diseases (acute and chronic, organic, and psychogenic diseases): Chronic Diseases: Diabetes, [[Asthma]], Cancer, [[HIV]]/AIDS, Cardiovascular disease, Stroke,
 3. [[Pain]] and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
-### Health Behaviour 
+### Health Behaviour
 1. Health behaviour – Predicting health behaviour;
 2. Attribution theory, 
 3. healthy Locus of control, unrealistic optimism, 
@@ -116,7 +113,7 @@ Social Perception:
 4. psychological factors that affect our health 
 5. Importance of psychological health
 6. Influencers of Health psychology (Age, gender, genetic, environmental, nutrition)
-### [[Promoting Healthy Living]] 
+### [[Promoting Healthy Living]]
 1. Predicting and explaining health behaviour,
 2. Methods of preventing Illness- (Primary, secondary, and tertiary prevention methods)
 3. Awareness campaigns in prevention of diseases in rural and urban areas of India.

@@ -2,7 +2,6 @@
 title: "compliance"
 date: 2023-08-29
 tags: ['socialpsych','psychology']
-
 ---
 
 Compliance is a type of [[Social Influence]] when someone agrees to do something (changes their behaviour) at the direct request of others. 
@@ -21,7 +20,7 @@ persuasion,
 (!e)
 **Visibility**
 
-### Tactics and Strategies to elicit compliance 
+### Tactics and Strategies to Elicit compliance
 **Foot in the Door** - start with a small request and then escalate
 **Door in the Face** - ask for a big request / unrealistic request that the person denies, post which the **real** request is asked 
 **Low Ball Technique** - 

@@ -8,7 +8,7 @@ tags:
   - needswork
 ---
 
-## Term 
+## Term
 refers to the idea that white people have a *moral obligation* to *civilize* and *educate* the non-white people of the world, especially those living in colonized or oppressed regions. 
 
 The phrase was **popularized** by a poem of the same name by **[[Rudyard Kipling]]**, who wrote it in 1899 to urge the United States to take over the Philippines from Spain. 

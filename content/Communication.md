@@ -4,11 +4,11 @@ date: 2021-04-07
 tags: ['social','communication','journalism']
 ---
 
-## Communication 
+## Communication
 two-way process where information is exchanged or passed from one person to another person. 
 The word is derived from 'communicare' which means to impart.
 
-## Elements of communication
+## Elements of Communication
 Communication usually has a **sender**, a **receiver**, a **message**, a **channel**, a **medium**, and **feedback**.  
 
 ## Functions of Communication
@@ -22,7 +22,7 @@ f) Propagate
 j) Create opinion - Communication can raise questions and generate opinion and discourse on various topics.
 h) Exchange views - Communication can be used to exchange views, ideas, and have discourses.
 
-## Barriers of communication 
+## Barriers of Communication
 obstacles that do not let us communicate effectively, they hamper our ability to exchange information. There are many types of barriers of communication.
 
 -   Physical Barriers -  Just like the name suggests, these barriers are physical in nature. They can be as simple as a wall separating two people to barriers due to distance

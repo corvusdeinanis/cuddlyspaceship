@@ -12,7 +12,7 @@ not to be confused with [[peer pressure]]. see [[conformity vs peer pressure]]
 ## Types
 ### Normative Conformity
 ### Informational Conformity
-### 
+###
 
 Normative conformity occurs when people conform to the group's social norms to fit in and be accepted, while informational conformity occurs when people conform because they believe that the group is better informed than they are.
 

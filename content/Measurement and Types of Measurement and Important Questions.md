@@ -32,7 +32,7 @@ tags:
 ## Mesokurtic
 
 
-## Platykurtic 
+## Platykurtic
 Normal is extended more than 68%
 More flat = Platykurtic 
 

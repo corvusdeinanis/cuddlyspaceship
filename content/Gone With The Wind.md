@@ -37,7 +37,7 @@ Representation of old and new south
 Black person serving the O'Hara family
 shares a bond with Scarlett O'Hara
 
-### Ashley Wilkins 
+### Ashley Wilkins
 Liked by Scarlett O'Hara 
 Likes Melanie 
 
@@ -49,7 +49,7 @@ Supports the confederates
 Led scarlett on
 
 
-### Melanie 
+### Melanie
 Ashley's love
 
 ### Charles

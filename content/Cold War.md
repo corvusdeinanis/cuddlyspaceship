@@ -31,7 +31,7 @@ Communist activities in US - USSR encouraged espionage and communist activities.
 
 TAG U GEI
 
-### Major Political Events 
+### Major Political Events
 
 Poland, Bulgaria, Romania inspired communist movements
 

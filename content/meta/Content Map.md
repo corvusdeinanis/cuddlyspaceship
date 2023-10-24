@@ -7,7 +7,7 @@ tags: ['misc']
 Hi! This is a dynamic page that will show the key topics I'm reading about or focusing on at the moment. This is subject to change so whenever I stop researching about a topic, it just takes a lower position on this list. 
 
 
-## Psychology 
+## Psychology
 #Psychology
 I'm specifically interested in [[Bias|biases]], thinking patterns, mental illness, and therapy
 

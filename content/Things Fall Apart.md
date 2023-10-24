@@ -1,7 +1,6 @@
 ---
 title: "Things Fall Apart"
 date: 2023-08-24
-
 ---
 
 Things Fall Apart is a novel by Chinua Achebe, published in 1958. It tells the story of Okonkwo, a leader and warrior of the Igbo people of Nigeria, in the late 19th century. Okonkwo is a proud and ambitious man who strives to overcome the legacy of his weak and lazy father. He is respected in his clan for his achievements in wrestling, farming, and warfare. He has three wives and several children, but he is especially fond of his daughter Ezinma and his adopted son Ikemefuna.

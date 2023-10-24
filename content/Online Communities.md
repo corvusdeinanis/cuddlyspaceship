@@ -6,8 +6,8 @@ status: incomplete
 ---
 
 ### Online Communities
-#### Defn 
-#### Characteristics 
+#### Defn
+#### Characteristics
 1. Shared Interests
 2. Communication Channels 
 3. Community Culture
@@ -41,7 +41,7 @@ digital Tools
 
 
 
-### Networked Journalism 
+### Networked Journalism
 **focuses on collaboration** of journalists and other actors including people not engaged in a journalistic profession
 collaboration in the digital era
 

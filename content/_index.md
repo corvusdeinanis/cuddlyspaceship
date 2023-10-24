@@ -1,7 +1,5 @@
 ---
 title: Index
-aliases:
-  - home
 ---
 
 ![astrodex](images/astrodex-enhanced.jpg)

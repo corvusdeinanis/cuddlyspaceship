@@ -10,7 +10,7 @@ tags:
 > This file is a legacy note. It might not reflect my current views. 
 > Also, this text was originally in Hindi. This is a translation.
 
-# Development and Displacement. Two sides of the same coin? 
+# Development and Displacement. Two Sides of the Same Coin?
 
 First, let’s see what development means. Development - is the act or process of growing or becoming more advanced. Development is change. And change is extremely important. Change is what keeps us going. Humans have evolved immensely ever since they first arrived on Earth. Just like we did, our institutions, our culture, our methods, everything has to evolve. Change is great. Change is something all of us aim at. Without change, there would be only stagnation. And what does stagnation cause? Decay. Without growth, there is only decay. Growth and change are essential for survival. 
 
@@ -37,7 +37,7 @@ Also, HDI is a better indicator than all of these to measure human development.�
 
 There are so many more indicators that are important - literacy rate, and in my opinion, the most important is - the rate of inequality. India has a very high rate of inequality.  
 
-## What is displacement?  
+## What is Displacement?
 Some people might say that displacement is a “necessary evil”. I disagree. But before I explain why, I want to explain what displacement is. Displacement is when । It is usually seen as a part of the developmental process. It occurs when people are forced to leave their homes in a development-driven form of forced migration. Historically, it has been associated with the construction of dams for hydroelectric power and irrigation, but it can also result from various development projects such as mining, agriculture, the creation of military installations, airports, industrial plants, weapon testing grounds, railways, road developments, urbanization, conservation projects, and forestry.
 
 There are two types of displacements -  

@@ -7,6 +7,6 @@ tags:
   - internet
 ---
 
-# Best Practices 
+# Best Practices
 
 ## 20-20-20 Rule

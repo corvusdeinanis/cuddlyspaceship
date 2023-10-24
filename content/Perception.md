@@ -1,7 +1,7 @@
 # Perception
 ## Definition
 the **organization**, **identification**, and  **interpretation** of sensory information to  represent and understand the environment.
-## 
+##
 **Sensation**: the process by which our sense organs  
 receive information from the environment.
 
@@ -37,7 +37,7 @@ following prolonged exposure to stimuli.
 
 **bottom-up processing** Perception that consists of the progression of recognizing and processing information from individual components of a stimuli and moving to the perception of the whole.
 
-## Gestalt laws of Perceptual Organisation
+## Gestalt Laws of Perceptual Organisation
 Gestalt School 
 *'the whole is something else than the sum of its parts'*
 **Wertheimer, Koffka, Kohler**
@@ -47,7 +47,7 @@ Gestalt School
 
 
 
- >[!mnemonic]
+ > [!mnemonic]
  <mark>CCP and SS are authoritarian Figures</mark> - Principles of Gestalt
  
  
@@ -58,7 +58,7 @@ Similarity
 Symmetry
 Figure and Ground
 
-### llusion
+### Llusion
 a **misrepresentation** of a “real”  sensory stimulus
 an interpretation that contradicts objective “reality” as defined by general agreement
 universal unlike hallucinations
