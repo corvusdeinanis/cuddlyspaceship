@@ -1,6 +1,11 @@
 ---
-title: ["Fertilisation"]
-tags: ['psychology','lifespan','biology','stub']
+title: Fertilisation
+tags:
+  - psychology
+  - lifespan
+  - biology
+  - stub
+  - todo
 date: 2023-01-23
 ---
 

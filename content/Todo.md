@@ -132,3 +132,8 @@ Dennis Ritchie was a computer scientist and programmer who co-created the C prog
 ### [[private/inbox/unprocessed/Utitlitarianism]], Why Majority is not Always Good, Democracy, Etc
 
 
+
+|[Age of Enlightenment](app://obsidian.md/Age%20of%20Enlightenment.md)
+|[Albert Camus](app://obsidian.md/Albert%20Camus.md)
+|[Modernist](app://obsidian.md/Modernist.md)|
+|[negative senescence](app://obsidian.md/negative%20senescence.md)

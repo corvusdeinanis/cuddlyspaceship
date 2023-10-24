@@ -1,4 +1,8 @@
 ---
+title: parallel computing
+tags:
+  - computer
+  - cloudcomputing
 ---
 # Parallel Computing
 **many instructions** are carried out **simultaneously** 

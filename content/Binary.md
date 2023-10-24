@@ -1,4 +1,7 @@
 ---
+title: Binary
+tags:
+  - gender
 ---
 # **Binary**
 

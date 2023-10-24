@@ -1,3 +1,9 @@
+---
+title: important questions human rights
+tags:
+  - temp
+  - studynotes
+---
 Terms - Inalienable
 Freedom to Expression
 
