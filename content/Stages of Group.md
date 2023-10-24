@@ -16,4 +16,4 @@ formal and informal delegating tasks, responding to questions
 members of the group come to understand how the group operates
 
 
-[[meta/external/The Ideology Is Not The Movement|The Ideology Is Not The Movement]]
+[[private/external 1/The Ideology Is Not The Movement|The Ideology Is Not The Movement]]

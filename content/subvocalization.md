@@ -2,7 +2,6 @@
 title: "subvocalization"
 date: 2023-08-25
 tags: ['psychology','language']
-alias: "silent speech"
 ---
 
 aka "silent speech"
