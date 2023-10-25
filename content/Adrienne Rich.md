@@ -14,4 +14,7 @@ Adrienne Rich was married to a man, Conrad
 Conrad shot himself
 Rich had a lesbian relationship 
 
+>[!caution]
+>Possibly a [[TERF]]
+>
 

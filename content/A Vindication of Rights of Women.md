@@ -48,7 +48,7 @@ You always have to pursue middle ground.
 Example, Rosa Parks was not the first woman to protest the way she did, but she was MADE the first because the other woman was "too radical" 
 >
 **edit 2023-07-16** - Reading more and more, it does feel like Wollstonecraft was not trying to take the middle path. She was radical through and through. 
-reminds me of [[private/inbox/unprocessed/Utilitarianism|Utilitarianism]]
+reminds me of [[Utilitarianism|Utilitarianism]]
 
 
 

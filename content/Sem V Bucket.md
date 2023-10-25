@@ -20,10 +20,10 @@ status: 🌱
    [[Illiterate Heart]] by [[Meena Alexander]]
 **3) Gender, Identities and the Everyday**
    [[Spic]] by Julia Alvarez
-   Beyond the Veil 
-   Bodies That Matter - [[Judith Butler]]
-   We Should All Be Feminists - Chimamanda Adiche
-   [[My Story]] - [[Kamala Das]]
+   [[Beyond the Veil]] - Fatema Mernissi  
+   [[Bodies That Matter]] - [[Judith Butler]]
+   [[We Should All Be Feminists]] - Chimamanda Adiche
+   [[My Story Ente Katha|My Story]] - [[Kamala Das]]
 **4) Gender through the Lens** 
    Jaya Jaya Jaya Hey
    Boys Don't Cry

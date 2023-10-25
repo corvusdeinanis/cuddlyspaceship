@@ -36,3 +36,7 @@ It explores how sex and gender are *constructed* and *regulated* by **power**, *
 
 Butler makes two different claims in the passage cited: that sex is a social construction, and that sex is gender. To unpack their view, consider the two claims in turn. First, the idea that sex is a social construct, for Butler, boils down to the view that our sexed bodies are also performative and, so, they have “no ontological status apart from the various acts which constitute [their] reality”
 
+
+Butler insisted that gender resides in repeated words and actions, words and actions that both shape and are shaped by the bodies of real, flesh-and-blood human beings. And crucially, such repetitions are rarely performed freely.
+
+Influenced by Austin, gender studies philosopher Judith Butler argued that gender is socially constructed through commonplace speech acts and nonverbal communication that are performative, in that they serve to define and maintain identities. This view of [[performativity]] reverses the idea that a person's identity is the source of their secondary actions (speech, gestures). Instead, it views actions, behaviors, and gestures as both the result of an individual's identity as well as a source that contributes to the formation of one's identity which is continuously being redefined through speech acts and symbolic communication.

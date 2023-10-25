@@ -14,3 +14,6 @@ Cognitive dissonance can affect various aspects of human behavior and decision m
 -> Can cause us to change our attitude [[Attitude Formation]]
 
 *[[Festinger & Carlsmith (1959)]]*
+
+
+In [[Elliot Aronson]]'s _Theories of Cognitive Consistency_ (1973), he states: "Dissonance theory does not rest upon the assumption that man is a rational animal; rather, it suggests that man is a rationalizing animal – that he attempts to appear rational, both to others and to himself."

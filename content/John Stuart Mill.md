@@ -5,7 +5,7 @@ tags: ['person','philosophy']
 status: 'needswork'
 ---
 
-- Helped establish  [[private/inbox/unprocessed/Utilitarianism]]
+- Helped establish  [[Utilitarianism]]
 - Wrote "[[Subjection Of Women]]" along with his wife Harriet Taylor Mill 
 - Advocated women suffrage and equal rights
 
