@@ -62,7 +62,6 @@ psychoanalysis brings feminists nearer to the roots of their oppression
 cinema poses questions of ways  (!e)
 
 
----
 
 cinema **normalizes**
 
