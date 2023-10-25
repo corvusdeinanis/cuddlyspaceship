@@ -49,14 +49,14 @@ crisis management, practical oriented
 #socialpsych 
 - social cognition, social influence, and interpersonal relations and group dynamics 
 ### Introduction to Social Psychology
-1. Nature and Scope of Social Psychology
+1. Nature and Scope of Social Psychology [[Social Psychology]]
 2. Historical Background of Social Psychology;
 3. Research Methods: Observation, Experimentation, Survey and Sociometry.
 4. Emerging Trends and Current Issues; Applications: 
 ### Social Cognition and Social Perception
-Social Cognition:
+Social Cognition: [[heuristics]]
 	A) Heuristics
-	B) Schemas
+	B) Schemas [[schema]]
 	C) Automatic and Controlled Processing
 	D) Affect and Cognition
 Social Perception:
@@ -64,11 +64,11 @@ Social Perception:
 	B) Attribution: Theories, Errors
 	C) Impression Management: Formation, Management
 ### Attitude, Stereotype, Prejudice &; Aggression
-1. Attitude
+1. Attitude [[Attitude Formation]]
 	A) Formation
 	B) Influence of Attitude for Behaviour
 	C) Persuasion and Resistance to Persuasion
-	D) Cognitive Dissonance
+	D) [[Cognitive Dissonance]]
 2. Stereotype & Prejudice:
 	A) Stereotypes – Cognitive Foundations,
 	B) How Stereotypes Distort Perceptions; Why Stereotypes Persist;
@@ -76,8 +76,8 @@ Social Perception:
 	D) Types of Prejudices
 	E) Reducing Prejudice
 3. Aggression
-	A) Theories – Biological, Drive &amp; Modern Theories
-	B) Prevention &amp; Control of Aggression
+	A) Theories – Biological, Drive & Modern Theories
+	B) Prevention & Control of Aggression
 ### Social Influence &; Prosocial Behaviour
 **Social Influence:**
 	A) Conformity
