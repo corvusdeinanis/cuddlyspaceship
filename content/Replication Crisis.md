@@ -15,3 +15,4 @@ Some of the causes of the replication crisis are:
 
 **the replication crisis is a dangerous threat to the integrity and advancement of science and its benefits for humanity**
 
+related: [[publish or perish]]
