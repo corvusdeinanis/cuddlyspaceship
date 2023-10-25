@@ -3,8 +3,7 @@ title: "Research Methodology Syllabus"
 date: 2023-04-18
 tags: ['research','researchmethodology']
 ---
-
-## Module 1: Introduction
+### Module 1: Introduction
 
 [[Introduction to Research Methodologies]]
 What is Research
@@ -36,7 +35,7 @@ Qualitative
 
 other - lab vs field; clinical/diagnostic, exploratory vs formalized, one time vs longitudinal
 
-## Module 2: Research Process
+### Module 2: Research Process
 
 [[Research Problem and Sources]]
 What 
@@ -54,19 +53,16 @@ Identifying Variables- Meaning; Types- Independent, dependent, extraneous, predi
 
 Constructing hypothesis- Meaning & types
 [[Hypothesis]]
-## Module 3: Research Process II: Sampling Techniques
+### Module 3: Research Process II: Sampling Techniques
 [[Sample, Universe, Population]]
-
-
 Meaning of sample, aims in Criteria of good sample
-
 Sampling techniques: 
 Probability sampling- random sampling, 
 systematic sampling, cluster sampling, 
 stratified sampling; 
 Non-probability sampling- convenience sampling, snowball sampling, voluntary sampling, purposive sampling.
 
-## Module 4: Introduction to Statistics
+### Module 4: Introduction to Statistics
 [[Measurement - Research Methodology]]
 Relevance of Statistics in Research; Scales of Measurement. 
 
@@ -74,7 +70,7 @@ Frequency Distributions: Constructing Frequency Distribution, Relative Frequency
 
 Graphic Representation of Data: Basic procedures; The Histogram; The Frequency Polygon; The Bar Diagram; The Pie Chart; The Cumulative Frequency Graph; Factors affecting the Shape of Graphs (Skewness and Kurtosis).
 
-## Module 5: Writing a Research Proposal
+### Module 5: Writing a Research Proposal
 [[How to write a research proposal]]
 Stating the problem; 
 Inferences from literature review; 

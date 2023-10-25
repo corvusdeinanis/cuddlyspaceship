@@ -4,7 +4,7 @@ date: 2023-07-03
 tags:
   - college
   - meta
-status: 🌱
+status: 🗺
 ---
 # Literature
 ## Gender and Literature
@@ -43,7 +43,15 @@ deals with dynamics of literature -> movie
 ## DSE - Media Management
 #mediamanagement 
 crisis management, practical oriented
-
+[[Brand Strategy]]
+[[Marketing]]
+[[Media Management]]
+[[Media Management 2]]
+[[Media Management Assignment 260823]]
+[[modern theories of management]]
+[[Need for Media Management]]
+[[Production Management]]
+[[Theories of Management]]
 # Psychology
 ## Social Psychology
 #socialpsych 
@@ -85,7 +93,7 @@ Social Perception:
 	C) Obedience
 	D) Unintentional Social Influence – Emotional Contagion, Symbolic Influence,
 	Modelling
-**Pro-social Behaviour:**
+**Pro-social Behaviour:** 
 	A) Motives for Helping
 	B) Factors Influencing Helping,
 	C) Bystander Effect
@@ -155,5 +163,8 @@ Writs, PIL, Human rights during emergencies; National Security Act, Armed Forces
 Powers Act, National Human Rights Commission, State Human Rights Commission, Other
 Commissions (Women, SC, ST, OBC, Minorities, displaced persons, disabled persons), Non-
 governmental organizations and Media
-### Module 4: Enforcement and Protection Mechanism of Human Rights in India -10 Hours
+### Module 4: Enforcement and Protection Mechanism of Human Rights in India
 Criminal courts- public prosecutor - defense counsel, Complaint and FIR, Investigation - Arrest- under trial prisoners, bail, search and seizure, Inquiry - and trial- (types of trial)
+
+
+see also: [[Semester IV Syllabus]]
