@@ -13,7 +13,7 @@ tags: ['psychology','social']
 ### Direct Exp
 ### Social Learning
 ### Cognitive Dissonance
-  see [[Attitude Formation]]
+[[Cognitive Dissonance]]
 ### Cultural and Social Factors
 ### Persuasion and Communication
 

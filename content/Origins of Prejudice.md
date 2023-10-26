@@ -9,3 +9,5 @@ tags: ['social','socialpsych','politics']
 resources are limited/scarce. So other groups = competitors 
 other groups are considered competitors only if they are strong enough to compete; only if they are considered a threat;  and that will lead to negative attitudes towards that group 
 
+[[the robbers cave experiment]]
+

@@ -57,19 +57,20 @@ crisis management, practical oriented
 #socialpsych 
 - social cognition, social influence, and interpersonal relations and group dynamics 
 ### Introduction to Social Psychology
-1. Nature and Scope of Social Psychology [[Social Psychology]]
+[[Intro to Social Psychology]]
+1. Nature and Scope of Social Psychology 
 2. Historical Background of Social Psychology;
 3. Research Methods: Observation, Experimentation, Survey and Sociometry.
 4. Emerging Trends and Current Issues; Applications: 
 ### Social Cognition and Social Perception
-Social Cognition: [[heuristics]]
-	A) Heuristics
+[[Social Cognition]]: 
+	A) Heuristics [[heuristics]]
 	B) Schemas [[schema]]
-	C) Automatic and Controlled Processing
-	D) Affect and Cognition
-Social Perception:
+	C) [[Automatic and Controlled Processing]]
+	D) [[Affect]] and Cognition
+[[Social Perception]]:
 	A) Non-verbal Communication: Channels, Cues, Deception Recognition
-	B) Attribution: Theories, Errors
+	B) [[Attribution]]: Theories, Errors
 	C) Impression Management: Formation, Management
 ### Attitude, Stereotype, Prejudice &; Aggression
 1. Attitude [[Attitude Formation]]
@@ -77,26 +78,26 @@ Social Perception:
 	B) Influence of Attitude for Behaviour
 	C) Persuasion and Resistance to Persuasion
 	D) [[Cognitive Dissonance]]
-2. Stereotype & Prejudice:
+2. Stereotype & Prejudice: 
 	A) Stereotypes – Cognitive Foundations,
 	B) How Stereotypes Distort Perceptions; Why Stereotypes Persist;
-	C) Prejudices- Individual Differences ;
+	C) [[Prejudice]]s- Individual Differences ;
 	D) Types of Prejudices
 	E) Reducing Prejudice
 3. Aggression
 	A) Theories – Biological, Drive & Modern Theories
 	B) Prevention & Control of Aggression
 ### Social Influence &; Prosocial Behaviour
-**Social Influence:**
-	A) Conformity
-	B) Compliance
-	C) Obedience
+**Social Influence:** [[Social Influence]]
+	A) Conformity [[social conformity]]
+	B) Compliance [[compliance]]
+	C) Obedience [[obedience]]
 	D) Unintentional Social Influence – Emotional Contagion, Symbolic Influence,
 	Modelling
-**Pro-social Behaviour:** 
+**Pro-social Behaviour:**  [[Prosocial]]
 	A) Motives for Helping
 	B) Factors Influencing Helping,
-	C) Bystander Effect
+	C) Bystander Effect [[Bystander Effect]]
 	D) Crowding 
 ### Group Dynamics
 **1. Group**

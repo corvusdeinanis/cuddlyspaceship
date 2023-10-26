@@ -1,14 +1,16 @@
 ---
-title: "Social Psychology"
+title: Intro to Social Psychology
 date: 2023-07-06
-tags: ['social','psychology']
+tags:
+  - social
+  - psychology
+  - socialpsych
 ---
-
 ## Definition
 
 scientific study of behavior and mental processes as they relate to how people interact with, or relate to, others.
 
->"*to understand and explain how the **thoughts**, **feelings**, and **behavior** of **individuals** are influenced by the actual, imagined, or implied the presence of other human beings.*"
+>"**to understand and explain how the **thoughts**, **feelings**, and **behavior** of **individuals** are influenced by the actual, imagined, or implied the presence of other human beings.*"
 >		-  [[Gordon Allport]]
 
 How our behaviors, perceptions, thinking, etc change in the presence of other people. 
@@ -55,3 +57,10 @@ F(Chemistry/DNA)
 
 ## Historical Background of Social Psychology
 late 19th century / early 20th century 
+
+**1895** - First experiment -> Norman Triplett - Fishing Rod Experiment - led to social facilitation theory
+
+[[World War II]] and Nazi Germany compelled thinkers to look at how humans are influenced
+
+Kurt Lewin -> Father of Social Psych
+
