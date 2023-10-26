@@ -30,3 +30,8 @@ To add a word, such as `test`, at the **end** of each line:
 ```
 substitute with `$1`
 
+## Remove all superscript numbers
+```
+/\p{No}/gu/
+```
+

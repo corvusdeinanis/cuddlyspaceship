@@ -58,12 +58,12 @@ deals with dynamics of literature -> movie
 
 ### UNIT II: TELEVISION PROGRAMS
 Technology of TV – 
-	Cable 
+	Cable [[]]
 	DTH
 	Terrestrial
 	IPTVC
 Case Studies 
-	Netflix, Illegal downloads
+	Netflix, Illegal downloads [[Netflix Case Study]]
 [[CNN Effect Theory]]
 TV and Society, 
 TV and youth, 

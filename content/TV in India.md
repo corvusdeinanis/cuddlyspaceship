@@ -2,40 +2,28 @@
 title: TV in India
 date: 2023-09-20
 tags:
-  - incomplete
-  - needswork
   - journalism
   - rem
 ---
-195? - TV in India
-198? - Colour TV in India
-
-1975 - SITE; with the help of NASA, APS60
-agricultural; education
-
-Cable TV - 
-	channel selection
-	reliability
-	analogue
+1959 - TV in India on an experimental basis; All India Radio broadcasted for 2 hours every week
+generally educational broadcasts for school children and farmers
 
 
-DTH Direct to Home - 
-satellite based; transmits to a small dish antenna; installed at user's house
-	wide coverage
-	channel selection
-	HD 
+1975 - 1976 - **SITE** Satellite Instructional Television Experiment
+collaboration between NASA and ISRO
+aim to provide educational content to the masses, especially rural and remote areas
+family planning, agriculture, literacy, health
 
-IPTV  Internet Protocol Television - 
-delivers TV content over the internet allowing users to stream in **real time** (live)
-	On Demand
-	Interactive
-	Internet Dependency 
+1976 - Doordarshan which was part of AIR is now independent 
+
+1982 - First Colour TV broadcast in India; Asian Games broadcast by Doordarshan via INSAT 1A satellite
 
 
-Terrestrial TV
-traditional method over the air, TV antennas
-	free to air
-	limited channel selection
 
-eg Doordarshan 
+1984 - Hum Log
+1987 - Ramayana
+1988 - Mahabharata
+
+
+1997 - Establishment of Prasar Bharati
 
