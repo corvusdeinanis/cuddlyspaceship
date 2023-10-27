@@ -54,14 +54,16 @@ deals with dynamics of literature -> movie
 	Radio drama 
 	Sports broadcasting 
 	
-- Writing for Radio (AIDA)
+- Writing for Radio (AIDA) [[Writing A Radio Script]] [[AIDA]]
 
 ### UNIT II: TELEVISION PROGRAMS
-Technology of TV – 
-	Cable [[]]
+[[TV in India]]
+Technology of TV –  [[Television Broadcasting Technologies]]
+	Cable 
 	DTH
 	Terrestrial
-	IPTVC
+	IPTV 
+	OTT
 Case Studies 
 	Netflix, Illegal downloads [[Netflix Case Study]]
 [[CNN Effect Theory]]

@@ -48,3 +48,9 @@ personal notes:
 they enjoy a virtual [[first-mover advantage]]
 synonymous with streaming
 
+
+This document talks about:
+
+- **Netflix’s digital transformation**: how Netflix changed its business model from mail-order DVDs to online streaming, and how it became a leader in the entertainment industry.
+- **Netflix’s vision and strategy**:  Netflix used its vision of customer-centricity to guide its decisions, and how it solved problems differently and better than its competitors.
+- **Netflix’s data-driven approach**: how Netflix used data and analytics to personalize its content, predict customer behavior, and drive business change. It also highlights how Netflix scaled globally and diversified its data sources.
