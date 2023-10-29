@@ -174,14 +174,14 @@ crisis management, practical oriented
 #healthpsych 
 - community health, holistic; impact of disease and disorders; govt policies 
 ### Introduction to Health Psychology
-1. Defining Health, Illness, Well-being
+1. Defining Health, Illness, Well-being [[Intro to Health Psychology]]
 2. Role of health psychologist,[[Goals of Health Psychology]], and scope of Health psychology
 3. Current research trends in the field of health psychology, [[Emerging Trends in Health Psychology]]
 4. Ancient systems of health and health care: (i) Indian and (ii) Chinese.
 5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model) 
 6. Emergence of Health Psychology (Psychoanalytical view, psychosomatic view, and Behavioural medicine) and emerging trends in Health psychology.
 7. Health policies in India 
-### Physiology and Diseases [[Health Psychology Module 2]]
+### Physiology and Diseases [[Types of Health]]
 1. Defining Psychological, physiological health, global health, and community health.
 2. Diseases (acute and chronic, organic, and psychogenic diseases): Chronic Diseases: Diabetes, [[Asthma]], Cancer, [[HIV]]/AIDS, Cardiovascular disease, Stroke,
 3. [[Pain]] and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).

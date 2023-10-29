@@ -1,7 +1,9 @@
 ---
-title: "Health Psychology Module 2"
+title: Types of Health
 date: 2023-08-02
-tags: ['healthpsych','psychology']
+tags:
+  - healthpsych
+  - psychology
 ---
 
 ```mermaid

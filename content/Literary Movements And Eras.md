@@ -1,7 +1,9 @@
 ---
-title: "Literary Movements and Eras"
+title: Literary Movements and Eras
 date: 2023-04-18
-tags: ['literature']
+tags:
+  - literature
+  - history
 ---
 
 Old English 450-1066
@@ -16,9 +18,9 @@ The Jacobean Age 1603-1625
 
 The Restoration Period 1660-1700
 
-The Romantic Period 1785-1832
+The [[Romantic Era|Romantic]] Period 1785-1832
 
-The Victorian Period 1832-1901
+The [[Victorian Era|Victorian]] Period 1832-1901
 
 Modernism 1914-1945
 			[[German Expressionism]]
