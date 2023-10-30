@@ -1,6 +1,10 @@
 ---
-alias:['brain']
-tags:['psychology', 'science']
+aliases:
+  - brain
+tags:
+  - psychology
+  - science
+  - biology
 ---
 
 # Brain

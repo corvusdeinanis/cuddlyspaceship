@@ -1,5 +1,5 @@
 ---
-tags:['psychology', 'science']
+tags: ['psychology', 'science']
 ---
 
 aka **prosencephalon** (encephalon = brain)
