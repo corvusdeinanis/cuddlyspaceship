@@ -188,10 +188,10 @@ crisis management, practical oriented
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
 ### Health Behaviour
 1. Health behaviour – Predicting health behaviour;
-2. Attribution theory, 
-3. healthy Locus of control, unrealistic optimism, 
-4. cognition models; health belief model, protection motivation model, Leventhal’s self-regulatory model of illness, Doctor patient communication in health believes.
-### Psychology and Health [[Health Psych Mod IV]]
+2. Attribution theory, [[Attribution]]
+3. healthy [[Locus of control]], unrealistic optimism, 
+4. cognition models; [[health belief model]], protection motivation model, Leventhal’s self-regulatory model of illness, Doctor patient communication in health believes.
+### Psychology and Health [[Health Belief Model]]
 1. Well-being- Definition and Seligman model 
 2. Personality and health
 3. Stress and Health [[Stress and Withdrawal]]

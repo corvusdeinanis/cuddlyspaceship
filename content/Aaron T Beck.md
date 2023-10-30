@@ -19,7 +19,7 @@ automatic thoughts
 
 *Patients in cognitive therapy are encouraged to test their perceptions of themselves and others, as if they were scientists testing hypotheses.*
 
-His work at the University of Pennsylvania inspired Martin Seligman to refine his own cognitive techniques and later work on **learned helplessness**
+His work at the University of Pennsylvania inspired [[Martin Seligman]] to refine his own cognitive techniques and later work on **learned helplessness**
 
 ```mermaid
 flowchart

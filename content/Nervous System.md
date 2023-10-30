@@ -1,3 +1,11 @@
+---
+title: Nervous System
+date: 2023-10-30
+tags:
+  - biology
+  - science
+---
+
 1. Neuron:
    unit of nervous system
    aka nerve cell

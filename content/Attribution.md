@@ -3,10 +3,15 @@ title: "Attribution"
 date: 2023-10-26
 tags: []
 ---
+## Attribution Theory 
+by Fritz Heider
+
 how humans attempt to make sense of behaviour 
 how we infer or come to conclusions
-## Attributional Theory 
-by Fritz Heider
+causal judgment
+
+>“Attribution theory deals with how the social perceiver uses information to arrive at causal explanations for events. It examines what information is gathered and how it is combined to form a causal judgment”
+> -- Fiske and Taylor
 
 ### Dispositional
 Dispositional attribution assigns the cause of behavior to some

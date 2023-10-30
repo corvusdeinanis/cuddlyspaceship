@@ -1,9 +1,10 @@
 ---
-title: "Social Psych Module IV"
+title: Health Behaviour Model
 date: 2023-09-07
-tags: ['psych','healthpsych']
+tags:
+  - healthpsych
+  - psychology
 ---
-
 ## Health Behaviour
 
 actions we perform to promote health and avoid conditions that will prevent us from falling sick 
@@ -18,13 +19,24 @@ People's belief, attitude, and **perceived benefit** , value of self efficacy,
 mental blocks /barriers 
 
 1. Developed in 1950 (?v) to reduce barriers and understanding people to help better promote good health 
-2. in HBM, there are four critical points: 
-	1. Understanding **severity of illness**/impact/potential (for a person and the community)
-	2. Person's **susceptibility** to the illness 
-	3. Benefits (?v)
+   
+2. in HBM, there are four critical points:  
+-**severity** of a potential illness: The probability that a person will change their health
+behaviors to avoid a consequence depends on how serious they believe the
+consequences will be.
+
+- person’s **susceptibility** to that illness: People will not change their health
+behaviors unless they believe that they are at risk.
+
+- benefits of taking a **preventive action**
+
+-  **barriers** (perceived costs) to taking that action: One of the major reasons people
+don't change their health behaviors is that they think doing so is going to be hard.
+Changing health behaviors can require effort, money, and time.
 
 sub points
 	1. self-efficacy (?v)
 	2. culture, gender, age
 	3. modifying factor 
 	4. 
+
