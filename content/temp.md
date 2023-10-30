@@ -550,9 +550,6 @@ Anxiety disorders are often linked to gastrointestinal problems. Research publis
 Conversely, studies have demonstrated that cognitive-behavioral therapy (CBT) and other psychological interventions can help manage the symptoms of IBS and improve gastrointestinal health in individuals with anxiety.
 
 
-
-
-
 Explain role of HBM and self efficacy in predicting health behavior
 Role in Predicting Health Behavior:
 
@@ -563,8 +560,6 @@ Self-efficacy is a key component of the HBM, as it affects individuals' confiden
 For example, if an individual believes that they are susceptible to heart disease (HBM's perceived susceptibility), understands the severe consequences of the disease (HBM's perceived severity), and recognizes the benefits of a heart-healthy diet (HBM's perceived benefits), their self-efficacy plays a critical role in determining whether they will actually adopt and maintain a heart-healthy diet.
 
 Overall, the HBM and self-efficacy are complementary frameworks that provide insight into the psychological processes involved in predicting and understanding health behaviors. Health psychologists often use these concepts in developing interventions and strategies to promote health behavior change.
-
-
 
 
 

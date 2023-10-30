@@ -33,10 +33,21 @@ status: 🗺
 ## DSE - Fiction in Films
 #fictioninfilm 
 deals with dynamics of literature -> movie
-1. History of World Cinema
-2. Concepts and Movements
-3. Fiction to films
-4. Indian Cinema 
+1. **History of World Cinema** [[History of World Cinema]]
+   - “The Early Years: Origins and Survival” (excerpts from The Oxford History of World Cinema, ed. Geoffrey Nowell-Smith)
+   - "Firoze Rangoonwalla - Indian Cinema, Past & Present" [[Bollywood]]
+2. **Concepts and Movements**
+   - [[German Expressionism]] ([[The Cabinet of Dr Caligari]])
+   - [[European Neo Realism]] ([[Bicyle Thieves]])
+   - Historical Romance 
+3. **Fiction to films**
+   - Novel to a film - A Clockwork Orange
+   - Play to a film - [[A Streetcar Named Desire]]
+   - Short Story to film [[Shawshank Redemption]]
+4. **Indian Cinema** 
+   - Raja Harishchandra - Beginning of Indian narrative cinema
+   - Pather Panchali (1955)- Satyajit Ray [[Parallel Cinema]]
+   - Bahubali Series
 # Journalism
 ## Reporting and Editing - Visual Media
 #journalism 
