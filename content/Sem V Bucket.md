@@ -183,7 +183,7 @@ crisis management, practical oriented
 7. Health policies in India 
 ### Physiology and Diseases [[Types of Health]]
 1. Defining Psychological, physiological health, global health, and community health.
-2. Diseases (acute and chronic, organic, and psychogenic diseases): Chronic Diseases: Diabetes, [[Asthma]], Cancer, [[HIV]]/AIDS, Cardiovascular disease, Stroke,
+2. Diseases (acute and chronic, organic, and psychogenic diseases) [[Categorization of Diseases]]: Chronic Diseases: Diabetes, [[Asthma]], Cancer, [[HIV]]/AIDS, Cardiovascular disease, Stroke,
 3. [[Pain]] and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
 ### Health Behaviour

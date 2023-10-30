@@ -4,6 +4,7 @@ date: 2023-10-25
 tags:
   - gender
   - literature
+  - needswork
 ---
 Slam poem by Lee Mokobe
 
