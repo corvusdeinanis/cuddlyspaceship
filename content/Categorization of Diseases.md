@@ -55,3 +55,76 @@ diseases that affect the nervous system
 brain, spinal cord, peripheral
 
 ## Mental Health Disorders
+
+
+
+```mermaid
+flowchart LR
+
+    A[Diseases] --> B
+
+    B --> C(Acquired or after birth)
+
+    B-->D(Congenital or at birth)
+
+    D-->D1(Genetic)
+
+    D-->D2(Vertically transmitted mother-child)
+
+    C-->|can be genetic due to random mutations|D1
+
+    D1-->D12(Hereditary)
+
+  
+
+    A-->E(Stages)
+
+    E-->E1(Chronic)
+
+    E-->E2(Acute)
+
+    E-->E3(Flare Up)
+
+    E-->E4(Progressive)
+
+    E-->E5(Remission)
+
+  
+  
+
+    A-->H(by system)
+
+    H-->H1(Psychogenic)
+
+    H-->H2(Organic)
+
+    H-->H3(Mental)
+
+  
+
+    A-->I(Etiology)
+
+    I-->I1(Airborne)
+
+    I-->I2(Foodborne)
+
+    I-->I3(Lifestyle)
+
+  
+
+   A-->J(Extent)
+
+   J-->J1(Localized)
+
+   J-->J2(Sytemic)
+
+   J-->J3(Disseminated)
+
+  
+
+A-->K
+
+K-->K1(Infectious)
+
+K-->K2(Non-Communicable)
+```
