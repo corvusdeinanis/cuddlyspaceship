@@ -4,7 +4,13 @@ date: 2023-09-12
 tags: ['literature','fictioninfilm','film']
 ---
 
-[[German Expressionism]]
+The Cabinet of Dr Caligari 
+Themes: Madness, authority, reality, duality
+Director: **Robert Wiene**
+Actors: Werner Krauss, Conrad Veidt, Friedrich Fehér, Lil Dagover
+Language: Silent film with German intertitles
+Movement: [[German Expressionism]]
+Genre: Horror, mystery, thriller
 
 Written by two pacifists - one who was disenchanted by war; and another who feigned being mad 
 
@@ -42,3 +48,9 @@ they're weird, off-kilter, always showed before a person goes to an authority fi
 #### The Asylum
 
 #### Cesare
+
+
+#
+[[Unreliable Narrator]] 
+[[Silent Film]]
+[[Framing Story]]
