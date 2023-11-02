@@ -612,22 +612,20 @@ Holistic health promotion and it's relevance in promoting overall health
 
 ---
 
-
-
 - The Cabinet of Dr. Caligari: A 1920 German silent horror film directed by Robert Wiene. Some of the main characters are:
-    * Dr. Caligari: An insane hypnotist who uses a somnambulist named Cesare to commit murders¹².
-    * Cesare: A sleepwalker who is under Caligari's control and can predict the future¹².
-    * Francis: A young man who tells the story of Caligari and Cesare in a flashback. He is in love with Jane and tries to stop Caligari's crimes¹².
-    * Jane: Francis's fiancée who is kidnapped by Cesare but later rescued by the townspeople¹².
+    * Dr. Caligari: An insane hypnotist who uses a somnambulist named Cesare to commit murders.
+    * Cesare: A sleepwalker who is under Caligari's control and can predict the future.
+    * Francis: A young man who tells the story of Caligari and Cesare in a flashback. He is in love with Jane and tries to stop Caligari's crimes.
+    * Jane: Francis's fiancée who is kidnapped by Cesare but later rescued by the townspeople.
 
 - Gone with the Wind: A 1939 American epic historical romance film based on the novel by Margaret Mitchell. Some of the main characters are:
-    * Scarlett O'Hara: The protagonist of the film, a headstrong Southern belle who is determined to survive the Civil War and its aftermath. She marries three times and has a turbulent relationship with Rhett Butler³⁴.
-    * Rhett Butler: A roguish businessman who falls in love with Scarlett and admires her courage and ambition. He is often at odds with Scarlett and the society around him³⁴.
-    * Ashley Wilkes: A Southern gentleman who is married to Melanie Hamilton, but is also the object of Scarlett's obsession. He is loyal to his wife and his ideals, but is unable to cope with the changing world³⁴.
-    * Melanie Hamilton Wilkes: Ashley's wife and Scarlett's sister-in-law. She is a kind and gentle woman who sees the best in everyone, especially Scarlett. She is devoted to her husband and her family³⁴.
+    * Scarlett O'Hara: The protagonist of the film, a headstrong Southern belle who is determined to survive the Civil War and its aftermath. She marries three times and has a turbulent relationship with Rhett Butler.
+    * Rhett Butler: A roguish businessman who falls in love with Scarlett and admires her courage and ambition. He is often at odds with Scarlett and the society around him.
+    * Ashley Wilkes: A Southern gentleman who is married to Melanie Hamilton, but is also the object of Scarlett's obsession. He is loyal to his wife and his ideals, but is unable to cope with the changing world.
+    * Melanie Hamilton Wilkes: Ashley's wife and Scarlett's sister-in-law. She is a kind and gentle woman who sees the best in everyone, especially Scarlett. She is devoted to her husband and her family.
 
 - A Clockwork Orange: A 1971 British dystopian crime film directed by Stanley Kubrick, based on the novel by Anthony Burgess. Some of the main characters are:
     * Alex: The narrator and protagonist of the film, a fifteen-year-old leader of a gang of violent criminals who enjoy classical music and r/pe. He undergoes a controversial treatment that makes him unable to commit any crime.
-    * F. Alexander: A writer and political dissident whose wife is r/ped and killed by Alex's gang. He later recognizes Alex as one of his attackers and tries to use him as a weapon against the government⁵⁶.
-    * Minister of the Interior: A high-ranking government official who selects Alex as the first candidate for the Ludovico Technique, a method of behavior modification that aims to reduce crime⁵⁶.
+    * F. Alexander: A writer and political dissident whose wife is r/ped and killed by Alex's gang. He later recognizes Alex as one of his attackers and tries to use him as a weapon against the government.
+    * Minister of the Interior: A high-ranking government official who selects Alex as the first candidate for the Ludovico Technique, a method of behavior modification that aims to reduce crime.
     * Dr. Brodsky: The behavioral scientist in charge of administering the Ludovico Technique to Alex. He is sadistic and ignorant of classical music, which he uses to intensify Alex's emotions during the treatment

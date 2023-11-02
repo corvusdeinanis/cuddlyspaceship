@@ -84,7 +84,7 @@ TV &Women,
 TV &; Children, 
 TV &; Old Age population, 
 TV and Education,
-Television 
+Television [[Television]]
 	features 
 	limitations
 	types of TV channels 
@@ -113,15 +113,27 @@ Basics, Intermediate, Rough cut, First and Final edit
 ## DSE - Media Management
 #mediamanagement 
 crisis management, practical oriented
+1. **Intro to Media management:** [[What is media management]] [[Need for Media Management]]
+   definition, nature and scope, Principles of media management and their significance, Origin of management thought, Organizational structure of print, electronic and radio; Theories of management: classical, scientific and modern. [[Theories of Management]] 
+2. **Issues in media management**
+   Editorial management, marketing and branding, strategic, circulation, Human Resources financial and Technical Management, production management for television: production managers, their skills and functions; production management in action- preproduction, production post production.
+3. **contemporary media scenario**
+   Ownership of media: Types of ownership; media chains, Media concentration and democracy: why ownership matters? Proliferation of Media in India; Indian media business; Media tycoons and conglomerates in India and abroad; FDI in media and its aftereffects
+4. **economics of print and electronic media**
+   Media economics: economics of daily newspaper, Radio, TV, Cable industry, online media; Mergers, take overs, acquisitions, Revenue generation strategy; Budgeting and finance, capital costs, production costs; TRP and other ratings and its relevance
+5. **media management** Commercial policy, advertising and sales strategy; PR for building and sustaining business and audience; information management: concepts, benefits, tools; Knowledge management in the online and mobile media; Convergent media management
 [[Brand Strategy]]
 [[Marketing]]
-[[Media Management]]
+[[what is media management]]
 [[Media Management 2]]
 [[Media Management Assignment 260823]]
 [[modern theories of management]]
 [[Need for Media Management]]
 [[Production Management]]
 [[Theories of Management]]
+
+[[Concentration of Media Ownership]]
+
 # Psychology
 ## Social Psychology
 #socialpsych 

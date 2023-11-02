@@ -21,4 +21,4 @@ status: incomplete
 
 
 ##
-Q) Talent hunt shows / reality shows oiooioi- how they generate revenue for the channel 
+Q) Talent hunt shows / reality shows - how they generate revenue for the channel 

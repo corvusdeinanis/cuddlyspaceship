@@ -8,7 +8,7 @@ tags: ['mediamanagement']
 
 Media management is a discipline connected to business administration. It involves managing, organizing, and marketing media enterprises. 
 
-Media management is responsible for most of the day-to-day functioning of a media enterprise. From strategizing to advertising to organizing, maintaining, and running the company. 
+Media management is responsible for most of the day-to-day functioning of a media enterprise. From **strategizing** to **advertising** to **organizing**, **maintaining**, and **running** the company. 
 
 Media management involves managerial and administrative tasks that oversee the functioning of the enterprise. Some of these functions are:
 structural organization
@@ -26,7 +26,7 @@ Media management is important as it is involved in the management of media enter
 
 Enterprises are growing bigger, there are more and more consumers of media, and there is more content being distributed. Due to all of this, media management is absolutely essential to any media organization. 
 
-Not just companies, but governments and NGOs also use the services of media management.  When the government wants to issue a PSA, wants to raise awareness, etc. 
+*Not just companies, but governments and NGOs* also use the services of media management.  When the government wants to issue a PSA, wants to raise awareness, etc. 
 
 Without media management, media as we know it today would not have existed. The depth and breadth of the field and its nature necessitates not only the existence of media management but also its constant evolution to adapt and keep up pace with the market and breakthroughs in technology. 
 
