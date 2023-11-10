@@ -5,7 +5,9 @@ tags:
   - philosophy
   - epistemology
 ---
-Epistemology is the **branch of philosophy** that deals with the nature, origin, and scope of knowledge. There are several schools of thought in epistemology, each with its own unique perspective on how knowledge is acquired and justified. Here are some of the major schools in epistemology:
+Epistemology is the **branch of philosophy** that deals with the nature, origin, and scope of knowledge. There are several schools of thought in epistemology, each with its own unique perspective on how knowledge is acquired and justified. 
+
+Here are some of the major schools in epistemology:
 
 1. **Empiricism**: This school of thought holds that knowledge comes primarily from sensory experience. Empiricists believe that all knowledge is derived from observation and experimentation.
     

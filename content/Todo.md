@@ -50,31 +50,6 @@ Key figures in psychology are influential thinkers who have contributed to the d
 
 ---
 
-Wilhelm Wundt was a German scientist who is widely regarded as the founder of psychology as a scientific discipline. He established the first psychology laboratory in Leipzig in 1879, where he conducted experiments on reaction times, perception, attention, and other aspects of conscious experience. He used a method called introspection, which involved trained observers reporting their mental processes under controlled conditions. He aimed to discover the basic elements of consciousness and how they combined to form complex mental phenomena. His approach was known as structuralism.
-
-William James was an American philosopher and psychologist who is considered the founder of American psychology. He was influenced by Charles Darwin's theory of evolution and applied it to the study of the human mind. He argued that psychology should focus on the functions and purposes of consciousness rather than its structure. He also emphasized the importance of individual differences and free will in human behavior. His approach was known as functionalism.
-
-Ivan Pavlov was a Russian physiologist who is best known for his discovery of classical conditioning, a type of learning in which a neutral stimulus becomes associated with a reflexive response through repeated pairings with another stimulus that naturally elicits that response. He demonstrated this phenomenon using dogs, bells, and food. His research had a major impact on the development of behaviorism, a school of psychology that focused on observable behaviors and their environmental influences.
-
-John B. Watson was an American psychologist who is regarded as the founder of behaviorism. He rejected the use of introspection and mental processes as unscientific and instead advocated for the study of observable behaviors and their relation to stimuli. He conducted experiments on animal and human learning, emotion, and motivation. He is famous for his controversial experiment known as the Little Albert study, in which he conditioned an infant to fear a white rat by pairing it with a loud noise.
-
-B.F. Skinner was an American psychologist who is considered the most influential behaviorist of the 20th century. He developed the concept of operant conditioning, a type of learning in which behaviors are shaped by their consequences, such as reinforcement or punishment. He designed devices called Skinner boxes to study animal behavior under controlled conditions. He also applied his principles to human behavior and social issues, such as education, mental health, and social engineering.
-
-Jean Piaget was a Swiss psychologist who is renowned for his theory of cognitive development, which describes how children's thinking changes as they grow older. He proposed four stages of development: sensorimotor, preoperational, concrete operational, and formal operational. He also identified several processes that underlie cognitive growth, such as assimilation, accommodation, equilibration, and conservation. He used various methods to study children's thinking, such as observation, interviews, and games.
-
-Albert Bandura was a Canadian-American psychologist who is known for his social learning theory, which emphasizes the role of observational learning in human behavior. He proposed that people learn not only from their own experiences but also from observing the actions and outcomes of others. He conducted experiments on imitation, aggression, self-efficacy, and self-regulation using models such as live people, films, or cartoons. He also developed the concept of reciprocal determinism,
-which states that behavior, cognition, and environment influence each other in a dynamic interaction.
-
-Abraham Maslow was an American psychologist who is famous for his hierarchy of needs theory, which proposes that human motivation is driven by a series of needs that range from basic physiological needs to higher psychological needs such as self-actualization. He suggested that people seek to satisfy their lower needs before moving on to their higher needs and that only a few people achieve their full potential. He also advocated for a humanistic approach to psychology that emphasizes positive aspects of human nature such as creativity,
-growth, and self-transcendence.
-
-
-Elizabeth Loftus was an American psychologist who is a leading expert on human memory and eyewitness testimony. She conducted groundbreaking research on memory distortion and false memories using methods such as misinformation effect, implanted memories, and lost-in-the-mall technique. She showed that memory is not a faithful record of reality but rather a reconstructive process that is influenced by various factors such as expectations, suggestions, emotions, and social pressures. She also applied her findings to legal and forensic settings, such as court cases, police investigations, and therapy sessions.
-
-Carol Dweck was an American psychologist who is known for her theory of mindset, which refers to the beliefs that people have about their own abilities and potential. She distinguished between two types of mindsets: fixed mindset and growth mindset. People with a fixed mindset believe that their intelligence and talents are fixed and cannot be changed, while people with a growth mindset believe that their intelligence and talents can be developed through effort and learning. She showed that mindset affects various aspects of human behavior, such as motivation, achievement, self-regulation, and resilience.
-
-
-Philip Zimbardo was an American psychologist who is famous for his Stanford prison experiment, which simulated a prison environment using college students as guards and prisoners. The experiment revealed how social roles, norms, and expectations can influence human behavior and morality. He also studied other topics such as shyness, time perspective, heroism, and evil. He developed the concept of the Lucifer effect, which explains how good people can turn evil under certain situational factors.
 
 ---
 
@@ -96,7 +71,7 @@ Dan Bricklin is a software developer and entrepreneur who co-created VisiCalc, t
 
 Douglas Adams was a writer and humorist who authored The Hitchhiker's Guide to the Galaxy series, which is a science fiction comedy that explores various aspects of technology, philosophy, and culture. He also wrote Dirk Gently's Holistic Detective Agency series, The Meaning of Liff , Last Chance to See , and The Salmon of Doubt . He died of a heart attack in 2001.
 
-Mary Ainsworth was a psychologist and researcher who developed the Strange Situation procedure to study attachment between infants and their caregivers. She also identified three main types of attachment styles: secure, anxious-avoidant, and anxious-resistant. She was a pioneer in the field of developmental psychology and influenced many subsequent theories and practices.
+[[Mary Ainsworth]] 
 
 Alan Turing was a mathematician and logician who is widely regarded as the father of computer science and artificial intelligence. He formulated the Turing machine model of computation, which is the basis for modern computers. He also devised the Turing test to measure machine intelligence and cracked the Enigma code during World War II. He died by cyanide poisoning in 1954.
 
