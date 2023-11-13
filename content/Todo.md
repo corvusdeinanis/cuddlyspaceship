@@ -123,3 +123,9 @@ Their articulation of what later became known as the social construction of gend
 HARKing
 Texas Sharpshooter Fallacy
 Multiple comparisons problem
+
+https://existentialcomics.com/comic/285
+https://www.reddit.com/r/AskScienceDiscussion/comments/lwfcdd/why_are_sigmund_freuds_theories_so_wrong/
+https://en.wikipedia.org/wiki/Cargo_cult_science
+https://en.wikipedia.org/wiki/Communal_reinforcement
+https://en.wikipedia.org/wiki/Emma_Eckstein#Analysis

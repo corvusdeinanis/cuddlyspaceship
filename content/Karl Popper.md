@@ -1,3 +1,11 @@
+---
+title: Karl Popper
+date: 2023-11-14
+tags:
+  - person
+  - philosophy
+  - science
+---
 # Karl Popper
 
 (title::philosopher)

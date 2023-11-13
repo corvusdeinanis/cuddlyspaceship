@@ -1,3 +1,11 @@
+---
+title: Frederick Coplestone
+date: 2023-11-14
+tags:
+  - philosophy
+  - history
+  - person
+---
 # Frederick Coplestone
 
 (title::)
