@@ -34,9 +34,28 @@ GROUP BY note
 
 [[../absurdism|absurdism]]
 [[../Existentialism|Existentialism]]
+[[../Friedrich Nietzsche|Friedrich Nietzsche]]
 [[../Literary Movements|Literary Movements]]
 [[World War I]]
 [[World War II]]
 [[Mainstream dilutes movements]]
-[[public consciousness]]
+[[public consciousness]], Carl Jung
 
+History of Philosophy
+(using work by Coplestone, and Will Durant
+
+Pseudoscience
+
+
+!!! [[tribalism]]
+
+!!!! clean up this note and clean up all person notes
+
+Freud
+- Anna O
+- Dora
+- Wolfman
+- Little Hans
+- Psychoanalysis and its fall
+
+Karl Popper

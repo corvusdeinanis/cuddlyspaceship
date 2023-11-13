@@ -32,10 +32,21 @@ Works:: *'The [[A Vindication of Rights of Women]]'*,  '*Rights of Men*', *'Thou
 KnownFor:: being the first "feminist", advocation of women rights, pushing for women education
 
 KeyIdeas:: women's right to education; [[Nature vs Nurture]]; that lack of education made women more inferior. 
+# Mary Wollstonecraft
 
-## Extra
+(title::)
+(short summary)
+### Bio
+Year of birth: (birthyear::)
+Nationality: (nationality::) 
+Family 
+Period: (timecontext::)
+### Works
+Important Works: (impworks::)
+Contributions: (contributions::being the first "feminist", advocation of women rights, pushing for women education)
+Key Ideas: (KeyIdeas::"women's rights to education")
+Known For: (KnownFor::)
+
+Influenced By: (influencedby::)
+### Extra
 - She died at the age of 38 during childbirth
- 
-
-##
-### References
