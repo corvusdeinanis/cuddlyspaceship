@@ -230,7 +230,7 @@ crisis management, practical oriented
 
 # Human Rights - Elective
 ### Module 1: Introduction
-The Concept of Human Rights 
+The Concept of [[Human Rights]] 
 Meaning, origin and development, 
 Rights - inherent, inalienable, universal, indivisible, 
 Values - dignity, liberty, equality, justice, unity in diversity, 

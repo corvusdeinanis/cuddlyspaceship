@@ -25,8 +25,8 @@ Assess any 4 human rights in the context of a national framework
 	- outcome
 
 GK 
-Chairman of National Human Rights ??
-Chief Justice
+Chairman of National Human Rights Commission - Arun Kumar Mishra
+Chief Justice - DY Chandrachud
 
 Public Prosecutor
 NSA? National Security Act

@@ -7,11 +7,12 @@ tags:
   - studynotes
   - incomplete
 ---
+5 May 1789 – 9 November 1799
 
-# Liberty, Equality, Fraternity
+Liberty, Equality, Fraternity
 
 
-Robbespiere (sp?)
+Robespierre 
 
 
 |   |   |

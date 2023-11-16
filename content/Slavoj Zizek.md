@@ -11,7 +11,7 @@ tags:
 (title::Philosopher)
 Slovenian Philosopher, cultural theorist and public intellectual who writes about [[psychoanalysis]], **politics**, **pop culture**, and theology from a [[Hegel]]ian and [[Lacan]]ian perspective. 
 
-identifies himself as a (position::"radical-leftist","communist"). Talks about capitalism. Hates both 20th century communism and liberal capitalism
+identifies as a (position::"radical-leftist","communist"). Talks about capitalism. Hates both 20th century communism and liberal capitalism. Doesn't like "wokeness"
 
 makes use of crass jokes and obscene examples
 

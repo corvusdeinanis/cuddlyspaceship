@@ -10,7 +10,7 @@ moral theory that says that the right action is the one that produces the most h
 
 works on the "**greatest happiness principle**" 
 
-There are different types of utilitarianism, such as **act utilitarianism**, **rule utilitarianism**, **negative utilitarianism**, and **preference utilitarianism**. They differ in how they define happiness or well-being, how they measure and compare the effects of actions, and how they deal with moral dilemmas and conflicts. Some of the main proponents of utilitarianism are Jeremy Bentham, [[John Stuart Mill]], Henry Sidgwick, R. M. Hare, and Peter Singer. 
+There are different types of utilitarianism, such as **act utilitarianism**, **rule utilitarianism**, **negative utilitarianism**, and **preference utilitarianism**. They differ in how they define happiness or well-being, how they measure and compare the effects of actions, and how they deal with moral dilemmas and conflicts. Some of the main proponents of utilitarianism are [[Jeremy Bentham]], [[John Stuart Mill]], Henry Sidgwick, R. M. Hare, and Peter Singer. 
 
 Utilitarianism has been applied to various social and political issues, such as human rights, animal welfare, environmental ethics, justice, democracy, and public policy. It has also been criticized for being too demanding, too simplistic, too impersonal, too subjective, or too unrealistic. Some of the main critics of utilitarianism are Immanuel Kant, G. E. Moore, Bernard Williams, Robert Nozick, and John Rawls. 
 

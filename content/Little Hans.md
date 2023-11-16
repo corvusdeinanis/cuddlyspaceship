@@ -12,8 +12,6 @@ who developed a phobia of horses after witnessing a horse collapse and die on th
 ---
 > He is afraid a horse will bite him in the street, and this fear seems somehow connected with his having been frightened by a large penis.
 
----
-
 Little Hans was a five-year-old boy who developed a phobia of horses after witnessing a horse collapse and die on the street.
 
 Freud interpreted Little Hans' symptoms as manifestations of the Oedipus complex, a psychosexual stage in which boys develop an unconscious sexual attraction to their mothers and view their fathers as rivals. Freud believed that Little Hans' phobia of horses was a symbolic expression of his fear of his father's aggression and punishment. He also suggested that Little Hans' fantasies and anxieties were ways of coping with his repressed desires and conflicts.

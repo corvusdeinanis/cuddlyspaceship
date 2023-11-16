@@ -5,7 +5,7 @@ tags: ['humanrights','social','society']
 ---
 
 Human rights ensure that everyone has access to -
-fundamental necessitities 
+fundamental necessities 
 > Food
 > Shelter
 
@@ -18,4 +18,6 @@ Right against Exploitation
 Right to Freedom of Religion
 Cultural and Educational Rights
 Right to Constitutional Remedies
+
+mnemonic: FEERCE
 
