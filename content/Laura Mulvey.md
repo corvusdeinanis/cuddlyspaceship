@@ -5,21 +5,21 @@ tags: ['english', 'gender','person']
 ---
 
 ## Bio
-Name:: Laura Mulvey
-Title:: Feminist Theorist, Film Thoerist
-ShortDesc::
+Laura Mulvey
+Feminist Theorist, Film Theorist
 
-TimePeriod/Context:: Contemporary
-Years:: 
-Fields:: Film, Feminism
+
+TimePeriod/Context: Contemporary
+Years: 
+Fields: Film, Feminism
 
 
 ## Works
-Works:: [[Visual Pleasure and Narrative Cinema]], 
+Works: [[Visual Pleasure and Narrative Cinema]], 
 
-KnownFor:: male gaze, **intersection of human psychology and cultural representation**, relation between eroticism, narrative, and power
+KnownFor: male gaze, **intersection of human psychology and cultural representation**, relation between eroticism, narrative, and power
 
-KeyIdeas::
+KeyIdeas:
 
 Contemporary feminist theorist
 popularized "male gaze"

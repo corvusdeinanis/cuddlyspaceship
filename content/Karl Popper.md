@@ -8,7 +8,7 @@ tags:
 ---
 # Karl Popper
 
-(title::philosopher)
+philosopher  
 (short summary)
 
 - Falsifiability as the criterion of demarcation between science and non-science
@@ -18,19 +18,24 @@ tags:
 - The evolutionary view of the growth of knowledge through trial and error.
 
 ### Bio
-Year of birth: (born::1902)
-Year of death: (died::1994)
-Nationality: (nationality::Austrian-British) 
+
+Year of birth: 1902  
+Year of death: 1994  
+Nationality: Austrian-British  
 Family -  
-Period: (timecontext::)
-### Works
-Important Works: (impworks::"The Logic of Scientific Discovery (1934)","The Open Society and Its Enemies(1945)")
-Contributions: (contributions::"Philosophy of science", "Epistemology", "Metaphysics") 
-Key Ideas: (KeyIdeas::"falsifiability","critical rationalism")
-Known For: (KnownFor::)
+Period:
 
-Influenced By: (influencedby::)
-### Extras
+### 
 
+Works
 
+Important Works: The Logic of Scientific Discovery (1934), The Open Society and Its Enemies(1945)  
+Contributions: Philosophy of science, Epistemology, Metaphysics  
+Key Ideas: falsifiability, critical rationalism  
+Known For: -
 
+Influenced By: -
+
+### 
+
+Extras

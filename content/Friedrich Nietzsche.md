@@ -5,25 +5,22 @@ tags: ['person','philosophy']
 ---
 
 ## Bio
-Name:: Friedrich Nietzsche
-Title:: 
-ShortDesc:: German philosopher, poet, and philologist 
+Friedrich Nietzsche
+ 
+ German philosopher, poet, and philologist 
 1844 to 1900
 known for his radical critique of Western civilization and morality, his concept of the will to power, his proclamation of the death of God, and his idea of the Übermensch (the superior human who creates his own values and meaning). 
 
 
-TimePeriod/Context:: 
-Years::  
-Fields:: 
 
 ### Family
 
 ## Works
-Works::  His works include Thus Spoke Zarathustra, Beyond Good and Evil, On the Genealogy of Morality, and The Antichrist.
+Works:  His works include Thus Spoke Zarathustra, Beyond Good and Evil, On the Genealogy of Morality, and The Antichrist.
 
-KnownFor:: eternal recurrence, the master-slave morality, the Apollonian and Dionysian impulses, and the genealogy of morals, morality, his proclamation of the death of God, Übermensch
+KnownFor: eternal recurrence, the master-slave morality, the Apollonian and Dionysian impulses, and the genealogy of morals, morality, his proclamation of the death of God, Übermensch
 
-KeyIdeas::
+KeyIdeas:
 
 ## Extra
 

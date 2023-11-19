@@ -5,23 +5,22 @@ tags: ['person','internet','internetculture']
 ---
 
 ## Bio
-Name:: Ted Nelson
-Title::
-ShortDesc:: pioneer of information technology, philosopher, and sociologist
+Ted Nelson
+pioneer of information technology, philosopher, and sociologist
 
-TimePeriod/Context:: Contemporary
-Years:: 
-Fields:: IT, web, tech 
+TimePeriod/Context: Contemporary
+Years: 
+Fields: IT, web, tech 
 
 ### Family
 son of Emmy Award-winning director Ralph Nelson and Academy Award-winning actress Celeste Holm
 
 ## Works
-Works:: 
+Works:
 
-KnownFor:: coining [[hypertext]] and [[hypermedia]], [[Project Xanadu]], coining "transclusion"
+KnownFor: coining [[hypertext]] and [[hypermedia]], [[Project Xanadu]], coining "transclusion"
 
-KeyIdeas::
+KeyIdeas:
 
 ## Extra
 

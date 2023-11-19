@@ -5,23 +5,25 @@ tags: ['person','psychology']
 ---
 # Sigmund Freud
 
-(title::neurologist and founder of psychoanalysis)
+neurologist and founder of psychoanalysis
 developed his ideas on the unconscious, sexuality, repression, and the interpretation of dreams through his work with patients and his own self-analysis
 created a model of the psyche consisting of the id, ego, and super-ego. 
 
 considered unscientific because based completely on conjecture (read [[Falsifiability Karl Popper]])
 
-### Bio
-Year of birth: (birthyear::1856)
-Year of death: (died::1939)
-Nationality: (nationality::Austrian) 
+Bio
+Year of birth: 1856
+Year of death: 1939
+Nationality: Austrian
 Family
-Period: (timecontext::)
-### Works
-Important Works: (impworks::)
-Contributions 
-Key Ideas: (KeyIdeas::)
-Known For: (KnownFor::)
+Period: -
 
-Influenced By: (influencedby::)
-### Extra
+Works
+Important Works: -
+Contributions
+Key Ideas: -
+Known For: -
+
+Influenced By: -
+
+Extra

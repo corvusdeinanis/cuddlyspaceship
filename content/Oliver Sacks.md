@@ -1,6 +1,9 @@
 ---
-title: "Oliver Sacks"
+title: Oliver Sacks
 date: 2023-08-28
-tags: ['person','psychology']
+tags:
+  - person
+  - psychology
+  - incomplete
 ---
 

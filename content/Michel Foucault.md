@@ -1,8 +1,10 @@
 ---
-title: "Michel Foucault"
+title: Michel Foucault
 date: 2023-08-05
-status: 'needswork'
-tags: ['person']
+status: needswork
+tags:
+  - person
+  - philosophy
 ---
 
 talks about [[Power Dynamics]]

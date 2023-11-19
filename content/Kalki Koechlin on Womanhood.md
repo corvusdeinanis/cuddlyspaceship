@@ -5,9 +5,6 @@ tags:
   - gender
   - feminism
 ---
-
-	
-
 of course we'll be **hysterical**; we don't even have the right to BREATHE 
 
 - how every behaviour is policed and scrutinized; including just BREATHING
@@ -15,11 +12,6 @@ of course we'll be **hysterical**; we don't even have the right to BREATHE
 	- [[Microaggression]]
 	- latent misogyny
 leaks into every facet of life 
-
-
-
----
-
 ## intro
 
 in the beginning God made man remember that God made man in his own image
