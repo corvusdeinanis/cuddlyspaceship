@@ -244,8 +244,7 @@ Declaration of Human Rights 1948 –Major instruments
 Fundamental Rights And Duties, Directive principle of state policy, Constitutional Remedies,
 Writs, PIL, Human rights during emergencies; National Security Act, Armed Forces Special
 Powers Act, National Human Rights Commission, State Human Rights Commission, Other
-Commissions (Women, SC, ST, OBC, Minorities, displaced persons, disabled persons), Non-
-governmental organizations and Media
+Commissions (Women, SC, ST, OBC, Minorities, displaced persons, disabled persons), Non-governmental organizations and Media
 ### Module 4: Enforcement and Protection Mechanism of Human Rights in India
 Criminal courts- public prosecutor - defense counsel, Complaint and FIR, Investigation - Arrest- under trial prisoners, bail, search and seizure, Inquiry - and trial- (types of trial)
 
