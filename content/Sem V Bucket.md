@@ -14,17 +14,20 @@ status: 🗺
 - [[A Vindication of Rights of Women]] by [[Mary Wollstonecraft]] 
 - [[Compulsory Heterosexuality and Lesbian Existence]] by [[Adrienne Rich]]
 - [[Visual Pleasure and Narrative Cinema]] by [[Laura Mulvey]]
+
 **2) Gender: View from the margins**
 - [[A Universe of Verse]] - Ho Shang Merchant and Meena Kandasamy
 - [[What it is like to be a transgender]] - Lee Mokobe
 - [[Kalki Koechlin on Womanhood]] - [[Kalki Koechlin]]
 - [[Illiterate Heart]] by [[Meena Alexander]]
+
 **3) Gender, Identities and the Everyday**
 - [[Spic]] by Julia Alvarez
 - [[Beyond the Veil]] - Fatema Mernissi  
 - [[Bodies That Matter]] - [[Judith Butler]]
 - [[We Should All Be Feminists]] - Chimamanda Adiche
 - [[My Story Ente Katha|My Story]] - [[Kamala Das]]
+
 **4) Gender through the Lens** 
 - Jaya Jaya Jaya Hey
 - Boys Don't Cry
