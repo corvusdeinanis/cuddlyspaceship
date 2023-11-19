@@ -11,8 +11,8 @@ status: 🗺
 #gender
 **1) Locating Gender** 
    [[A Vindication of Rights of Women]] by [[Mary Wollstonecraft]]
-   [[Compulsory Heterosexuality and Lesbian Existence]] by [[Adrienne Rich]]
-   [[Visual Pleasure and Narrative Cinema]] by [[Laura Mulvey]]
+ [[Compulsory Heterosexuality and Lesbian Existence]] by [[Adrienne Rich]]
+ [[Visual Pleasure and Narrative Cinema]] by [[Laura Mulvey]]
 **2) Gender: View from the margins**
    [[A Universe of Verse]] - Ho Shang Merchant and Meena Kandasamy
    [[What it is like to be a transgender]] - Lee Mokobe
