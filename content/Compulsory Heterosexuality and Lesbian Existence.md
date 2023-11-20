@@ -10,6 +10,8 @@ revised version in 2004
 
 [[radical feminism]]
 
+asserts that heterosexuality is not a biological 
+
 was written in part to address the **erasure of lesbian existence** from scholarly feminist literature which she felt was not just anti-lesbian but also anti-feminist. It "distorts the experience of heterosexual women as well"
 
 looks at **heterosexuality** as a **political institution** that disempowers women
@@ -29,7 +31,7 @@ how that causes **erasure** of gay and lesbian identities
 says homosexuality is NOT deviant
 about "lesbian visibility"
 
-> "Heterosexuality is the tool of the opressor"
+> *"Heterosexuality is the tool of the oppressor"*
 > it is forcible and subliminal 
 
 ## Foundation of Rich's Essay
@@ -56,15 +58,13 @@ objects to the term _lesbianism_, which she sees as a **stigmatized** clinica
 ![[lesbian continuum]]
 
 
-At certain points in history, homosexual men and lesbians have shared a social existence, and acknowledged a common fight against society; but Rich writes that to treat the lesbian experience as a version of male homosexuality is to discard it
+At certain points in history, homosexual men and lesbians have shared a social existence, and acknowledged a common fight against society but  to treat the lesbian experience as a version of male homosexuality is to discard it
 
-
-
-- questions notion of men's dependency on 
 
 ### Three Definitions of Lesbian
  - lesbian identity as an act of resistance
 - lesbian identity is the sense of the self of a woman bonded primarily to women who are sexually, and emotionally 
+- [[lesbian continuum]] and lesbian existence 
 
 she says lesbianism is not just sexual but a political stance
 

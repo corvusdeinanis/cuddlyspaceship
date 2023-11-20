@@ -5,11 +5,11 @@ tags: ['literature','poem','gender','english']
 ---
 
 by [[Meena Alexander]]
-[[postcolonial]]
+[[postcolonialism]]
 
 - starts with a memory 
 - references [[Heart of Darkness]]
-	- references characters from it
+	- references characters from it (she calls herself Marlow and Kurtz)
 	- how she has learnt the colonizer's language and education
 - her self-doubt, imposter syndrome
 	- they manifest as a *Mahakavi* from a temple or a *man in white flannels* who is unerringly English
@@ -17,13 +17,29 @@ by [[Meena Alexander]]
 - dichotomy
 	- violence of language 
 
-- books sit between Gandhi's Experiment with Truth, and something something Crown something 
-
+- books sit between Gandhi's Experiment with Truth, and a crown of thorns brought by a visiting pastor
 - displacement, dislocation
 
+> I was Marlowe and Kurtz and still more 
+> a black woman just visible at the shore. 
+> I thought it's all happened all happened before
 
-> [!Personal Notes] Personal Notes
-> **thoughts**: pretentious, boring, inane feels like someone tried to shoehorn as 
-> many poetic devices as they can relies too heavily on references. 
-> _emphatically_ one of the worst poems I've ever had the misfortune of reading
+>"You think you write poetry! Hey you —" 
+>as he sidestepped me dressed neatly
+> in his jurta and dhoti 
+> a mahakavi from the temples of 
+> right thought.
 
+>Or one in white flannels unerringly English 
+>lured from Dove Cottage 
+>transfixed by carousels of blood
+
+> In dreams I was child babbling at the gate
+>  splitting into two, 
+>  three to make herself safe.
+
+Tom and Bess -> kids from the book used to teach her English
+
+>These lines took decades to etch free, 
+>the heart's illiterate. 
+>The map is torn.

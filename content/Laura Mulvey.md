@@ -7,12 +7,11 @@ tags: ['english', 'gender','person']
 ## Bio
 Laura Mulvey
 Feminist Theorist, Film Theorist
+Contemporary 
 
-
-TimePeriod/Context: Contemporary
-Years: 
 Fields: Film, Feminism
 
+Years: 1941 - Present 
 
 ## Works
 Works: [[Visual Pleasure and Narrative Cinema]], 
