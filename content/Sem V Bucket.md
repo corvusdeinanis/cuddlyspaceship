@@ -156,18 +156,18 @@ crisis management, practical oriented
 	D) [[Affect]] and Cognition
 [[Social Perception]]:
 	A) Non-verbal Communication: Channels, Cues, Deception Recognition
-	B) [[Attribution]]: Theories, Errors
+	B) [[Attribution]]: Theories([[Attribution Theory]] by Heider,[[Covariation Theory]] by Harold Kelley; Errors - Fundamental Attribution Error
 	C) Impression Management: Formation, Management
 ### Attitude, Stereotype, Prejudice &; Aggression
-1. Attitude [[Attitude Formation]]
-	A) Formation
+1. Attitude 
+	A) Formation [[Attitude Formation]]
 	B) Influence of Attitude for Behaviour
-	C) Persuasion and Resistance to Persuasion
+	C) [[Persuasion]] and [[Resistance to Persuasion]]
 	D) [[Cognitive Dissonance]]
 2. Stereotype & Prejudice: 
-	A) Stereotypes – Cognitive Foundations,
+	A) [[Stereotypes]] – Cognitive Foundations,
 	B) How Stereotypes Distort Perceptions; Why Stereotypes Persist;
-	C) [[Prejudice]]s- Individual Differences ;
+	C) [[Prejudice]]s- Individual Differences; [[Origins of Prejudice]]
 	D) Types of Prejudices
 	E) Reducing Prejudice
 3. Aggression
@@ -178,8 +178,7 @@ crisis management, practical oriented
 	A) Conformity [[social conformity]]
 	B) Compliance [[compliance]]
 	C) Obedience [[obedience]]
-	D) Unintentional Social Influence – Emotional Contagion, Symbolic Influence,
-	Modelling
+	D) Unintentional Social Influence – Emotional Contagion, Symbolic Influence, Modelling
 **Pro-social Behaviour:**  [[Prosocial]]
 	A) Motives for Helping
 	B) Factors Influencing Helping,
@@ -215,7 +214,7 @@ crisis management, practical oriented
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
 ### Health Behaviour
 1. Health behaviour – Predicting health behaviour;
-2. Attribution theory, [[Attribution]]
+2. Attribution theory, [[Attribution Theory]]
 3. healthy [[Locus of control]], unrealistic optimism, 
 4. cognition models; [[health belief model]], protection motivation model, Leventhal’s self-regulatory model of illness, Doctor patient communication in health believes.
 ### Psychology and Health [[Health Belief Model]]
