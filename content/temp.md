@@ -7,13 +7,13 @@ tags:
 
 Define health/illness and discuss health psychology's application 
 
-**Health:** Health is a state of complete physical, mental, and social well-being, and not merely the absence of disease or infirmity. This definition comes from the World Health Organization (WHO) and highlights the holistic nature of health, encompassing not just the absence of physical illness but also emotional, mental, and social well-being.
+**Health:** Health is a state of *complete physical, mental, and social well-being, and not merely the absence of disease or infirmity*. This definition comes from the World Health Organization (WHO) and highlights the holistic nature of health, encompassing not just the absence of physical illness but also emotional, mental, and social well-being.
 
-**Illness:** Illness is a state of poor health or a condition in which the normal functioning of the body or mind is disrupted. It can result from various factors, including physical diseases, mental disorders, or a combination of both.
+**Illness:** Illness is a *state of poor health* or a condition in which the *normal functioning of the body or mind is disrupted*. It can result from various factors, including physical diseases, mental disorders, or a combination of both.
 
 **Application of Health Psychology:**
 
-Health psychology is a subfield of psychology that focuses on how psychological factors influence health, illness, and healthcare. It examines the psychological and behavioral processes in health, illness, and healthcare settings. Some of the key applications of health psychology include:
+Health psychology is a subfield of psychology that focuses on how *psychological factors influence health, illness, and healthcare*. It examines the psychological and behavioral processes in health, illness, and healthcare settings. Some of the key applications of health psychology include:
 
 1. **Health Promotion and Behavior Change:** Health psychologists work to understand the factors that influence health behaviors, such as diet, exercise, smoking, and substance abuse. They develop interventions and strategies to promote healthier behaviors and help individuals make positive changes.
 
@@ -33,7 +33,7 @@ Health psychology is a subfield of psychology that focuses on how psychological 
 
 Bio medical Model
 
-The biomedical model is a traditional approach to understanding and explaining health and illness. It is primarily a **reductionist** perspective that **focuses on the physical aspects** of disease and illness, often **emphasizing the biological factors** while largely **neglecting psychological, social, and environmental influences**. Here are some key points about the biomedical model in health psychology: 
+The biomedical model is a traditional approach to understanding and explaining health and illness. It is primarily a **reductionist** perspective that **focuses on the physical aspects** of disease and illness, often **emphasizing the biological factors** while largely **neglecting psychological, social, and environmental influences**.  
 
 **Biomedical Model in Health Psychology**
 

@@ -55,9 +55,6 @@ diseases that affect the nervous system
 brain, spinal cord, peripheral
 
 ## Mental Health Disorders
-
-
-
 ```mermaid
 flowchart LR
 
@@ -89,8 +86,6 @@ flowchart LR
 
     E-->E5(Remission)
 
-  
-  
 
     A-->H(by system)
 
@@ -122,7 +117,7 @@ flowchart LR
 
   
 
-A-->K
+A-->K(spreadability)
 
 K-->K1(Infectious)
 
