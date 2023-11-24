@@ -19,6 +19,7 @@ A-->H(Neurological)
 A-->I(Mental Health)
 ```
 
+mnemonic: A COP 
 ## Acute Diseases
 sudden onset, relatively short duration
 usually severe but resolves quickly with appropriate treatment
@@ -55,10 +56,12 @@ diseases that affect the nervous system
 brain, spinal cord, peripheral
 
 ## Mental Health Disorders
+
+##
 ```mermaid
 flowchart LR
 
-    A[Diseases] --> B
+    A[Diseases] --> B( )
 
     B --> C(Acquired or after birth)
 
@@ -70,7 +73,8 @@ flowchart LR
 
     C-->|can be genetic due to random mutations|D1
 
-    D1-->D12(Hereditary)
+    D-->D12(Hereditary)
+    D12-->D1
 
   
 
@@ -123,3 +127,17 @@ K-->K1(Infectious)
 
 K-->K2(Non-Communicable)
 ```
+
+By acquirability
+Congenital
+Acquired 
+
+anatomical 
+
+topographical 
+
+time
+
+extent
+
+ 

@@ -3,27 +3,24 @@ title: "Emerging Trends in Health Psychology"
 date: 2023-08-01
 tags: ['psychology','healthpsych']
 ---
+- **Technology** and Digital Health
+  digital health interventions to promote behavior change, self-management, and improve health outcomes. Apps, smartwatches, etc
+  
+- Health **Disparities** and Health Equity
+  investigating how socioeconomic status, race/ethnicity, education, and access to healthcare influence health outcomes, health behaviors, and healthcare utilization.
 
-Holistic, 
+- **Positive Psychology** and Wellbeing
+  Positive psychology concepts, such as resilience, gratitude, positive emotions, and well-being are integrated and their effect on health is being explored
 
-## Integrative and Holistic Approaches
+- **Biopsychosocial** Approaches to Chronic Disease Management
+  *holistic* approach by studying the interactions between biological, psychological, and social factors
 
-## Technology and Digital Health
+- Health Behavior Change and Motivation:
+  Intrinsic motivation, how to change health behaviour, better strategies and interventions
 
-## Health Disparities and Health Equity
+- Cultural Competence and Diversity
 
-## Positive Psychology and Wellbeing
+- Mind Body interactions 
 
-## Biopsychosocial Approaches to Chronic Disease Management
-
-## Cultural Competence and Diversity
-
-
-
-
-
-> [!Question] Isn't coping by itself NOT GETTING BETTER
-> Implied that coping is a solution but isn't it more of a response than a solution? Isn't it survival, not trying to solve it
-
-
-
+Isn't coping by itself NOT GETTING BETTER
+Implied that coping is a solution but isn't it more of a response than a solution? Isn't it survival, not trying to solve it

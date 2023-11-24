@@ -198,13 +198,12 @@ crisis management, practical oriented
 	C) Disadvantages of Group Decision Making – Group Think, Group Polarization, Biased Information
 ## DSE - Health Psychology
 #healthpsych 
-- community health, holistic; impact of disease and disorders; govt policies 
 ### Introduction to Health Psychology
 1. Defining Health, Illness, Well-being [[Intro to Health Psychology]]
 2. Role of health psychologist,[[Goals of Health Psychology]], and scope of Health psychology
 3. Current research trends in the field of health psychology, [[Emerging Trends in Health Psychology]]
-4. Ancient systems of health and health care: (i) Indian and (ii) Chinese.
-5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model) 
+4. Ancient systems of health and health care: (i) Indian [[Ayurveda]] and (ii) Chinese. [[Traditional Chinese Medicine]]
+5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model)
 6. Emergence of Health Psychology (Psychoanalytical view, psychosomatic view, and Behavioural medicine) and emerging trends in Health psychology.
 7. Health policies in India 
 ### Physiology and Diseases [[Types of Health]]
@@ -213,12 +212,12 @@ crisis management, practical oriented
 3. [[Pain]] and its management: Definition, Dimension, Types and Perception of pain; Theories of pain (Specificity theory, pattern theory, Gate control theory).
 4. Substance abuse and health: Tobacco, Alcohol, Nicotine and other teratogens
 ### Health Behaviour
-1. Health behaviour – Predicting health behaviour;
+1. [[Health Behaviour]] – Predicting health behaviour;
 2. Attribution theory, [[Attribution Theory]]
 3. healthy [[Locus of control]], unrealistic optimism, 
 4. cognition models; [[health belief model]], protection motivation model, Leventhal’s self-regulatory model of illness, Doctor patient communication in health believes.
-### Psychology and Health [[Health Belief Model]]
-1. Well-being- Definition and Seligman model 
+### Psychology and Health
+1. Well-being- Definition and Seligman model
 2. Personality and health
 3. Stress and Health [[Stress and Withdrawal]]
 4. psychological factors that affect our health 

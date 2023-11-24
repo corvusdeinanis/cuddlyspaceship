@@ -1,5 +1,5 @@
 ---
-title: "Media Management 3"
+title: Media Ownership
 date: 2023-08-29
 status: needswork
 ---
@@ -57,3 +57,5 @@ owns or operates
 (!e)
 
 ### Horizontal
+
+[[Concentration of Media Ownership]]

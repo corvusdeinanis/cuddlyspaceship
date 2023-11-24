@@ -3,14 +3,13 @@ title: "Compulsory Heterosexuality and Lesbian Existencee"
 date: 2023-07-17
 tags: ['feminism','literature','gender','queer']
 ---
-
 written by [[Adrienne Rich]]
 **1980**
 revised version in 2004
 
 [[radical feminism]]
 
-asserts that heterosexuality is not a biological 
+asserts that heterosexuality is not a biological necessity but a social/political institution 
 
 was written in part to address the **erasure of lesbian existence** from scholarly feminist literature which she felt was not just anti-lesbian but also anti-feminist. It "distorts the experience of heterosexual women as well"
 
@@ -85,8 +84,7 @@ not just **tolerate** but **include**
 - Revised, not revisionist (?)
 - Revisionist has negative connotations
 
-[^1]: [[anarchism]]; forced hierarchies 
-
+[^1]: [[archy]]; forced hierarchies 
 
 ---
 

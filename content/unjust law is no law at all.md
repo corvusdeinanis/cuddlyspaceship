@@ -6,7 +6,7 @@ tags:
   - laws
 ---
 unjust law is no law at all 
-(in Latin: lex iniusta non est lex) 
+(in Latin: *lex iniusta non est lex*) 
 
 expression supporting natural law
 acknowledging that authority is not legitimate unless it is good and right

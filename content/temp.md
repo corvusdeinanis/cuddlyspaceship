@@ -69,13 +69,6 @@ Indian System of Health and Health Care:
 
 The Indian system of health and healthcare is known as Ayurveda, which has a long history dating back thousands of years. Ayurveda, meaning "the science of life," is based on a holistic approach to health and emphasizes the balance between the body, mind, and spirit.
 
-Key principles of Ayurveda include:
-**Doshas**: Ayurveda recognizes three fundamental energies or doshas called Vata, Pitta, and Kapha, which are present in varying degrees in everyone. Imbalances in these doshas are believed to contribute to illness, and Ayurvedic treatments aim to restore the balance.
-**Vata**- space and air governs movement/Pitta- fire and water regulate metabolism /**kapha**- earth and water manage assimilation in the body
-**Individualized Approach**: Ayurveda recognizes that each person is unique, and health recommendations are tailored to an individual's constitution (prakriti), considering their dosha balance, lifestyle, and specific health needs.
-**Herbal Remedies**: Ayurveda employs a wide range of herbal preparations, including powders, pastes, oils, and decoctions, to promote health and treat various ailments. These herbal remedies are derived from plants, minerals, and animal products.
-**Lifestyle Practices**: Ayurveda places great emphasis on lifestyle practices that promote health and well-being. These include dietary guidelines, daily routines (dinacharya), meditation, yoga, and specific exercises (such as pranayama) to maintain balance and promote vitality.
-**Panchakarma**: Panchakarma is a detoxification and rejuvenation therapy in Ayurveda. It involves various purification procedures such as oil massages, herbal steam treatments, enemas, and nasal administrations to eliminate toxins, restore balance, and enhance overall health.
 
 Chinese System of Health and Health Care:
 
@@ -203,34 +196,17 @@ Organic vs. Psychogenic Diseases:
    - Treatment for psychogenic diseases often involves psychotherapy, stress management, and addressing the underlying emotional issues.
    - Examples include somatic symptom disorders, conversion disorders, and psychosomatic illnesses.
 
-Describe pain and it's sensory emotional dimension   
+Describe [[pain]] and it's sensory emotional dimension   
 
 Pain is a complex sensory and emotional experience that can be described in two primary dimensions:
 
-1. Sensory Dimension:
-   - The sensory dimension of pain refers to the physical and physiological aspects of pain perception.
-   - It encompasses the intensity, location, and quality of the pain. For example, pain can be described as sharp, burning, throbbing, or aching.
-   - Sensory pain information is primarily processed in the brain through the somatosensory cortex, helping us identify the location and characteristics of pain.
 
-2. Emotional Dimension:
-   - The emotional dimension of pain involves the psychological and affective aspects of pain.
-   - It includes the emotional responses and feelings associated with pain, such as fear, anxiety, depression, anger, and suffering.
-   - The emotional dimension is often processed in brain regions associated with emotions, including the limbic system and the prefrontal cortex.
-   - Psychological factors like stress, anxiety, and coping mechanisms can significantly influence the emotional dimension of pain.
 
-In health psychology, understanding both the sensory and emotional dimensions of pain is critical for assessing and managing pain effectively. The emotional dimension, in particular, plays a vital role in how individuals perceive and cope with pain. Psychologists in this field work with patients to address the emotional aspects of pain through various therapeutic approaches, such as cognitive-behavioral therapy, relaxation techniques, and stress management, to help individuals better manage their pain and improve their overall quality of life. 
 
 Stroke, heart diesease, HIV AIDS, asthma and cancer write symptoms, treatment and psych rehabilitatio) 
 
-**Stroke**:
+[[Stroke]]
 
-Definition: A **stroke**, or cerebrovascular accident (CVA), occurs when there is a **sudden interruption of blood flow to the brain**, typically due to a blood clot or a ruptured blood vessel. This can lead to brain damage and various symptoms.
-
-Symptoms: Symptoms of a stroke can include **sudden numbness or weakness on one side of the body**, **trouble speaking**, **confusion**, **severe headache**, and **difficulty walking**.
-
-Treatment: Treatment for a stroke often involves emergency medical intervention to restore blood flow to the brain. This can include medications to dissolve blood clots or surgical procedures. Rehabilitation may be needed to address physical and cognitive impairments.
-
-Psychological Rehabilitation: Psychological rehabilitation for stroke survivors may involve addressing emotional issues, such as depression and anxiety, that can result from the physical and cognitive changes following a stroke. Therapy, counseling, and support groups can be beneficial.
 
 **Cardiovascular Disease (CVD)**:
 
@@ -252,7 +228,7 @@ Treatment: **Antiretroviral therapy (ART)** is the standard treatment for HIV. I
 
 Psychological Rehabilitation: Psychological rehabilitation for HIV/AIDS patients may involve addressing the stigma and emotional challenges associated with the disease. Counseling and support groups can help individuals cope with the psychological aspects of living with HIV.
 
-Asthma:
+[[Asthma]]:
 
 Definition: Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to difficulty breathing.
 
@@ -286,7 +262,7 @@ The primary goal of community health is to improve the overall health status of 
 
 Explain gate control theory of pain 
 
-Gate Control Theory of Pain:
+[[Gate Control Theory of Pain]]:
 
 The **Gate Control Theory of Pain**, proposed by Ronald Melzack and Patrick Wall in 1965, is a comprehensive model that describes **how pain is perceived and modulated by the nervous system**. This theory suggests that pain is not solely a result of direct sensory input from damaged tissue but is also influenced by various factors, including emotional, cognitive, and sensory components.
 
@@ -439,14 +415,14 @@ Module 4
 
 PERMA model and GAS -define
 
-PERMA Model:
-The PERMA model is a well-known framework in positive psychology developed by Martin Seligman. It focuses on five essential elements that contribute to well-being and happiness:
+[[PERMA Model]]:
+well-known framework in positive psychology developed by [[Martin Seligman]]. It focuses on five essential elements that contribute to well-being and happiness:
 
-Positive Emotion (P): Positive emotions, such as joy, gratitude, and contentment, contribute to overall well-being. Experiencing positive emotions is associated with improved health and longevity.
-Engagement (E): Engagement refers to being fully absorbed in an activity or experiencing a state of flow. Engaging in activities that align with one's interests and strengths can promote psychological well-being and reduce stress.
-Relationships (R): Positive relationships and social connections are crucial for well-being. Having a strong social support network can help individuals cope with stress and lead to better health outcomes.
-Meaning (M): Finding meaning and purpose in life is associated with improved mental and physical health. People who have a sense of purpose tend to engage in healthier behaviors.
-Accomplishment (A): Accomplishment refers to setting and achieving goals. A sense of accomplishment can boost self-esteem and overall well-being.
+**Positive** Emotion (P): Positive emotions, such as joy, gratitude, and contentment, contribute to overall well-being. Experiencing positive emotions is associated with improved health and longevity.
+**Engagement** (E): Engagement refers to being fully absorbed in an activity or experiencing a state of flow. Engaging in activities that align with one's interests and strengths can promote psychological well-being and reduce stress.
+**Relationships** (R): Positive relationships and social connections are crucial for well-being. Having a strong social support network can help individuals cope with stress and lead to better health outcomes.
+**Meaning** (M): Finding meaning and purpose in life is associated with improved mental and physical health. People who have a sense of purpose tend to engage in healthier behaviors.
+**Accomplishment** (A): Accomplishment refers to setting and achieving goals. A sense of accomplishment can boost self-esteem and overall well-being.
 
 Example: In the context of health psychology, individuals who incorporate the elements of the PERMA model into their lives may experience better mental and physical health outcomes. For instance, maintaining positive relationships and engaging in activities that provide a sense of meaning can reduce stress, boost the immune system, and promote overall well-being.
 
