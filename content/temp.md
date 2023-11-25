@@ -594,7 +594,7 @@ Holistic health promotion and it's relevance in promoting overall health
     * Francis: A young man who tells the story of Caligari and Cesare in a flashback. He is in love with Jane and tries to stop Caligari's crimes.
     * Jane: Francis's fiancée who is kidnapped by Cesare but later rescued by the townspeople.
 
-- Gone with the Wind: A 1939 American epic historical romance film based on the novel by Margaret Mitchell. Some of the main characters are:
+- [[Gone with the Wind]]: A 1939 American epic historical romance film based on the novel by Margaret Mitchell. Some of the main characters are:
     * Scarlett O'Hara: The protagonist of the film, a headstrong Southern belle who is determined to survive the Civil War and its aftermath. She marries three times and has a turbulent relationship with Rhett Butler.
     * Rhett Butler: A roguish businessman who falls in love with Scarlett and admires her courage and ambition. He is often at odds with Scarlett and the society around him.
     * Ashley Wilkes: A Southern gentleman who is married to Melanie Hamilton, but is also the object of Scarlett's obsession. He is loyal to his wife and his ideals, but is unable to cope with the changing world.

@@ -22,18 +22,20 @@ narrator, unreliable narrator
 apparently a sleepwalker with superpowers;
 he is 
 #### Dr Caligari
-
+An insane hypnotist who uses a somnambulist named Cesare to commit murders
 #### Jane
+Francis's fiancée who is kidnapped by Cesare but later rescued
 #### Alan
 Friend of Francis, shares the same love interest, Jane
 asks Cesare "How long will I live?" 
+dies 
 
 ### Themes
 #### Reality Vs Perception
 #### Authoritarianism
 #### Ideological Brainwashing
 #### Madness of Storytellers
-???
+
 #### Sleep and Dreaming
 
 #### Identity

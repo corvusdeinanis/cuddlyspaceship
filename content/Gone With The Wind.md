@@ -4,7 +4,6 @@ date: 2023-10-03
 tags: ['literature','fictioninfilm']
 genre: ['historical','romance']
 ---
-
 ## Setting
 Tara (?) Georgia, USA 
 ~ American Civil War
@@ -33,7 +32,7 @@ IS A MIRROR FOR THE SOUTH and how it evolves
 Adaptable
 Representation of old and new south
 
-### Mammy (?)
+### Mammy 
 Black person serving the O'Hara family
 shares a bond with Scarlett O'Hara
 
@@ -48,9 +47,8 @@ rejects Ashley, marries Melanie as they are more similar
 Supports the confederates 
 Led scarlett on
 
-
 ### Melanie
-Ashley's love
+Ashley's love interest
 
 ### Charles
 Melanie's brother
@@ -66,22 +64,20 @@ Dashing, masculine, suave
 "bad boy" character 
 
 Criticizes chivalry, hypocrisy of the prim and proper
-Opportunitist
+Opportunist
 
 Symbolises new south but shows nostalgia for old south
 
+Loves Scarlett
+
+Scarlett marries him, they have a daughter. 
+
 At one point he leaves Scarlett and joins the confederacy 
 Towards the end, he goes to find remnants
-```mermaid
-graph LR
-A---B 
-
-```
 
 
 ---
 Imo, a stupid ass novel 
 It's like a love story set during the holocaust but the protagonists are insufferable nazi sympathizers
 
-Mic
 
