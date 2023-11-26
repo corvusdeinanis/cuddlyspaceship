@@ -42,7 +42,7 @@ deals with dynamics of literature -> movie
    - "Firoze Rangoonwalla - Indian Cinema, Past & Present" [[Bollywood]]
 2. **Concepts and Movements**
    - [[German Expressionism]] ([[The Cabinet of Dr Caligari]])
-   - [[European Neo Realism]] ([[Bicyle Thieves]])
+   - [[European Neo Realism]] ([[Bicycle Thieves]])
    - Historical Romance 
 3. **Fiction to films**
    - Novel to a film - A Clockwork Orange

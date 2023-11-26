@@ -1,5 +1,5 @@
 ---
-title: Bicyle Thieves
+title: Bicycle Thieves
 date: 2023-10-31
 tags:
   - film
