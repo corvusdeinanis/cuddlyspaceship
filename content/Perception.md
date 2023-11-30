@@ -61,7 +61,7 @@ Similarity
 Symmetry
 Figure and Ground
 
-### Llusion
+### illusion
 a **misrepresentation** of a “real”  sensory stimulus
 an interpretation that contradicts objective “reality” as defined by general agreement
 universal unlike hallucinations

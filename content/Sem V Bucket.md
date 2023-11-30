@@ -43,7 +43,7 @@ deals with dynamics of literature -> movie
 2. **Concepts and Movements**
    - [[German Expressionism]] ([[The Cabinet of Dr Caligari]])
    - [[European Neo Realism]] ([[Bicycle Thieves]])
-   - Historical Romance 
+   - Historical Romance ([[Gone With The Wind]])
 3. **Fiction to films**
    - Novel to a film - A Clockwork Orange
    - Play to a film - [[A Streetcar Named Desire]]

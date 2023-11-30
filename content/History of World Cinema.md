@@ -3,20 +3,18 @@ title: "History of World Cinema"
 date: 2023-07-17
 tags: ['fictioninfilm','film','movies']
 ---
-
 The Oxford History of World Cinema - Geoffrey Nowell Smith
 
 # Introduction
 
 [[Cinema]]
-
+[[Illusory motion]]
 began as a novelty in few big cities - New York, Paris, London, Berlin
 
 films went from short attractions and novelties -> couple of minutes long -> feature length
 
-Cinema was invented by French, German, American, and British
-but, French and Americans were the biggest exporters 
-Italy joined
+Cinema was invented by French, German, American, and British but, French and Americans were the biggest exporters 
+Italy joined soon
 
 Post WWI, US became dominant
 Hollywood became the lead artistically and industrially
@@ -25,12 +23,16 @@ Why?
 [[World War I|The First World War]] caused a fall in the European Film Industry, the American Industry grew. Rise of Hollywood
 
 ## Timeline 
-- **1878**: Eadweard Muybridge creates *The Horse in Motion*, one of the first motion pictures.
+- **1878**: [[Eadweard Muybridge]] creates *The Horse in Motion*, one of the first motion pictures.
 - **1888**: Louis Le Prince films *Roundhay Garden Scene*, the oldest surviving film in existence.
 - **1891**: Thomas Edison patents the **Kinetoscope**, a device that allows one person to view moving pictures.
 - **1895**: The Lumière brothers invent the **[[Cinématographe]]**, a device that can record and project films. They hold the first public screening of their films in Paris.
+
+>[!Caution] Wrongly Believed
+>It is said that "Arrival of Train" was the first film to be screened publicly by the Lumiere Brothers but this is incorrect. There's no evidence that it was part of the films that were shown on that particular day
+
 - **1896**: *Georges Méliès* makes **A Trip to the Moon**, one of the first narrative films with special effects.
-- **1903**: Edwin S. Porter directs The Great Train Robbery, one of the first westerns and one of the first films to use editing and cross-cutting.
+- **1903**: Edwin S. Porter directs *The Great Train Robbery*, one of the first westerns and one of the first films to use editing and cross-cutting.
 - **1905**: The first nickelodeon, a small movie theater that charges five cents for admission, opens in Pittsburgh.
 - **1907**: The first film studio, the Nestor Film Company, is founded in Hollywood by David Horsley and Al Christie.
 - **1915**: [[DW Griffith|D.W. Griffith]] releases The Birth of a Nation, a controversial but influential epic that popularizes many cinematic techniques.
@@ -42,8 +44,7 @@ Why?
 
 > pre-1907 film is often accused of being more theatrical than cinematic
 
-until 1907, filmmakers concerned
-themselves with the individual shot, preserving the spatial aspects
+until 1907, filmmakers concerned themselves with the individual shot, preserving the spatial aspects
 
 was first one-shot *actualities*^[aka documentaries or just the world as it happened]
 
@@ -60,12 +61,12 @@ Less expensive ways of colouring -
 3. Mordanting
 
 1899 -> superimposition of red, green, and blue 
-1906-> George Albert Smith Kinemacolor; semi-transparent disc divided into two sectors: red and blue-green
+**1906**-> George Albert Smith *Kinemacolor*; semi-transparent disc divided into two sectors: red and blue-green
 
-1915-> FIRST colour sensitive emulsion invented by Eastman Kodak, was marketed under the trademark Kodachrome
+**1915**-> FIRST colour sensitive emulsion invented by **Eastman Kodak**, was marketed under the trademark *Kodachrome*
 
 ## Sound
-[[Silent Film]]
+[[Silent Film]], [[Slapstick Comedy]]
 
 
 ## Industry

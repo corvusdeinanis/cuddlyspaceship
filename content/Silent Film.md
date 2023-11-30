@@ -12,7 +12,7 @@ silent films *convey narrative and emotion visually*
 
 various plot elements (such as a setting era) or key lines of dialogue can be conveyed by the use of "title cards" or "intertitles". It is a piece of filmed, printed text edited into the movie that appear on-screen  but are not part of a scene
 
-intertitles can be 
+intertitles can be: 
 expository
 dialogue
 

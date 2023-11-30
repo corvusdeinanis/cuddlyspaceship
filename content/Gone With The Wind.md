@@ -5,8 +5,10 @@ tags: ['literature','fictioninfilm']
 genre: ['historical','romance']
 ---
 ## Setting
-Tara (?) Georgia, USA 
+Georgia, USA 
 ~ American Civil War
+Fictional plantation of Tara 
+
 ## Characters
 ### Scarlett O'Hara
 southern woman
