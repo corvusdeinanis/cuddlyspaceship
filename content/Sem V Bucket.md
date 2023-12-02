@@ -117,8 +117,11 @@ Basics, Intermediate, Rough cut, First and Final edit
 ## DSE - Media Management
 #mediamanagement 
 crisis management, practical oriented
-1. **Intro to Media management:** [[What is media management]] [[Need for Media Management]]
-   definition, nature and scope, Principles of media management and their significance, Origin of management thought, Organizational structure of print, electronic and radio; Theories of management: classical, scientific and modern. [[Theories of Management]] 
+1. **Intro to Media management:** 
+   [[What is media management]] 
+   [[Need for Media Management]]
+   definition, nature and scope, 
+   Principles of media management and their significance, Origin of management thought, Organizational structure of print, electronic and radio; Theories of management: classical, scientific and modern. [[Theories of Management]] 
 2. **Issues in media management**
    Editorial management, marketing and branding, strategic, circulation, Human Resources financial and Technical Management, production management for television: production managers, their skills and functions; production management in action- preproduction, production post production.
 3. **contemporary media scenario**

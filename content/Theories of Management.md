@@ -34,7 +34,7 @@ coordinating the enterprise for everyone's benefit including increased wages for
 
 bottom up view
 ### Proponents 
-Frederick Winslow Taylor; the theory is also called Taylorism after him
+**Frederick Winslow Taylor**; the theory is also called Taylorism after him
 ### Emphasizes on
 - Need for developing a **scientific way** of performing each job 
 - Training and preparing workers to perform that particular job
@@ -66,7 +66,7 @@ top-down view
 
 **Henri Fayol** - Father of Management 
 he believed scientific forecasting and proper methods of management would lead to satisfactory results
-believed by focusing on managerial practices he could minimize misunderstandings and increase efficiency in organizations
+believed *by focusing on managerial practices he could minimize misunderstandings and increase efficiency in organizations*
 was the CEO of a mining company
 
 ***General and Industrial Management* -> work by Henri Fayol 
@@ -90,14 +90,23 @@ subordination of individual interest to the general interest -> goal of company 
 initiative - employees should be encouraged to give their inputs
 Remuneration - fair pay based on factors like cost of living and productivity of employment
 equity - everyone should be treated the same 
-esprit de corps 
+esprit de corps - morale 
 
 ## Bureaucratic Management
 
 by [[Max Weber]]
 Weber observed a lot of nepotism which he found gross and unjust
->"a bureaucracy is a highly structured, formalized and impersonal organization. In other words, it is a formal organization structure with a set of rules and regulations"
+>"a *bureaucracy* is a highly structured, formalized and impersonal organization. In other words, it is a *formal organization structure with a set of rules* and regulations"
 > -- Max Weber 
+
+fixed hierarchical structure
+very organized
+impersonal
+clearly defined set of roles, well defined chain of command
+rules based management
+specialization
+
+
 
 ## Behavioural Approach to Management
 influenced by Hawthorne studies
@@ -111,7 +120,7 @@ emphasizes use of **mathematical models** and **statistical models** for decisio
 aka operations research
 
 **criticism** 
-This approach has been criticized for its overemphasis on mathematical tools. Many managerial activities cannot be quantified because they involve human beings who are governed by many irrational elements as well.
+This approach has been criticized for its overemphasis on mathematical tools. Many managerial activities cannot be quantified because they involve human beings who are governed by many irrational elements as well
 ## Operations Management
 effective management of the production process and the timely delivery of an organization's products and services.
 applied form of management science 

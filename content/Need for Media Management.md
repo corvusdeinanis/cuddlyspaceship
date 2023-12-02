@@ -32,3 +32,46 @@ Without media management, media as we know it today would not have existed. The 
 
 Example of media management in use: 
 A social media firm needs media management to find out trends, the demographic, what kind of content gets more views. etc. Research and data science is involved in this. There will be market researches, surveys, polls, as well as tracking data and so on. If the firm posts something that has an adverse negative reaction, the media management has to handle the crisis in a way that the reputation of the company is intact. 
+
+
+## Functions of Media Management 
+### Strategic Management
+situational analysis
+```mermaid
+graph LR
+    A[Corporate goals]-->B(Situational Analysis)-->C[Strategy Formulation]-->D[Strategy Implementation]
+    
+    subgraph x1 [ ]
+    direction TB
+    B
+     subgraph x2 [ ]
+     B1[Environment Analysis]
+     B2[Corporate Analysis]
+     B11[Environment, competition, market, branch]
+     B21[Competencies]
+     B1-->B11
+     B2-->B21
+    end
+ end
+```
+Strategic management is the process of defining the vision, mission, goals, and objectives of the media organisation, and developing and implementing plans and policies to achieve them. 
+
+Strategic management helps the media organisation to align its activities with its core values and purpose, to identify and respond to the opportunities and threats in the external environment, to leverage its strengths and overcome its weaknesses, and to create and sustain a competitive advantage in the market. For example, a media organisation may use strategic management to decide what kind of content to produce, what audience to target, what channels to use, what partnerships to form, and what innovations to pursue.
+
+### [[Production Management]]
+### [[Marketing]]
+### Organizational Management
+
+
+
+```mermaid
+flowchart LR
+    A[media enterprises]-->B
+    B-->C
+    C-->D
+    click A callback "Tooltip for a callback"
+    click B "https://www.github.com" "This is a tooltip for a link"
+    click C call callback() "Tooltip for a callback"
+    click D "[[media enterprises]]"
+class A internal-link
+```

@@ -8,17 +8,17 @@ Play by Tennessee Williams
 Dec 3rd 1947
 
 ## Characters
-
 ```mermaid
 flowchart TD
+
 A--sister-->B
-A(Blance)
-B(Stella Kowalski)
-C(Stanley Kowalski)
+A(Blanch D)
+B(Stella K)
+C(Stanley K)
 B--Married-->C
 
 D(Mitch)
-
+C--friend-->D
 ```
 
 ### Blanche DuBois

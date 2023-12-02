@@ -81,9 +81,6 @@ coordinates with news and reporting wing for better
 coverage and also consults with the advertisement and circulation wing
 In absence of News Editor, play the role 
 
-
-
-
 # Roles (News Bureau)
 ## Bureau Chief
 leads central bureau; 
