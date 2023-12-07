@@ -156,30 +156,4 @@ Educational Radio -Started in 2000 March, owned by IGNOU - **Gyan Vani**
 
 Gyan Vani station has a range of about 60 km and covers an entire city including the adjoining rural areas
 
-### Principles of Writing for Radio
-
-conversational
-brief and contain only one idea
-simple and direct
-correct grammar
-important information first
-Stick to short sentences
-
-Use the active voice and active verbs
-write with visual imagery. Make your listeners “see” 
-Titles precede names
-age reference, precede the name with the age
-Avoid writing direct quotations into a news script, if at all possible
-
-attribution should come before a quotation, not after it
-
-Round off numbers unless the exact number is significant
-Do not split a sentence between pages
-
-
-
-#journalism 
-
-
-Television broadcasting began in Delhi in 1959
-
+[[Principles of Writing for Radio]]

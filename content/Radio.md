@@ -22,6 +22,8 @@ people who cannot read can still access it
 -> Educational and Informative Programs 
 -> Regional and Cultural Programs
 
+[[Types of Interviews in Radio]]
+
 see also-
 [[History of Radio]]
 

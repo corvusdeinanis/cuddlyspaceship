@@ -3,7 +3,6 @@ title: "Mark Twain"
 tags: ['writer','literature','english']
 date: 2023-04-10
 ---
-
 # Mark Twain
 
 ![Mark Twain Portrait|100](images/marktwain.png)
