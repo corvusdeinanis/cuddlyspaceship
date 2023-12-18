@@ -11,7 +11,7 @@ Hi! This is a dynamic page that will show the key topics I'm reading about or fo
 #Psychology
 I'm specifically interested in [[Bias|biases]], thinking patterns, mental illness, and therapy
 
-(add links) (?/)
+
 
 ## Biology
 A lot to do with [[Senescence]] or aging. Good measure of best practices for health. The intersection between biology and psychology. 

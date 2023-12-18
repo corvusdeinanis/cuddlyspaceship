@@ -6,13 +6,14 @@ Bradford's law
 - [x] Campbell's law ✅ 2023-05-26
 Clarke's three laws
 Cunningham is credited with the idea: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
-- [ ] Dunbar's number
+- [x] [[../Dunbars number]]
 - [x] Dunning–Kruger effect
 - [ ] Eroom's law
 - [ ] Finagle's law
 
+[[Gell Mann amnesia effect]]
 ```
-In a speech in 2002, Crichton coined the term Gell-Mann amnesia effect, after physicist Murray Gell-Mann. He used this term to describe the phenomenon of experts believing news articles written on topics outside of their fields of expertise, yet acknowledging that articles written in the same publication within their fields of expertise are error-ridden and full of misunderstanding:[143]
+In a speech in 2002, Crichton coined the term [[Gell Mann amnesia effect]], after physicist Murray Gell-Mann. He used this term to describe the phenomenon of experts believing news articles written on topics outside of their fields of expertise, yet acknowledging that articles written in the same publication within their fields of expertise are error-ridden and full of misunderstanding:[143]
 
     Media carries with it a credibility that is totally undeserved. You have all experienced this, in what I call the Murray Gell-Mann Amnesia effect. (I refer to it by this name because I once discussed it with Murray Gell-Mann, and by dropping a famous name I imply greater importance to myself, and to the effect, than it would otherwise have.)
 
@@ -23,7 +24,7 @@ In a speech in 2002, Crichton coined the term Gell-Mann amnesia effect, after ph
     That is the Gell-Mann Amnesia effect. I'd point out it does not operate in other arenas of life. In ordinary life, if somebody consistently exaggerates or lies to you, you soon discount everything they say. In court, there is the legal doctrine of falsus in uno, falsus in omnibus, which means untruthful in one part, untruthful in all. But when it comes to the media, we believe against evidence that it is probably worth our time to read other parts of the paper. When, in fact, it almost certainly isn't. The only possible explanation for our behavior is amnesia.
 ```
 
-- [ ] Gell-Mann Amnesia effect ✅ 2023-05-26
+- [x] Gell-Mann Amnesia effect ✅ 2023-05-26
 
 - [ ] Gibson's law
 - [ ] Hick's law
@@ -54,7 +55,7 @@ nullify each other, or something.
 ```
 The problem of evil is the question of how to reconcile the existence of evil and suffering with an omnipotent, omnibenevolent, and omniscient God. There are currently differing definitions of these concepts. The best known presentation of the problem is attributed to the Greek philosopher Epicurus. It was popularized by David Hume. 
 ```
-- [ ] Problem of Evil 
+- [x] [[Problem of Evil]] 
 
 David Hume, rationalist, skepticism
 
@@ -86,3 +87,6 @@ Law of conservation of complexity
 
  - The **Overton window** is an approach to identifying the ideas that define the spectrum of acceptability of governmental policies. It says politicians can act only within the acceptable range. Shifting the Overton window involves proponents of policies outside the window persuading the public to expand the window.
 
+- Phreaking
+- Capn Crunch
+- [[cypherpunk]]

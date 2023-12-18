@@ -18,7 +18,7 @@ son of Emmy Award-winning director Ralph Nelson and Academy Award-winning actres
 ## Works
 Works:
 
-KnownFor: coining [[hypertext]] and [[hypermedia]], [[Project Xanadu]], coining "transclusion"
+KnownFor: coining [[hypertext]] and [[hypermedia]], [[Project Xanadu]], coining "transclusion", noted some of the tenets of 'hacker ethics' in [[Computer Lib Dream Machines]] (1974)
 
 KeyIdeas:
 
