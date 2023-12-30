@@ -89,4 +89,4 @@ Law of conservation of complexity
 
 - Phreaking
 - Capn Crunch
-- [[cypherpunk]]
+- [[Cypherpunk]]

@@ -1,7 +1,10 @@
 ---
-title: "Computer Lib Dream Machines"
+title: Computer Lib Dream Machines
 date: 2023-12-19
-tags: []
+tags:
+  - tech
+  - hackerculture
+  - computer
 ---
 book by [[Ted Nelson]]
 first published 1974
