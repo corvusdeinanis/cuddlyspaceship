@@ -4,6 +4,8 @@ tags:
   - research
   - researchmethodology
   - needswork
+  - statistics
+  - data
 ---
 !!! Merge with [[Measurement and Types of Measurement]]
 

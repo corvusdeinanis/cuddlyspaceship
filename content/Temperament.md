@@ -9,5 +9,5 @@ More long standing than mood
 
 ---
 read also - [[mood]]
-[[emotions]]
+[[Emotions]]
 [[feelings]]
