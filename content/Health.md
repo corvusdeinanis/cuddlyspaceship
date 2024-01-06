@@ -20,8 +20,6 @@ So, health is -
 involves aspects such as regular exercise, balanced nutrition, sufficient sleep, and the absence of physical symptoms or illnesses.
 
 **wellness** = usually means optimum state of health 
-
-
 ## Illness 
 Illness on the other hand is 
 - deviation from normal well-being
@@ -31,4 +29,8 @@ Illness on the other hand is
 
 According to WHO, 
 >“Illness is a state in which a person's physical, intellectual, emotional, social or spiritual functioning is diminished or impaired in comparison with the previous experience”."
+
+It is a state of poor health where normal functioning of the body is disrupted
+
+
 

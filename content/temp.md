@@ -3,33 +3,6 @@ title: Temporary
 tags:
   - delete
 ---
-# Module 1 
-
-Define health/illness and discuss health psychology's application 
-
-**Health:** Health is a state of *complete physical, mental, and social well-being, and not merely the absence of disease or infirmity*. This definition comes from the World Health Organization (WHO) and highlights the holistic nature of health, encompassing not just the absence of physical illness but also emotional, mental, and social well-being.
-
-**Illness:** Illness is a *state of poor health* or a condition in which the *normal functioning of the body or mind is disrupted*. It can result from various factors, including physical diseases, mental disorders, or a combination of both.
-
-**Application of Health Psychology:**
-
-Health psychology is a subfield of psychology that focuses on how *psychological factors influence health, illness, and healthcare*. It examines the psychological and behavioral processes in health, illness, and healthcare settings. Some of the key applications of health psychology include:
-
-1. **Health Promotion and Behavior Change:** Health psychologists work to understand the factors that influence health behaviors, such as diet, exercise, smoking, and substance abuse. They develop interventions and strategies to promote healthier behaviors and help individuals make positive changes.
-
-2. **Stress and Coping:** Health psychology explores the relationship between stress and physical and mental health. It offers coping strategies to manage stress effectively, which can have a significant impact on overall health.
-
-3. **Patient-Provider Communication:** Effective communication between healthcare providers and patients is crucial. Health psychologists study the doctor-patient relationship and work to improve communication and the patient's understanding of their condition and treatment.
-
-4. **Chronic Illness Management:** Health psychology assists individuals with chronic illnesses, such as diabetes or heart disease, in managing their conditions. It provides strategies for improving the quality of life and adherence to treatment regimens.
-
-5. **Pain Management:** Health psychologists are involved in the management of chronic pain, including developing techniques for pain relief and helping patients cope with the psychological aspects of pain.
-
-6. **Psychosocial Aspects of Disease:** Health psychology addresses the psychological impact of various diseases, including cancer, HIV/AIDS, and chronic conditions. It provides support to individuals dealing with the emotional and mental aspects of illness.
-
-7. **Public Health Interventions:** Health psychologists contribute to public health efforts by researching and developing strategies to address public health concerns, such as reducing substance abuse, preventing the spread of infectious diseases, and promoting safe sex practices.
-
-8. **Healthcare System Improvement:** Health psychology plays a role in improving the healthcare system by examining factors like patient satisfaction, healthcare access, and healthcare policy. It provides insights into how to make healthcare more patient-centered and effective.
 
 Bio medical Model
 
@@ -111,60 +84,6 @@ The psychosomatic view in health psychology is an approach that explores the int
 5. Behavioral and Psychological Interventions: In this view, interventions may include psychological therapies, stress management, and relaxation techniques to address the psychological factors contributing to health problems.
 
 It's important to note that while the psychosomatic view of health psychology recognizes the impact of emotions and psychological factors on health, it does not discount the role of biological and environmental factors. Health psychologists often consider a range of factors, including biology, psychology, and social influences, to provide a comprehensive understanding of health and well-being.
-
-Policies in health psychology
-
-Here are some key health policies in India:
-
-National Health Policy 2017: The National Health Policy is a comprehensive policy
-framework that aims to provide affordable and quality healthcare to all citizens of India. It
-emphasizes strengthening the healthcare system, increasing access to services, and
-reducing out-of-pocket expenses for healthcare.
-Ayushman Bharat Yojana (Pradhan Mantri Jan Arogya Yojana): Launched in 2018,
-Ayushman Bharat is a flagship health insurance scheme that aims to provide health
-coverage to economically vulnerable sections of society. Under this scheme, eligible
-beneficiaries can avail of cashless treatment in empaneled hospitals for a wide range of
-illnesses and medical procedures.
-National Rural Health Mission (NRHM): Launched in 2005, NRHM focuses on
-improving healthcare delivery in rural areas. It aims to provide accessible, affordable, and
-quality healthcare services, strengthen infrastructure, promote community participation,
-and enhance the availability of trained health personnel.
-Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCH+A) Initiative:
-This initiative focuses on improving the health outcomes of women, children, and
-adolescents. It aims to reduce maternal and child mortality, promote family planning,
-ensure immunization coverage, and address nutritional deficiencies.
-**National AIDS Control Program** (NACP): NACP is a comprehensive program launched
-to prevent and control the spread of HIV/AIDS in India. It focuses on awareness
-generation, prevention, testing, counseling, treatment, care, and support for people living
-with HIV/AIDS.
-National Mental Health Program (NMHP): NMHP was launched to provide accessible
-and affordable mental healthcare services across the country. It aims to strengthen mental
-health infrastructure, promote community-based mental health services, and create
-awareness about mental health issues.
-Swachh Bharat Abhiyan (Clean India Campaign): While not solely a health policy, this
-nationwide cleanliness campaign launched in 2014 aims to improve sanitation and
-hygiene practices. It addresses issues such as open defecation, solid waste management,
-and the construction of toilets, which have significant health implications.   
-
-Role of psychologists, recent trend in HP, application of health psychology models to cure any disease.
-
-Role of psychologists:
-1. Assessment and Diagnosis: Psychologists in health psychology assess and diagnose psychological factors related to physical health conditions. They may help identify issues such as stress, anxiety, depression, and coping strategies that affect an individual's health.
-
-2. Health Promotion and Behavior Change: Psychologists play a crucial role in promoting healthy behaviors and assisting individuals in making positive lifestyle changes. They design and implement interventions to encourage exercise, proper nutrition, and smoking cessation, among other health-related behaviors.
-
-3. Stress Management: Psychologists help individuals manage and cope with stress, which can have a significant impact on health. They teach stress-reduction techniques and help patients develop effective coping strategies.
-
-4. Chronic Illness Management: Psychologists assist individuals in managing chronic illnesses, including diabetes, heart disease, and chronic pain conditions. They help patients adapt to their conditions, adhere to treatment plans, and improve their overall quality of life.
-
-5. Pain Management: Psychologists specializing in health psychology often work with patients who have chronic pain conditions. They use psychological techniques to help manage pain and improve functioning.
-
-6. Support for Patients and Families: Psychologists provide emotional support for individuals facing health challenges and their families. This support can help patients and their loved ones better understand and manage their conditions.
-
-
-
-
-Module 2 
 
 Difference between acute and chronic illness / organic and psychogenic diseases. 
 
