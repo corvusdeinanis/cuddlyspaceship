@@ -17,4 +17,5 @@ tags:
 	Gross migration is total 
 	net migration - difference between total number of people coming in and total number of people going out
 
-
+---
+see: [[diaspora]] 

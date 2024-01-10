@@ -25,6 +25,5 @@ number and type of connections
 ---
 see also:
 [[Dunbar's Number]]
-
-
+[[Social Groups]]
 
