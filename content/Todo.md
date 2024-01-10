@@ -41,49 +41,17 @@ Marcia's identity states are four possible outcomes of identity formation in ado
 
 Bowlby's theory is an attachment theory that suggests that humans have an innate need to form strong emotional bonds with others, especially caregivers, and that early experiences of attachment have lasting effects on social and emotional development.  
 
-Six degrees of Bacon is a trivia game based on the idea that any two actors can be linked through their film roles in six steps or less, using Kevin Bacon as an example.  
+## Six Degrees 
+Six degrees of Bacon is a trivia game based on the idea that any two actors can be linked through their film roles in six steps or less, using Kevin Bacon as an example.
+See also - Small World Experiment by Milgram
 
 Various schools of psychology are different perspectives or approaches to understanding human behavior and mental processes. Some of the major schools of psychology are: structuralism, functionalism, behaviorism, psychoanalysis, humanism, cognitive psychology, biological psychology, evolutionary psychology, and social-cultural psychology.  
 
 Key figures in psychology are influential thinkers who have contributed to the development of the discipline through their theories, research, or applications. Some examples of key figures in psychology are: Wilhelm Wundt, William James, Ivan Pavlov, John B. Watson, B.F. Skinner, Jean Piaget, Albert Bandura, Abraham Maslow, Noam Chomsky, Elizabeth Loftus, Carol Dweck, Daniel Kahneman, and Philip Zimbardo.
 
 
----
 
 
----
-
-
-
-Richard Stallman is an activist and programmer who founded the free software movement and the GNU Project, which aims to create a Unix-like operating system composed entirely of free software. He also developed the GNU Compiler Collection, GNU Emacs, and the GNU General Public License, which is the most widely used free software license.
-
-Aaron Swartz was a prodigy and hacker who co-founded Reddit, Creative Commons, and Demand Progress. He also helped create the RSS web feed format and contributed to the development of Markdown and web.py. He was an advocate for open access, net neutrality, and civil liberties. He died by suicide in 2013 after facing federal charges for downloading millions of academic articles from JSTOR.
-
-Brewster Kahle is an entrepreneur and digital librarian who founded the Internet Archive, a non-profit organization that preserves billions of web pages, books, audio recordings, videos, software, and other digital artifacts. He also created the Wayback Machine, which allows users to access archived versions of web pages across time.
-
-Steve Jobs was a visionary and innovator who co-founded Apple Inc., Pixar Animation Studios, and NeXT Inc. He was instrumental in creating products such as the Macintosh, iPod, iPhone, iPad, iTunes, and Apple Store. He also revolutionized the fields of personal computing, music, animation, and mobile devices. He died of pancreatic cancer in 2011.
-
-Bill Gates is a philanthropist and entrepreneur who co-founded Microsoft Corporation, the world's largest software company. He led the development of Windows, Office, Internet Explorer, and other popular software products. He also founded the Bill & Melinda Gates Foundation, which is one of the largest private charitable organizations in the world. He is currently one of the richest people on Earth.
-
-Steve Wozniak is an engineer and inventor who co-founded Apple Inc. with Steve Jobs. He designed and built the Apple I and Apple II computers, which were among the first successful personal computers. He also contributed to the development of the Macintosh, iPod, iPhone, and iPad. He is known for his creativity, humor, and philanthropy.
-
-Dan Bricklin is a software developer and entrepreneur who co-created VisiCalc, the first electronic spreadsheet program for personal computers. He also co-founded Software Arts, Lotus Development Corporation, Slate Corporation, Trellix Corporation, and Alpha Software Corporation. He is currently an adjunct professor at Babson College.
-
-Douglas Adams was a writer and humorist who authored The Hitchhiker's Guide to the Galaxy series, which is a science fiction comedy that explores various aspects of technology, philosophy, and culture. He also wrote Dirk Gently's Holistic Detective Agency series, The Meaning of Liff , Last Chance to See , and The Salmon of Doubt . He died of a heart attack in 2001.
-
-[[Mary Ainsworth]] 
-
-Alan Turing was a mathematician and logician who is widely regarded as the father of computer science and artificial intelligence. He formulated the Turing machine model of computation, which is the basis for modern computers. He also devised the Turing test to measure machine intelligence and cracked the Enigma code during World War II. He died by cyanide poisoning in 1954.
-
-Ada Lovelace was a mathematician and writer who is considered to be the first computer programmer. She wrote an algorithm for Charles Babbage's Analytical Engine , which was a mechanical computer that was never built. She also foresaw the potential of computers to perform more than just calculations and expressed her vision of their future applications.
-
-Linus Torvalds is a software engineer and hacker who created Linux , which is an open source operating system kernel that powers millions of devices around the world. He also developed Git , which is a distributed version control system that is widely used by software developers. He is currently the chief architect of Linux and oversees its development.
-
-Charles Babbage was a polymath and inventor who designed several mechanical computers that were never completed due to lack of funding or technical difficulties. His most famous machines were the Difference Engine , which could calculate polynomial functions , and the Analytical Engine , which could perform general computations . He is regarded as one of the precursors of modern computing.
-
-Johannes Gutenberg was a printer and publisher who introduced movable type printing to Europe in the 15th century. His invention revolutionized the production and distribution of books , newspapers , pamphlets , and other printed materials . He is best known for printing the Gutenberg Bible , which was the first major book printed using movable type.
-
-Dennis Ritchie was a computer scientist and programmer who co-created the C programming language , which is one of the most widely used and influential languages in the world. He also co-developed the Unix operating system , which is the basis for many modern operating systems such as Linux , macOS , and Android . He received the Turing Award and the National Medal of Technology for his contributions.
 
 
 
