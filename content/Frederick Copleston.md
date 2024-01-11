@@ -6,7 +6,7 @@ tags:
   - history
   - person
 ---
-# Frederick Coplestone
+# Frederick Copleston
 
 
 (short summary)
