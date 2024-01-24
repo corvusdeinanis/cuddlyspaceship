@@ -3,11 +3,13 @@ title: Clinical Psychology
 date: 2024-01-03
 tags:
   - psychology
+  - clinicalpsych
 ---
 branch of [[Psychology]]
 
-called psychopathology and abnormal psychology
 >[!CHECK]
+>called psychopathology and abnormal psychology
+
 
 - abnormal
 - maladaptive
