@@ -16,19 +16,26 @@ interface Options {
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   title: "Recent Notes",
-  limit: 3,
+  limit: 5,
   linkToMore: false,
   filter: () => true,
   sort: byDateAndAlphabetical(cfg),
 })
 
 export default ((userOpts?: Partial<Options>) => {
-  function RecentNotes({ allFiles, fileData, displayClass, cfg }: QuartzComponentProps) {
+  function RecentNotes(props: QuartzComponentProps) {
+    const { allFiles, fileData, displayClass, cfg } = props
     const opts = { ...defaultOptions(cfg), ...userOpts }
+
+    // filter out for everything except index, code from jzhao's site
+    if (fileData.slug !== "index") {
+      return <></>
+    }
+
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
-      <div class={`recent-notes ${displayClass ?? ""}`}>
+      <div class={`recent-notes ${displayClass}`}>
         <h3>{opts.title}</h3>
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
