@@ -2,8 +2,7 @@
 title: Index
 ---
 
-![astrodex](images/astrodex-enhanced.jpg)
-
+![[images/Prometheus.png]]
   
 # Welcome to Astro's Garden! 🌱
 
