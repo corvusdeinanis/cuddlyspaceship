@@ -2,7 +2,7 @@
 title: Index
 ---
 
-![[images/Prometheus.png]]
+![prometheus](images/Prometheus.png)
   
 # Welcome to Astro's Garden! 🌱
 
