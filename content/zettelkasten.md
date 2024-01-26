@@ -32,7 +32,6 @@ Some of Luhmann's comments on the method (emboldening by me) -
 — Niklas Luhmann
 
 
-
 ---
 
 ## Principles of Zettelkasten
