@@ -16,7 +16,7 @@ interface Options {
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   title: "Recent Notes",
-  limit: 5,
+  limit: 3,
   linkToMore: false,
   filter: () => true,
   sort: byDateAndAlphabetical(cfg),
@@ -36,7 +36,7 @@ export default ((userOpts?: Partial<Options>) => {
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
       <div class={`recent-notes ${displayClass}`}>
-        <h3>{opts.title}</h3>
+        <h4>{opts.title}</h4>
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title
@@ -45,11 +45,11 @@ export default ((userOpts?: Partial<Options>) => {
               <li class="recent-li">
                 <div class="section">
                   <div class="desc">
-                    <h3>
+                    <h4>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
                       </a>
-                    </h3>
+                    </h4>
                   </div>
                   {page.dates && (
                     <p class="meta">
