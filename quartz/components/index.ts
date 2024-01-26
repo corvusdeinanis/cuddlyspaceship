@@ -17,7 +17,6 @@ import Search from "./Search"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
-import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import IndexFilter from "./IndexFilter"
 
@@ -40,7 +39,6 @@ export {
   Footer,
   DesktopOnly,
   MobileOnly,
-  RecentNotes,
   NotFound,
   Breadcrumbs,
   IndexFilter,
