@@ -1,11 +1,9 @@
 ---
 title: Index
 ---
-# Welcome to Astro's Garden! 🌱
+# Welcome to Astro's Garden!  ![image of prometheus](images/prometheus.png) 
 
-A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing. ~~Also a place where I waste a lot of time, trying to make notes instead of studying or learning. jfdifsjd~~
-
-![image of prometheus](images/prometheus.png)
+A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing.
 
 This contains (or will contain) a lot of resources, my thoughts and opinion on a lot of things, some reflections, about philosophies, concepts that have really changed my life, and maybe even rants.
   
