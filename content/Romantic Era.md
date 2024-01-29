@@ -15,12 +15,12 @@ Contained
 - emphasized intense emotion as an authentic source of aesthetic experience
 - revived medievalism
 - intuition and emotion to the rationalism of the Enlightenment
-- **"spontaneous overflow of powerful feelings"** - [[Wordsworth]]
+- **"spontaneous overflow of powerful feelings"** - [[William Wordsworth]]
 
 Enlightment -> (Age of [[Samuel Johnson]]/Sensibility) -> Romantic -> Realism
 
 
 Important writers from this period - 
 
-[[Wordsworth]], [[S T Coleridge]], [[Keats]], [[Byron]]
+[[William Wordsworth]], [[S T Coleridge]], [[Keats]], [[Byron]]
 
