@@ -27,4 +27,3 @@ A large spectrum that is categorized by social cues
 ### Environmental 
 
 ---
-see: [[]]
