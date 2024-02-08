@@ -1,6 +1,9 @@
 ---
-title: "Language Development"
-tags: ['psychology','lifespan']
+title: Language Development
+tags:
+  - psychology
+  - lifespan
+  - todo
 ---
 
 ### Something
@@ -10,7 +13,6 @@ tags: ['psychology','lifespan']
 3. Syntax
 4. Semantics
 5. Pragmatic
-
 
 ### Child Directed Speech
 ### Language Acquisition Device (LAD) - [[Noam Chomsky]]

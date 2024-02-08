@@ -3,7 +3,6 @@ title: "Laura Mulvey"
 date: 2023-08-05
 tags: ['english', 'gender','person']
 ---
-
 ## Bio
 Laura Mulvey
 Feminist Theorist, Film Theorist

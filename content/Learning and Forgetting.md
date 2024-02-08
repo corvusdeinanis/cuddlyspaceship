@@ -2,8 +2,6 @@
 title: "Learning and Forgetting"
 tags: ['psychology','studynotes']
 ---
-
-
 # Learning
 ## Definition
 relatively durable / lasting change in behaviour that is not the result of maturation, 

@@ -2,7 +2,6 @@
 title: "Learning and Memory"
 tags: ['psychology','studynotes']
 ---
-
 (notes from grade 11; memory at a glance)
 
 | Memory | Process of recording any learning that takes place and allows later access to the same as and when reqd Memory = encode, store and retrieve info Memory = storage and retrieval of info |  |

@@ -11,8 +11,6 @@ Hi! This is a dynamic page that will show the key topics I'm reading about or fo
 #Psychology
 I'm specifically interested in [[Bias|biases]], thinking patterns, mental illness, and therapy
 
-
-
 ## Biology
 A lot to do with [[Senescence]] or aging. Good measure of best practices for health. The intersection between biology and psychology. 
 [[Senescence]], [[negative senescence]], 
@@ -32,3 +30,4 @@ AI, how technology is affecting our lives, and general tech stuff. I LOVE the In
 
 ## Skepticism
 This is probably the most important one on the list because I cannot see the others without this. Scientific thinking, reasoning, empiricism, and rationality are super important to me. I abhor misinformation and disinformation. 
+
