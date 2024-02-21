@@ -7,7 +7,7 @@ tags:
   - needswork
 ---
 Slam poem by Lee Mokobe
-
+>[!NOTE] Poem
 >The first time I uttered a prayer
 >was in a glass-stained cathedral.
 >I was kneeling long after
