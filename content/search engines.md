@@ -3,6 +3,7 @@ title: "search engines"
 date: 2023-06-15
 tags: ['internet','web']
 ---
+
 ## What Are They?
 Search engines help us find content on the web. They have a vast database that is continuously updated. Depending on the key words, they return results that are relevant. Different search engines do this in different ways and rank the pages differently. 
 
