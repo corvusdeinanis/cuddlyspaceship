@@ -3,9 +3,12 @@ title: Sem VI Syllabus
 date: 2024-01-17
 tags:
   - map
+  - navigation
 ---
 ## Sem VI Syllabus
 ### [[Homeland and Diaspora Writing]]  #homelandanddiaspora 
+[[The Woman Warrior]]
+[[My Beautiful Laundrette]]
 ### [[Intro to Development Communication|Development Communication]] #devcom 
 Syllabus
 #### 1. INTRODUCTION TO DEVELOPMENT
@@ -22,7 +25,7 @@ Syllabus
 
 #### 3. APPROACH AND STRATEGIES IN DEVELOPMENT COMMUNICATION
 1. Communication Approaches –Vertical – Top-down Model – Horizontal
-2. Fair Trade, Export Led Growth, Import Substitution
+~~2. Fair Trade, Export Led Growth, Import Substitution~~
 3. New Millennium Development Goals
 4. Mass media as a tool for development
 5. Emergence of culture as a factor in development

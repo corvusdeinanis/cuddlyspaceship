@@ -8,4 +8,18 @@ tags:
   - psychology
   - socialpsych
   - incomplete
+  - fave
+  - foundation
 ---
+
+ Us vs Them 
+
+## Evolutionary Perspective 
+
+---
+
+Difference between tribalism and otherization
+
+
+---
+
