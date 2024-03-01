@@ -23,6 +23,6 @@ Her father, Inayat Khan, came from a family of Indian Muslims, and her mother, P
 - Noor began a career as a writer, publishing her poetry and children's stories in English and French, was a regular contributor to children's magazines and French radio
 - In 1940 she joined the SOE and was trained as a wireless operator.
 - Sent to France in 1943, she transmitted crucial information to London despite great personal risk.
-- Unfortunately, she was betrayed, captured by the Gestapo, and executed at Dachau concentration camp in 1944.
+- Unfortunately, she was betrayed, captured by the Gestapo, and **executed at Dachau concentration camp in 1944**.
 
 - Was considered unsuitable for the job by many of her supervisors
