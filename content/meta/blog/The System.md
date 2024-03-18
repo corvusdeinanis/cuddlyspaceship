@@ -8,7 +8,7 @@ tags:
   - philosophy
   - blog
 ---
-**The system is a WIP**, it is a set of guidelines and ideas to help my ADHD brain to make sense of life. 
+ **The system is a WIP**, it is a set of guidelines and ideas to help my ADHD brain to make sense of life. 
 
 This will be extensive, but as of now, only contains principles.
 
@@ -24,4 +24,3 @@ This will be extensive, but as of now, only contains principles.
 5. **Flexible** - one of the core tenets of the system. Keep it flexible. The system is a guide, a rough plan. It should be adaptable. 
 6. **[[baseline|Find the Baseline]]**. **Track**. Record. Analyze the data. 
 7. **Use the scientific method**. Find correlations, investigate them. Hypothesize, test them out. Record results.
-
