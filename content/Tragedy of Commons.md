@@ -36,3 +36,7 @@ Focused on population growth, resource usage and depletion, and role of welfare 
 He says that welfare states promote tragedy of commons. For example, if overbreeding happened in nature, it would automatically reduce due to negative feedback. The resources would reduce and therefore, the overbreeding species in question would not have enough resources and die out. Welfare states provide for children and support overbreeding as a fundamental human right, according to him 
 
 **Garrett Hardin is a white nationalist right-wing ahole. Used science to lobby his perverse ideas, favouring the rich.** 
+
+---
+
+see: [[Bounce in India - Case Study]]

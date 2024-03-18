@@ -296,27 +296,7 @@ following prolonged exposure to stimuli.
 
 **bottom-up processing** Perception that consists of the progression of recognizing and processing information from individual components of a stimuli and moving to the perception of the whole.
 
-## Gestalt Laws of Perceptual Organisation
-Gestalt School 
-*'the whole is something else than the sum of its parts'*
-**Wertheimer, Koffka, Kohler**
-20th Century
-
-**_Gestalt_** is used in modern German to mean the way a thing has been “placed,” or “put together
-
-
-
- > [!mnemonic]
- <mark>CCP and SS are authoritarian Figures</mark> - Principles of Gestalt
- 
- 
-Continuity 
-Closure
-Proximity
-Similarity
-Symmetry
-Figure and Ground
-
+[[Gestalt Laws of Perceptual Organisation]]
 ### Llusion
 a **misrepresentation** of a “real”  sensory stimulus
 an interpretation that contradicts objective “reality” as defined by general agreement
