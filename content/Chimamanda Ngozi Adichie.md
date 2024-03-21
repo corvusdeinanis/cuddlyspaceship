@@ -6,8 +6,6 @@ tags:
   - english
   - literature
 ---
-
-
 - **Bio**:
     - **Birth Date**: September 15, 1977
     - **Birthplace**: Enugu, Nigeria

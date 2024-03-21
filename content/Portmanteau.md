@@ -9,5 +9,5 @@ Also called a **blend word**, **lexical blend**, or simply a **blend** in Lingui
 
 similar to a contraction
 
-NOT a compound word (compound word retains both words being combined; eg star + fish -> starfish which is a compound word)
+**NOT a *compound word*** (compound word retains both words being combined; eg star + fish -> starfish which is a compound word)
 

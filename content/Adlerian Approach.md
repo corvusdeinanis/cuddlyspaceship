@@ -12,9 +12,10 @@ AKA Phenomenological Approach
 
 by Alfred Alder
 
+emphasis on social interest
 ### 
 
-holistic approach that emphasizes the importance of **overcoming feelings of inferiority and gaining a sense of belonging**
+holistic approach that emphasizes the importance of **overcoming feelings of inferiority** and **gaining a sense of belonging**
 
 **social interaction** and **community involvement** 
 
@@ -49,3 +50,8 @@ Can be used to treat
 - Low self esteem
 
 ### Role of Alderian Counsellors
+
+can be helpful for people who are struggling with problems
+related to low self-esteem, loneliness, or negative thinking. By affirming the individual and
+rebuilding social relationships, people are able to gain confidence and empowerment that allows
+them to pursue their goals and make healthy choices.

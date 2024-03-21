@@ -41,12 +41,40 @@ reporter
 commentaries. 
 4. Television and cinema: role in development communication. 
 5. ICTs: scope in development communication.
-### [[Counselling Psychology]] #counsellingpsych 
+### [[Counselling Psychology 101]] #counsellingpsych 
 [[Counselling]]
-[[Counselling Psychology]]
+[[Counselling Psychology 101]]
 [[Counselling Skills]]
 [[Ethical Considerations in Counselling Psychology]]
 [[7 38 55 Rule]]
+#### MODULE 1: INTRODUCTION TO COUNSELLING & PSYCHOTHERAPY
+a) Meaning & Definition; Goals of counselling - [[Counselling Psychology 101]]
+b) Counselling Process; Client-Counsellor relationship
+c) Counselling effectiveness
+d) Bias in Counselling
+e) Counselling in the Indian Context
+f) Integration of positive psychology into counselling
+g) Termination of Counselling- Evaluation, Referral planning, Follow-up
+h) Ethical & Legal Issues- Legal Concepts & Rules; Client records & confidentiality; Limits
+of counselling process [[Ethical Considerations in Counselling Psychology]]
+
+MODULE 2: APPROACHES TO COUNSELLING (12 Hours)
+a) Psychoanalysis therapy- Freud, Adler - [[Adlerian Approach]]
+b) Behavioural & Cognitive approach
+c) Humanistic & Existential approach
+d) Gestalt Approach
+e) Bowen’s Family system model [[bowen]]
+f) Dialectical approach
+
+MODULE 3: COUNSELLING SKILLS (12 Hours)
+a) Listening Skills
+b) Observation Skills
+c) Rapport building skills
+d) Empathy
+e) Self-Disclosure [[Self Disclosure]]
+f) [[Unconditional Positive Regard]]
+g) [[Concreteness]]
+h) Paraphrasing, Reflection & Summarizing
 ### [[Clinical Psychology]] #clinicalpsych
 ### [[Native Narratives]] #natnav 
 ### [[Media Law and Ethics]] #medialaw 
