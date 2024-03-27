@@ -11,8 +11,6 @@ German philosopher, poet, and philologist
 1844 to 1900
 known for his radical critique of Western civilization and morality, his concept of the will to power, his proclamation of the death of God, and his idea of the Übermensch (the superior human who creates his own values and meaning). 
 
-
-
 ### Family
 
 ## Works

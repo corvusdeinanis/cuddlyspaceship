@@ -7,6 +7,7 @@ tags:
   - tutorials
 ---
 ## [Notepad++ add to every line](https://stackoverflow.com/questions/11003761/notepad-add-to-every-line)
+
 1. Press Ctrl+H to bring up the Find/Replace Dialog.
 2. Choose the `Regular expression` option near the bottom of the dialog.
 
@@ -35,3 +36,9 @@ substitute with `$1`
 /\p{No}/gu/
 ```
 
+
+2024-03-27
+## Match text between square brackets
+```
+/\[[^\]]*\]/g
+```

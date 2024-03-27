@@ -17,6 +17,6 @@ tags:
 - Misinformation 
 - Fake news
 - Sensationalized reporting
-- social media and citizen journalism
+- social media and [[citizen journalism]]
 
 ![[Press Council of India]]
