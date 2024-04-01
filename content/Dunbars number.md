@@ -16,4 +16,3 @@ Dunbar predicted a human "mean group size" of **148** (casually rounded to 150),
 
 
 
-

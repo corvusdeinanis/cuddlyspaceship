@@ -6,5 +6,5 @@ tags:
   - medialaw
   - casestudy
 ---
-
+According to the Supreme Court of India, Internet is protected under freedom of expression under the Constitution. 
 
