@@ -19,4 +19,4 @@ a(Information)-->b(Education)-->c(Persuasion)
 ```
 
 ## Communication Approaches
-### ![[]]
+### 
