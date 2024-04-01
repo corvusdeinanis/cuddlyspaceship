@@ -3,7 +3,7 @@ title: Cognitive Approach to Counselling
 date: 2024-03-05
 tags:
   - counsellingpsych
-  - psych
+  - psychology
 ---
 Focuses on:
 present

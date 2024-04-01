@@ -2,7 +2,7 @@
 title: Labeling theory
 date: 2024-03-28
 tags:
-  - psych
+  - psychology
   - sociology
 ---
 ### Labeling theory

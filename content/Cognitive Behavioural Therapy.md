@@ -3,7 +3,7 @@ title: Cognitive Behavioural Therapy
 date: 2024-03-05
 tags:
   - counsellingpsych
-  - psych
+  - psychology
   - therapy
 ---
 Developed by [[Aaron T Beck]], a [[Cognitive Approach to Counselling]].

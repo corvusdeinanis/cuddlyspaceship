@@ -2,7 +2,7 @@
 title: Stanford Prison Experiment
 date: 2023-07-11
 tags:
-  - psych
+  - psychology
   - disproved
 ---
 

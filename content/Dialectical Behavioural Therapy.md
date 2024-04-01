@@ -3,7 +3,7 @@ title: Dialectical Behavioural Therapy
 date: 2024-03-19
 tags:
   - therapy
-  - psych
+  - psychology
   - counsellingpsych
 ---
 Certainly! Here are some quick facts about Dialectical Behavior Therapy (DBT):

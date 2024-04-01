@@ -2,7 +2,7 @@
 title: Radical Acceptance
 date: 2024-03-05
 tags:
-  - psych
+  - psychology
   - therapy
   - counsellingpsych
 ---

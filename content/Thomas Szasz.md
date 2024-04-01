@@ -2,7 +2,7 @@
 title: Thomas Szasz
 date: 2024-03-28
 tags:
-  - psych
+  - psychology
   - psychiatry
 ---
 ### Thomas Szasz 

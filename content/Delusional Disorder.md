@@ -2,7 +2,7 @@
 title: Delusional Disorder
 date: 2024-03-30
 tags:
-  - psych
+  - psychology
   - clinicalpsych
 ---
 mental health condition where a person cannot differentiate between real and imagined

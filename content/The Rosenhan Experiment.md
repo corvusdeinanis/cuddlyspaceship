@@ -2,7 +2,7 @@
 title: The Rosenhan Experiment
 date: 2024-03-28
 tags:
-  - psych
+  - psychology
   - psychiatry
 ---
 ### The Rosenhan Experiment

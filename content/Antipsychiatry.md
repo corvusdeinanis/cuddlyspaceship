@@ -2,7 +2,7 @@
 title: Antipsychiatry
 date: 2024-03-28
 tags:
-  - psych
+  - psychology
   - psychiatry
   - sociology
   - social

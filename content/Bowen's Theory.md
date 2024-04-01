@@ -2,7 +2,7 @@
 title: Bowen's Theory
 date: 2024-03-19
 tags:
-  - psych
+  - psychology
   - counsellingpsych
 ---
 Definition:
