@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "<img src='https://codex.astroslair.xyz/images/prometheus0.png'>",
+    pageTitle: "🔥",
     enableSPA: true,
     enablePopovers: true,
     baseUrl: "corvusdeinanis.github.io/cuddlyspaceship",
