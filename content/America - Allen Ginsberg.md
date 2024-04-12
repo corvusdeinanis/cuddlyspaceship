@@ -3,7 +3,6 @@ title: "America by Allen Ginsberg"
 tags: ['english','poem','literature']
 author: ['Allen Ginsberg']
 ---
-
 America by 
 [[Allen Ginsberg]] - Beat generation poet; 
 

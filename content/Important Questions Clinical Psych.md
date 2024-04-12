@@ -54,3 +54,32 @@ case study
 ## Module 3
 ![[Module 3 Psych imp questions]]
 
+
+# Clinical Psych important topics
+
+Module 1
+1) Differentiate between normality and abnormality
+2) historical views on abnormality -> Indian view
+3) DSM vs ICD
+4) sci-cultural, humanistic and existential perspective f mental health disorders
+5) stigma attached t mental disorders
+ Module 2
+ 1) Diagnosis, Treatment, Intervention, assessment, 
+ 2) tic and Tourette's disorder
+ 3) [[Neurodevelopmental Disorders]]
+Module 3
+1) Bipolar, cyclothymic
+2) generalized anxiety disorder 
+3) social anxiety disorder
+4) agoraphobia 
+
+Module 4
+1) OCD
+2) Major Depressive Disorder
+3) Delusional schizophrenia
+4) adjustment disorder
+5) [[Trichotillomania]] and exporitation
+
+Module 5
+1) addiction
+2) eating disorder

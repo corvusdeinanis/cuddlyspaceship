@@ -17,7 +17,7 @@ They're usually conflated though they are not the same.
 **Gender is social elaboration**
 
 Sex is a biological categorization  
-is not [[Binary]] either
+is not [[Gender Binary]] either
 There's intersex people; people with XXY chromosomes; [[Heredity|Klinefelter Syndrome]]; XYY Jacobs Syndrome
 
 Gender exaggerates **biological differences**, Stereotypes
@@ -35,7 +35,7 @@ Gender identity cannot be freely chosen, but people are not just "born this way"
 
 Actual differences between males and females tend to be scalar rather than dichotomous [^2]
 
-Mainstream usage of gender focuses on similarities and exaggerates the differences, it perpetuates the [[Binary]]. Selective magnification, [[cherry picking]]
+Mainstream usage of gender focuses on similarities and exaggerates the differences, it perpetuates the [[Gender Binary]]. Selective magnification, [[cherry picking]]
 
 # Definitions
 "it is not something we are born with, and not something we have, **but something we do**"  - Candace West and Don H. Zimmerman[^1: (Doing Gender. _Gender and Society_, _1_(2), 125–151)]
@@ -54,7 +54,7 @@ sex in the first place.*
 ---
 see also:
 - [[social programming]]
-- [[Binary]]
+- [[Gender Binary]]
 - the town where boys turn into girls 
 - psychological case study of the boy who was raised as a girl; one with the really messed up piece of shit doctor - [[John Money]] - [[Joan John Case]] 
 - 

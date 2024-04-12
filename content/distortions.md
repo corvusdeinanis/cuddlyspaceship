@@ -3,7 +3,6 @@ title: Cognitive Distortions
 tags: ['psychology','tools']
 date: 2022-07-29
 ---
-
 ## What Are Cognitive Distortions?
 They are patterns of thinking that are negative and "irrational". Unhelpful thinking patterns. Again, reminder that these thought patterns probably evolved as a response to trauma, so please be kind to yourself.
 

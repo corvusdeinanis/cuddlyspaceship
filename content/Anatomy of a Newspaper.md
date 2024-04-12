@@ -3,11 +3,11 @@ title: "Anatomy of a Newspaper"
 tags: ['journalism']
 date: '2022-12-05'
 ---
+Types: 
+- Broadsheet 
+- Tabloids
 
-Broadsheet 
-Tabloids
-
-based around advertisements
+**based around advertisements**
 Front page top = most important
 Front page bottom = least important
 

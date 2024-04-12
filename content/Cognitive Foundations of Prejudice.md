@@ -1,7 +1,11 @@
 ---
-title: "Cognitive Foundations of Prejudice"
+title: Cognitive Foundations of Prejudice
 date: 2023-08-17
-tags: ['psychology','social','socialpsych']
+tags:
+  - psychology
+  - social
+  - socialpsych
+  - todo
 ---
 
 ## Stereotypes

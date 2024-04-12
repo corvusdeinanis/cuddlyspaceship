@@ -10,7 +10,7 @@ tags:
 by Kamau Brathwaite
 
 #### About the author
-Carribean poet 
+Caribbean poet 
 
 
 #### Biblical Allusions

@@ -5,7 +5,7 @@ tags: ['misc','skepticism','psychology','adages','bias']
 ---
 The Barnum Effect is when people believe that vague and general statements about their personality or behaviour are accurate and personal to them.  E.g. Horoscopes
 
-Named after PT Barnum 
+Named after [[PT Barnum]] 
 
 --- 
 

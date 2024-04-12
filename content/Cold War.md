@@ -11,7 +11,7 @@ tags:
 ## Cold War
 Used first by **George Orwell** in the essay “You and the Atomic Bomb” **1945**
 
-Specifically, this context by Bernard Baruch US Statesman
+Specifically, this context by Bernard Baruch, US Statesman
 
 Propaganda war not arm war
 B/w Western nations and Communist nations

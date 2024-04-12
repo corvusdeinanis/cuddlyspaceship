@@ -3,7 +3,6 @@ title: "Bloomsbury Group"
 date: 2023-04-26
 tags: ['english','literature']
 ---
-
 was a group of associated English writers, intellectuals, philosophers and artists in the first half of the 20th century
 
 According to Ian Ousby, "although its members denied being a group in any formal sense, they were **united by an abiding belief in the importance of the arts**."

@@ -1,5 +1,5 @@
 ---
-title: Binary
+title: Gender Binary
 tags:
   - gender
 ---

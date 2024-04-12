@@ -3,7 +3,6 @@ title: "Bystander Effect"
 date: 2023-09-12
 tags: ['socialpsych','psychology']
 ---
-
 **Diffusion of responsibilities** 
 
 [[Murder of Kitty Genovese]]

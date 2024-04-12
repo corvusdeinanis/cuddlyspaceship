@@ -1,7 +1,10 @@
 ---
-title: "Culture Cycle"
+title: Culture Cycle
 date: 2023-07-10
-tags: ['draft','sociology']
+tags:
+  - draft
+  - sociology
+  - todo
 ---
 
 Culture 

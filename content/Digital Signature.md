@@ -2,7 +2,6 @@
 title: "Digital Signature"
 tags: ['cloudcomputing','computer','web']
 ---
-
 A cryptographic output used to **verify the authenticity of data** 
 
 two operations :

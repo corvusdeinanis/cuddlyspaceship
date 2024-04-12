@@ -3,7 +3,6 @@ title: "Birth Complications"
 tags: ['psychology','lifespan','biology']
 date: 2023-01-23
 ---
-
 - Low birth weight - below 5.5 pounds
 	  - very low weight    
 	  - extremely low weight - below 2.5

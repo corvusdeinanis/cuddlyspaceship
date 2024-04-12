@@ -5,8 +5,6 @@ tags: ['politics']
 ---
 # Bureaucrats Vs Politicians - What’s The Difference?
 
-  
-
 ## Who Are “Bureaucrats”?
 Bureaucrats are officials that make up the executive arm of the government. They are responsible for the day-to-day implementation of rules and everyday administration. Bureaucrats, in India, are civil servants or those who work as a part of the civil services. The Indian Administrative Service, Indian Police Service, and Indian Forest Service all come under this. 
 

@@ -9,7 +9,7 @@ Dec 3rd 1947
 
 ## Characters
 ```mermaid
-flowchart TD
+flowchart LR
 
 A--sister-->B
 A(Blanch D)
@@ -158,7 +158,6 @@ preserve her marriage Stella sobs
 uncontrollably as a doctor leads her
 sister away Stanley tries to soothe his
 wife who will not be hustled
-
 
 
 comes from a formerly wealthy southern
@@ -323,7 +322,7 @@ played in it
 Stanley exudes a confident animal
 sexuality that binds him to his wife
 Stella Stella is possessed by a need to
-fulfill that sexual passion for Stanley
+fulfil that sexual passion for Stanley
 but Stanley also uses sexuality as a
 weapon r\*ping Blanche in order to
 dominate her

@@ -2,7 +2,6 @@
 title: "Advice to Youth - Mark Twain"
 tags: ['english','literature']
 ---
-
 Advice given to youth by [[Mark Twain]]
 
 selective obedience towards parents,

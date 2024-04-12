@@ -8,14 +8,14 @@ tags:
 branch of [[Psychology]]
 
 >[!CHECK]
->called psychopathology and abnormal psychology
+>also called psychopathology and abnormal psychology?
 
 
 - abnormal
 - maladaptive
 - deviant
 
-4 Ds - Indicatiors of Abnormality
+4 Ds - Indicators of Abnormality
 Distress - 
 Dysfunction - 
 Danger - 

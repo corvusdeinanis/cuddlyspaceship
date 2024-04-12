@@ -5,7 +5,7 @@ tags: ['social','journalism']
 ---
 
 
-[[Cinema as mass media|Cinema]] predates [[Radio]] predates [[Television]]
+[[Movements in Cinema|Cinema]] predates [[Radio]] predates [[Television]]
 
 1860s -> **James Clark Maxwell** predicted existence of electromagnetic waves
 1885 -> Heinrich [[Hertz]] demonstrated that a wire carrying current can be swung to produce electromagnetic waves

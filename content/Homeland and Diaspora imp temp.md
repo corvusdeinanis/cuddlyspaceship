@@ -10,6 +10,9 @@ First module only in sec a (5M)
 	ecologies (?)
 
 [[My Beautiful Laundrette]] -> alienation, focus on Omar and Johnny
+
 Interpreter of Maladies -> relationship between Mrs Das and Mr Kapasi
+
 Milkfish -> importance of the dish
+
 

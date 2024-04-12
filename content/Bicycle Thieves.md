@@ -4,6 +4,7 @@ date: 2023-10-31
 tags:
   - film
   - fictioninfilm
+  - movie
 ---
 Bicycle Thieves
 
@@ -35,9 +36,7 @@ ineffective institutions, the individual against the group, and abject poverty
 
 ### neglect 
 Antonio doesn’t notice Bruno fall in the rain, nor does he notice 2 cars nearly run over him
-
-
-**Characters**:
+### **Characters**:
 **Antonio Ricci** 
 **Maria** Ricci - Antonio's wife; pragmatic; believes in a seer 
 **Bruno** Ricci - One of the Ricci kids. Hardworking, rational, kind.  works at a gas station to support the family.  Looks up to Antonio but throughout the movie, as Antonio's desperate search for his bicycle gets more and more bleak, the relationship between father-son deteriorates and Bruno is witness his father's not-so-nice side - selfish and careless. 
@@ -48,12 +47,7 @@ Police - Uncaring and useless; serves as a critique of modern institutions that 
 
 Baiocco - Friend of Antonio who helps him
 
-
-
-
-
-
-**Events**: 
+### **Events**: 
 - Antonio Ricci, an unemployed man, gets a job as a poster hanger, but he needs a bicycle to do it. He pawns his family’s bedsheets to get his bicycle back from the pawnbroker.
 - On his first day of work, his bicycle is stolen by a young man who escapes with the help of an accomplice. Antonio chases him but fails to catch him.
 - Antonio and his son Bruno search for the bicycle all over the city, encountering various obstacles and challenges. They visit a market, a church, a brothel, and a fortune-teller, but find no clues.

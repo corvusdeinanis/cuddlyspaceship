@@ -4,15 +4,12 @@ date: 2024-02-28
 tags:
   - devcom
 ---
-**Millienium Summit** in September 2000
+**Millennium Summit** in September 2000
 
 Largest gathering of world leaders 
-Adopted **United Nations Millenium Declaration** to foster global partnership to reduce extreme poverty and setting a series of targets with a **deadline of 2015**
+Adopted **United Nations Millennium Declaration** to foster global partnership to reduce extreme poverty and setting a series of targets with a **deadline of 2015**
 
-These targets were called **Millenium Development Goals**
-
----
-
+These targets were called **Millennium Development Goals**
 ## MDGs
 ### 1
 targets poor directly, those living on less than one USD a day

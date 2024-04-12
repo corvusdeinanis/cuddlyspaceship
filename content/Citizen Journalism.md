@@ -1,7 +1,9 @@
 ---
-title: "Citizen Journalism"
+title: Citizen Journalism
 date: 2023-08-01
-tags: ['journalism']
+tags:
+  - journalism
+  - todo
 ---
 
 Hoaxes
