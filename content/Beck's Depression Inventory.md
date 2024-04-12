@@ -1,7 +1,9 @@
 ---
-title: "Beck's Depression Inventory"
+title: Beck's Depression Inventory
 date: 2023-04-04
-tags: ['college','psychology','psychpracs']
+tags:
+  - psychology
+  - psychpracs
 ---
 
 
