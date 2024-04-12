@@ -7,7 +7,7 @@ tags:
 ---
 First module only in sec a (5M)
 	types of diaspora
-	ecologies (?)
+	topologies 
 
 [[My Beautiful Laundrette]] -> alienation, focus on Omar and Johnny
 

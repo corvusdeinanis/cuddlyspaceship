@@ -11,7 +11,7 @@ aka:
 ## Sem VI Syllabus
 ### [[Homeland and Diaspora Writing]]  
 #homelandanddiaspora 
-
+[[Homeland and Diaspora imp temp]]
 Module 1: Readings
 1. Migration and Diaspora Studies: An Introduction [[Homeland and Diaspora Writing]]
 2. Multiple forms of Displacement and Relocation: Charting the Migration Experience
