@@ -9,12 +9,12 @@ aka:
   - Sem VI Bucket
 ---
 ## Sem VI Syllabus
-### [[Homeland and Diaspora Writing]]  
+### Homeland and Diaspora Writing  
 #homelandanddiaspora 
 [[Homeland and Diaspora imp temp]]
 #### Module 1: Readings
-1. [[Migration]] and [[Diaspora]] Studies: An Introduction [[Homeland and Diaspora Writing]]
-2. Multiple forms of Displacement and Relocation: Charting the Migration Experience
+1. [[Migration]] and [[Diaspora]] Studies: An Introduction Homeland and Diaspora Writing
+2. [[Multiple forms of Displacement and Relocation]]: Charting the Migration Experience
 #### Module 2: The Memories
 1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir)
 2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)
@@ -27,7 +27,6 @@ aka:
 3. Jimmy Santiago Baca ‘[[Immigrants in Our Own Land]]’
 
 [[diaspora]]
-[[Homeland and Diaspora Writing]]
 [[migration]]
 [[Migration and Diaspora Studies]]
 [[Multiple forms of Displacement and Relocation]]

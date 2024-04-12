@@ -11,7 +11,7 @@ for various reasons (war, conflict, natural disasters)
 ## Relocation -> 
 voluntary moving 
 
-Types:
+## Types:
 #### 1. Forced Displacement
 a. Conflict-Induced
 b. Persecution-Induced 
