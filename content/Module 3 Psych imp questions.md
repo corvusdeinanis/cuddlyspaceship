@@ -1,7 +1,9 @@
 ---
-title: "Module 3 Psych imp questions"
+title: Module 3 Psych imp questions
 date: 2024-03-14
-tags: []
+tags:
+  - temp
+  - clinicalpsych
 ---
 5 M
 

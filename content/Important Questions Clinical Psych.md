@@ -49,3 +49,8 @@ case study
 1) write about the disorder
 2) what symptoms should be presented for diagnosis, what symptoms are presented, and mention treatment plans
 
+![[Psychology Clinical Unit 1 imp questions]]
+
+## Module 3
+![[Module 3 Psych imp questions]]
+
