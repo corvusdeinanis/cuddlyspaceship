@@ -21,37 +21,23 @@ Omar's arc
 
 ‘Opium is the opium of the unemployed’.
 
-In this damn country which we hate and love, you can get anything you want. It’s all spread out and available. That’s why I believe in England. You just have
-
 In this damn country which we hate and love, you can get anything you want. It’s all spread out and available. That’s why I believe in England. You just have to know how to squeeze the tits of the system.
 
 Don’t get too involved with that crook. You’ve got to study. We are under siege by the white man. For us education is power.
 
-Oh God, I’m so sick of hearing about these in-betweens. People should make up their minds where they are.
+**Oh God, I’m so sick of hearing about these in-betweens. People should make up their minds where they are.**
 
 They hate us in England. And all you do is kiss their arses and think of yourself as a little Britisher!
 
-You’ve got too much white blood.
-
-You’ve got too much white blood. It’s made you weak like those pale-faced adolescents that call us wog.
-
 You’ve got too much white blood. It’s made you weak like those pale-faced adolescents that call us wog. You know what I do to them? I take out this. (He takes out a pound note. He tears it to pieces.) I say: your English pound is worthless. It’s worthless like you, Omar, are worthless. Your whole great family – rich and powerful over there – is let down by you.
 
-existing structures. OMAR : (Voice over) It’ll
-
-It’ll be going into profit any day now. Partly because I’ve hired a bloke of outstanding competence and strength of body and mind to look after it with me.
+OMAR : (Voice over) It’ll be going into profit any day now. Partly because I’ve hired a bloke of outstanding competence and strength of body and mind to look after it with me.
 
 Speak in English, Zaki, so this boy can understand.
 
 NASSER : But this is the point. He’s hired someone else to do the work! ZAKI : Typically English, if I can say that.
 
-TANIA : I don’t like it. OMAR : (To SALIM) In my small opinion, much good can come of fucking.
-
-TANIA : I don’t like it. OMAR : (To
-
 OMAR : (To SALIM) In my small opinion, much good can come of fucking.
-
-leave him out here? OMAR : He’s lower class. He won’t come in without being asked. Unless he’s doing a burglary.
 
 He’s lower class. He won’t come in without being asked. Unless he’s doing a burglary.
 
@@ -75,25 +61,18 @@ Wanted to see what you’d do. How’s your Papa? (OMAR shrugs.) So many books w
 
 OMAR : I want big money. I’m not gonna be beat down by this country. When we were at school, you and your lot kicked me all round the place. And what are you doing now? Washing my floor. That’s how I like it. Now get to work. Get to work I said. Or you’re fired!
 
-JOHNNY : You used to give me a lot of good advice, sir. When I was little. PAPA : When you were little. What’s it made of you? Are you a politician? Journalist? A trade unionist? No, you are an underpants cleaner. (Self-mocking.) Oh dear, the working
-
 JOHNNY : You used to give me a lot of good advice, sir. When I was little. PAPA : When you were little. What’s it made of you? Are you a politician? Journalist? A trade unionist? No, you are an underpants cleaner. (Self-mocking.) Oh dear, the working class are such a great disappointment to me.
 
 I want my son out of this underpants cleaning condition. I want him reading in college. You tell him: you go to college. He must have knowledge. We all must, now. In order to see clearly what’s being done and to whom in this country. Right?
 
-JOHNNY : What does he reckon he is, your uncle? Some kinda big Gatsby geezer( (OMAR gives him a cutting look.) Maybe this just isn’t my world. You’re right. Still
-
-JOHNNY : What does he reckon he is, your uncle? Some kinda big Gatsby geezer( (OMAR gives him a cutting look.) Maybe this just isn’t my world. You’re right. Still getting married? (They both get out of the car. OMAR walks towards the house. JOHNNY stands there a moment, not wanting to face it all.    When OMAR has almost reached the front door and TANIA has come out to hug him, JOHNNY moves towards the house.    TANIA hugs JOHNNY.    OMAR looks into the house and sees SALIM and CHERRY in the crowd in the front room. He waves at SALIM but SALIM ignores him. CHERRY is starting to look pregnant.    BILQUIS is standing at the end of the hall. She greets OMAR in Urdu. And he replies in rudimentary Urdu.    JOHNNY feels rather odd since he’s the only white person in sight.) INT./EXT. THE VERANDAH, PATIO AND
-
-JOHNNY : What does he reckon he is, your uncle? Some kinda big Gatsby geezer( (OMAR gives him a cutting look.) Maybe this just isn’t my world. You’re right. Still
-
 JOHNNY : What does he reckon he is, your uncle? Some kinda big Gatsby geezer( (OMAR gives him a cutting look.) Maybe this just isn’t my world. You’re right.
 
-Don’t in future bite the family hand when you can eat out of it. If you need money just ask me. Years ago your uncles lifted me up. And I will do the same for you.
+SALIM: Don’t in future bite the family hand when you can eat out of it. If you need money just ask me. Years ago your uncles lifted me up. And I will do the same for you.
 
 SALIM : Haven’t you noticed? People are shit. I give them what they want. I don’t criticize. I supply. The laws of business apply.
 
-JOHNNY : (Eventually, and tough) Salim, we know what you sell, man. Know the kids you sell it to. It’s shit, man. Shit. SALIM : Haven’t you noticed? People are shit. I give them what they want. I don’t criticize. I supply. The laws of business apply.
+JOHNNY : (Eventually, and tough) Salim, we know what you sell, man. Know the kids you sell it to. It’s shit, man. Shit. 
+SALIM : Haven’t you noticed? People are shit. I give them what they want. I don’t criticize. I supply. The laws of business apply.
 
 All over England, Asians, as you call us, are beaten, burnt to death. Always we are intimidated. What these scum need – (and he slams the car into gear and starts to drive forward fast) ) is a taste of their own piss.
 
@@ -101,4 +80,5 @@ TANIA : Omo just runs you around everywhere like a servant. JOHNNY : Well. I�
 
 SALIM : I want to talk to Omo about business. JOHNNY : I dunno where he is. SALIM : Is it worth waiting? JOHNNY : In my experience it’s always worth waiting for Omo.
 
-PAPA : This damn country has done us in. That’s why I am like this. We should be there. Home. NASSER : But that country has been sodomized by religion. It is beginning to interfere with the making of money. Compared with everywhere, it is a little heaven here.
+PAPA : This damn country has done us in. That’s why I am like this. We should be there. Home. 
+NASSER : But that country has been sodomized by religion. It is beginning to interfere with the making of money. Compared with everywhere, it is a little heaven here.
