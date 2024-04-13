@@ -19,10 +19,10 @@ aka:
 1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir) ✔
 2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)✔
 #### Module 3: The Stories
-1. Bernard Malamud -[[Idiots First]] (Short Story)
+1. Bernard Malamud -[[Idiots First]] (Short Story)✔
 2. [[Jhumpa Lahiri]] - [[Interpreter of Maladies]] ✔
 #### Module 4: Poetry
-1. Shirley Geok-lin Lim ‘[[Learning to Love America]]’ 
+1. [[Shirley Geok lin Lim]] ‘[[Learning to Love America]]’ 
 2. [[Eugene Gloria]] ‘[[Milkfish]]’
 3. Jimmy Santiago Baca ‘[[Immigrants in Our Own Land]]’
 
