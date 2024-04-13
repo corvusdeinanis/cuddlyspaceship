@@ -13,14 +13,14 @@ aka:
 #homelandanddiaspora 
 [[Homeland and Diaspora imp temp]]
 #### Module 1: Readings
-1. [[Migration]] and [[Diaspora]] Studies: An Introduction Homeland and Diaspora Writing
-2. [[Multiple forms of Displacement and Relocation]]: Charting the Migration Experience
+1. [[Migration]] and [[Diaspora]] Studies: An Introduction Homeland and Diaspora Writing ✔
+2. [[Multiple forms of Displacement and Relocation]]: Charting the Migration Experience ✔
 #### Module 2: The Memories
-1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir)
-2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)
+1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir) ✔
+2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)✔
 #### Module 3: The Stories
 1. Bernard Malamud -[[Idiots First]] (Short Story)
-2. Jhumpa Lahiri - [[Interpreter of Maladies]]
+2. Jhumpa Lahiri - [[Interpreter of Maladies]] ✔
 #### Module 4: Poetry
 1. Shirley Geok-lin Lim ‘[[Learning to Love America]]’ 
 2. [[Eugene Gloria]] ‘[[Milkfish]]’

@@ -11,7 +11,7 @@ tags:
 	
 - Internal Migration -> In-migration and out-migration
 	within country borders
-	migration occuring within an area 
+	migration occurring within an area 
 
 - Gross and Net migration 
 	Gross migration is total 
@@ -19,3 +19,10 @@ tags:
 
 ---
 see: [[diaspora]] 
+
+
+pull factor
+force that draws people to immigrate to a place.
+
+push factor
+force that drives people away from a place.

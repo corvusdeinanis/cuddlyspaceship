@@ -10,21 +10,20 @@ can happen due to [[migration]], exile, or forced migration
 
 members are displaced from their roots; they share a common identity that binds them together 
 
+usually have a **homeland** 
 ### Historically
 mainly referred to the dispersion of Jews from their original homeland
 
-now it includes -> immigrant, refugees, expelles, migrants, guest workers, ethnic and racial minorities and overseas communities 
+now it includes -> immigrant, refugees, expellees, migrants, guest workers, ethnic and racial minorities and overseas communities 
 
 ### Characteristics 
-- the people have been **dispersed** from a specific original centre to two or more peripheral or foreign regions
-- **collective memory** of original homeland 
-- they believe that they are not and perhaps cannot be fully accepted by their host society and therefore feel partly alienated and insulated from it 
-- ancestral homeland as their true ideal home and as the place to which they or their descendants would/should eventually return 
-- they believe that they should be committed to maintenance or restoration of original homeland 
-- can relate personally or vicariously to that homeland; 
-
-[[internal diaspora]]
-
+The characteristics of a diaspora typically include:
+**Migration** or Displacement: Movement from a country of origin, which may be voluntary or forced, in search of work, or to escape conflict or persecution.
+**Collective Memory**: An idealized, shared memory or myth about the ancestral home.
+**Connection to Homeland**: A continuing relationship with the country of origin, even after settling in new places.
+**Preservation of Culture**: People in a diaspora often maintain and celebrate the culture and traditions of their homeland.
+**Adaptation** and Change: While preserving some aspects of their original culture, diasporic communities also adapt to and incorporate elements of their new environments.
+**Sense of Community**: Despite being scattered, there is often a strong sense of community and shared identity among members of a diaspora.
 ### Types of Diaspora
 #### according to **Michael Bruneau**
 ##### entrepreneurial diasporas
@@ -32,22 +31,26 @@ now it includes -> immigrant, refugees, expelles, migrants, guest workers, ethni
 ##### religious diasporas 
 (eg. Jews, Greeks)
 ##### political diasporas 
-(eg. Palestinians, Tibets)
+(eg. Palestinians, Tibetan)
 
 #### According to **Robin Cohen** - Five Typologies
-##### Labour
+##### 1. Labour
 mass migration in search of work and economic opportunities such as the Indian diaspora
-##### Imperial
+##### 2. Imperial
 eg British
-##### Trade
-
-##### Cultural / Intellectual
-##### Victim 
+##### 3. Trade
+Travel to set up businesses and shops, create networks of trade
+Entrepreneurial
+eg. Chinese diaspora in South East Asia
+##### 4. De-territorialized diaspora
+Includes groups such as Caribbean, Sindh, Parsis, and Muslims, who are spread across the globe and **often lack a ‘territory’ or homeland**
+##### 5. Victim 
+includes groups like Jews and Palestinians, who have been historically forced to disperse due to persecution or conflict
 
 ---
 
 
 > [!Question] 
 > types vs typologies; is there a difference?
-> origins of the word "diaspora"; victims of Holocaust are a diaspora? 
+
 

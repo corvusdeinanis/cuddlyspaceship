@@ -4,13 +4,11 @@ date: 2024-01-17
 tags:
   - homelandanddiaspora
 ---
-## Displacement -> 
+## Displacement
 can be forced or voluntary 
 for various reasons (war, conflict, natural disasters)
-
-## Relocation -> 
+## Relocation
 voluntary moving 
-
 ## Types:
 #### 1. Forced Displacement
 a. Conflict-Induced
