@@ -19,7 +19,9 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.IndexFilter(Component.ArticleTitle()), //IndexFilter to block article title on homepage.
-    Component.IndexFilter(Component.ContentMeta()), //IndexFilter to block time to read, tags, etc on homepage.    Component.TagList(),
+    Component.IndexFilter(Component.ContentMeta()), //IndexFilter to block time to read, tags, etc on homepage.    
+	Component.IndexFilter(Component.TagList()),
+	Component.IndexFilter(Component.MobileOnly(Component.TableOfContents())),
   ],
   left: [
     Component.PageTitle(),
