@@ -1,5 +1,6 @@
 ---
 title: Index
+enableToc: false
 ---
 # Welcome to Astro's Garden!  ![image of prometheus](images/prometheus0.png) 
 
