@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.IndexFilter(Component.ArticleTitle()), //IndexFilter to block article title on homepage.
     Component.IndexFilter(Component.ContentMeta()), //IndexFilter to block time to read, tags, etc on homepage.    
 	Component.IndexFilter(Component.TagList()),
-	Component.IndexFilter(Component.MobileOnly(Component.TableOfContents())),
+	Component.TableOfContents({collapseByDefault:true}),
   ],
   left: [
     Component.PageTitle(),
@@ -31,7 +31,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
 	],
  }
