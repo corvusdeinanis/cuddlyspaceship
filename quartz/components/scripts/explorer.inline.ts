@@ -19,7 +19,6 @@ function toggleExplorer(this: HTMLElement) {
   this.classList.toggle("collapsed")
   const content = this.nextElementSibling as MaybeHTMLElement
   if (!content) return
-
   content.classList.toggle("collapsed")
   content.style.maxHeight = content.style.maxHeight === "0px" ? content.scrollHeight + "px" : "0px"
 }
