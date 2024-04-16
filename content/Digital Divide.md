@@ -16,6 +16,6 @@ urban vs rural; rich vs poor; developed vs developing;
 #### Gender Divide
 #### Social Divide
 #### Universal Access Divide
-
+physical disabilities, due to lack of digital literacy skills, low education levels, and inadequate broadband infrastructure.
 
 

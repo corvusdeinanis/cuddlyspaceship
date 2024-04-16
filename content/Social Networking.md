@@ -21,6 +21,19 @@ network in specific context and domain
 structure and hierarchy
 number and type of connections
 
+### Social Relations
+Social relations refer to the patterns of interactions, connections, and relationships between individuals or organizations within a social network
+
+structure, type, and number of connections can all influence social relations 
+
+### Building Blocks of Social Relations
+Communication
+Shared Values and Interests
+Trust
+Empathy
+Social Norms and Rules
+Reciprocity
+Network Structure
 
 ---
 see also:
