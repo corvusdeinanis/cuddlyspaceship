@@ -50,7 +50,7 @@ A---psychoanalytic
 A---cognitive
 ```
 
-see also: [[Introduction to Life Span Development#Perspectives / Key issues in Lifespan Development|Key issues in Lifespan Development]]
+see also: [[Life Span Development#Perspectives / Key issues in Lifespan Development|Key issues in Lifespan Development]]
 
 
 # Psychoanalytic Theories

@@ -8,36 +8,32 @@ tags:
 ---
 # Slavoj Zizek
 
-Philosopher  
-Slovenian Philosopher, cultural theorist and public intellectual who writes about [psychoanalysis](app://obsidian.md/psychoanalysis), **politics**, **pop culture**, and theology from a [Hegel](app://obsidian.md/Hegel)ian and [Lacan](app://obsidian.md/Lacan)ian perspective.
+Slovenian Philosopher, cultural theorist and public intellectual who writes about [[psychoanalysis]], politics, pop culture, and theology from a [[Hegel|Hegelian]] and [[Lacan|Lacanian]] perspective.
 
-identifies as a radical-leftist, communist. Talks about capitalism. Hates both 20th century communism and liberal capitalism. Doesn't like "wokeness"
+identifies as a radical-leftist, communist. 
+Talks about capitalism. 
+Hates both 20th century communism and liberal capitalism. 
+Doesn't like "wokeness"
 
 makes use of crass jokes and obscene examples
 
 contradicts himself
 
-### 
-
-Bio
+### Bio
 
 Year of birth: 1949  
 Nationality: Slovenian  
 Family  
 Period: -
 
-### 
-
-Works
+### Works
 
 Important Works: -  
 Contributions  
 Key Ideas: -  
 Known For: Hegelo-Lacanian approach to ideology critique
 
-### 
-
-Extra
+### Extra
 
 was accused of self-plagiarism
 
@@ -45,9 +41,7 @@ has been praised for his originality, creativity, and relevance, but also critic
 
 calls himself a "Christian atheist"
 
-### 
-
-Controversies
+### Controversies
 
 Supported Trump in 2016  
 Inconsistent in his theories  

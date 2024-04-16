@@ -4,7 +4,7 @@ date: 2023-04-20
 tags: ['psychology','lifespan','study']
 ---
 
-In [[Introduction to Life Span Development|Developmental Psychology]],
+In [[Life Span Development|Developmental Psychology]],
 patterns of change can be - 
 
 | Normative | Idiographic |

@@ -46,7 +46,7 @@ Mainstream usage of gender focuses on similarities and exaggerates the differenc
 help us make the decision, but only our beliefs about gender – not science – can define our sex.
 Furthermore, our beliefs about gender affect what kinds of knowledge scientists produce about
 sex in the first place.*
-    - Anne Fausto-Sterling 
+    - [[Anne FaustoSterling|Anne Fausto-Sterling]] 
 
 
 [2]: Rudman & Glick 2008 observe that again and again, sex differences in performance on various measures emerge as very small with large overlap between the sexes.
@@ -55,6 +55,6 @@ sex in the first place.*
 see also:
 - [[social programming]]
 - [[Gender Binary]]
-- the town where boys turn into girls 
+- [[Guevedoce]]
 - psychological case study of the boy who was raised as a girl; one with the really messed up piece of shit doctor - [[John Money]] - [[Joan John Case]] 
 - 

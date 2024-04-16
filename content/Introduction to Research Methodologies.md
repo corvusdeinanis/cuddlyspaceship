@@ -193,4 +193,4 @@ his research problem are termed as research methods
 
 ---
 
-see also: [[Developmental Research - Types and Ethical Issues]]
+see also: [[Developmental Research]]

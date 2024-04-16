@@ -1,9 +1,15 @@
 ---
-title: "Life Span Development introduction"
-tags: ['psychology','lifespan','study']
-date: ['2022-11-30']
+title: Life Span Development
+tags:
+  - psychology
+  - lifespan
+  - study
+date:
+  - 2022-11-30
+aliases:
+  - development psychology
+  - lifespan psychology
 ---
-
 # Life Span Development
 
 development from **conception** to **death**
@@ -66,4 +72,4 @@ gradual or abrupt?
 
 # Types of Developmental Research and Ethical Values
 
-![[Developmental Research - Types and Ethical Issues]]
+![[Developmental Research]]

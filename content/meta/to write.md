@@ -90,3 +90,11 @@ Law of conservation of complexity
 - Phreaking
 - Capn Crunch
 - [[Cypherpunk]]
+
+
+Phaeton
+Icarus
+Daedalus 
+Theseus
+Ship of Theseus
+Greek Mythology

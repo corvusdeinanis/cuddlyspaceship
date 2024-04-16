@@ -6,7 +6,6 @@ tags:
   - psychologist
 date: 2023-04-04
 ---
-
 ![[images/Aaron T Beck.jpg|100]]
 
 **Aaron T Beck** (July 18, 1921 – November 1, 2021) - influential psychiatrist who is regarded as the **father of cognitive therapy** and **cognitive behavioural therapy**.
@@ -34,7 +33,7 @@ Beck's cognitive triad
 ---
 
 was inspired by Albert Ellis (founder of REBT)
-inspired Martin Seligman(who proposed and defined **learned helplessness**)
+inspired Martin Seligman(who proposed and defined **learned helplessness**
 worked with Maria Kovacs to make a depression scale for children
 
-was inspired by stoicism
+was inspired by [[stoicism]]

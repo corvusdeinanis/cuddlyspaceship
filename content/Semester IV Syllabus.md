@@ -8,11 +8,11 @@ status: 🗺
 ## Psychology
 From John Santrock's Lifespan Development  
 ### MODULE I: INTRODUCTION TO LIFE-SPAN DEVELOPMENT
-a)  [[Introduction to Life Span Development]]
+a)  [[Life Span Development]]
 b) Patterns of change and development: [[Normative vs Idiographic]]
-c)  [[Introduction to Life Span Development#Lifespan Perspective / Assumptions / Characteristics / - on Development|Characteristics and Principles of Development]]
-d) [[Introduction to Life Span Development#Perspectives / Key issues in Lifespan Development|Key Issues]] in life-span perspective: Nature v/s Nurture, Continuity v/s  Discontinuity, Activity v/s Passivity, Specificity v/s Generality 
-e) [[Developmental Research - Types and Ethical Issues]]: Cross-sectional design, Longitudinal design, Sequential design, , Case Study method,  Ethnography, Cohort Design 
+c)  [[Life Span Development#Lifespan Perspective / Assumptions / Characteristics / - on Development|Characteristics and Principles of Development]]
+d) [[Life Span Development#Perspectives / Key issues in Lifespan Development|Key Issues]] in life-span perspective: Nature v/s Nurture, Continuity v/s  Discontinuity, Activity v/s Passivity, Specificity v/s Generality 
+e) [[Developmental Research]]: Cross-sectional design, Longitudinal design, Sequential design, , Case Study method,  Ethnography, Cohort Design 
 
 
 ### MODULE II: THEORIES OF HUMAN DEVELOPMENT

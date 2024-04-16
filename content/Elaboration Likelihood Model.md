@@ -1,7 +1,10 @@
 ---
-title: "Elaboration Likelihood Model"
+title: Elaboration Likelihood Model
 date: 2023-08-09
-tags: ['psychology','social']
+tags:
+  - psychology
+  - social
+status: incomplete
 ---
 
 given by Richard E Petty and John T Cacioppo

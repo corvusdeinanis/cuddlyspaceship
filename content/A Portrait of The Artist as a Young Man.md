@@ -49,22 +49,20 @@ Stephen confesses. He tells the father he has slept with prostitutes. And he has
 
 Calling of God. Promised "awful" powers if he becomes a priest. More than any angel or archangel.  
 
-while waiting to hear back from the university, strolls on the beach and encounters 
- **wading girl**
-  When he was waiting for get accepted by University,he went for a walk at beach and struck by her beauty of a young girl and realizes the artist in him. Stephen resolves his life and not to be constrained by the boundaries of his religion. 
-  
-  Stephen now goes to university, where he makes friends like Cranly.
+while waiting to hear back from the university, strolls on the beach and encounters **wading girl**
+When he was waiting for get accepted by University, he went for a walk at beach and struck by her beauty of a young girl and realizes the artist in him. Stephen resolves his life and not to be constrained by the boundaries of his religion. 
+Stephen now goes to university, where he makes friends like Cranly.
 
 ---
 
 ## Symbols
-1) Wading Girl 
+1) **Wading Girl** 
    "as delicate as a crane"
    responsible for Stephen's determination to dedicate his life for art.
    She sparks an epiphany in Stephen and plays a pivotal role in his transformation to an artist. 
-2) Emma
+2) **Emma**
    Emma is someone Stephen met at a party and is infatuated with. She does not appear often.
-   She symbolizes "feminine purity". Stephen imagines that as a reward for being religious , he'll  reunite with her in heaven. 
+   She symbolizes "feminine purity". Stephen imagines that as a reward for being religious, he'll reunite with her in heaven. 
 
 
 ## Themes

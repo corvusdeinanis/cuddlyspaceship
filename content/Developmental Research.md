@@ -1,7 +1,12 @@
 ---
-title: "Developmental Research"
+title: Developmental Research
 date: 2023-04-20
-tags: ['psychology','lifespan','study']
+tags:
+  - psychology
+  - lifespan
+  - study
+  - research
+status: needswork
 ---
 # Types of Developmental Research Designs
 
@@ -45,7 +50,3 @@ Right to withdrawal
 Debriefing
 Confidentiality
 Deception 
-
----
-some sources: 
-https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/developmental-research-designs/
