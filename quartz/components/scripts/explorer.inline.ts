@@ -68,6 +68,11 @@ function setupExplorer() {
     explorerContent.classList.add("collapsed");
   }
   
+   const arrowButton = document.getElementById("explorer") as MaybeHTMLElement;
+  if (arrowButton) {
+    arrowButton.classList.toggle("collapsed");
+  }
+  
   explorer.addEventListener("click", toggleExplorer)
   window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
 
