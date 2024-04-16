@@ -84,14 +84,14 @@ export default ((userOpts?: Partial<Options>) => {
     constructFileTree(allFiles)
     return (
       <div class={classNames(displayClass, "explorer")}>
-        <button
-          type="button"
-          id="explorer"
-		  class=""
-          data-behavior={opts.folderClickBehavior}
-          data-collapsed={opts.folderDefaultState}
-          data-savestate={opts.useSavedState}
-          data-tree={jsonTree}
+        <<button
+  type="button"
+  id="explorer"
+  class={classNames(displayClass, "explorer", opts.folderDefaultState === "collapsed" ? "collapsed" : "")}
+  data-behavior={opts.folderClickBehavior}
+  data-collapsed={opts.folderDefaultState}
+  data-savestate={opts.useSavedState}
+  data-tree={jsonTree}
         >
           <h1>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h1>
           <svg
