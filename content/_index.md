@@ -2,7 +2,7 @@
 title: Index
 enableToc: false
 ---
-# Welcome to Astro's Garden!  ![image of prometheus](images/prometheus0.png) 
+# Welcome to Astro's Garden!
 
 A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing.
 
