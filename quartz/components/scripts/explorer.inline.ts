@@ -61,6 +61,13 @@ function setupExplorer() {
     }
   }
 
+ const explorerContent = document.getElementById("explorer-content") as MaybeHTMLElement;
+  if (explorerContent) {
+    // Set the max height to 0px and add the collapsed class
+    explorerContent.style.maxHeight = "0px";
+    explorerContent.classList.add("collapsed");
+  }
+  
   explorer.addEventListener("click", toggleExplorer)
   window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
 
