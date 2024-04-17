@@ -24,7 +24,10 @@ Social structure tells us how a social network is structured / organized
 
 ## Aspects of Social Structure in Social Networking:
 **Centrality**: *extent to which an individual is connected to other members* of the network. Individuals who are highly connected and have many connections to other members are considered to be more central in the network. 
+
 **Homophily**: *tendency for individuals to form relationships with others who are similar* to them in some way, such as sharing the same interests, values, or characteristics. 
+
 **Network density**: *number of connections within a network relative to the total number of possible connections*. A dense network has many connections and a high degree of interconnectedness, while a sparse network has fewer connections and less interconnectedness. 
+
 **Hierarchy**: *presence of a hierarchy or rank order within a network*, 
 with some individuals having more power or influence than others. Hierarchy can be based on a variety of factors, such as wealth, status, or expertise

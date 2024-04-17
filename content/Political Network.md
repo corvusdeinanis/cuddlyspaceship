@@ -31,6 +31,6 @@ Awareness, Interest, Evaluation, Trial, and Adoption.
 
 Awareness
 Interest
-Experiment
-Trial
-Application?
+Evaluation
+Trials
+Adoption
