@@ -35,6 +35,9 @@ Social Norms and Rules
 Reciprocity
 Network Structure
 
+CV TEN RS
+
+
 ---
 see also:
 [[Dunbar's Number]]
