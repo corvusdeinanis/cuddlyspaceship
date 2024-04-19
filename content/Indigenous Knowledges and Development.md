@@ -7,10 +7,11 @@ tags:
   - literature
   - colonialism
   - philosophy
+  - natnav
 ---
 Excerpts from Briggs, John, and Joanne Sharp. “Indigenous Knowledges and Development: A Postcolonial Caution.” _Third World Quarterly_ 25, no. 4 (2004): 661–76.
 
-Abstract: As a result of the failure of formal top-down development, there has recently been increased interest in the possibilities of drawing upon the indigenous knowledges of those in the communities involved, in an attempt to produce more effective development strategies. The concept of indigenous knowledge calls for the inclusion of local voices and priorities, and promises empowerment through ownership of the process. However, there has been little critical examination of the ways in which indigenous knowledges have been included in the development process. Drawing upon postcolonial theory, this article suggests that indigenous knowledges are often drawn into development by both theorists and development institutions in a very limited way, failing to engage with other ways of perceiving development, and thus missing the possibility of devising more challenging alternatives.
+**Abstract**: As a result of the failure of formal top-down development, there has recently been increased interest in the possibilities of drawing upon the indigenous knowledges of those in the communities involved, in an attempt to produce more effective development strategies. The concept of indigenous knowledge calls for the inclusion of local voices and priorities, and promises empowerment through ownership of the process. However, there has been little critical examination of the ways in which indigenous knowledges have been included in the development process. Drawing upon postcolonial theory, this article suggests that indigenous knowledges are often drawn into development by both theorists and development institutions in a very limited way, failing to engage with other ways of perceiving development, and thus missing the possibility of devising more challenging alternatives.
 
 ## Annotations  
 (Emphasis added by me)

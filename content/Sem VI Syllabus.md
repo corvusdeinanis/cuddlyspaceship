@@ -73,30 +73,30 @@ commentaries. 
 [[Ethical Considerations in Counselling Psychology]]
 [[7 38 55 Rule]]
 ## [[Clinical Psychology]] #clinicalpsych
-### [[Native Narratives]] #natnav 
+## [[Native Narratives]] #natnav 
 MODULE 1: POST-COLONIAL PREDICAMENT AND NATIVE EXPERIENCES                            
 - [[Indigenous Knowledges and Development]] – John Briggs and Joanne Sharp ✔
 - From “Commonwealth to Postcolonial” – Beginning Postcolonialism – Peter Barry 
 
 MODULE 2: NATIVE AMERICAN and NATIVE CANADIAN WRITINGS
-- White Fawn's Devotion – 1910 – A Play Acted by a Tribe of Red Indians in American Drama ✔
+- [[White Fawn's Devotion]] – 1910 – A Play Acted by a Tribe of Red Indians in American Drama 
 - Things Fall Apart- Chinua Achebe ✔
-- Half breed – Maria Campbell (Selected Chapters) ✔
-- To the animals of the country- (poem) Margaret Atwood 
+- Half breed – Maria Campbell (Selected Chapters)
+- [[The Animals In That Country]]- (poem) Margaret Atwood ✔
 
 MODULE 3: LATIN AMERICAN INTERESTS              
 - The Motorcycle Diaries (film)
-- Big Mama's Funeral – Gabriel García Márquez 
+- [[Big Mama's Funeral]] – Gabriel García Márquez 
 - Song of Death by Gabriela Mistral (poem)
 
 MODULE 4: AFRICAN WRITINGS 
-- The Child who Was Shot Dead by Soldiers at Nyanga – Ingrid Jonker (Poem)
-- The Danger of single story - Chimamanda Adichie (Ted Talk)
-- Moolaade by Ousmane Sembène (2004) (film text)     
+- [[The Child who Was Shot Dead by Soldiers in Nyanga]] – Ingrid Jonker (Poem)
+- [[The Danger of a single story]] - Chimamanda Adichie (Ted Talk)
+- [[Moolaade]] by Ousmane Sembène (2004) (film text)    ✔ 
  
 MODULE 5: REST OF THE WORLD
-- Bread – Edward Kamau Brathwaite (poem)
-- The Youngest Doll – Rosario Ferre (Short Story)
+- [[Bread - Brathwaite|Bread]] – Edward Kamau Brathwaite (poem)
+- [[The Youngest Doll]] – Rosario Ferre (Short Story) ✔
 - Small Towns and the River- Mamang Dai
 ## [[Media Law and Ethics]] #medialaw 
 

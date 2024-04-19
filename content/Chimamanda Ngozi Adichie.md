@@ -6,10 +6,12 @@ tags:
   - english
   - literature
 ---
+Nigerian writer, novelist, poet, essayist, and playwright of postcolonial feminist literature
+
 - **Bio**:
     - **Birth Date**: September 15, 1977
     - **Birthplace**: Enugu, Nigeria
-    - **Background**: ]the fifth of six children, grew up in Nsukka, **Nigeria**. She was an avid reader from a young age and was profoundly influenced by[[ Chinua Achebe]]’s iconic novel, _[[Things Fall Apart]]_.
+    - **Background**: the fifth of six children, grew up in Nsukka, **Nigeria**. She was an avid reader from a young age and was profoundly influenced by[[ Chinua Achebe]]’s iconic novel, _[[Things Fall Apart]]_.
     - **Education**:
         - Studied medicine and pharmacy at the University of Nigeria.
         - Pursued communication and political science at Eastern Connecticut State University (B.A., 2001) in the United States.
@@ -22,7 +24,6 @@ tags:
     - **We Should All Be Feminists**: A powerful essay adapted from her TEDx talk, advocating for gender equality.
     - **[[The Danger of a Single Story]]**: discusses the impact of a single narrative on perceptions and how it leads to rise in [[stereotypes]]. 
 - **Influences**:
-	Adichie's original and initial inspiration came from [Chinua Achebe](https://en.wikipedia.org/wiki/Chinua_Achebe "Chinua Achebe"), after reading his 1958 novel _[Things Fall Apart](https://en.wikipedia.org/wiki/Things_Fall_Apart "Things Fall Apart")_ at the age of 10; Adichie has said that she realized that people who looked like herself could "live in books"
-
+	Adichie's original and initial inspiration came from [[Chinua Achebe]], after reading his 1958 novel _[Things Fall Apart](https://en.wikipedia.org/wiki/Things_Fall_Apart "Things Fall Apart")_ at the age of 10; Adichie has said that she realized that people who looked like herself could "live in books"
 
 Chimamanda Ngozi Adichie’s writing explores identity, [[feminism]], and the complexities of human experiences.

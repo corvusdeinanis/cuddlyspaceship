@@ -9,7 +9,7 @@ tags:
 ---
 written by **Ingrid Jonker** 
 
-translated to English from **Afrikans**
+translated to English from **Afrikaans**
 
 ---
 The line "*The child is not dead*" -> is repeated throughout the poem
