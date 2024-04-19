@@ -13,14 +13,14 @@ aka:
 #homelandanddiaspora 
 [[Homeland and Diaspora imp temp]]
 #### Module 1: Readings
-1. [[Migration]] and [[Diaspora]] Studies: An Introduction Homeland and Diaspora Writing ✔
-2. [[Multiple forms of Displacement and Relocation]]: Charting the Migration Experience ✔
+1. [[Migration]] and [[Diaspora]] Studies: An Introduction Homeland and Diaspora Writing 
+2. [[Multiple forms of Displacement and Relocation]]: Charting the Migration Experience 
 #### Module 2: The Memories
-1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir) ✔
-2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)✔
+1. [[Maxine Hong Kingston]] - The Woman Warrior: [[No Name Woman]] (Memoir) 
+2. [[Hanif Kureishi]] - [[My Beautiful Laundrette]] (Drama)
 #### Module 3: The Stories
-1. Bernard Malamud -[[Idiots First]] (Short Story)✔
-2. [[Jhumpa Lahiri]] - [[Interpreter of Maladies]] ✔
+1. Bernard Malamud -[[Idiots First]] (Short Story)
+2. [[Jhumpa Lahiri]] - [[Interpreter of Maladies]] 
 #### Module 4: Poetry
 1. [[Shirley Geok lin Lim]] ‘[[Learning to Love America]]’ 
 2. [[Eugene Gloria]] ‘[[Milkfish]]’
@@ -74,6 +74,30 @@ commentaries. 
 [[7 38 55 Rule]]
 ## [[Clinical Psychology]] #clinicalpsych
 ### [[Native Narratives]] #natnav 
+MODULE 1: POST-COLONIAL PREDICAMENT AND NATIVE EXPERIENCES                            
+- [[Indigenous Knowledges and Development]] – John Briggs and Joanne Sharp ✔
+- From “Commonwealth to Postcolonial” – Beginning Postcolonialism – Peter Barry 
+
+MODULE 2: NATIVE AMERICAN and NATIVE CANADIAN WRITINGS
+- White Fawn's Devotion – 1910 – A Play Acted by a Tribe of Red Indians in American Drama ✔
+- Things Fall Apart- Chinua Achebe ✔
+- Half breed – Maria Campbell (Selected Chapters) ✔
+- To the animals of the country- (poem) Margaret Atwood 
+
+MODULE 3: LATIN AMERICAN INTERESTS              
+- The Motorcycle Diaries (film)
+- Big Mama's Funeral – Gabriel García Márquez 
+- Song of Death by Gabriela Mistral (poem)
+
+MODULE 4: AFRICAN WRITINGS 
+- The Child who Was Shot Dead by Soldiers at Nyanga – Ingrid Jonker (Poem)
+- The Danger of single story - Chimamanda Adichie (Ted Talk)
+- Moolaade by Ousmane Sembène (2004) (film text)     
+ 
+MODULE 5: REST OF THE WORLD
+- Bread – Edward Kamau Brathwaite (poem)
+- The Youngest Doll – Rosario Ferre (Short Story)
+- Small Towns and the River- Mamang Dai
 ## [[Media Law and Ethics]] #medialaw 
 
 

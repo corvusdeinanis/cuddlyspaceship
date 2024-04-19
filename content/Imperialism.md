@@ -4,6 +4,9 @@ date: 2024-01-04
 tags: []
 ---
 ## Definition 
+imperialism often describes cases in which a foreign government administers a territory without significant settlement
+
+
 
 ## History
 as old as human civilization
