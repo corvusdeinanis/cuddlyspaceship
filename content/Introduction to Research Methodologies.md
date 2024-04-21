@@ -189,7 +189,6 @@ his research problem are termed as research methods
 
 **Grounded Theory** -> relatively large number of participants in a study. It takes an **inductive** (bottom-up) approach, with a focus on letting the data “speak for itself”, **without being influenced** by preexisting theories or the researcher’s preconceptions
 
-#
 
 ---
 

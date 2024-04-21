@@ -4,7 +4,7 @@ date: 2024-04-19
 tags:
   - postcolonialism
 ---
-Fritz Fanon
+by Fritz Fanon
 
 1952; 1967 in English
 

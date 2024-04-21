@@ -3,7 +3,11 @@ title: Knowledge Management
 date: 2023-10-20
 tags:
   - mediamanagement
+  - todo
 ---
+
+> [!Question] Clarify
+> [[Information Management]] vs [[Knowledge Management]]?
 ## What is Knowledge Management?
 
 ## Types of Knowledge Management

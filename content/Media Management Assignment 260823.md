@@ -3,7 +3,6 @@ title: "Media Management Assignment 260823"
 date: 2023-08-26
 tags: ['mediamanagement']
 ---
-
 **Q. Explain the importance of strategic, financial, and human resource management in a  media organisation with examples**
 
 Media management is a discipline that is associated with business administration and involves planning, administration, organization, and marketing. Media management ensures that work is done in a productive, efficient manner. 

@@ -33,7 +33,7 @@ status: 🗺
 - Boys Don't Cry
 - Orlando by [[Virginia Woolf]]
 - Parched
-   
+
 ## DSE - Fiction in Films
 #fictioninfilm 
 deals with dynamics of literature -> movie

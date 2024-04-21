@@ -5,9 +5,6 @@ tags: []
 ---
 ## Definition 
 imperialism often describes cases in which a foreign government administers a territory without significant settlement
-
-
-
 ## History
 as old as human civilization
 
@@ -21,10 +18,6 @@ can be considered having three phases in modern times
  - Security - supress others for the sake of "security of nation"
  - Social Darwinism -Machiaveli, Mussolini, Hitler
  - [[White Man's Burden]], moralistic 
-
-
-(imo, it can be boiled down to sense of superiority and alienation of others)
-
 
 [[postcolonialism]]
 [[capitalism]]

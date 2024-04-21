@@ -7,9 +7,9 @@ tags:
 ---
 branch of [[Psychology]]
 
->[!CHECK]
+>[!Question] Clarify
 >also called psychopathology and abnormal psychology?
-
+> answer here: [[Abnormal vs Clinical vs Psychopathology]]
 
 - abnormal
 - maladaptive
@@ -22,3 +22,5 @@ Danger -
 Deviance - not falling under the norms
 
 Factors influencing abnormal behaviour
+
+[[History of Clinical Psychology]]

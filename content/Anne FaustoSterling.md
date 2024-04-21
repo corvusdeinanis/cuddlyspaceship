@@ -2,6 +2,8 @@
 title: Anne Fausto-Sterling
 date: 2024-04-17
 tags:
+  - person
+  - gender
 ---
 American sexologist and geneticist
 works focuses on biology of [[gender]], sexual identity, gender identity, gender roles, and intersexuality

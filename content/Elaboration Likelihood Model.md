@@ -6,11 +6,10 @@ tags:
   - social
 status: incomplete
 ---
-
 given by Richard E Petty and John T Cacioppo
 
 
-uses both systematic and heuristic models
+uses both systematic and [[heuristics|heuristic]] models
 
 ```mermaid
 flowchart LR

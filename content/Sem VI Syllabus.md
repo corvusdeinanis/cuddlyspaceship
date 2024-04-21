@@ -9,7 +9,7 @@ aka:
   - Sem VI Bucket
 ---
 ## Sem VI Syllabus
-### Homeland and Diaspora Writing  
+## Homeland and Diaspora Writing  
 #homelandanddiaspora 
 [[Homeland and Diaspora imp temp]]
 #### Module 1: Readings
@@ -30,7 +30,8 @@ aka:
 [[migration]]
 [[Migration and Diaspora Studies]]
 [[Multiple forms of Displacement and Relocation]]
-## [[Intro to Development Communication|Development Communication]] #devcom 
+## [[Intro to Development Communication|Development Communication]] 
+#devcom 
 Pay importance to folk media
 Syllabus
 #### 1. INTRODUCTION TO DEVELOPMENT
@@ -66,14 +67,58 @@ reporter
 commentaries. 
 4. Television and cinema: role in development communication. 
 5. ICTs: scope in development communication.
-## [[Counselling Psychology]] #counsellingpsych 
+## [[Counselling Psychology]] 
+#counsellingpsych 
 [[Counselling]]
 [[Counselling Psychology]]
 [[Counselling Skills]]
 [[Ethical Considerations in Counselling Psychology]]
 [[7 38 55 Rule]]
-## [[Clinical Psychology]] #clinicalpsych
-## [[Native Narratives]] #natnav 
+## [[Clinical Psychology]] 
+#clinicalpsych
+### UNIT I: INTRODUCTION TO [[Psychological Disorders]] 
+a) Definition of [[abnormality]]; Distinction between normality vs abnormality Indicators of
+abnormality
+b) Historical Views on Abnormality- Ancient, Medieval &amp; Modern; Indian Perspective
+to Abnormality
+c) Classification of abnormal behaviour: DSM-V &amp; ICD-10
+d) Perspectives: Bio-Medical; Behavioural- Cognitive; Humanistic- Existential; Socio-
+cultural; Meta-theoretical models
+e) Stigma &amp; Psychological Disorders
+f) Prevalence of Psychological Disorders in India
+### UNIT II: NEURO-DEVELOPMENTAL DISORDERS 
+Diagnosis, Symptoms &amp; Prognosis of:
+a) Intellectual Disability
+b) Autism-Spectrum Disorder
+c) Attention Deficit Hyperactivity Disorder
+d) Tic Disorder &amp; Tourette’s Disorder
+
+### UNIT III: BIPOLAR &amp; ANXIETY DISORDER 
+Diagnosis, Symptoms &amp; Prognosis of:
+a) Bipolar disorder I &amp; II
+b) Cyclothymic disorder
+c) Generalized anxiety disorder, social anxiety disorder
+d) Separation anxiety disorder
+e) Specific phobia, Agoraphobia
+
+### UNIT IV: DEPRESSIVE, OBSESSIVE-COMPULSIVE & SCHIZOPHRENIC SPECTRUM DISORDERS 
+Diagnosis, Symptoms &amp; Prognosis of:
+a) Disruptive mood regulation disorder, Major depressive disorder, premenstrual
+Dysphoric disorder, Dysthymia
+b) Obsessive-Compulsive disorder, Body Dysmorphic Disorder Hoarding Disorder,
+Trichotillomania, Excoriation
+c) Delusional disorder, schizophreniform disorder, schizophrenia
+### UNIT V: TRAUMA, DISSOCIATIVE & EATING DISORDER (12 HOURS)
+Diagnosis, Symptoms &amp; Prognosis of:
+a) Post-traumatic stress disorder, adjustment disorder
+b) Dissociate identify disorder, Dissociative Amnesia, Depersonalization disorder
+c) Pica, Anorexia nervosa, Bulimia nervosa, Binge-eating disorder
+d) Current Concerns- Technological Addiction, Sexual Dysfunctions, Impact of war and
+calamities on mental health
+
+
+## [[Native Narratives]] 
+#natnav 
 MODULE 1: POST-COLONIAL PREDICAMENT AND NATIVE EXPERIENCES                            
 - [[Indigenous Knowledges and Development]] – John Briggs and Joanne Sharp ✔
 - From “Commonwealth to Postcolonial” – Beginning Postcolonialism – Peter Barry 
@@ -98,7 +143,8 @@ MODULE 5: REST OF THE WORLD
 - [[Bread - Brathwaite|Bread]] – Edward Kamau Brathwaite (poem)
 - [[The Youngest Doll]] – Rosario Ferre (Short Story) ✔
 - Small Towns and the River- Mamang Dai
-## [[Media Law and Ethics]] #medialaw 
+## [[Media Law and Ethics]] 
+#medialaw 
 
 
 
