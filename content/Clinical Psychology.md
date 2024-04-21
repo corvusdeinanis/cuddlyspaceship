@@ -5,13 +5,14 @@ tags:
   - psychology
   - clinicalpsych
 ---
-branch of [[Psychology]]
+applied branch of [[Psychology]]
+that focuses on assessing and treating mental illness and abnormal behaviour
 
->[!Question] Clarify
+>[!Note] Clarification
 >also called psychopathology and abnormal psychology?
 > answer here: [[Abnormal vs Clinical vs Psychopathology]]
 
-- abnormal
+- abnormal (abnormal literally means “away from the normal.”)
 - maladaptive
 - deviant
 
@@ -23,4 +24,4 @@ Deviance - not falling under the norms
 
 Factors influencing abnormal behaviour
 
-[[History of Clinical Psychology]]
+[[History of Treating Mental Disorders]]

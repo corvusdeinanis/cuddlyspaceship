@@ -6,9 +6,16 @@ tags:
   - philosophy
   - science
   - adages
+aliases:
 ---
-[[Sharp shooter fallacy]] aka Texas Sharp Shooter 
-[[Strawman]]
-[[Ad Hominem]]
-[[Fallacy Fallacy]]
-[[Begging The Question]]
+
+
+- [[Sharp shooter fallacy]] aka Texas Sharp Shooter 
+- [[Strawman]]
+- [[Ad Hominem]]
+- [[Fallacy Fallacy]]
+- [[Begging The Question]]
+- [[Historian's Fallacy]]
+- [[Presentism]]
+- [[Survivorship Bias]]
+- 
