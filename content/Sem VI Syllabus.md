@@ -79,37 +79,37 @@ commentaries. 
 ### UNIT I: INTRODUCTION TO [[Psychological Disorders]] 
 a) Definition of [[abnormality]]; Distinction between normality vs abnormality Indicators of
 abnormality
-b) Historical Views on Abnormality- Ancient, Medieval &amp; Modern; Indian Perspective
+b) Historical Views on Abnormality- Ancient, Medieval & Modern; Indian Perspective
 to Abnormality
-c) Classification of abnormal behaviour: DSM-V &amp; ICD-10
-d) Perspectives: Bio-Medical; Behavioural- Cognitive; Humanistic- Existential; Socio-
+c) Classification of abnormal behaviour: DSM-V & ICD-10
+d) Perspectives❗: Bio-Medical; Behavioural- Cognitive; Humanistic- Existential; Socio-
 cultural; Meta-theoretical models
-e) Stigma &amp; Psychological Disorders
-f) Prevalence of Psychological Disorders in India
+e) Stigma & Psychological Disorders
+f) Prevalence of Psychological Disorders in India ❗
 ### UNIT II: NEURO-DEVELOPMENTAL DISORDERS 
-Diagnosis, Symptoms &amp; Prognosis of:
-a) Intellectual Disability
-b) Autism-Spectrum Disorder
-c) Attention Deficit Hyperactivity Disorder
-d) Tic Disorder &amp; Tourette’s Disorder
+Diagnosis, Symptoms & Prognosis of:
+a) [[Intellectual Developmental Disorder]]
+b) [[Autism]]-Spectrum Disorder
+c) Attention Deficit Hyperactivity Disorder [[ADHD]]
+d) Tic Disorder & Tourette’s Disorder [[Tic Disorder]]
 
-### UNIT III: BIPOLAR &amp; ANXIETY DISORDER 
-Diagnosis, Symptoms &amp; Prognosis of:
-a) Bipolar disorder I &amp; II
+### UNIT III: BIPOLAR & ANXIETY DISORDER 
+Diagnosis, Symptoms & Prognosis of:
+a) [[Bipolar disorder]] I & II
 b) Cyclothymic disorder
-c) Generalized anxiety disorder, social anxiety disorder
-d) Separation anxiety disorder
-e) Specific phobia, Agoraphobia
+c) [[GAD]]Generalized anxiety disorder, social anxiety disorder [[Social Anxiety Disorder]]
+d) [[Separation anxiety disorder]]
+e) [[Specific phobia]], [[Agoraphobia]]
 
 ### UNIT IV: DEPRESSIVE, OBSESSIVE-COMPULSIVE & SCHIZOPHRENIC SPECTRUM DISORDERS 
-Diagnosis, Symptoms &amp; Prognosis of:
-a) Disruptive mood regulation disorder, Major depressive disorder, premenstrual
+Diagnosis, Symptoms & Prognosis of:
+a) [[Disruptive mood regulation disorder]], Major depressive disorder, premenstrual
 Dysphoric disorder, Dysthymia
 b) Obsessive-Compulsive disorder, Body Dysmorphic Disorder Hoarding Disorder,
 Trichotillomania, Excoriation
 c) Delusional disorder, schizophreniform disorder, schizophrenia
 ### UNIT V: TRAUMA, DISSOCIATIVE & EATING DISORDER (12 HOURS)
-Diagnosis, Symptoms &amp; Prognosis of:
+Diagnosis, Symptoms & Prognosis of:
 a) Post-traumatic stress disorder, adjustment disorder
 b) Dissociate identify disorder, Dissociative Amnesia, Depersonalization disorder
 c) Pica, Anorexia nervosa, Bulimia nervosa, Binge-eating disorder

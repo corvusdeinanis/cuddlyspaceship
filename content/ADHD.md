@@ -3,6 +3,9 @@ title: "ADHD"
 date: 2024-01-29
 tags: []
 ---
+[[Neurodevelopmental Disorders]]
+challenges relating to inattention, hyperactivity, and impulsivity to the point that it interferes with everyday life
+
 ## History
 
 
@@ -33,5 +36,8 @@ Psychoeducation
 Family Therapy
 Medication 
 
-
-
+## Co-morbidity
+- Learning disorders
+- Depression
+- [[Autism]]
+- Anxiety

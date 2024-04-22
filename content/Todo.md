@@ -97,3 +97,5 @@ https://www.reddit.com/r/AskScienceDiscussion/comments/lwfcdd/why_are_sigmund_fr
 https://en.wikipedia.org/wiki/Cargo_cult_science
 https://en.wikipedia.org/wiki/Communal_reinforcement
 https://en.wikipedia.org/wiki/Emma_Eckstein#Analysis
+
+- [Cluster C personality disorders pearls? : r/Psychiatry (reddit.com)](https://www.reddit.com/r/Psychiatry/comments/17bvy55/comment/k5p9g67/)

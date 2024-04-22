@@ -5,7 +5,15 @@ tags:
   - clinicalpsych
   - psychology
 ---
-Occurs at birth
-Neuro (Nervous System) + Developmental 
+Neuro (neurological) + Developmental 
 
-## [[Intellectual Disability]]
+**usually onset during stages of development** which makes them most present in toddlers, children, and adolescents, but continue to persist into adulthood
+
+Usually co-occur; for eg Autism and ADHD
+
+Some of the NDs are:
+- [[Intellectual Developmental Disorder]](Intellectual Disabilty)
+- [[Autism]]
+- [[ADHD]]
+- [[Tic Disorder]]
+- 

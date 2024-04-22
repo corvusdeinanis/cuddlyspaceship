@@ -11,10 +11,9 @@ Ancient Indian system of medicine
 Key principles of Ayurveda include:
 **Doshas**: Ayurveda recognizes three fundamental energies or doshas called **Vata**, **Pitta**, and **Kapha**, which are present in varying degrees in everyone. Imbalances in these doshas are believed to contribute to illness, and Ayurvedic treatments aim to restore the balance.
 
-
-**Vata**- space and air governs movement
-**Pitta**- fire and water regulate metabolism 
-**kapha**- earth and water manage assimilation in the body
+**Vata**- space and air governs movement 💨
+**Pitta**- fire and water regulate metabolism 🔥💧
+**kapha**- earth and water manage assimilation in the body 🏔💧
 
 **Individualized Approach**: Ayurveda recognizes that each person is unique, and health recommendations are tailored to an individual's constitution (prakriti), considering their dosha balance, lifestyle, and specific health needs.
 

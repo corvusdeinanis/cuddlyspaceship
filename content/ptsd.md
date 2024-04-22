@@ -1,7 +1,10 @@
 ---
-title: "ptsd"
+title: ptsd
 date: 2023-05-29
-tags: ['psychology','psychiatry']
+tags:
+  - psychology
+  - psychiatry
+  - clinicalpsych
 ---
 
 PTSD (**posttraumatic stress disorder**) is a mental health problem that some people develop after experiencing or witnessing a life-threatening event, like combat, a natural disaster, a car accident, or sexual assault.
@@ -14,7 +17,7 @@ divided into four:
 3) Negative changes
 4) changes in arousal
 
-
+re-experiencing, avoidance, negative alterations in cognition and mood, and arousal
 ### 1) Intrusion
 -   Reoccurring, involuntary, and intrusive upsetting memories of the event
 -  Repeated upsetting dreams related to the event

@@ -10,7 +10,7 @@ that focuses on assessing and treating mental illness and abnormal behaviour
 
 >[!Note] Clarification
 >also called psychopathology and abnormal psychology?
-> answer here: [[Abnormal vs Clinical vs Psychopathology]]
+> answer here: [[Psychopathology]]
 
 - abnormal (abnormal literally means “away from the normal.”)
 - maladaptive

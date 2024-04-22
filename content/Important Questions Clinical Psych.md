@@ -15,9 +15,9 @@ tags:
 
 9M
 - Analyze the positive and negative symptoms of schizophrenia 
-- Examine in detail hair pulling disorder
-- Discuss in detail about OCD
-- Breakdown the symptoms, causes, and risk factors, treatment plans for skin plucking disorder
+- Examine in detail hair pulling disorder [[Trichotillomania]]
+- Discuss in detail about [[OCD]]
+- Breakdown the symptoms, causes, and risk factors, treatment plans for skin plucking disorder 
 - Classify and breakdown the symptoms and causes for body dysmorphic disorder 
 
 12M

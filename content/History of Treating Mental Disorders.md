@@ -46,13 +46,14 @@ Following is an extract from *Butcher, James Neal. Abnormal psychology. — 16th
 > ### The Sixteenth Through the Eighteenth Centuries 
 > **Paracelsus** (1490–1541) A Swiss physician who rejected demonology as a cause of abnormal behavior. Paracelsus believed in psychic causes of mental illness. 
 > **Teresa of Avila** (1515–1582) A Spanish nun, since canonized, who argued that mental disorder was an illness of the mind. 
-> **Johann Weyer** (1515–1588) A German physician who argued against demonology and was ostracized by his peers and the Church for his progressive views. 
-> **Robert Burton** (1576–1640) An Oxford scholar who wrote a classic, influential treatise on depression, The Anatomy of Melancholia, in 1621. 
+> ⭐**Johann Weyer** (1515–1588) A German physician who argued against demonology and was ostracized by his peers and the Church for his progressive views. 
+> **Robert Burton** (1576–1640) An Oxford scholar who wrote a classic, influential treatise on depression, The Anatomy of Melancholia, in 1621.
+> ### 19th Century 
 > ⭐**William Tuke** (1732–1822) An English Quaker who established the York Retreat, where mental patients lived in humane surroundings. 
 > ⭐**Philippe Pinel** (1745–1826) A French physician who pioneered the use of moral management in La Bicêtre and La Salpêtrière hospitals in France, where mental patients were treated in a humane way.
 > **Benjamin Rush** (1745–1813) An American physician and the founder of American psychiatry, who used moral management, based on Pinel’s humanitarian methods, to treat the mentally disturbed. 
-> ### The Nineteenth and Early Twentieth Centuries 
 > **Dorothea Dix** (1802–1887) An American teacher who founded the mental hygiene movement in the United States, which focused on the physical well-being of mental patients in hospitals. 
+> ### The Nineteenth and Early Twentieth Centuries 
 > **Clifford Beers** (1876–1943) An American who campaigned to change public attitudes toward mental patients after his own experiences in mental institutions. 
 > **Franz Anton Mesmer** (1734–1815) An Austrian physician who conducted early investigations into hypnosis as a medical treatment. 
 > **Emil Kraepelin** (1856–1926) A German psychiatrist who developed the first diagnostic system. 
@@ -67,10 +68,38 @@ Following is an extract from *Butcher, James Neal. Abnormal psychology. — 16th
 ## Timeline
 
 ```mermaid
-timeline
-section Ancient Ages
-trephening
+
+    %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+       timeline
+        title History of Clinical Psychology / Treatment of Psychological Disorders
+        section Ancient ages
+          7000 years ago : Trephening 
+        section middle ages
+         
+        
+        
 
 
 ```
 
+
+
+1. **Ancient Times**:
+    - **Trephination**: Drilling holes in the skull to release evil spirits or alleviate mental distress.
+    - **Supernatural Beliefs**: Attributing mental illness to supernatural causes like demonic possession or sorcery.
+2. **Medieval Times**:
+    - **Exorcism**: Rituals performed by priests to expel evil spirits from afflicted individuals.
+3. **Pre-17th Century**:
+    - **Bloodletting and Purging**: Practices aimed at balancing bodily humors and restoring health.
+4. **17th-19th Century**:
+    - **Asylums**: Established to house and care for the mentally ill.
+    - **20th Century**: **Deinstitutionalization** moved patients out of asylums and into community-based care.
+5. **20th Century**:
+    - **Psychoanalysis (Sigmund Freud)**: Emphasized talk therapy and explored the unconscious mind.
+    - **Behavioral and Cognitive Therapies**: Focused on changing behavior and addressing distorted thought patterns.
+    - **Biological Treatments**: Antipsychotic medications, antidepressants, and mood stabilizers.
+6. **Recent Decades**:
+    - **Evidence-Based Practices**:
+        - **Cognitive-Behavioral Therapy (CBT)**: Effective for various disorders.
+        - **Medication Management**: Targeted drug therapies.
+        - **Mindfulness-Based Approaches**: Gained popularity
