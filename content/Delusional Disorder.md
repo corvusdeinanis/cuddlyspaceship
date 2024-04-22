@@ -24,15 +24,17 @@ people who believe that another person, especially someone **famous** or importa
 #### Grandiose
 overinflated sense of self-worth, power, knowledge, identity 
 #### Jealous
-believe that others are cheating w them
+believe that others are cheating on them
 #### Persecutory
+they're being wronged with
 #### Somatic
+involve bodily functions or sensations
 #### Mixed
 
 ### Causes and risk factors
 genetic 
 biological
-enviromental
+environmental
 
 ### Treatment
 individual psychotherapy

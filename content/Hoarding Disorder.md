@@ -4,7 +4,6 @@ date: 2024-03-07
 tags:
   - clinicalpsych
 ---
-
 amount of clutter interferes with everyday living
 clutter is causing significant distress or negatively affecting the quality of life of the person or their family
 

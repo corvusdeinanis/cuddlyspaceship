@@ -8,7 +8,7 @@ tags:
 ### Module 4
 5M
 - List out the symptoms of mood dysregulation disorder
-- Difference between obsessive thoughts and compulsive behavioirs
+- Difference between obsessive thoughts and compulsive behaviours
 - Difference between MDD and Dysthymia 
 - Discuss the positive symptoms of Schizophrenia 
 - List and discuss types of [[Delusional Disorder]]
@@ -34,7 +34,7 @@ tags:
 - Illustrate a case study of an individual experiencing binge eating disorder
 - Difference between PTSD and Adjustment disorder
 - Examine symptoms, causes and risk factors of adjustment disorder
-- Outline and discuss about disassociative amnesia
+- Outline and discuss about [[Dissociative amnesia]]
 
 12M 
 - Case study

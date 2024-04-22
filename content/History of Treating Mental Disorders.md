@@ -18,7 +18,7 @@ History
 7. Franz Auton Mesmer - Hypnosis
 8. Emil Kraeplin - first diagnostic system
 9. Freud - unresolved childhood issues in unconsc mem
-10. BF Skinner, Watson - due to reward, punishment, conditioning
+10. BF Skinner, Watson - due to reward, punishment, conditioning - behaviour 
 
 ---
 
@@ -29,8 +29,7 @@ Treatment --> Supernatural
 Treatment ---> Biological
 Treatment ----> Psychological
 ```
-“possession”
-
+---
 
 Following is an extract from *Butcher, James Neal. Abnormal psychology. — 16th ed. / James N. Butcher, University of Minnesota, Jill M. Hooley, Harvard University, Susan Mineka, Northwestern University*
 
@@ -103,3 +102,10 @@ Following is an extract from *Butcher, James Neal. Abnormal psychology. — 16th
         - **Cognitive-Behavioral Therapy (CBT)**: Effective for various disorders.
         - **Medication Management**: Targeted drug therapies.
         - **Mindfulness-Based Approaches**: Gained popularity
+
+
+> [!Mnemonic] 
+> Hip Playah Got Weyer? Tuke the Pinel, we Rush. 
+
+
+

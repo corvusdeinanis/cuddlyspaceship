@@ -38,10 +38,13 @@ In the **pre-historic** times, most cultures did not separate mind and body. The
 
 trephining -> humour theory (four humors) -> bloodletting and trephining again -> prayers and priests -> renaissance -> **BIOMEDICAL** model -> [[Sigmund Freud]]'s theories + modern psychology gave way to **BIOPSYCHOSOCIAL** model
 
-|**Model**|**Focus**|**Assumptions**|
-|---|---|---|
-|***Biomedical***|Physical aspects of disease|Disease is caused by biological factors|
-|***Biopsychosocial***|Biological, psychological, and social factors|Disease is caused by a combination of biological, psychological, and social factors|
+also see: [[History of Treating Mental Disorders]]
+
+| **Model**             | **Focus**                                     | **Assumptions**                                                                     |
+| --------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ***Biomedical***      | Physical aspects of disease                   | Disease is caused by biological factors                                             |
+| ***Biopsychosocial*** | Biological, psychological, and social factors | Disease is caused by a combination of biological, psychological, and social factors |
+also see: [[Perspectives in Clinical Psychology]]
 
 ## **Application of Health Psychology:**
 

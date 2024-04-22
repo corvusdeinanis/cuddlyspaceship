@@ -17,9 +17,9 @@ that focuses on assessing and treating mental illness and abnormal behaviour
 - deviant
 
 4 Ds - Indicators of Abnormality
-Distress - 
-Dysfunction - 
-Danger - 
+Distress - significant distress to the person and those around them 
+Dysfunction - interfering with the person’s ability to carry out daily activities in a constructive
+Danger - to the person or to others
 Deviance - not falling under the norms
 
 Factors influencing abnormal behaviour

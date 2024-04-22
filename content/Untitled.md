@@ -17,3 +17,20 @@ Dermatillomania, also known as skin picking disorder or excoriation disorder, is
 Body Dysmorphic Disorder (BDD) is a mental illness where an individual is preoccupied with an imagined physical defect or a minor defect that others often cannot see. This disorder can cause significant anxiety and may overlap with OCD in terms of compulsive behaviors related to the perceived physical flaw. Treatment typically involves a combination of cognitive-behavioral therapy and medication, such as selective serotonin reuptake inhibitors (SSRIs).
 
 In summary, these disorders are complex and multifaceted, often requiring a comprehensive treatment approach that includes both pharmacological and psychotherapeutic interventions. It is crucial for individuals experiencing symptoms of these disorders to seek professional help for diagnosis and treatment planning.
+
+---
+
+- Intellectual Developmental Disorder: A group of conditions present from birth affecting physical, intellectual, and/or emotional development.
+- Autism: A developmental disorder affecting communication and behavior, often noticeable in early childhood.
+- ADHD: A neurobehavioral disorder characterized by difficulty in paying attention, impulsivity, and hyperactivity.
+- Tic Disorders: Neuropsychiatric disorders with onset in childhood, marked by sudden, rapid, nonrhythmic movements or vocalizations.
+- Bipolar 1: A disorder causing manic episodes lasting at least one week, possibly with periods of depression.
+- Bipolar 2: Involves patterns of depressive episodes and hypomanic episodes, but not full-blown mania.
+- Cyclothymia: A mood disorder with emotional ups and downs, but less extreme than bipolar disorder.
+- GAD: Generalized Anxiety Disorder, excessive worry about everyday things, causing significant distress.
+- Social Anxiety Disorder: Chronic fear of social or performance situations due to fear of scrutiny or negative evaluation.
+- Separation Anxiety Disorder: Excessive fear of being separated from attachment figures, seen in children and adults.
+- Specific Phobia: An intense, irrational fear of specific objects or situations that poses little or no actual danger.
+- Agoraphobia: Fear of places or situations where escape might be difficult, leading to avoidance behaviors.
+- PMDD: Premenstrual Dysphoric Disorder, severe emotional and physical problems linked to the menstrual cycle.
+- DMDD: Disruptive Mood Dysregulation Disorder, chronic, severe irritability in children with frequent temper outbursts.

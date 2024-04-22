@@ -103,11 +103,10 @@ e) [[Specific phobia]], [[Agoraphobia]]
 
 ### UNIT IV: DEPRESSIVE, OBSESSIVE-COMPULSIVE & SCHIZOPHRENIC SPECTRUM DISORDERS 
 Diagnosis, Symptoms & Prognosis of:
-a) [[Disruptive mood regulation disorder]], Major depressive disorder, premenstrual
-Dysphoric disorder, Dysthymia
-b) Obsessive-Compulsive disorder, Body Dysmorphic Disorder Hoarding Disorder,
-Trichotillomania, Excoriation
-c) Delusional disorder, schizophreniform disorder, schizophrenia
+a) [[Disruptive mood dysregulation disorder]], Major depressive disorder, [[Premenstrual Dysphoric Disorder]], [[Dysthymia]]
+b) Obsessive-Compulsive disorder, Body Dysmorphic Disorder, Hoarding Disorder,
+[[Trichotillomania]], [[Excoriation]]
+c) Delusional disorder, schizophreniform disorder, schizophrenia [[schizophrenia]]
 ### UNIT V: TRAUMA, DISSOCIATIVE & EATING DISORDER (12 HOURS)
 Diagnosis, Symptoms & Prognosis of:
 a) Post-traumatic stress disorder, adjustment disorder

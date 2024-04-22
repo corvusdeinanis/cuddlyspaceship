@@ -1,14 +1,14 @@
 ---
-title: Disruptive mood regulation disorder
+title: Disruptive mood dysregulation disorder
 date: 2024-04-22
 tags:
   - clinicalpsych
 ---
-Disruptive mood dysregulation disorder (DMDD) 
+**Disruptive mood dysregulation disorder (DMDD)** 
 childhood condition that is characterized by severe anger, irritability, and frequent temper outbursts. 
 The angry outbursts that kids experience with DMDD are extreme, intense, and can lead to significant disruption in many areas of a child's life
 
-Symptoms
+**Symptoms**
 severe, recurrent
 out of proportion to the situation
 inappropriate for the age
