@@ -30,7 +30,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        if (fileData.dates.created) {
+          segments.push(
+            <span>
+              🌿 Planted <TimeMeta value={fileData.dates.created} />
+            </span>,
+          )
+        }
+
+        if (fileData.dates.modified) {
+          segments.push(
+            <span>
+              🧤 Last tended <TimeMeta value={fileData.dates.modified} />
+            </span>,
+          )
+        }
       }
 
       // Display reading time if enabled
@@ -39,9 +53,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(displayedTime)
+        segments.push(<span>⏲ {displayedTime}</span>)
       }
-
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
       return (
