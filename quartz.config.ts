@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     baseUrl: "corvusdeinanis.github.io/cuddlyspaceship",
     ignorePatterns: ["private", "templates",".obsidian"],
 	defaultDateType: "created",
+	displayDateType:["created","modified"]
 	analytics: {
 	},
     theme: {
@@ -52,7 +53,8 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+	  
+        priority: ["frontmatter", "git"],
       }),
       //Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
