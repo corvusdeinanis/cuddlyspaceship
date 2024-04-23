@@ -3,6 +3,8 @@ title: "Psychology Experiments"
 date: 2023-08-28
 tags: ['tagpage','bucket','psychology']
 ---
+
+
 1. **Stanford Prison Experiment**: Conducted by Philip Zimbardo in 1971, this experiment aimed to investigate how people would react when placed in positions of power or subservience . The experiment was terminated after only six days due to the extreme psychological distress experienced by the participants.
 
 2. **Little Albert Experiment**: Conducted by John Watson and Rosalie Rayner in 1920, this experiment aimed to investigate whether fear could be conditioned in humans . The experiment involved conditioning a young child to fear a white rat by pairing it with a loud noise.
