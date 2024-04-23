@@ -35,7 +35,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         let modifiedDateSegment = '';
         if (fileData.frontmatter.lastupdated) {
             const modifiedDate = formatDate(new Date(fileData.frontmatter.lastupdated));
-            modifiedDateSegment = `, ⬆ Last tended on ${modifiedDate}`;
+            modifiedDateSegment = `, 👨‍🌾 Last tended on ${modifiedDate}`;
         }
         segments.push(`🌱 Planted on ${createdDate}${modifiedDateSegment}`)
       }
@@ -46,7 +46,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(displayedTime)
+        segments.push(`⌛ ${displayedTime}`)
       }
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
