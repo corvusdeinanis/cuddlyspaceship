@@ -33,7 +33,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         if (fileData.dates.created) {
           segments.push(
             <span>
-              🌿 Planted <value={fileData.dates.created}/>
+              🌿 Planted {fileData.dates.created}
             </span>,
           )
         }
@@ -41,7 +41,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         if (fileData.dates.modified) {
           segments.push(
             <span>
-              🧤 Last tended <value={fileData.dates.modified}/>
+              🧤 Last tended {fileData.dates.modified}
             </span>,
           )
         }
@@ -53,7 +53,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>⏲ <value={displayedTime} /></span>)
+        segments.push(<span>⏲ {displayedTime}</span>)
       }
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
