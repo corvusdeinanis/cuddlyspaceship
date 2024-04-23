@@ -33,7 +33,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         // segments.push(formatDate(getDate(cfg, fileData)!))
         const createdDate = formatDate(getDate(cfg, fileData)!)
         let modifiedDateSegment = '';
-        if (fileData.frontmatter.modified) {
+        if (fileData.frontmatter.lastupdated) {
             const modifiedDate = formatDate(new Date(fileData.frontmatter.lastupdated));
             modifiedDateSegment = `, ⬆ modified on ${modifiedDate}`;
         }
