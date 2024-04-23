@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     baseUrl: "corvusdeinanis.github.io/cuddlyspaceship",
     ignorePatterns: ["private", "templates",".obsidian"],
 	defaultDateType: "created",
+	displayDateType: ["created","modified"],
 	theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
