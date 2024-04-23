@@ -15,8 +15,6 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates",".obsidian"],
 	defaultDateType: "created",
 	displayDateType:["created","modified"]
-	analytics: {
-	},
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
