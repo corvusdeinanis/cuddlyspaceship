@@ -14,13 +14,7 @@ const config: QuartzConfig = {
     baseUrl: "corvusdeinanis.github.io/cuddlyspaceship",
     ignorePatterns: ["private", "templates",".obsidian"],
 	defaultDateType: "created",
-<<<<<<< HEAD
-	displayDateType:["created","modified"]
-=======
-	analytics: {
-	},
->>>>>>> parent of 7f68dcbb (trying to get last updated from git)
-    theme: {
+	theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
