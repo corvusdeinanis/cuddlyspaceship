@@ -33,7 +33,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         if (fileData.dates.created) {
           segments.push(
             <span>
-              🌿 Planted {fileData.dates.created}
+              🌿 Planted <TimeMeta value={fileData.dates.created} />
             </span>,
           )
         }
@@ -41,7 +41,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         if (fileData.dates.modified) {
           segments.push(
             <span>
-              🧤 Last tended {fileData.dates.modified}
+              🧤 Last tended <TimeMeta value={fileData.dates.modified} />
             </span>,
           )
         }
