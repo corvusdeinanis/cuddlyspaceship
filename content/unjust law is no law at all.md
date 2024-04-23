@@ -3,7 +3,7 @@ title: unjust law is no law
 date: 2023-11-16
 tags:
   - adages
-  - laws
+  - law
 ---
 unjust law is no law at all 
 (in Latin: *lex iniusta non est lex*) 

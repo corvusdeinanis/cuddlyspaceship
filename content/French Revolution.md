@@ -3,7 +3,7 @@ title: French Revolution
 date: 2023-07-10
 tags:
   - history
-  - old
+  - legacy
   - studynotes
   - incomplete
 ---

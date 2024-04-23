@@ -2,7 +2,7 @@
 title: act inertia
 date: 2024-02-17
 tags:
-  - life
+  - lifestyle
   - blog
   - wellbeing
 ---

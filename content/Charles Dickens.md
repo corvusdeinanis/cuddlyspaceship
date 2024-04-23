@@ -3,7 +3,7 @@ title: Charles Dickens
 date: 2023-10-02
 tags:
   - person
-  - author
+  - writer
   - literature
   - english
 ---

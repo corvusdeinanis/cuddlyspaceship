@@ -3,6 +3,7 @@ title: 30 Basic Human Rights
 date: 2023-11-16
 tags:
   - humanrights
+  - law
 ---
 [[UDHR]] has 30 articles that outline 30 basic rights. They are: 
 

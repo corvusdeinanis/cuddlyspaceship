@@ -1,6 +1,6 @@
 ---
 title: "Stages of Grief"
-tags: ['psychology', 'notenoughevidence']
+tags: ['psychology', 'insufficientevidence']
 date: 2023-03-29 
 ---
 

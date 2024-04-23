@@ -5,7 +5,7 @@ tags:
   - legacy
   - socialpsych
   - society
-  - old
+  - legacy
   - studynotes
   - sociology
 ---

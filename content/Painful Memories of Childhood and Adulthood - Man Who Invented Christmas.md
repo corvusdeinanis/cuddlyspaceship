@@ -7,7 +7,7 @@ tags:
   - Review
   - movie
   - legacy
-  - old
+  - legacy
   - needswork
 ---
 > [!Important] Legacy Note

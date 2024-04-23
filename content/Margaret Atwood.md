@@ -3,7 +3,7 @@ title: Margaret Atwood
 date: 2024-02-20
 tags:
   - writer
-  - author
+  - writer
   - poet
   - literature
   - english

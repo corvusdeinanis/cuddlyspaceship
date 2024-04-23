@@ -11,8 +11,6 @@ tags: ['cloudcomputing','stub']
 6. Presentation 
 7. Application
 
-> example of calculator
-
 ```mermaid
 flowchart 
 A-->B-->C-->D-->E-->F-->G

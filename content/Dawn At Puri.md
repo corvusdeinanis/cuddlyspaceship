@@ -62,7 +62,7 @@ The image of ‘skull in the holy sands’ = irony; opposite contrasting images.
 
 White-clad widowed Women past the centres of their lives are badly treated and disrespected. 
 After the death of their husbands they are forced to wear white saris and live a simple life. It is thought that once their husbands are dead their lives are insignificant. They are believed to have passed the ‘centre of their lives’
-(refers to the husband, or to the time when their husband was alive; #patriarchy)
+(refers to the husband, or to the time when their husband was alive; 
 
 
 The women are like helpless fish caught in the net where they are anxiously

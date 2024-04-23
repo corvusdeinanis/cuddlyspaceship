@@ -6,10 +6,8 @@ tags:
   - sociology
   - todo
 ---
-
 Culture 
 Counter-culture -> Dominant Culture
-
 
 Counter-culture arises 
 Becomes dominant

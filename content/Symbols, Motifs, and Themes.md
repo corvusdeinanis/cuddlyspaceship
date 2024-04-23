@@ -1,6 +1,6 @@
 ---
 title: "Symbols, Motifs, and Themes"
-tags: ['english','literature','devices']
+tags: ['english','literature','litdevices']
 date: 2023-04-10
 ---
 

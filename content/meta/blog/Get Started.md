@@ -4,7 +4,7 @@ date: 2024-02-17
 tags:
   - important
   - starred
-  - life
+  - lifestyle
   - wellbeing
 ---
 To finish something, you must first **GET STARTED**.

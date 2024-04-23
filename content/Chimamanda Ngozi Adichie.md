@@ -2,7 +2,7 @@
 title: Chimamanda Ngozi Adichie
 date: 2024-03-17
 tags:
-  - author
+  - writer
   - english
   - literature
 ---

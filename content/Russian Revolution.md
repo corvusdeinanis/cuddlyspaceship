@@ -3,7 +3,7 @@ title: Russian Revolution
 date: 2023-09-28
 tags:
   - history
-  - old
+  - legacy
   - studynotes
   - incomplete
 ---

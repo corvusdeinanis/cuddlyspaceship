@@ -4,7 +4,7 @@ date: 2023-10-25
 tags:
   - person
   - religion
-  - atheists
+  - atheist
 ---
 Coyne considers himself a secular Jew, and an outspoken anti-theist
 claims that religion and science are fundamentally incompatible

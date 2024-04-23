@@ -2,7 +2,7 @@
 title: Development and Displacement
 date: 2021-09-28
 tags:
-  - old
+  - legacy
   - legacy
 ---
 

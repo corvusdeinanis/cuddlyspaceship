@@ -1,6 +1,6 @@
 ---
 title: "How to Study"
-tags: ['psychology','philosophy','life']
+tags: ['psychology','philosophy','lifestyle']
 ---
 
 # Learning Methods

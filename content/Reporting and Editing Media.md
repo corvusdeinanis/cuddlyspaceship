@@ -3,7 +3,6 @@ title: Reporting and Editing Media
 date: 2023-10-14
 tags:
   - journalism
-  - semv
   - syllabus
   - studynotes
   - collection

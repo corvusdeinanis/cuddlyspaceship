@@ -1,7 +1,9 @@
 ---
-title: "A Brief History of Indian Cinema"
+title: A Brief History of Indian Cinema
 date: 2023-08-17
-tags: ['movies','cinema']
+tags:
+  - movies
+  - cinema
 ---
 
 most viewed films

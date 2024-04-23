@@ -17,7 +17,7 @@ const config: QuartzConfig = {
 	displayDateType: ["created","modified"],
 	theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
@@ -37,7 +37,7 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#0D0D0F",
           lightgray: "#393639",
-          gray: "#646464",
+          gray: "#c9c9c9",
           darkgray: "#ffffff",
           dark: "#ececec",
           secondary: "#498bb7",

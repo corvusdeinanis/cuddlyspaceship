@@ -2,13 +2,14 @@
 title: Iliad
 date: 2023-09-28
 tags:
-  - old
+  - legacy
   - studynotes
   - english
   - literature
   - greek
   - epic
   - rough
+  - mythology
 ---
 CHARACTER DISCUSSION
 Greeks vs Trojans

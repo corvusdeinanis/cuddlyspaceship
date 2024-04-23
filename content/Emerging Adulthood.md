@@ -1,9 +1,10 @@
 ---
-title: "Emerging Adulthood"
-tags: ['psychology','development','lifespan']
+title: Emerging Adulthood
+tags:
+  - psychology
+  - lifespan
+date: 2023-01-12
 ---
-
-
 # Emerging Adulthood
 transition from adolescence to adulthood 
 **18 - 25** 

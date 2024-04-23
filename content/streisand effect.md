@@ -1,7 +1,7 @@
 ---
 title: "streisand effect"
 date: 2023-05-12
-tags: ['social','laws','adages']
+tags: ['social','law','adages']
 ---
 
 The Streisand effect is a phenomenon in which attempts to hide, remove, or censor information can lead to the unintended consequence of increasing awareness of that information.      

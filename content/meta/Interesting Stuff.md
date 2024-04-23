@@ -16,7 +16,7 @@ By James Polchin   ->  ISBN 9781640093874 -
 - [ ] Read Howl (collection of poems)
 ## Counterculture 
 - [ ] Add more Sociology notes
-- [ ] More Phil, More #Absurdism
+- [ ] More Phil, More #absurdism
 
 ---
 ## Obsidian Stuff

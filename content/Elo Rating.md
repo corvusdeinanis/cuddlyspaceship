@@ -3,9 +3,9 @@ title: Elo Rating
 date: 2023-10-24
 tags:
   - statistics
-  - rating
   - rework
   - todo
+  - rewrite
 ---
 !e 
 needs rewrite 

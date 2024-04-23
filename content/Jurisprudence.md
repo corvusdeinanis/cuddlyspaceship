@@ -2,7 +2,7 @@
 title: Jurisprudence
 date: 2024-01-05
 tags:
-  - laws
+  - law
   - medialaw
   - philosophy
 ---
