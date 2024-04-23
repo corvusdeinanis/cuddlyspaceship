@@ -29,8 +29,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+ if (fileData.dates) {
+        // segments.push(formatDate(getDate(cfg, fileData)!))
+        const createdDate = formatDate(getDate(cfg, fileData)!)
+        let modifiedDateSegment = '';
+        if (fileData.frontmatter.modified) {
+            const modifiedDate = formatDate(new Date(fileData.frontmatter.modified));
+            modifiedDateSegment = `, modified on ${modifiedDate}`;
+        }
+        segments.push(`Created on ${createdDate}${modifiedDateSegment}`)
       }
 
       // Display reading time if enabled
