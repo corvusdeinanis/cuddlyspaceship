@@ -30,8 +30,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
-      }
+	 cfg.displayDateType.forEach((dateType) => {
+let dateTypeLabel = (dateType === "created") ? 'Created:': 'Modified:';
+segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType]!)}`)
+})	 
+        }
 
       // Display reading time if enabled
       if (options.showReadingTime) {
