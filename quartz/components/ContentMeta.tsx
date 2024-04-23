@@ -35,9 +35,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         let modifiedDateSegment = '';
         if (fileData.frontmatter.lastupdated) {
             const modifiedDate = formatDate(new Date(fileData.frontmatter.lastupdated));
-            modifiedDateSegment = `, ⬆ modified on ${modifiedDate}`;
+            modifiedDateSegment = `, ⬆ Last tended on ${modifiedDate}`;
         }
-        segments.push(`🌱Created on ${createdDate}${modifiedDateSegment}`)
+        segments.push(`🌱 Planted on ${createdDate}${modifiedDateSegment}`)
       }
 
       // Display reading time if enabled
