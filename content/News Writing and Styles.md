@@ -14,4 +14,3 @@ tags: ['journalism']
 4) Hourglass - pyramid style, then a "turn" (transition), and a narrative 
 5) Narrative Journalism - creative non-fiction, focuses on literary techniques but uses only facts
 6) Interpretative - Facts but with interpretation of it by the reporter 
-7) 

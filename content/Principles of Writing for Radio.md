@@ -4,9 +4,7 @@ date: 2022-08-11
 tags:
   - journalism
 ---
-
 ### Principles of Writing for Radio
-
 conversational
 brief and contain only one idea
 simple and direct

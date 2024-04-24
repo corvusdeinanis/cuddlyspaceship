@@ -3,7 +3,6 @@ title: "Profile Writing"
 tags: ['journalism']
 date: '2023-01-12'
 ---
-
 About a person in a certain number of words
 
 **(500-700 words)**

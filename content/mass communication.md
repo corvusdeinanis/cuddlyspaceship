@@ -1,7 +1,12 @@
 ---
-title: "mass communication"
+title: mass communication
 date: 2023-05-12
-tags: ['journalism','social','communication']
+tags:
+  - journalism
+  - social
+  - communication
+  - rework
+  - delete
 ---
 process of imparting and exchanging information through mass media to large population segments. 
 

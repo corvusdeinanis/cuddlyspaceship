@@ -3,7 +3,6 @@ title: "Radio"
 date: 2023-07-06
 tags: ['journalism']
 ---
-
 medium of [[mass communication]]
 purely audio
 transmitted via radio waves

@@ -1,5 +1,5 @@
 ---
-title: AIDA
+title: AIDA marketing model
 date: 2023-10-27
 tags:
   - journalism

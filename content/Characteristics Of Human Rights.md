@@ -1,7 +1,11 @@
 ---
-title: "Characteristics Of Human Rights"
+title: Characteristics Of Human Rights
 date: 2023-08-16
-tags: ['humanrights','social','society']
+tags:
+  - humanrights
+  - social
+  - society
+  - incomplete
 ---
 
 ## Universal
@@ -42,8 +46,6 @@ protecting people from being discriminated against
 ## Justice
 means the recognition, application and enforcement of laws by courts
 
-Accd to the Indian Constitution, 
-""
-(?e)
+
 
 

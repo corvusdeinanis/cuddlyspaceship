@@ -1,7 +1,11 @@
 ---
-title: "Groups"
+title: Groups
 date: 2023-07-06
-tags: ['sociology','psychology','social']
+tags:
+  - sociology
+  - psychology
+  - social
+  - todo
 ---
 
 # What Are Groups?

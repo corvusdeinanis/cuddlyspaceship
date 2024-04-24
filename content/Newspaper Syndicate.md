@@ -3,7 +3,6 @@ title: "Newspaper Syndicate"
 date: 2023-05-01
 tags: ['journalism','glossary']
 ---
-
 aka **newspaper syndicate**, a **press syndicate**, and a **feature syndicate**.
 
 agency that sells writing and artwork to newspapers and other media. 

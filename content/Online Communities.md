@@ -1,10 +1,12 @@
 ---
-title: "Online Communities"
+title: Online Communities
 date: 2023-10-03
-tags: ['journalism','rem']
+tags:
+  - journalism
+  - rem
+  - rework
 status: incomplete
 ---
-
 ### Online Communities
 #### Defn
 #### Characteristics
@@ -15,7 +17,6 @@ status: incomplete
 	1. Learning
 	2. Social Connection
 	3. Marketing
-5. 
 
 ### User Generated Content
 #### Key Features
@@ -35,12 +36,6 @@ status: incomplete
 - user generated content
 - users shape the community 
 - awareness
-
-digital Tools
-
-
-
-
 ### Networked Journalism
 **focuses on collaboration** of journalists and other actors including people not engaged in a journalistic profession
 collaboration in the digital era
@@ -48,9 +43,6 @@ collaboration in the digital era
 ### Alternative Journalism / Independent Journalism / Grassroots Journalism
 NOT mainstream
 focuses on underrepresented issues
-
-types: 
-
 
 #### Impact
 Media Pluralism

@@ -56,8 +56,6 @@ the peeps behind the stage
 7. Keep door open for media suppliers
 8. contribute beyond media planning
 
-
-
 ---
 see also:
 operational hazard, crisis management

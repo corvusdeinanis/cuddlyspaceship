@@ -69,7 +69,7 @@ deals with dynamics of literature -> movie
 	Radio drama 
 	Sports broadcasting 
 	
-- Writing for Radio (AIDA) [[Writing A Radio Script]] [[AIDA]]
+- Writing for Radio (AIDA) [[Writing A Radio Script]] [[AIDA marketing model]]
 
 ### UNIT II: TELEVISION PROGRAMS
 [[TV in India]]

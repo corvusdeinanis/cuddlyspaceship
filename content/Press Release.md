@@ -2,9 +2,7 @@
 title: "Press Release"
 tags: ['journalism']
 ---
-
 **definition** - a tool used to generate publicity 
-
 ## Types of Press Release
 ### 1. General News
 This is the most common type

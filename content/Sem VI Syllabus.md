@@ -142,7 +142,40 @@ MODULE 5: REST OF THE WORLD
 - [[Bread - Brathwaite|Bread]] – Edward Kamau Brathwaite (poem)
 - [[The Youngest Doll]] – Rosario Ferre (Short Story) ✔
 - Small Towns and the River- Mamang Dai
-## [[Media Law and Ethics]] 
+## Media Law and Ethics
+UNIT I: INTRODUCTION TO LAW
+1. Law- Introduction, meaning, definition, history, need and importance; Concept of Jurisprudence
+2. Indian Constitution and Salient Features-Preamble
+3. Fundamental Rights, Directive Principles;
+4. Terminologies: Bills, Acts, Ordinance, Regulations, Statute, Plaintiff, Defendant, Affidavit,Evidence,Prosecution, Accused, Bail.
+UNIT II: INTRODUCTION TO MEDIA LAWS 
+1. Media law Introduction- meaning, definition, need and importance;
+n
+Estate
+3. History of Media Laws in India; Press and Registration act 1867; Vernacular Press act 1878;
+4. Newspaper act of 1908; Indian press (emergency power) act 1931; Emergency period.
+Unit III: MEDIA LAWS PART I 
+1. Official secrets act 1923; Defamation-Section 499; Parliamentary privileges
+2. Working Journalist act 1955;
+3. Sedition;
+4. Censorship,
+5. Obscenity;
+6. Prasar Bharathi Act 1990,
+7. Press Council Act 1978.
+UNIT IV: MEDIA LAWS PART II 
+1. Indecent representation of women and children, Intellectual Property right act, RTI 2005,
+2. Cinematography act 1952, Information technology act 2000, Cyber Laws 2000
+3. Cable TV network act 1995,
+4. Codes for Commercial advertisements,
+5. Drugs and Magic remedies 1954
+6. Case Studies.
+UNIT V: MEDIA ETHICS 
+1. Ethics and Media Ethics- introduction, meaning, definition, history, need and
+importance;
+2. Press Council of India, First Press Commission and Second Press Commission, Press Committees- Chandra Committee, Varghese Committee;
+3. Regulatory bodies- Press Council of India, NBA, Editors Guild, Code of Conduct by Press Council of India, Right to Privacy Article 21, Issues of Media- Media trial, Paid News
+4. Representation of Gender, Sex, Violence, Religion, Caste
+5. Corporatisation and Politicization of media, Self-Regulation
 #medialaw 
 
 

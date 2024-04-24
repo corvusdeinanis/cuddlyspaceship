@@ -27,8 +27,7 @@ brevity;
 		Yellow Journalism - sensationalism, deceptive; scandals, etc; 
 		origin of term - more professional ones - black and white
 	        yellow newspapers - more vibrant, big headlines, graphics, colours
-	        **william randolph hearst  vs Pulitzer
-        giant headlines over lurid stories featuring crime, corruption, sex**
+	        **william randolph hearst  vs Pulitzer; giant headlines over lurid stories featuring crime, corruption, sex**
         
     5. sports,
     6. development,

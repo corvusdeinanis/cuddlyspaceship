@@ -3,7 +3,6 @@ title: "Newsroom and their functions"
 date: 2023-04-20
 tags: ['journalism']
 ---
-
 # What is a Newsroom?
 
 Newsroom is a **central workspace** in a **media house** where editors, news reporters, directors, and producers come together. 

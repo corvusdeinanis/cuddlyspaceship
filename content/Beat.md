@@ -1,7 +1,9 @@
 ---
-title: "Beat (Journalism)"
-date: 2023-04-20
-tags: ['journalism','glossary']
+title: Beat (Journalism)
+date: 2022-04-20
+tags:
+  - journalism
+  - glossary
 ---
 
 (noun) 
@@ -15,16 +17,9 @@ Journalist's niche
 
 A journalist might cover similar stories from time to time, but that does not make them a beat journalist. 
 
-
-According to 
-
 Primarily a US term for the subject matter or geographical area that a reporter might be assigned to cover, as in ‘the crime beat’ or ‘the Washington beat’. Reporters might still be expected actually to beat (walk) streets and stalk corridors in person but today they are even more likely to be required to monitor[^1]
 
-
-
-
----
- 
+--- 
 sources: 
 Scanlan, C. (2011). Beat reporting: what does it take to be the best. Poynter Institute.
 

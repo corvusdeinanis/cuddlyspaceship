@@ -1,6 +1,9 @@
 ---
-title: "Glossary of Newspaper Design"
-tags: ['journalism']
+title: Glossary of Newspaper Design
+tags:
+  - journalism
+  - incomplete
+  - glossary
 ---
 
 **A**

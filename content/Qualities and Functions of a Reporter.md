@@ -1,17 +1,16 @@
 ---
-title: "Qualities and Functions of a Reporter"
-tags: ['journalism']
+title: Qualities and Functions of a Reporter
+tags:
+  - journalism
+date: 2022-06-20
 ---
-
 ## Qualities
 
 - **Active Listener**- Extroverted- Bold- On your toes- Do your homework- Be prepared- Current Affairs and GK- Be good with equipment- Be sensitive - Quick thinking - Be comfy w irregular timings
-
-
 ## Functions
 
 - Gather news- Engage in good faith - Report events - Attend Press conferences
-- Investigate - Watchdog; fourth pillar of (society?)
+- Investigate - Watchdog; fourth pillar
 - Maintain professional secrecy
 - Attribution and protection of sources (esp off record stuff)
 - Follow press laws and code of conduct

@@ -3,13 +3,10 @@ title: "Print Media 1"
 tags: ['journalism']
 date: ['2022-12-01']
 ---
-
 Reporters 
 Editing Desk - night editors
 Copy Desk
 Assignment Desk 
-
-
 ### Functions of News Rooms
 **- Desktop publishing** 
   layout  
