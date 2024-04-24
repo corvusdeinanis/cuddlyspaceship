@@ -596,3 +596,5 @@ Recent controversies involving the Press Council of India, News Broadcasters Ass
 
 ## MLE 2 
 Provide examples of recent cases or situations where the Fundamental Rights guaranteed by the Indian Constitution were invoked for justice or challenged due to legal complexities.
+
+
