@@ -12,8 +12,6 @@ PCI helps uphold media ethics
 - maintaining ethical standards
 - investigating complaints
 - issuing advisories
-
-
 ## Code of Conduct 
 Core Principles:
 - **Accuracy and Objectivity**: Journalists are obligated to strive for accurate reporting, verifying information from reliable sources and presenting multiple perspectives to ensure a balanced and unbiased view.

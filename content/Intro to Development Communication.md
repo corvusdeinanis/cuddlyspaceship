@@ -4,7 +4,9 @@ date: 2024-01-06
 tags:
   - devcom
 ---
-### Why
+[[Development|What is Development?]]
+[[Communication|What is Communication?]]
+### Why DevCom?
 People's participation is **ESSENTIAL** for development
 Development cannot ignore the **agency** of the people
 

@@ -14,3 +14,9 @@ tags:
 # H
 **Horizontal Communication** -> Everyone is equal, no hierarchy; policy makers  to grass root workers, all are equal. 
 
+# M
+**MDG** -> Millennium Development Goals
+
+# N
+**NGO**  -> Non-Governmental Organization
+

@@ -35,8 +35,8 @@ aka:
 Pay importance to folk media
 Syllabus
 #### 1. INTRODUCTION TO DEVELOPMENT
-1. Meaning and definitions of [[development]]
-2. Development Theories and paradigms of development –Dominant/[[Modernization Theory]], Alternative and New paradigms of development, Dependency model, Marxist concept of stages of society, Social Responsibility Theory
+1. Meaning and definitions of [[development]] ✔
+2. Development Theories and paradigms of development –Dominant/[[Modernization Theory]], ✔Alternative and New paradigms of development, [[Dependency model]], [[Marxist Stage Theory|Marxist concept of stages of society]], Social Responsibility Theory
 3. Problems and issues in development 
 4. Difference between developed and developing nations and societies.
 

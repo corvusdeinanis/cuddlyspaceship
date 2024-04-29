@@ -7,14 +7,11 @@ tags:
   - journalism
   - language
 ---
-
 ## Communication
 two-way process where information is exchanged or passed from one person to another person. 
 The word is derived from '*communicare*' which means to impart.
-
 ## Elements of Communication
 Communication usually has a **sender**, a **receiver**, a **message**, a **channel**, a **medium**, and **feedback**.  
-
 ## Functions of Communication
 Communication has various functions. Some important ones are -  
 a) Educate - Communication can be used to help educate people, teach them new concepts and ideas.

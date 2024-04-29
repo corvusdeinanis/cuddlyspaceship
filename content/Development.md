@@ -5,8 +5,10 @@ tags:
   - economics
   - devcom
 ---
+encompasses economic, social, cultural, educational and political aspects of the society.
+
 Development and well-being of a society
-Quality of life
+increase in Quality of life
 Reduction in poverty
 Access to resources 
 
