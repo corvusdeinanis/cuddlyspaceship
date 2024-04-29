@@ -7,8 +7,6 @@ tags:
 aka:
   - Dominant Paradigm
 ---
-**[[Paradigm]]** vs **Theory**
-
 After World War II, modernization has been among the most powerful paradigms invoked to develop societies
 
 >Based on **neoclassical** and **neoliberal** political theories and grounded in the grand project of **Enlightenment**, namely reasoning, rationality, objectivity, and other philosophical principles of **Western science** [^1]

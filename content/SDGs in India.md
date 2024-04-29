@@ -4,9 +4,7 @@ date: 2024-02-12
 tags:
   - devcom
 ---
-## What are [[Sustainable Development Goals]]?
-![[Sustainable Development Goals]]
-
+[[Sustainable Development Goals]]
 ## SDGs in India
 In 2015, Prime Minister Narendra Modi noted, “Sustainable development of one-sixth of humanity will be of great consequence to the world and our beautiful planet. It will be a world of fewer challenges and greater hope; and, more confident of its success”.
 
@@ -17,20 +15,13 @@ The efficacy of these schemes has to be evaluated. NITI Aayog maintains statisti
 According to the document, "Government of India’s leadership in shaping
 the SDGs has been globally recognised". It also states that "The Government of India’s (GoI) strong commitment to the SDGs is also driven by the fact that the globally agreed goals substantially reflect the national agenda of development."
 
-The document focuses on the Indian model of SDG localisation, derived
-from the experience of a large country with 36 sub-national governments as it can offer valuable insight to other countries.
-
-![[images/Pasted image 20240212041919.png]]
+The document focuses on the Indian model of SDG localisation, derived from the experience of a large country with **36 sub-national governments** as it can offer valuable insight to other countries.
 
 The document details the process of SDG localisation in India and says that it constitutes of four inter-related pillars operating sequentially and simultaneously at the national level and state level. They are: 
 Pillar 1: Creating institutional ownership
-Pillar 2: Establishing a robust review
-and monitoring system
-Pillar 3: Developing capacities for
-integrating SDGs in planning
-and monitoring.
-Pillar 4: Promoting a “whole-of-society”
-approach
+Pillar 2: Establishing a robust review and monitoring system
+Pillar 3: Developing capacities for integrating SDGs in planning and monitoring.
+Pillar 4: Promoting a “whole-of-society” approach
 
 The document talks about in detail the SDG Dashboard which allows everyone to look up statistics and see the rise in development. It says that the dashboard is an **advocacy tool** and it promotes **broader engagement**. 
 

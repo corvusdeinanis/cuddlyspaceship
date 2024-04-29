@@ -8,6 +8,8 @@ tags:
 
 [[Sustainable Development Goals|SDGs]] retain poverty eradication but have more 
 
-SDGs are uniformly applicable unlike [[The New Millennium Development Goals|MDGs]] which differentiated between developed and developing
+SDGs are uniformly applicable unlike [[Millennium Development Goals|MDGs]] which differentiated between developed and developing
 
 SDG was **more participatory**
+
+SDG wider net 

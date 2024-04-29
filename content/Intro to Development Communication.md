@@ -6,10 +6,8 @@ tags:
 ---
 [[Development|What is Development?]]
 [[Communication|What is Communication?]]
-### Why DevCom?
-People's participation is **ESSENTIAL** for development
-Development cannot ignore the **agency** of the people
 
+using communication strategies and processes to facilitate social and economic development, empowering communities, and addressing development challenges
 ### Definition
 coined by **Nora Quebral** in 1975
 
@@ -19,6 +17,11 @@ coined by **Nora Quebral** in 1975
 
 ---
 2024-02-09
+
+### Why DevCom?
+People's participation is **ESSENTIAL** for development
+Development cannot ignore the **agency** of the people
+
 ### Development Communication is: 
 - Niche 
 - Hyper-Localized

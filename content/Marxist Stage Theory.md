@@ -6,7 +6,6 @@ tags:
   - society
   - philosophy
 ---
-
 a framework for understanding the progression of human societies
 
 1. **Primitive Communism**: This is the earliest stage of society, characterized by communal ownership of resources. In this stage, men performed the same economic function – hunter gathering. They worked together in order to survive. There was no private property and there were no classes.

@@ -37,31 +37,31 @@ Syllabus
 #### 1. INTRODUCTION TO DEVELOPMENT
 1. Meaning and definitions of [[development]] ✔
 2. Development Theories and paradigms of development –Dominant/[[Modernization Theory]], ✔Alternative and New paradigms of development, [[Dependency model]], [[Marxist Stage Theory|Marxist concept of stages of society]], Social Responsibility Theory
-3. Problems and issues in development 
-4. Difference between developed and developing nations and societies.
+3. [[Issues and Problems in Development]]
+4.  [[Developed vs Developing]]
 
 #### 2. DEVELOPMENT COMMUNICATION
 1. The concept of development communication - [[Intro to Development Communication]]
-2. Origin of the subject – II world war and post-colonial condition
+2. [[Origin of DevCom]] - II world war and post-colonial condition
 3. Goals of development communication 
 4. Role of Communication in Development
 
 #### 3. APPROACH AND STRATEGIES IN DEVELOPMENT COMMUNICATION
-1. Communication Approaches –Vertical – Top-down Model – Horizontal
+1. Communication Approaches –Vertical – [[Top Down Communication]] – [[Horizontal Communication]]
 ~~2. Fair Trade, Export Led Growth, Import Substitution~~
-3. New Millennium Development Goals
-4. Mass media as a tool for development
-5. Emergence of culture as a factor in development
+3. [[Millennium Development Goals]]
+4. Mass media as a tool for development - [[Role of Mass Media in DevCom]]
+5. [[Emergence of culture as a factor for devcom]]
 #### 4. DEVELOPMENT PROGRAMMES
-1. Development issues and goals- national and international perspectives 
+1. [[Development issues and goals]]- national and international perspectives 
 2. National Development Programmes – goals, strategies, structure, and achievements 
-3. Case Studies- Kheda and Jhabua Projects 
+3. Case Studies- [[Kheda Communication Project]] and [[Jhabua Project Report]]  
 4. Agencies: Role of Governmental, Semi-governmental and non-governmental organizations (NGOs)
 5. Techniques of writing development messages for rural and urban audiences
 #### 5. MEDIA AND DEVELOPMENT COMMUNICATION
 1. Traditional Media: types, characteristics, role in development
 communication
-2. Development reporting- roles and responsibilities of a development
+2. [[Development reporting]]- roles and responsibilities of a development
 reporter
 3. Role of Community in Development Communication- news, features and
 commentaries. 

@@ -1,7 +1,8 @@
 ---
-title: "Jhabua Project Report"
+title: Jhabua Project Report
 date: 2024-04-29
-tags: []
+tags:
+  - devcom
 ---
 ## Introduction
 The Jhabua Development Communication Project (JDP or JDCP) was a development project
