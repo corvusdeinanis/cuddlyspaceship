@@ -10,6 +10,11 @@ tags:
 - share views, be heard, gain new perspectives
 - help gain clarity
 
+- a **generalist health service** specialty in professional psychology
+- to help improve wellbeing
+- alleviate distress 
+- resolve crises
+
 ## 
 - should not enable
 - should not invalidate
@@ -19,5 +24,5 @@ tags:
 - confidential
 
 
-What is [[Counselling Psychology 101|Counselling Psychology]] 
+[[Counselling Psychology 101]] 
 

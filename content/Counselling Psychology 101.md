@@ -5,24 +5,23 @@ tags:
   - psychology
   - counsellingpsych
 ---
-## What is [[Counselling]]?
-a generalist health service specialty in professional psychology
-to help improve wellbeing
-alleviate distress 
-resolve crises
+
+![[Counselling]]
+
+
 
 ## Basic Counselling Skills 
--> attending
--> should listen, be attentive
--> rapport building
--> immediacy
--> focusing
--> questions
--> summarizing
--> reflecting and paraphrasing ^[(note: personally hate this so much. Is so artificial.)]
+- attending
+- should listen, be attentive
+- rapport building
+- immediacy
+- focusing
+- questions
+- summarizing
+- reflecting and paraphrasing ^[(note: personally hate this so much. Is so artificial.)]
 
->[!NOTE]
-in my opinion, 
+>[!NOTE]-
+>in my opinion, 
 >- making them feel comfy 
 >- affirming while not enabling
 >- making them feel heard, not shortcuts like paraphrasing
