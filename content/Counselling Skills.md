@@ -8,7 +8,7 @@ tags:
 ## Listening Skills
 ### ACTIVE listening
 >*"Psychotherapeutic technique in which the therapist listens closely to a client, asks questions as needed, in order to fully understand the content of the message and the depth of the client's emotion"*
-> - APA
+> - APA 
 - **Empathetic** listening
 - Pay attention to **non-verbal cues**
 

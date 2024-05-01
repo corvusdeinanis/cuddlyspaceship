@@ -11,14 +11,14 @@ tags:
 
 
 ## Basic Counselling Skills 
-- attending
-- should listen, be attentive
-- rapport building
-- immediacy
-- focusing
-- questions
-- summarizing
-- reflecting and paraphrasing [^1]
+
+1) Attending - Show you're paying attention
+2) Listen
+3) Rapport Building
+4) Silence
+5) Paraphrasing
+6) [[Reflective Listening]]
+7) [[Empathy]]
 
 >[!NOTE]-
 >in my opinion, 

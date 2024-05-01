@@ -6,7 +6,7 @@ tags:
   - counsellingpsych
 ---
 ## What is Counselling 
-- professional assistance and guidance to help resolve personal problems 
+- professional assistance in coping with personal problems 
 - share views, be heard, gain new perspectives
 - help gain clarity
 

@@ -12,7 +12,7 @@ module 1 - [[Counselling Psychology 101]]
 
 module 2
 1) listening skills and reflective techniques - [[Counselling Skills]]
-2) importance of [[empathy]] and [[Self Disclosure]]
+2) importance of [[Empathy]] and [[Self Disclosure]]
 3) observation skills in counselling
 4) MSE mental status examination in counselling [[Mental Sate Examination]]
 
