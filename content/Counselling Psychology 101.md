@@ -18,7 +18,7 @@ tags:
 - focusing
 - questions
 - summarizing
-- reflecting and paraphrasing ^[(note: personally hate this so much. Is so artificial.)]
+- reflecting and paraphrasing [^1]
 
 >[!NOTE]-
 >in my opinion, 
@@ -46,7 +46,8 @@ tags:
 | more broad                                          | more specific                                                                                     |
 | present issues                                      | explores root causes                                                                              |
 | focuses on present issues like grief and bereavment | helps treat mental illnesses and conditions                                                       |
-In common: 
+
+**In common**: 
 Both promote wellbeing and help reduce distress
 Both are personalized 
 Both help overcome challenges
@@ -58,11 +59,12 @@ Both help overcome challenges
 5. Facilitating **b**ehaviour change
 6. Exploring choices & making **d**ecisions
 
->[!Mnemonic]
->GFRCBD
+>[!Mnemonic] 
+>GFRCBD - Genuinely, frick RCB dude
 growth, feelings, relationships, coping, behaviour, decisions
-
-## Types of Counselling ^[1]
+ 
+ ## Types of Counselling 
+ [Not an exhaustive list]
 Relationship and Marriage
 Vocational and Career
 Family Counselling
@@ -93,4 +95,4 @@ Feedback and Evaluation
 - reflection and evaluation
 - termination and follow up 
 
-^1: Feels incomplete
+[^1]: note: personally hate this so much. Is so artificial.
