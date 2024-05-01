@@ -1,10 +1,11 @@
 ---
-title: Counselling Psychology
+title: Counselling Psychology 101
 date: 2024-01-06
 tags:
   - psychology
   - counsellingpsych
 ---
+## What is [[Counselling]]?
 a generalist health service specialty in professional psychology
 to help improve wellbeing
 alleviate distress 
@@ -18,7 +19,7 @@ resolve crises
 -> focusing
 -> questions
 -> summarizing
--> reflecting and paraphrasing^[(note: personally hate this so much. Is so artificial.)]
+-> reflecting and paraphrasing ^[(note: personally hate this so much. Is so artificial.)]
 
 >[!NOTE]
 in my opinion, 
@@ -62,7 +63,7 @@ Both help overcome challenges
 >GFRCBD
 growth, feelings, relationships, coping, behaviour, decisions
 
-## Types of Counselling ^[this section feels super incomplete]
+## Types of Counselling ^[1]
 Relationship and Marriage
 Vocational and Career
 Family Counselling
@@ -92,3 +93,5 @@ Feedback and Evaluation
 - skill-building and implementation
 - reflection and evaluation
 - termination and follow up 
+
+^1: Feels incomplete

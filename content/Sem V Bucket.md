@@ -207,7 +207,7 @@ crisis management, practical oriented
 3. Current research trends in the field of health psychology, [[Emerging Trends in Health Psychology]]
 4. Ancient systems of health and health care: (i) Indian [[Ayurveda]] and (ii) Chinese. [[Traditional Chinese Medicine]]
 5. Modern Method of studying health: Models in health psychology (Bio medical model, Bio psychosocial model)
-6. Emergence of Health Psychology (Psychoanalytical view, psychosomatic view, and Behavioural medicine) and emerging trends in Health psychology.
+6. Emergence of Health Psychology ([[Psychoanalytical School]] view, psychosomatic view, and Behavioural medicine) and emerging trends in Health psychology.
 7. Health policies in India 
 ### Physiology and Diseases [[Types of Health]]
 1. Defining Psychological, physiological health, global health, and community health.

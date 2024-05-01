@@ -8,7 +8,7 @@ tags:
 aliases:
   - Phenomenological Approach
 ---
-AKA Phenomenological Approach
+AKA **Phenomenological Approach**
 
 by Alfred Alder
 
