@@ -3,7 +3,6 @@ title: "cognitive bias"
 date: 2023-05-13
 tags: ['psychology']
 ---
-
 **"a *systematic* pattern of *deviation* from *norm* or rationality in judgment"**
 
 cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, and irrationality

@@ -40,17 +40,18 @@ tags:
 
 ## Counsellor vs Therapist
 
-| Counsellor                                          | Therapist                                                                                         |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Short term**, focused on resolving a situation    | **Long term**, clincal. Making the individual self sufficient, ensure they can stand on their own |
-| more broad                                          | more specific                                                                                     |
-| present issues                                      | explores root causes                                                                              |
-| focuses on present issues like grief and bereavment | helps treat mental illnesses and conditions                                                       |
+| Counsellor                                           | Therapist                                                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Short term**, focused on resolving a situation     | **Long term**, clincal. Making the individual self sufficient, ensure they can stand on their own |
+| more broad                                           | more specific                                                                                     |
+| present issues                                       | explores root causes                                                                              |
+| focuses on present issues like grief and bereavement | helps treat mental illnesses and conditions                                                       |
 
 **In common**: 
 Both promote wellbeing and help reduce distress
 Both are personalized 
 Both help overcome challenges
+Both need a license and training
 ## Goals of Counselling 
 1. Promoting **g**rowth & development
 2. Exploring difficult **f**eelings
@@ -77,22 +78,13 @@ Depression
 Anxiety
 
 ## How to measure effectiveness of therapy?
-Reduction of Symptoms
+**Reduction** of Symptoms
 Improved Functioning
-Client Satisfaction
-Achievement of Goals
+Client **Satisfaction**
+Achievement of **Goals**
 Quality of the Therapeutic Relationship
 Long-Term Impact
 Objective Measures
 Feedback and Evaluation
-
-## Process of Counselling 
-- building rapport, establishing relationship
-- assessment and goal setting
-- identification of issues
-- exploration and intervention
-- skill-building and implementation
-- reflection and evaluation
-- termination and follow up 
 
 [^1]: note: personally hate this so much. Is so artificial.

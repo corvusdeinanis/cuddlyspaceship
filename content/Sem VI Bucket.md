@@ -1,12 +1,11 @@
 ---
-title: Sem VI Syllabus
+title: Sem VI Bucket
 date: 2024-01-17
 tags:
   - map
   - navigation
   - college
-aka:
-  - Sem VI Bucket
+aka: []
 ---
 ## Sem VI Syllabus
 ## Homeland and Diaspora Writing  
@@ -67,8 +66,55 @@ reporter
 commentaries. 
 4. Television and cinema: role in development communication. 
 5. ICTs: scope in development communication.
-## [[Counselling Psychology]] 
+## Counselling Psychology 
 #counsellingpsych 
+
+Module 1
+a) Meaning & Definition; Goals of counselling;
+b) Counselling Process; Client-Counsellor relationship
+c) Counselling effectiveness
+d) Bias in Counselling
+e) Counselling in the Indian Context
+f) Integration of positive psychology into counselling
+g) Termination of Counselling- Evaluation, Referral planning, Follow-up
+h) Ethical & Legal Issues- Legal Concepts & Rules; Client records & confidentiality; Limits
+of counselling process
+
+MODULE 2: APPROACHES TO COUNSELLING
+a) Psychoanalysis therapy- Freud, Adler
+b) Behavioural & Cognitive approach
+c) Humanistic & Existential approach
+d) Gestalt Approach
+e) Bowen’s Family system model
+f) Dialectical approach
+
+MODULE 3: COUNSELLING SKILLS
+a) Listening Skills
+b) Observation Skills
+c) Rapport building skills
+d) Empathy
+e) Self-Disclosure
+f) Unconditional Positive Regard
+g) Concreteness
+h) Paraphrasing, Reflection & Summarizing
+
+MODULE 4: FACILITATING COUNSELLING
+a) Case History & Interview in Counselling
+b) Facilitation techniques- Play, Art & Drawing, Drama, Metaphors, Storytelling, Biblio-
+counselling
+c) Multi-Cultural aspects in counselling- Self & other awareness; Lifespan; Disability
+status; Sexual orientation; Gender identity; Linguistic background
+
+MODULE 5: APPLIED COUNSELLING
+a) Child Counselling- Identifying emotional, behavioural, conduct & learning issues;
+Dealing with resistance & transference
+b) Educational Counselling- Children with special needs (gifted & mentally challenged);
+Gardner’s multiple intelligence theory; Learning disabilities
+c) Career Counselling- Ability & Aptitude testing; Interest & Personality assessment’
+Spiritual assessment; Job-Hunting skills
+d) Life skill coaching; Counselling at workplace; HIV/AIDS; Counselling for armed forces
+
+
 [[Counselling]]
 [[Counselling Psychology]]
 [[Counselling Skills]]
