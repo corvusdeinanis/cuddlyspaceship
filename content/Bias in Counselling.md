@@ -4,6 +4,7 @@ date: 2024-05-01
 tags:
   - counsellingpsych
   - bias
+  - needswork
 ---
 Confirmation Bias 
 [[Microaggression]]

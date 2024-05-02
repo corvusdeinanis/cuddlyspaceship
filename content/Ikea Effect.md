@@ -23,8 +23,5 @@ Why?
 Gibbs, B. J., & Drolet, A. (2003). Consumption effort: The mental cost of generating utility and the role of consumer energy level in ambitious consumption. _Journal of Consumer Psychology_, _13_(3), 268–277. https://doi.org/10.1207/s15327663jcp1303_08
 		 Study 1, energy induced by ingesting caffeine increased participants' tendency to choose subtitled foreign movies rather than domestic remakes of those same movies. Study 2 demonstrated the same effect with naturally occurring energy levels and with consumption experiences whose effortfulness and quality were varied independently. In choosing among sets of poems to read, participants with higher levels of energy exhibited less effort aversion but neither more nor less quality seeking. A reanalysis of Study 1 showed that the energy effect is not simply a case of consumers using more energy when they have more energy, because the energy effect disappeared when participants were made aware of the energy source, suggesting that a preference-correction process occurred.
 
-
-
-
 ## See Also:
 this reminds me of the whole Betty Crocker 'Add an Egg' campaign thing. It was purported that changing from an instant mix to having to add an egg make 'housewives feel less guilty'. This was proven to be false or at least, not entirely true. [snopes](https://www.snopes.com/fact-check/something-eggstra)

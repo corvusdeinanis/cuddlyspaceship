@@ -8,7 +8,6 @@ aka Legal Issues / Considerations in Counselling Psych
 
 - They must be trained, recognized, and authorized to practice counselling
 - They must have a license
-
 - regular supervision
 
 ### 

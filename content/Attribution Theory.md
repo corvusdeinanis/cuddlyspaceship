@@ -2,7 +2,14 @@
 title: Attribution Theory
 date: 2023-10-26
 tags:
+  - bias
+  - psychology
+  - needswork
 ---
+
+> [!Caution] Needs to be reworked
+> Attribution theory was first set by Heider, but later researchers added more to it. A lot of the biases listed here are not part of Heider's original theory. They should me made into a separate list
+
 ## Attribution Theory 
 by Fritz Heider
 
@@ -33,3 +40,4 @@ exaggerate effect of internal factors in others and external factors in ours
 
 #### Ultimate Fundamental Attribution Theory
 Fundamental Attribution Theory extends to in-groups
+

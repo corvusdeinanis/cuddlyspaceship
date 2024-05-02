@@ -12,7 +12,9 @@ AKA **Phenomenological Approach**
 
 by Alfred Alder
 
-emphasis on social interest
+emphasis on **social interest**
+
+The other innate quality of humans according to Adler is the striving for **superiority** and **social interest**
 ### 
 
 holistic approach that emphasizes the importance of **overcoming feelings of inferiority** and **gaining a sense of belonging**
@@ -55,3 +57,9 @@ can be helpful for people who are struggling with problems
 related to low self-esteem, loneliness, or negative thinking. By affirming the individual and
 rebuilding social relationships, people are able to gain confidence and empowerment that allows
 them to pursue their goals and make healthy choices.
+
+### Process
+Engagement
+Assessment
+Insight
+Reorientation
