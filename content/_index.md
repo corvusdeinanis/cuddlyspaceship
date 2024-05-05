@@ -4,7 +4,7 @@ enableToc: false
 ---
 # Welcome to Astro's Garden!
 
-A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing.
+A hodgepodge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing.
 
 This contains (or will contain) a lot of resources, my thoughts and opinion on a lot of things, some reflections, about philosophies, concepts that have really changed my life, and maybe even rants.
   
@@ -15,34 +15,27 @@ You'll find writings of all kinds here; Psychology, Epistemology, Politics, Tech
   
 Leave a message if you feel like you disagree, I could do better, or something else. Feel free to correct me, I love learning ^~^)
 
-### Why?
-
-- Everything is linked; to find links between seemingly unrelated things - even if the links are meaningless and are a result of correlation and nothing more
-
-- A **personal wiki** for me. You know how you want to pull up a particular study, or a particular statistic, or something else to win an argument but good ole tip-of-the-tongue syndrome hits? No? Just me? Okay…
-
-- To preserve knowledge and archive things interesting to me
-
-- To reflect and ponder, to welcome change instead of resist it. To revisit concepts and re-examine my views.
-
-- To make sure it's available to everyone
-
-- [[zettelkasten\|Zettelkasten]] (heavily inspired, loosely implemented)
-
-- To find how many times I refer to a topic, concept or even a phrase!
-
-- To reflect on and remember what I've learnt
-
-- Archiving! I love archiving.
-
+> [!Question]- Why?
+> - Everything is linked; to find links between seemingly unrelated things - even if the links are meaningless and are a result of correlation and nothing more
+> - A **personal wiki** for me. You know how you want to pull up a particular study, or a particular statistic, or something else to win an argument but good ole tip-of-the-tongue syndrome hits? No? Just me? Okay…
+> - To preserve knowledge and archive things interesting to me
+> - To reflect and ponder, to welcome change instead of resist it. To revisit concepts and re-examine my views.
+> - To make sure it's available to everyone
+> - [[zettelkasten\|Zettelkasten]] (heavily inspired, loosely implemented)
+> - To find how many times I refer to a topic, concept or even a phrase!
+> - To reflect on and remember what I've learnt
+> - Archiving! I love archiving.
 
 ### 🌱 Philosophy
 
 It is a garden for ideas. For thoughts. For knowledge. You're free to visit. You can smell the flowers, you can sit down on the benches and relax. You can even find seeds you can propagate. ♥
 
 The aim of this little corner of the Internet is to make my personal wiki accessible, transparent (everything here is on the github repository, I'll be transparent about my methods, etc), and free! [[Free as in freedom, not free beer.\|Free as in freedom, not free beer.]]
-
-
+### 🔗Where to start?
+Some good places to start:
+-> [Browse notes according to their tags!](https://codex.astroslair.xyz/tags/)
+-> Check out my sporadic blog posts
+-> Some of my favourite notes: (I'm in the process of adding them)
 
 [^digitalgarden]: A great writeup on Digital Gardens https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/.
 [^codex]: A Codex vitae is a 'living document'. Coined by Robin Sloan. Popularized by Buster Benson. https://busterbenson.com/blog/2012/11-28-codex-vitae/
