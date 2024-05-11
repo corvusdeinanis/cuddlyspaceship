@@ -6,11 +6,20 @@ tags:
   - ai
   - computer
 ---
-A program that communicates in natural language. Pretends to be a [[Carl Rogers|Rogerian]] psychologist
+created by **Joseph Weizenbaum**
+1966
 
-chatbot
+simulated a conversation with a psychotherapist by using pattern matching and substitution
 
-used pattern matching
+- was one of the first **chatterbots**; one of the first programs capable of attempting the [[Turing test]]
+- used pattern matching
+- Pretends to be a [[Carl Rogers|Rogerian]] psychologist
 
-created by **Joseph Weizenbaum** in 1966, that simulated a conversation with a psychotherapist by using pattern matching and substitution
+15 years before the personal computer became familiar to the general public (!!!)
 
+Source code made [[Public Domain]] 
+
+<small>Named after Eliza Doolittle from [[Pygmalion Play| Shaw's play Pygmalion]]
+</small>
+---
+See also: [[Alicebot]] 

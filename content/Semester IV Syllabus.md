@@ -88,7 +88,7 @@ Maugham [[The Moon and Sixpence]]
 9. [[Nagamandala]] - Girish Karnad
 ### Module 4 Visual Texts
 1. [[Schindler's List]] 
-2. [[Pygmalion]] by [[George Bernard Shaw]] 
+2. [[Pygmalion Play]] by [[George Bernard Shaw]] 
 
 ## Journalism
 Unit 1 
