@@ -11,7 +11,71 @@ author: "astro"
 > This is a backup of my [paper.wf](https://paper.wf) (a free instance of [writefreely](https://writefreely.org/instances)).
 > You can find my paper.wf at https://paper.wf/astrob/
 
-## 
+## 28th May, 2024 - Extracting Kindle Highlights - Adventures in RegEx Pt 3
+
+Kindle's "My Clippings.txt" absolutely sucks. It is a mess and a horrible one at that. There aren't many websites/services that parse the clippings.txt file and spit out highlights into separate files. If they do, they don't work the best or it's all under a paywall/registration. Some of them don't even work, and some of the websites are down. I've been able to find some that do the job perfectly - 
+
+(!Task - insert links)
+
+The format for Kindle Highlights - 
+```
+==========
+$Book_Name ($AuthorFullName)
+- Your Highlight on page $pageno | location $location_start - $location_end | Added on $FullDay, $D $MonthName $Year $timestamp24hhmmss
+
+$Highlighted_Text
+==========
+```
+
+For example, 
+```
+==========
+The Stranger (Albert Camus)
+- Your Highlight on page 83 | location 1262-1262 | Added on Friday, 3 July 2020 10:41:14
+
+My fate was being decided without anyone so much as asking my opinion.
+==========
+```
+
+Been trying hard to figure out how to use regex to split the file into highlights, and then club together highlights from the same book, and output multiple text files, each named after the book, containing the highlights. 
+## 21st May, 2024 - WhatsApp Chat Analysis
+
+1. Wrote some python code (v hacky) to take an exported WhatsApp group chat (.txt) to search and split the text based on the sender of the message. Used [[regex]]. 
+
+2. Used regex yet again to remove the timestamps. But before doing so, calculated the number of matches to find out the total number of messages. 
+
+3. Calculated total words for each sender
+
+4. Used some python libraries to further process data.
+ - collections  (defaultdict, Counter)
+ - wordcloud  (WordCloud)
+ - textblob  (TextBlob)
+ - nltk
+ - nltk.corpus  (stopwords)
+ - re
+ - emoji
+
+5. Found out - 
+ - Most common words per person
+ - Most common words for the entire group
+ - Most common emojis per person
+ - Most common emojis for the entire group
+ - Sentiment / Polarity with simple sentiment analysis using textblob
+
+6. Saved all of these to text files
+
+## March 26, 2024 - May 24th, 2024 - RegEx Text Tool
+Started as a way to perform simple text functions - make all letters uppercase, make all letters lowercase, and search and replace. I then realized that I could also let users use regex in the search and replace. 
+
+Went through multiple iterations with the current version (1.0) being the first fully usable one imo. Finished it on May 24th, 2024. This is something I worked on during exams, in tiny breaks. 
+
+This version can do the following: 
+- find matches (words/phrases), highlight the matches, and indicate total matches
+- find matches (regex), highlight matches, count them
+- can replace / substitute using regex
+- accepts not only a regular expression but also flags
+
+(uses ECMAscript flavour of RegEx)
 ## [toshi-pono's Poketch on my M5Core2!](https://paper.wf/astrob/toshi-ponos-poketch-on-my-m5core2)
 
 February 7, 2024

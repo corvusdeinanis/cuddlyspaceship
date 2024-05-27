@@ -2,7 +2,6 @@
 title: "Introduction to Research Methodologies"
 tags: ['research','researchmethodology','philosophy']
 ---
-
 # What is Research?
 
 is a process of **systematic** **inquiry** that aims to increase the knowledge of a topic or issue
@@ -21,7 +20,6 @@ Research consists of -
 	making deductions and reaching conclusions; 
 	and at last, carefully testing the conclusions
 
-
 ## Characteristics
 - is scientific
 - can be applied to any branch of knowledge
@@ -36,7 +34,6 @@ Research consists of -
 - [[Reliability and Validity]]
 - Credible
 - Critical 
-
 ## Objectives of Research
 - discover answers using scientific procedures 
 - to gain **familiarity** with a phenomenon (exploratory/formulatory)
@@ -45,7 +42,6 @@ Research consists of -
 - establish causal relationship (hypothesis testing)
 
 answers, to understand, to represent, to diagnose, and to test hypotheses. 
-
 ## Motivation for Research
 (this is bleh and is included only because it is part of the syllabus)
 1. Discover something new
@@ -55,7 +51,6 @@ answers, to understand, to represent, to diagnose, and to test hypotheses.
 5. To get a research degree and consequential benefits (really? "motivation to do it - have to do it")
 6. Desire to help society 
 7. Desire to gain respect
-
 ## Types of Research
 
 ```mermaid
@@ -101,7 +96,6 @@ mnemonic: DAAFQQ (pronounced dafuq)
 - **historical** 
 - **exploratory** vs **formalized**
 	(exploratory - a topic/phenomenon that hasn't been explored much; formalized - trying to replicate an experiment, if successful, can be applied to a larger group or universe)
-
 
 
 # Quantitative Research

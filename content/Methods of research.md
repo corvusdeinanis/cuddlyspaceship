@@ -20,4 +20,3 @@ tags: ['research','researchmethodology']
    test group; usually max = 12 
    group discussion
    
-6. 
