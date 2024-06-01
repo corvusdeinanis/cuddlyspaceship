@@ -11,7 +11,7 @@ This is my public todo list to help with being transparent + keeping track of wh
 	- [ ] start with larger notes, start with more "grandiose" claims 
 - [ ] Clean up notes 
 - [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved 
-- [ ] ~~Turn this page into a Kanban board~~
+- [x] ~~Turn this page into a Kanban board~~
 - [ ] work on #stub pages 
 - [x] Make images work ✅ 2023-05-26
 - [x] FIX SPACING AND LINE BREAK ISSUE      

@@ -4,6 +4,7 @@ date: 2024-05-05
 tags:
   - tech
   - web
+  - blog
 ---
 Criteria that I look out for in apps:
 

@@ -3,7 +3,6 @@ title : McFeely
 date : 2021-10-28
 tags : ['wholesome','people','blog']
 ---
-
 It's nearly 5 AM, so I will aim for neither eloquence or style. I don't quite remember when I found out about Mr Rogers, quite possibly two years ago, or maybe more. Time seems to be a weird concept, doubly when you're in the middle of what seems to be a ceaseless pandemic.
 
 I was up, reading statistics and news about the virus (would definitely not recommend that. Wasn't my first time, won't be my last). Nothing soothes my anxiety like some freshly baked numbers and research articles that affirm your worst fears. **I hate that I do this despite knowing well about my anxiety, but that's the nature of anxiety; pervasive and enduring, playing both the firestarter and the forest fire that burns down the woods of my sanity. I need to seek information to make sure I'm prepared, but that very information causes more anxiety**

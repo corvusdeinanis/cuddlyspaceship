@@ -3,8 +3,25 @@ title: "Content Map"
 date: 2023-08-08
 tags: ['misc']
 ---
-
 Hi! This is a dynamic page that will show the key topics I'm reading about or focusing on at the moment. This is subject to change so whenever I stop researching about a topic, it just takes a lower position on this list. 
+
+## Blog
+ 
+<div class="column">
+    <div class="card">
+      <h3>Codex Vitae</h3>
+     <img src ="https://astrodex.netlify.app/img/astrodex.png">
+      <p>A personal wiki of sorts. Second brain. Quasi-blog, Zettelkasten inspired, but loosely implemented.</p>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+      <h3>This One!</h3>
+     <img src ="https://astrodex.netlify.app/img/astrodex.png">
+      <p>Astro's Lair has been around since 2021. I did have websites up before that but AL and all its iterations are the ones I would proudly declare making. </p>
+    </div>
+    </div>
+    
 
 ## Psychology
 #Psychology

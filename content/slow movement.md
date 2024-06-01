@@ -9,9 +9,10 @@ tags:
 
   -Carl Honore, *In Praise of Slow*
 
+fast-paced style of living
+
 ## History
 It began with Carlo Petrini's protest against the opening of a McDonald's restaurant in Piazza di Spagna, Rome, in 1986 that sparked the creation of the slow food movement
-
 
 ## Slow Science
 ![[slow science]]
@@ -30,5 +31,5 @@ Vincent Di Nicola's [Slow Thought Manifesto](https://aeon.co/essays/take-your-ti
 ---
 anti-capitalism
 anti-consumerism 
-
-downshifting 
+[[mindfulness]]
+[[downshifting]]

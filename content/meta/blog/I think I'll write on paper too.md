@@ -8,6 +8,6 @@ I'm staunchly an advocate of digital vs analogue. So much that in the past few y
 
 I've recently been considering writing in a physical book. At least planning things or checking in, or journaling. I was vehemently opposed to journaling on paper as I'm a [[quantifiedself]] fiend. 
 
-What changed my mind is [[../../private/Zoning Out and Tech]] and the fact that writing on paper produces **more clarity** and promotes [[mindfulness]]. 
+What changed my mind is [[Zoning Out and Tech 1]] and the fact that writing on paper produces **more clarity** and promotes [[mindfulness]]. 
 
 I'm working on a "[[meta/blog/The System]]" to keep me more accountable and a physical notebook will play an important role in it. 
