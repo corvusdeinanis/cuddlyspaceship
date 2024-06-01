@@ -16,6 +16,6 @@ She fought the notion that "*Muslim women were helpless victims of both their re
 
 She said that *Muslim women were not victims of their religious practices any more than Western women were victims of the patriarchy*; both groups of women were oppressed by specific social institutions within a religion or society created to profit from the marginalization of others. 
 
-Said Western women were veiled, just as Muslim women were, yet Western veils were much more discreet
+Said Western women were veiled, just as Muslim women were, **yet Western veils were much more discreet**
 
 Highlights why [[Intersectional feminism]] is important

@@ -4,7 +4,6 @@ tags:
   - philosophy
   - tool
 ---
-
 ## Quick Facts
 - *Zettelkasten Method* is a method of note-taking and organization. It is German for *"slip box"*. 
 - Popularized by Niklas Luhmann[^1]
@@ -21,7 +20,7 @@ Some of Luhmann's comments on the method (emboldening by me) -
 
  “Underlying the filing technique is the experience that **without writing, there is no thinking.**”
  
- **“I always read with an eye towards possible connections in the slip-box.”** [2]
+ **“I always read with an eye towards possible connections in the slip-box.”** [^2]
  
  “I, of course, do not think everything by myself. It happens mainly within the slip-box.”
  
@@ -41,7 +40,6 @@ Some of Luhmann's comments on the method (emboldening by me) -
 3. Autonomy - Notes should make sense by themselves too. 
 4. Connect Notes - Try to link all notes. *"A note that is not connected to the network will be lost, will be forgotten by the Zettelkasten"*
 5. Number your notes - use any numbering system and stick to it. It's just a way to identify the cards for linking. The numbers do not mean anything. **The point of the method is not having to worry where a note goes.** 
-6. 
 
 The core of the technique lies in a few simple principles:
 - Write liberally about what you think and read. Write in detail so you can quickly re-internalize ideas after you forget them.

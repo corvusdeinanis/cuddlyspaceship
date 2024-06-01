@@ -19,4 +19,4 @@ caused a greater junk - useful ratio.
 It reflects the importance of scholarly output as a measure of productivity, quality, and impact.
 
 --- 
-[[slow science]]
+[[Slow Science]]
