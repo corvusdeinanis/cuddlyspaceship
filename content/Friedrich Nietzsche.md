@@ -1,9 +1,14 @@
 ---
-title: "Friedrich Nietzsche"
+title: Friedrich Nietzsche
 date: 2023-08-10
-tags: ['person','philosophy']
+tags:
+  - person
+  - philosophy
+aliases:
+  - Nietzsche
+aka:
+  - Nietzsche
 ---
-
 ## Bio
 Friedrich Nietzsche
  
@@ -21,7 +26,7 @@ KnownFor: eternal recurrence, the master-slave morality, the Apollonian and Dion
 KeyIdeas:
 
 ## Extra
-
+Was considered as the "intellectual heir" to [[William Blake]] by [[WB Yeats]], Arthur Symons, and [[WH Auden]] (who said about Nietzsche "*O masterly debunker of our liberal fallacies … all your life you stormed, like your English forerunner Blake.*")
 ##
 ### References
 
