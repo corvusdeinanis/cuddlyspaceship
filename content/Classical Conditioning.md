@@ -1,15 +1,17 @@
 ---
-title: "Classical Conditioning"
-tags: ['psychology']
-status: 'bloom'
+title: Classical Conditioning
+tags:
+  - psychology
+status: bloom
+aka:
+  - Respondent Conditioning
 ---
-
 type of [[../../../Learning and Forgetting|Learning]] that happens **unconsciously**, when a neutral stimulus is paired with an unconditioned stimulus that already triggers a natural response. The neutral stimulus then becomes a conditioned stimulus that elicits the same or similar response, which is called a conditioned response. 
 
 This process was discovered by **Ivan Pavlov**, a Russian physiologist, who experimented with dogs and their salivation reflex. 
 
 Example of classical conditioning:
-- A student who hears a bell at the end of class may feel relieved (the bell becomes a conditioned stimulus for relief).
+- A student who hears a bell at the end of class may feel relieved (the bell becomes a conditioned stimulus for relief). So whenever the bell rings, the student might feel a sense of relief. 
 
 
 ## Key Principles of Classical Conditioning

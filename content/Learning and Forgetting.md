@@ -14,7 +14,7 @@ brought about by <u>experience</u>
 3. Preferred Learning Styles
 
 ## Theories of Learning:
-### (a) Classical Conditioning
+### (a) [[Classical Conditioning]]
 - **Ivan Pavlov**, Russian Physiologist
 - Type of conditioning where a neutral (conditioned) stimulus replaces the natural (unconditioned) stimulus, i.e., the conditioned stimulus elicits the same response as the natural stimulus. unconditioned response -> conditioned response
 - Bell ringing experiment, saliva, measured
