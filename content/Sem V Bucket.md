@@ -181,7 +181,7 @@ crisis management, practical oriented
 	A) Conformity [[social conformity]]
 	B) Compliance [[compliance]]
 	C) Obedience [[obedience]]
-	D) Unintentional Social Influence – Emotional Contagion, Symbolic Influence, Modelling
+	D) Unintentional Social Influence – [[Emotional Contagion]], Symbolic Influence, Modelling
 **Pro-social Behaviour:**  [[Prosocial]]
 	A) Motives for Helping
 	B) Factors Influencing Helping,

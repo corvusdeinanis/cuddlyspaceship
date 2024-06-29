@@ -4,7 +4,7 @@ tags: ['english','politics','poem','colonialism']
 author: ['W.H. Auden']
 ---
 
-by **W.H. Auden** 
+by **[[WH Auden]]** 
 
 
 ### **About The Author**

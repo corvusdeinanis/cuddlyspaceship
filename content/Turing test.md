@@ -1,7 +1,11 @@
 ---
-title: "Turing test"
+title: Turing test
 date: 2024-05-12
-tags: []
+tags:
+  - incomplete
+  - tech
+  - science
+  - computer
 ---
 [[Alan Turing]]
 aka Imitation Game

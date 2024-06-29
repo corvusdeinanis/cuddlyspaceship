@@ -17,7 +17,7 @@ In a conservative society that viewed women as nothing more than homemakers,
 Wrote about a range of topics. She wrote about anguish and pain. Her social
 upliftment work and welfare development among women was also depicted in her
 work. She advocated women's rights even before [[Simone de Beauvoir]]'s book
-'[[Second Sex]]' was published
+'[[The Second Sex]]' was published
 
 In another essay, Ghar Aur Bahar (Home and The World), she writes, “As soon as
 [women] are married, the dreams of a happy home life become handcuffs and

@@ -11,5 +11,5 @@ Confirmation Bias
 Affinity Bias
 Cultural Bias/ Gender Bias
 Availability bias
-Attribution error [[Attribution Theory]]
+[[Attribution Theory]]
 Framing bias

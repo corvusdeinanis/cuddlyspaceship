@@ -24,4 +24,3 @@ tags: []
   - Schizophreniform disorder serves as a sort of intermediate diagnosis, where the symptom duration is longer than brief psychotic episodes but has not yet met the chronic criterion of schizophrenia.
   - Age of onset can also differ, with schizophrenia often being diagnosed in late adolescence to early adulthood, while delusional disorder is more commonly diagnosed in middle to late adulthood.
 
-Please note that these descriptions are based on general criteria from the DSM-5-TR, and actual diagnosis should be made by a qualified mental health professional. If you or someone you know is experiencing symptoms of these disorders, it is important to seek professional help.

@@ -4,7 +4,7 @@ date: 2023-10-18
 tags: ['fictioninfilm','film','movies']
 ---
 
-Play by Tennessee Williams
+Play by [[Tennessee Williams]]
 Dec 3rd 1947
 
 ## Characters
@@ -326,8 +326,6 @@ fulfil that sexual passion for Stanley
 but Stanley also uses sexuality as a
 weapon r\*ping Blanche in order to
 dominate her
-
-
 
 ## Themes
 

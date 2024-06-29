@@ -3,6 +3,7 @@ title: Hawking Index
 date: 2024-01-11
 tags:
   - misc
+  - metric
 ---
 a measure of how many people actually read the book
 

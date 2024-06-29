@@ -37,3 +37,19 @@ inspired Martin Seligman(who proposed and defined **learned helplessness**
 worked with Maria Kovacs to make a depression scale for children
 
 was inspired by [[stoicism]]
+
+---
+### Bio
+Year of birth: (born::1921)  
+Year of death: (died::2021)  
+Nationality: (nationality::American)  
+Family: Wife - Phyllis W. Beck  
+Period: (timecontext::20th century, early 21st century)  
+
+### Works
+Important Works: (impworks::Cognitive Therapy and the Emotional Disorders, Depression: Causes and Treatment, Cognitive Therapy of Depression)  
+Contributions: Pioneer of cognitive therapy, developed cognitive behavioral therapy (CBT)  
+Key Ideas: (KeyIdeas::Cognitive Therapy, Cognitive Triad, Cognitive Distortions)  
+Known For: (KnownFor::Cognitive Behavioral Therapy, Beck Depression Inventory)  
+
+Influenced By: (influencedby::Albert Ellis, Sigmund Freud, George Kelly)

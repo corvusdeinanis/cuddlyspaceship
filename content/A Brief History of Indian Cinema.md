@@ -5,9 +5,6 @@ tags:
   - movies
   - cinema
 ---
-
-most viewed films
-
 ## Silent Film Era in India
 
 cinema first shown in India by Lumiere Brothers at the Watson Hotel in Mumbai -> **July 17 1896**, six months after show in Paris

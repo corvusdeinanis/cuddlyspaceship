@@ -4,6 +4,7 @@ date: 2024-05-12
 tags:
   - painter
   - artist
+  - person
 ---
 [[surrealism]]
 

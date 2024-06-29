@@ -37,3 +37,21 @@ On Pandora's Box - *"Zeus did not want man to throw his life away, no matter how
 
 ![[He Who Fights Monsters#^4cfbf2]]
 
+
+
+## Friedrich Nietzsche
+
+### Bio
+Year of birth: (born::1844)  
+Year of death: (died::1900)  
+Nationality: (nationality::German)  
+Family: Father - Carl Ludwig Nietzsche, Mother - Franziska Oehler  
+Period: (timecontext::19th century)  
+
+### Works
+Important Works: (impworks::Thus Spoke Zarathustra, Beyond Good and Evil, The Birth of Tragedy)  
+Contributions: Critique of religion and morality, development of existentialism and nihilism  
+Key Ideas: (KeyIdeas::Will to Power, Eternal Recurrence, Übermensch)  
+Known For: (KnownFor::Critique of Religion, Existentialist Philosophy)  
+
+Influenced By: (influencedby::Arthur Schopenhauer, Richard Wagner, Ralph Waldo Emerson)

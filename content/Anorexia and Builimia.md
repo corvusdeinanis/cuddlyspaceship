@@ -1,7 +1,10 @@
 ---
-title: "Anorexia and Builimia"
+title: Anorexia and Builimia
 date: 2024-04-22
-tags: []
+tags:
+  - psychiatry
+  - psychology
+  - clinicalpsych
 ---
 Eating Disorders
 

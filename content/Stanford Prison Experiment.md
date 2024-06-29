@@ -20,4 +20,4 @@ tags:
 ---
 see also: 
 - Milgram Test
-- Asch Conformity Test 
+- [[Solomon Asch Conformity Experiment|asch conformity test]] 

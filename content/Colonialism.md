@@ -1,7 +1,10 @@
 ---
-title: "Colonialism"
+title: Colonialism
 date: 2024-04-19
-tags: []
+tags:
+  - incomplete
+  - social
+  - sociology
 ---
 Latin word _colonus_, meaning farmer
 

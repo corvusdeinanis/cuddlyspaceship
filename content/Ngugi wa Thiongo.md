@@ -30,3 +30,22 @@ Wrote the first modern novel in Kikuyu on toilet paper during his incarceration.
 >> Language as communication and as culture are then products of each other. Communication creates culture: culture is a means of communication. Language carries culture, and culture carries, particularly through orature and literature, the entire body of values by which we come to perceive ourselves and our place in the world. How people perceive themselves and affects how they look at their culture, at their places politics and at the social production of wealth, at their entire relationship to nature and to other beings. Language is thus inseparable from ourselves as a community of human beings with a specific form and character, a specific history, a specific relationship to the world
 > 
 > — _Decolonising the Mind_ (16)
+
+## Ngugi wa Thiongo
+
+### Bio
+Year of birth: (born::1938)  
+Year of death:   
+Nationality: (nationality::Kenyan)  
+Family:  
+Period: (timecontext::20th century, 21st century)  
+
+### Works
+Important Works: (impworks::Weep Not, Child, Petals of Blood, Decolonising the Mind)  
+Contributions: Exploration of colonial and post-colonial African identity, language politics  
+Key Ideas: (KeyIdeas::Decolonization, Language and Identity, Postcolonialism)  
+Known For: (KnownFor::Decolonising the Mind, African Literature)  
+
+Influenced By: (influencedby::Frantz Fanon, Chinua Achebe, Karl Marx)
+
+---

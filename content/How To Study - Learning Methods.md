@@ -1,8 +1,10 @@
 ---
-title: "How to Study"
-tags: ['psychology','philosophy','lifestyle']
+title: How To Study - Learning Methods
+tags:
+  - psychology
+  - philosophy
+  - lifestyle
 ---
-
 # Learning Methods
 
 [What Works, What Doesn't](http://presentationcollege.ie/wp-content/uploads/2017/10/What-works-what-doesnt.pdf) [^1]  says: 

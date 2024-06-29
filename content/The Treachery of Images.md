@@ -9,6 +9,7 @@ aka:
   - This Is Not A Pipe
 aliases:
   - This Is Not A Pipe
+  - La Trahison des Images
 ---
 Original French: _**La Trahison des Images**_
 1929 painting by [[Rene Magritte]] (surrealist painter)

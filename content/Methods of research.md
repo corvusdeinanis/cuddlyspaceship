@@ -1,6 +1,9 @@
 ---
-title: "Methods of Research"
-tags: ['research','researchmethodology']
+title: Methods of Research
+tags:
+  - research
+  - researchmethodology
+  - rework
 ---
 
 1. Survey  (Questionnaire???)

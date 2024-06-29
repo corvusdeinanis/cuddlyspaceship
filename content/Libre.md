@@ -1,7 +1,9 @@
 ---
-title: "Libre"
+title: Libre
 date: 2024-06-01
-tags: []
+tags:
+  - tech
+  - computer
 ---
 (in terms of software and technology)
 

@@ -3,7 +3,6 @@ title: "Illiterate Heart"
 date: 2023-08-23
 tags: ['literature','poem','gender','english']
 ---
-
 by [[Meena Alexander]]
 [[postcolonialism]]
 

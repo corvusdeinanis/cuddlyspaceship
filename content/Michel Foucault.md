@@ -25,3 +25,20 @@ Foucault's writings have been very influential in [[feminism||Feminist]] philoso
 ---
 also see: 
 [[Georgio Agambe]]
+
+### Bio
+
+Year of birth: (born::1926)  
+Year of death: (died::1984)  
+Nationality: (nationality::French)  
+Family: Father - Paul-André Foucault, Mother - Anne Malapert  
+Period: (timecontext::20th century)  
+
+### Works
+
+Important Works: (impworks::Discipline and Punish, The History of Sexuality, Madness and Civilization)  
+Contributions: Critical theory, analysis of power and social institutions, historical epistemology  
+Key Ideas: (KeyIdeas::Power/Knowledge, Biopolitics, Governmentality)  
+Known For: (KnownFor::Critical Theory, Studies on Power and Social Institutions)  
+
+Influenced By: (influencedby::Friedrich Nietzsche, Martin Heidegger, Georges Canguilhem)

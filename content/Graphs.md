@@ -1,7 +1,10 @@
 ---
-title: "Graphs"
+title: Graphs
 date: 2024-04-21
-tags: []
+tags:
+  - statistics
+  - math
+  - needswork
 ---
 Bar Diagram -  * 1 Dimensional or two dimensional?
 Height or length = size of data

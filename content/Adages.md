@@ -1,7 +1,13 @@
 ---
-title: "Adages"
+title: Adages
 date: 2023-05-13
-tags: ['adages','meta','tagpage','bucket','razors']
+tags:
+  - adages
+  - meta
+  - tagpage
+  - bucket
+  - razors
+  - incomplete
 ---
 'bucket' for laws, adages, aphorisms, principles, and effects 
 

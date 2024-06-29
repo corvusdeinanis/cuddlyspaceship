@@ -1,7 +1,10 @@
 ---
-title: "Chinua Achebe"
+title: Chinua Achebe
 date: 2023-08-23
-tags: ['english','literature','person']
+tags:
+  - english
+  - literature
+  - person
 ---
 Nigerian Poet, Novelist, Critic Wrote about social and cultural changes that occurred in Africa
 considered the **founding father of African literature**
@@ -32,3 +35,21 @@ believed that it was okay to write in English at a time when most African writer
 ---
 
 see also: **[[Ngugi wa Thiongo|Ngugi wa Thiong'o]]**
+
+
+## Chinua Achebe
+
+### Bio
+Year of birth: (born::1930)  
+Year of death: (died::2013)  
+Nationality: (nationality::Nigerian)  
+Family: Father - Isaiah Okafor Achebe, Mother - Janet Anaenechi Iloegbunam, Wife - Christie Okoli  
+Period: (timecontext::20th century, early 21st century)  
+
+### Works
+Important Works: (impworks::Things Fall Apart, Arrow of God, No Longer at Ease)  
+Contributions: Foundational work in African literature, critique of colonialism  
+Key Ideas: (KeyIdeas::Colonialism, African Identity, Tradition vs. Change)  
+Known For: (KnownFor::Things Fall Apart, African Literature)  
+
+Influenced By: (influencedby::Joseph Conrad, W.B. Yeats, Igbo Oral Tradition)

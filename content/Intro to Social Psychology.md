@@ -5,6 +5,8 @@ tags:
   - social
   - psychology
   - socialpsych
+aliases:
+  - social psychology
 ---
 ## Definition
 
