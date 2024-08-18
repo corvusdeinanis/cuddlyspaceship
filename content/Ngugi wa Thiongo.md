@@ -5,6 +5,7 @@ tags:
   - writer
   - literature
   - africa
+  - person
 ---
 prominent Kenyan writer, academic, and activist
 

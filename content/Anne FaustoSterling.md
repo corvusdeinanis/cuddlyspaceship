@@ -32,5 +32,3 @@ Key Ideas: (KeyIdeas::Sexual Dimorphism, Intersexuality, Gender and Science)
 Known For: (KnownFor::Sexing the Body, Gender Studies)  
 
 Influenced By: (influencedby::Michel Foucault, Judith Butler, Evelyn Fox Keller)
-
----

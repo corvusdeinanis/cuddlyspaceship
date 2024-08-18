@@ -7,7 +7,6 @@ tags:
   - needswork
   - rework
 ---
-
 > [!Caution] Needs to be reworked
 > Attribution theory was first set by Heider, but later researchers added more to it. A lot of the biases listed here are not part of Heider's original theory. They should me made into a separate list
 

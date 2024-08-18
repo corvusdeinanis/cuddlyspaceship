@@ -3,10 +3,8 @@ title: "A Streetcar Named Desire"
 date: 2023-10-18
 tags: ['fictioninfilm','film','movies']
 ---
-
 Play by [[Tennessee Williams]]
 Dec 3rd 1947
-
 ## Characters
 ```mermaid
 flowchart LR
@@ -20,27 +18,21 @@ B--Married-->C
 D(Mitch)
 C--friend-->D
 ```
-
 ### Blanche DuBois
 Protagonist
 was from a well off family
 30s, no money
 lost ancestral house
-
 ### Stella
 Blanche's sister
-
 ### Stanley Kowalski
 Stella's husband
 Blanche  thinks of him as 
-
 ### Eunice
 Neighbour
-
 ### Mitch 
 Neighbour
 Mannerly
-
 ## Plot
 Blanche takes a leave from her job citing nerves (neurasthenia??) 
 Goes to her sister's place. She disapproves of her sister and her husband, and their living condition. 
@@ -53,7 +45,6 @@ Belle Reve
 - Stanley overhears Blanche's conversation with Stella and learns about Blanche's history of sexual promiscuity and mental instability. He also finds out that Blanche was fired from her job for having an affair with a student.
 - On Blanche's birthday, Stanley gives her a ticket back to Laurel as a cruel gift. He also tells Mitch the truth about Blanche, causing Mitch to break up with her.
 - After Stella goes into labor, Stanley r\*pe Blanche in the apartment. Blanche suffers a mental breakdown and is taken away by a doctor and a nurse. Stella, who does not believe Blanche's accusation, stays with Stanley and their baby.
-
 
 opens in an area of New Orleans called Elysian Fields 
 Blanche DuBois comes to visit her
@@ -326,12 +317,10 @@ fulfil that sexual passion for Stanley
 but Stanley also uses sexuality as a
 weapon r\*ping Blanche in order to
 dominate her
-
 ## Themes
 
 ### Sexual Desire and Sexuality
 The power of sexual desire is the engine propelling A Streetcar Named Desire: all of the characters are driven by “that rattle-trap street-car” in various ways.
-
 ### Illusion vs Truth / Fantasy and Delusion vs Reality
 how Blanche copes 
 ### 

@@ -32,7 +32,6 @@ Geometric Diagram
 
 2. Pie Diagram / Chart
 
-
 Frequency Diagram
 
 3. Histogram
@@ -45,7 +44,6 @@ Frequency Diagram
 
 7. Arithmetic Line Graph (Time Series Graph)
 
-
 Histogram   -  2D / 2 Dimensional figure. Area of rectangles is proportional to frequency if class width is same. Represent continuous data. No space between rectangles.  Can be used to find Mode
 
 Frequency Polygon – Plane bounded by lines. Midpoints of rectangles in histogram can be joined to make this. Area under the curve = total frequency or sample size. Grouped data
@@ -54,7 +52,4 @@ Frequency Curve   - Freehand curve that passes through the points of frequency p
 
 Ogive – Two types – Less than, More than. Grouped. Gives Median.
 
-Arithmetic Line Graph – Time on x-axis, variable along y-axis 
-
-
-
+Arithmetic Line Graph – Time on x-axis, variable along y-axis

@@ -3,16 +3,15 @@ title: "Allen Ginsberg"
 tags: ['writer','literature','english','queer']
 date: 2023-04-10
 ---
+[[beat generation]] Poet 
 
-Beat Generation Poet 
-
-Counterculture
+[[Counterculture]]
 
 Openly gay 
 
 Known for raw - grotesque - unrefined - gritty poetry
 
-meant to be heard, not read 
+**meant to be heard, not read** 
 
 ## His Style
  [[anaphora]]

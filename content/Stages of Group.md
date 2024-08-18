@@ -3,7 +3,6 @@ title: "Stages of Group"
 date: 2023-09-14
 tags: ['socialpsych','psychology']
 ---
-
 ## 1. Formation
 ## 2. Storming
 differences of opinions in a group arise
@@ -16,4 +15,4 @@ formal and informal delegating tasks, responding to questions
 members of the group come to understand how the group operates
 
 
-[[private/external 1/The Ideology Is Not The Movement|The Ideology Is Not The Movement]]
+[[private/external/The Ideology Is Not The Movement|The Ideology Is Not The Movement]]

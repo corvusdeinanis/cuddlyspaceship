@@ -4,8 +4,8 @@ date: 2023-12-02
 tags:
   - essay
   - personal
-  - wip
   - needswork
+  - draft
 ---
 
 > [!WARNING] Work in Progress

@@ -13,3 +13,5 @@ At the same time, I think being connected all the time has messed the way my bra
 It almost feels like I'm a zombified version of me. Any distraction annoys me much more than it would otherwise. I'm totally hooked on to it and I can't tend to life because at that moment, life does not exist. All that exists is on the glowing screen.
 
 I need to incorporate more of mindfulness and try to be more active in my own life. 
+
+I've tried to seek out literature that points to this but haven't succeeded. 

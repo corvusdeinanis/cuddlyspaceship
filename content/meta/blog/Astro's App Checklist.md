@@ -11,4 +11,3 @@ Criteria that I look out for in apps:
 - [ ] Open Source
 - [ ] No vendor lock-in; easy export of data
 - [ ] [[Libre]]
-- [ ] 
