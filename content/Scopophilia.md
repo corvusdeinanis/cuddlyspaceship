@@ -1,7 +1,10 @@
 ---
-title: "Scopophilia"
+title: Scopophilia
 date: 2023-08-12
-tags: ['psychology','psychoanalysis']
+tags:
+  - psychology
+  - psychoanalysis
+status: needswork
 ---
 
 [[Psychoanalytic School of Thought]]

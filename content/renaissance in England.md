@@ -4,7 +4,6 @@ tags: ['english','literature']
 date: 2021-08-05
 status: 'bloom'
 ---
-
 ## Summary
 - *First wave, Europeans bringing in ideas*,
 **Pietro Torrigiano** (Italian)  -> **Hans Holbein** (Swiss-German) ->Nicholas Kratzer (German) -> **Giovanni Damiano** / John Damian (Italian)

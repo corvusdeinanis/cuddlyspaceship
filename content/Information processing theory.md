@@ -1,10 +1,13 @@
 ---
-title: "Information processing theory"
+title: Information processing theory
 date: 2023-07-17
-tags: ['todo','psychology','lifespan']
+tags:
+  - todo
+  - psychology
+  - lifespan
+status: needswork
 ---
-
-## 3. Information Processing Theory
+## Information Processing Theory
    No structure or stages; continuous/gradual 
    monitoring, manipulating, strategizing information
 #todo 

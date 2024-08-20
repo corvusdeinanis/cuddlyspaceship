@@ -1,7 +1,8 @@
 ---
 title: Thomas Mann
 date: 2024-06-10
-tags: []
+tags:
+  - person
 ---
 German writer 
 1929 Nobel Prize for Literature laureate
@@ -9,11 +10,6 @@ German writer
 *"Mann is one of the best-known exponents of the so-called Exilliteratur, German literature written in exile by those who opposed the Hitler regime."*
 
 Signed [[Urgent Call for Unity]] along with [[Albert Einstein]]
-
-
-
-## Thomas Mann
-
 ### Bio
 Year of birth: (born::1875)  
 Year of death: (died::1955)  

@@ -6,6 +6,7 @@ tags:
   - writer
   - poet
   - homelandanddiaspora
+  - person
 ---
 Palestinian poet and writer
 

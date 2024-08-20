@@ -1,9 +1,11 @@
 ---
-title: "Self Concept Scale"
-tags: ['psychology','psychpracs']
+title: Self Concept Scale
+tags:
+  - psychology
+  - psychpracs
+  - experiment
 date: 2023-04-05
 ---
-
 ## Introduction
 
 ### What is Self Concept?

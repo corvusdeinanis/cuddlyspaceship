@@ -1,3 +1,10 @@
+---
+title: Gayatri Spivak
+date: 2024-08-18
+tags:
+  - person
+  - philosopher
+---
 ### Bio
 Year of birth: (born::1942)  
 Year of death:  

@@ -21,7 +21,6 @@ Am I sleeping or am I awake?
 Method of inquiry 
 evil God 
 
-
 ---
 see also [[monism]]
 

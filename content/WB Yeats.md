@@ -2,7 +2,6 @@
 title: "WB Yeats"
 tags: ['english','literature','poet','person']
 ---
-
 - Irish poet - Irish Nationalist
 - Symbolist
 - Inspired by Pre-Raphaelites and William Blake
@@ -11,5 +10,5 @@ tags: ['english','literature','poet','person']
 - dreams, imagination, visions, magic, and mysticism
 
 - antidemocratic view
-- 
+
 [[Sailing to Byzantium]]

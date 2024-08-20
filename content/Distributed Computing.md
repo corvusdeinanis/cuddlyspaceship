@@ -3,7 +3,6 @@ title: "Distributed Computing"
 date: 2023-05-04
 tags: ['cloudcomputing']
 ---
-
 ## Distributed Computing
 
 > "A distributed system is a collection of independent computers that appears to its users as a single coherent system."

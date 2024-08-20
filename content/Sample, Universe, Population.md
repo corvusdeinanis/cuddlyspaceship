@@ -2,7 +2,6 @@
 title: "Sample, Universe, Population"
 tags: ['research','researchmethodology','statistics']
 ---
-
 # Sample, Universe, Population
 
 ## Sample

@@ -3,7 +3,6 @@ title: "Dynamic Stability"
 tags: ['cloudcomputing']
 date: 2023-03-21
 ---
-
 ## Components of Dynamic Stability
 ### Load Balancer
 distribute incoming traffic

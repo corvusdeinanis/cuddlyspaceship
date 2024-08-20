@@ -2,7 +2,6 @@
 title: "Special Reporters"
 tags: ['journalism']
 ---
-
 - Journalists specializing in a specific beat; they are well versed in that area, in that field
 - niche
 - eg - political, sports, tech, etc

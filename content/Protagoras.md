@@ -5,6 +5,7 @@ tags:
   - philosopher
   - ancient
   - greek
+  - person
 ---
 (born c. 490 bce, Abdera, Greece—died c. 420)
 

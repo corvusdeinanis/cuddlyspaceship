@@ -3,8 +3,7 @@ title: "Romantic Era"
 date: 2023-07-13
 tags: ['literature','english','history']
 ---
-
-- 1800 - 1850 
+**1800 - 1850** 
 
 Precedes [[Victorian Era]]
 

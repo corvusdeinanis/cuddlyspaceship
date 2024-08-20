@@ -51,3 +51,6 @@ Medications
 - Tourette's Syndrome
 - OCD 
 
+---
+
+see also: [[excoriation]]

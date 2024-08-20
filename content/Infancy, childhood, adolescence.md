@@ -2,7 +2,6 @@
 title: "Infancy, Childhood, and Adolescence"
 tags: ['psychology','lifespan']
 ---
-
 # Neonate
 
 **Neonate** -> Infant between 0 and 28 days/4 weeks

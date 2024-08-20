@@ -3,7 +3,6 @@ title: "The Moon and Sixpence"
 date: 2023-04-25
 tags: ['english','literature']
 ---
-
 Author: W Somerset Maugham
 
 # Plot Summary

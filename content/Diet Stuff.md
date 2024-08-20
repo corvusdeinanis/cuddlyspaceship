@@ -2,7 +2,6 @@
 title: "Diet Stuff"
 tags: ['health','lifestyle']
 ---
-
 1. Researchers at Wake Forest University found that **trans fats**, which are created by partially hydrogenated oil, increase the amount of fat around the belly and redistribute fat tissue to the abdomen from other parts of the body. Trans fats may be found in such foods as margarine, pastries, cookies, crackers, and fried and convenience foods.
 2. **Visceral fat == dangerous**
 3. **verify** - *Extended fasting activates autophagy which clears out misfolded proteins and senescent cells in the entire body. HGH and NAD+ are upregulated. It selects for beneficial gut bacteria that not only do less damage to your digestive tract, but also drive healthy behavior via the gut-brain axis. Then you get into the insane mismatch of the promotion of maintenance of steady blood sugar via constant eating and our actual evolutionary history and the concomitant devastation that has on metabolic health.*

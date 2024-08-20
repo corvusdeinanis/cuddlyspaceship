@@ -3,7 +3,6 @@ title: "Ethical Considerations in Research"
 date: 2023-04-18 
 tags: ['research','researchmethodology']
 ---
-
 Ethical considerations are principles that guide research 
 code of conduct
 

@@ -8,23 +8,24 @@ tags:
 aliases:
   - social psychology
 ---
-## Definition
-
-scientific study of behavior and mental processes as they relate to how people interact with, or relate to, others.
+scientific study of behaviour and mental processes as they relate to how people interact with, or relate to, others.
 
 >"**to understand and explain how the **thoughts**, **feelings**, and **behavior** of **individuals** are influenced by the actual, imagined, or implied the presence of other human beings.*"
 >		-  [[Gordon Allport]]
 
-How our behaviors, perceptions, thinking, etc change in the presence of other people. 
-studies both overt and covert behaviors.
+How our behaviours, perceptions, thinking, etc change in the presence of other people. 
+studies both overt and covert behaviours.
 Influence of other people on us and vice versa
 
 ### Social Psychology vs Sociology
 focuses on the individual, not society at large
 social psychology is study of an **individual** in a **social context**
-## Social Structure
-## Social Environment
-## Social Interaction
+
+##
+Studies: 
+ Social Structure
+ Social Environment
+ Social Interaction
 
 ### What Does it Study?
 prejudice

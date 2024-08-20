@@ -1,7 +1,10 @@
 ---
-title: "Jeremy Bentham"
+title: Jeremy Bentham
 date: 2023-11-16
-tags: []
+tags:
+  - person
+  - philosophy
+  - philosopher
 ---
 Philosopher, social reformer
 Father of modern [[Utilitarianism]]

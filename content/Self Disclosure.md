@@ -5,7 +5,6 @@ tags:
   - counsellingpsych
 ---
 act of sharing personal information
-
 ### Types
 #### Accidental Self-Disclosure
 incidental or unplanned **outside a session** 

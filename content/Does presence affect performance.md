@@ -3,7 +3,6 @@ title: "Does presence affect performance"
 date: 2023-09-25
 tags: ['psychology','socialpsych']
 ---
-
 Does presence of others affect our performance?
 ## Social Loafing
 when we are in a group, your performance level goes down 

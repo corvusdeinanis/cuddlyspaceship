@@ -2,7 +2,6 @@
 title: "Identity Access Management and Components of IAM"
 tags: ['cloudcomputing','computer','web']
 ---
-
 # What is IAM?
 **Identity Access Management** 
 to control access of individual and group access 

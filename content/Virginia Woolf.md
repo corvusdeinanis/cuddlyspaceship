@@ -1,6 +1,11 @@
 ---
-title: "Virginia Woolf"
-tags: ['english','literature','writer','modernist']
+title: Virginia Woolf
+tags:
+  - english
+  - literature
+  - writer
+  - modernist
+  - person
 ---
 ![Virgina](images/woolf.jpg)
 

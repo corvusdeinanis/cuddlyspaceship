@@ -6,7 +6,7 @@ date: '2022-12-01'
 # A Room of Ones Own
 by [[Virginia Woolf]]
 
-# About
+## About
 Essay -> 6 chapters
 **Published in 1929**
 
@@ -16,30 +16,26 @@ Essay -> 6 chapters
 
 Tells us how women need to be free from interruptions, need financial and intellectual independence. How women have been historically excluded from things men easily have access to. 
 
-# Characters
-## Mary Beton
+## Characters
+### Mary Beton
 Narrator
-## Mary Seton
+### Mary Seton
 Mrs Beton's friend
-## Judith Shakespeare
+### Judith Shakespeare
 Fictional sister of Shakespeare
-## Mary Carmichael
+### Mary Carmichael
 fictional writer whose book is found in the library; narrator finds many faults in the book 
-
 ## Real People Referenced
 William Shakespeare
 **Jane Austen**, **George Eliot**, and the **Brontë sisters**
 **Lady Winchilsea**
 Margaret Cavendish
 **Aphra Behn**
-
-
-# Summary
+## Summary
 
 Intellectual freedom depends on material things
 Poetry depends upon intellectual freedom
 And woman always have been poor, not for 200 years but from the beginning of time. ***Women have not had a dog's chance of writing poetry. This is why I am laid so much focus on money and a room of one's own***. 
-
 ### Chapter 1 - Oxbridge and Interruptions
 The narrator, a fictionalized version of Woolf: 
 visits **Oxbridge College**  
@@ -119,7 +115,7 @@ Consequently she was never able to achieve in the way Austen  achieved
 
 --- 
 
-# Questions
+## Questions
 
 1) According to Virginia Woolf, a woman requires a room of her own to write fiction because she needs to have money and freedom from domestic and social obligations. She argues that women have been historically oppressed and deprived of education, property, and artistic expression by a patriarchal society that values men’s work over women’s. She says that women need to have a space where they can think, create, and express themselves without interruption or interference from men or other women. She also says that women need to have a sense of their own history and tradition as writers, and to develop their own voice and style 
 

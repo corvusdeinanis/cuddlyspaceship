@@ -42,3 +42,5 @@ substitute with `$1`
 ```
 /\[[^\]]*\]/g
 ```
+
+[[RegEx Meta]]

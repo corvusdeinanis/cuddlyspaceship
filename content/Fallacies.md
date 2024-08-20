@@ -6,7 +6,6 @@ tags:
   - philosophy
   - science
   - adages
-aliases:
 ---
 
 

@@ -4,6 +4,7 @@ date: 2024-05-28
 tags:
   - hindi
   - poet
+  - person
 ---
 often called the modern Mirabai, prose writer, translator, journalist and activist
 She is also considered an important figure in Indian feminism.

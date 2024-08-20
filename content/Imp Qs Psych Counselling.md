@@ -14,7 +14,7 @@ module 2
 1) listening skills and reflective techniques - [[Counselling Skills]]
 2) importance of [[Empathy]] and [[Self Disclosure]]
 3) observation skills in counselling
-4) MSE mental status examination in counselling [[Mental State Examination]]
+4) MSE mental status examination in counselling [[Mental Status Examination]]
 
 Module 3
 1) [[Psychoanalytic School of Thought|psychoanalytic]]  and [[Adlerian Approach]] (theory + techniques used + role of counsellor)

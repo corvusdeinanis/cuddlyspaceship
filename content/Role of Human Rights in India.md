@@ -3,7 +3,6 @@ title: "Role of Human Rights in India"
 date: 2023-08-16
 tags: ['humanrights','social','society']
 ---
-
 Human rights ensure that everyone has access to -
 fundamental necessities 
 > Food

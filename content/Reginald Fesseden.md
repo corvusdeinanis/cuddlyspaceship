@@ -2,6 +2,7 @@
 title: Reginald Fesseden
 tags:
   - journalism
+  - person
 ---
 Canadian
 held 100s of patents

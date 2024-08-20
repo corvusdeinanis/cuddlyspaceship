@@ -2,7 +2,6 @@
 title: "Important Questions - Psychology Mod 1"
 tags: ['psychology']
 ---
-
 **5M**
 1. Discuss the characteristics of development
 2. Identify any four issues in lifespan development 

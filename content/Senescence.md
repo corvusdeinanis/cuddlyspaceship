@@ -3,7 +3,6 @@ title: "Senescence"
 tags: ['biology']
 date: 2023-03-29
 ---
-
 # Senescence / Biological Aging
 
 **gradual deterioration of functioning**

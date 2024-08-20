@@ -4,8 +4,8 @@ date: 2023-08-08
 tags:
   - psychology
   - incomplete
+status: needswork
 ---
-
 1. Rationalisation
 2. Justification 
 3. Regression

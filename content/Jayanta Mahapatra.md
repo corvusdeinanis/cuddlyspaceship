@@ -1,7 +1,11 @@
 ---
-title: "Jayanta Mahapatra"
+title: Jayanta Mahapatra
 date: 2023-04-24
-tags: ['literature','english','writer']
+tags:
+  - literature
+  - english
+  - writer
+  - person
 ---
 
 is an Indian poet 

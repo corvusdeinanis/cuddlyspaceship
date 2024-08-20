@@ -1,9 +1,13 @@
 ---
-title: "Queer Affirmative Therapy"
+title: Queer Affirmative Therapy
 date: 2023-08-31
-tags: ['psychology','workshop','therapy','queer']
+tags:
+  - psychology
+  - workshop
+  - therapy
+  - queer
+status: needswork
 ---
-
 ### Principles
 #### Affirmation
 #### Cultural Competence

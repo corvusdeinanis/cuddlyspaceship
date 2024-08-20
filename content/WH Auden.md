@@ -4,6 +4,7 @@ date: 2024-06-10
 tags:
   - literature
   - poet
+  - person
 ---
 Wystan Hugh Auden
 British-American poet

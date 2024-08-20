@@ -1,14 +1,14 @@
 ---
-title: "Hypothesis"
-tags: ['research','researchmethodology']
+title: Hypothesis
+tags:
+  - research
+  - researchmethodology
+status: incomplete
 ---
-
 tentative answer/explanation to question/problem
 
 to the point, clear
 not vague
-
-
 ## Types of Hypotheses
 - Alternative
 - Null

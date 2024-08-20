@@ -1,7 +1,8 @@
 ---
-title: "Omar Barghouti"
+title: Omar Barghouti
 date: 2024-05-30
-tags: []
+tags:
+  - person
 ---
 
 Born: 1964

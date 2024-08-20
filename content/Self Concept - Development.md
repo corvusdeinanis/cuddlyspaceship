@@ -1,8 +1,10 @@
 ---
-title: "Self Concept Development"
-tags: ['psychology','lifespan']
+title: Self Concept Development
+tags:
+  - psychology
+  - lifespan
+status: needswork
 ---
-
 (!/)
 
 ### Self Concept Definition

@@ -6,7 +6,6 @@ tags:
 ---
 ## Two groups of people
 1) Communicators - bureaucracy, NGOs, media, professionals
-
 ## Steps in designing a campaign
 
 ### Steps to design a communication campaign:
@@ -22,7 +21,6 @@ tags:
 
 4) Continuous and Final Evaluation: continuous assessment, assessment at identified milestones.
 	final evaluation to identify and record the campaign's effectiveness / impact, and achievements of objectives
-
 ## ICT
 Tools of ICT include radio, television, telephones, mobile phones, computers etc
 
@@ -31,6 +29,5 @@ Tools of ICT include radio, television, telephones, mobile phones, computers etc
 offers globalization, open access
 
 **information infrastructure**
-
 ### Scope and Benefits
 1. Access to information nd 

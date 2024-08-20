@@ -6,7 +6,7 @@ tags:
   - person
   - socialpsych
 ---
-Elliot Aronson is a distinguished American psychologist who has made significant contributions to the field of social psychology. He is best known for his research on cognitive dissonance, social influence, prejudice reduction, and the jigsaw classroom. 
+Elliot Aronson is a distinguished American psychologist who has made significant contributions to the field of [[social psychology]]. He is best known for his research on cognitive dissonance, social influence, prejudice reduction, and the jigsaw classroom. 
 
 Some of his notable works are:
 

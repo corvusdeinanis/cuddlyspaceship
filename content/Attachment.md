@@ -3,16 +3,13 @@ title: "Attachment"
 tags: ['psychology']
 ---
 
-# Definition
+## Definition
 strong emotional bond between two people 
-
-
-# Factors Affecting Attachment -
+## Factors Affecting Attachment -
 
 During child's development
 
 [[Sigmund Freud]] - said only oral is important
-
 [[private/inbox/unprocessed/Harlows Contact Comfort]] - experiment 
 
 [[Erik Erikson's Psychosocial Stages]] - Trust vs Mistrust (first stage)

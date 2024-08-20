@@ -3,7 +3,6 @@ title: "How To Write a Research Proposal"
 tags: ['researchmethodology','research']
 date: 2023-03-21 
 ---
-
 # 1. Identification of Problem
 State as a question
 ![[Steps in Formulating Research Problem]]

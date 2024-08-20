@@ -1,5 +1,9 @@
-## Antonio Gramsci
-
+---
+title: Antonio Gramsci
+date: 2024-08-18
+tags:
+  - person
+---
 ### Bio
 Year of birth: (born::1891)  
 Year of death: (died::1937)  

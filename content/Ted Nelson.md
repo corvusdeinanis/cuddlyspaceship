@@ -3,7 +3,6 @@ title: "Ted Nelson"
 date: 2023-08-17
 tags: ['person','internet','internetculture']
 ---
-
 ## Bio
 Ted Nelson
 pioneer of information technology, philosopher, and sociologist

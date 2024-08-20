@@ -5,7 +5,6 @@ tags:
   - psychology
   - socialpsych
 ---
-
 mnemonic: FRESSistant to persuasion
 
 **Reactance**: Negative reactions to threats to one’s personal freedom. . Reactance often increases resistance to persuasion and can even produce negative attitude change or opposite to what was intended.

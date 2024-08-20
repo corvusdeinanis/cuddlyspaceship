@@ -5,6 +5,7 @@ tags:
   - writer
   - english
   - homelandanddiaspora
+  - person
 ---
 >writes a lot about Culture Clash and the Loss of Identity when adapting to new culture, while keeping neutral stances toward Arranged Marriage and the Eagleland. 
 > - [TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JhumpaLahiri)

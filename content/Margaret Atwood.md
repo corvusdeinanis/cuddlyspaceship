@@ -3,10 +3,10 @@ title: Margaret Atwood
 date: 2024-02-20
 tags:
   - writer
-  - writer
   - poet
   - literature
   - english
+  - person
 ---
 Margaret Atwood is a **Canadian** writer and poet famous for The Handmaid's Tale. 
 ### Bio

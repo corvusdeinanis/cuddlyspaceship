@@ -3,6 +3,7 @@ title: George Bernard Shaw
 tags:
   - english
   - literature
+  - person
 ---
 
 - Playwright

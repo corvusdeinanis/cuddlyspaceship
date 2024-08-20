@@ -21,5 +21,5 @@ An example - Sometimes I feel so damn lazy to brush my teeth in the night after 
 See also - 
 1. Active vs Passive
 2. Get Started 
-3. [[Incremental]]
+3. [[Incremental Changes]]
 

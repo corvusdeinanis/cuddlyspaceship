@@ -3,7 +3,6 @@ title: "Robert Louis Stevenson"
 tags: ['english','literature','person','writer']
 date: 2023-04-09
 ---
-
 **Scottish** novelist, essayist, poet and travel writer
 known for Treasure Island; The Strange Case of Dr Jekyll and Mr Hyde
 

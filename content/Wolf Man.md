@@ -5,5 +5,6 @@ tags:
   - psychology
   - freud
   - psychoanalysis
+status: needswork
 ---
- Wolf Man, who had a recurring dream of wolves sitting in a tree. Freud analyzed his dream as a symbolic representation of his primal scene, the witnessing of his parents' sexual intercourse, which triggered his neurosis and sexual inhibition.
+Wolf Man, who had a recurring dream of wolves sitting in a tree. Freud analyzed his dream as a symbolic representation of his primal scene, the witnessing of his parents' sexual intercourse, which triggered his neurosis and sexual inhibition.

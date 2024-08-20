@@ -1,3 +1,10 @@
+---
+title: Simone de Beauvoir
+date: 2024-08-18
+tags:
+  - person
+  - philosopher
+---
 ### Bio
 Year of birth: (born::1908)  
 Year of death: (died::1986)  
