@@ -29,4 +29,4 @@ counterpoint: many of its provisions are binding and have passed into customary 
 
 
 extra - 
-	Hansa Jivraj Mehta was one of the 15 women who were part of the Constituent Assembly that drafted the [[Indian Constitution]]. She was also responsible for changing the language of the Universal Declaration of Human Rights from "all men are born free and equal" to "all human beings are born free and equal"
+	**Hansa Jivraj Mehta** was one of the 15 women who were part of the Constituent Assembly that drafted the [[Indian Constitution]]. She was also responsible for changing the language of the Universal Declaration of Human Rights from "all men are born free and equal" to "all human beings are born free and equal"

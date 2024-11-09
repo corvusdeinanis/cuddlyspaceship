@@ -3,7 +3,6 @@ title: "Sub Editor"
 tags: ['journalism']
 date: '2022-12-13'
 ---
-
 ### Qualities of a sub Editor
 1. Tactfulness (dealing w sensitive stuff, need to tact)
 2. Calm

@@ -7,7 +7,6 @@ tags:
   - feminism
 ---
 written by [[Mary Wollstonecraft]]
-
 ### Historical Context: 
 **1792**, during enlightenment
 during the [[French Revolution]]

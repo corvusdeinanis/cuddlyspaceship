@@ -1,7 +1,10 @@
 ---
-title: "Basics of Journalism"
+title: Basics of Journalism
 date: 2023-07-07
-tags: ['journalism','todo']
+tags:
+  - journalism
+  - todo
+  - rework
 ---
 
 **Journalism -** Journalism is the gathering, reporting, and the dissemination of news and information in in the public interest

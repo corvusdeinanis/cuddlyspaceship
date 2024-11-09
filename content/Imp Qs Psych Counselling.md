@@ -28,5 +28,3 @@ Module 4
 2) art, drawing, and story telling in play therapy
 3) multicultural approach t0 counselling
 4) child counselling and learning disabilities; gifted children
-
-Module 5
