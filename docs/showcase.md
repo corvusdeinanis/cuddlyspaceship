@@ -23,8 +23,9 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Mike's AI Garden 🤖🪴](https://mwalton.me/)
 - [Brandon Boswell's Garden](https://brandonkboswell.com)
 - [Scaling Synthesis - A hypertext research notebook](https://scalingsynthesis.com/)
+- [Simon's Second Brain: Crafted, Curated, Connected, Compounded](https://brain.ssp.sh/)
+- [Data Engineering Vault: A Second Brain Knowledge Network](https://vault.ssp.sh/)
 - [Data Dictionary 🧠](https://glossary.airbyte.com/)
-- [sspaeti.com's Second Brain](https://brain.sspaeti.com/)
 - [🪴Aster's notebook](https://notes.asterhu.com)
 - [🥷🏻🌳🍃 Computer Science & Thinkering Garden](https://notes.yxy.ninja)
 
