@@ -12,7 +12,7 @@ interface Options {
 }
 
 const defaultOptions: Options = {
-  layout: "legacy",
+  layout: "modern",
 }
 
 const TableOfContents: QuartzComponent = ({

@@ -89,7 +89,6 @@ export default ((userOpts?: Partial<Options>) => {
         <button
           type="button"
           id="explorer"
-		  class=""
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}

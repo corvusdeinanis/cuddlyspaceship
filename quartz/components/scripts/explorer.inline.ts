@@ -23,6 +23,7 @@ function toggleExplorer(this: HTMLElement) {
   )
   const content = this.nextElementSibling as MaybeHTMLElement
   if (!content) return
+
   content.classList.toggle("collapsed")
 }
 
@@ -64,18 +65,6 @@ function setupExplorer() {
     }
   }
 
- const explorerContent = document.getElementById("explorer-content") as MaybeHTMLElement;
-  if (explorerContent) {
-    // Set the max height to 0px and add the collapsed class
-    explorerContent.style.maxHeight = "0px";
-    explorerContent.classList.add("collapsed");
-  }
-  
-   const arrowButton = document.getElementById("explorer") as MaybeHTMLElement;
-  if (arrowButton) {
-    arrowButton.classList.toggle("collapsed");
-  }
-  
   explorer.addEventListener("click", toggleExplorer)
   window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
 
