@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode()
-Component.Explorer({
+    Component.Explorer({
 	title: "Explorer", // title of the explorer component
 	folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
   }),  	
