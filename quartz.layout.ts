@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
 //    Component.Explorer({
 //	title: "Explorer", // title of the explorer component
 //	folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-  }),  	
+//  }),  	
   ],
   right: [
     Component.Graph(),
