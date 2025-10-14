@@ -4,15 +4,20 @@ enableToc: false
 ---
 # Welcome to Astro's Garden!
 
+> [!warning] Attention
+> Astro's Codex is undergoing a MAJOR rehaul. All notes have been deleted so I can start all over again, this time with zero AI content. 
+> The links do not work and there are no notes at this point in time (2025/10/14)
+
 A hodgepodge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki. It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing.
 
 This contains (or will contain) a lot of resources, my thoughts and opinion on a lot of things, some reflections, about philosophies, concepts that have really changed my life, and maybe even rants.
   
 You'll find writings of all kinds here; Psychology, Epistemology, Politics, Tech, and everything under the sun. (You will also find a lot of broken links and dead-ends or stub articles. It's a work in progress, perpetually.)
 
-> [!warning] Attention!
+> [!warning] Attention
 > Some things here might not apply to you, might be wrong, or straight up silly. I'd love to hear your opinions, though! And this is the Internet, so do use your due diligence, and do your research.
-  
+
+
 Leave a message if you feel like you disagree, I could do better, or something else. Feel free to correct me, I love learning ^~^)
 
 > [!Question]- Why?
